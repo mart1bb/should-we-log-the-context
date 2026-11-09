@@ -1,0 +1,17 @@
+parc,event_id,label,capteurs,scoreur,entrainement,inference,jours_hors,fausses_alarmes,part_expliquee,detecte,masque,part_jours_anormaux
+A,22,anomaly,24,ctx,tout,tout,0,,,False,False,1.0
+A,22,anomaly,24,ctx,tout,journal,0,,,False,False,
+A,22,anomaly,24,sans_ctx,tout,tout,0,,,False,False,1.0
+A,22,anomaly,24,sans_ctx,tout,journal,0,,,False,False,
+A,22,anomaly,24,ctx,journal,tout,0,,,False,False,1.0
+A,22,anomaly,24,ctx,journal,journal,0,,,False,False,
+A,22,anomaly,24,sans_ctx,journal,tout,0,,,False,False,1.0
+A,22,anomaly,24,sans_ctx,journal,journal,0,,,False,False,
+A,68,anomaly,24,ctx,tout,tout,0,,,False,False,1.0
+A,68,anomaly,24,ctx,tout,journal,0,,,False,False,
+A,68,anomaly,24,sans_ctx,tout,tout,0,,,False,False,1.0
+A,68,anomaly,24,sans_ctx,tout,journal,0,,,False,False,
+A,68,anomaly,24,ctx,journal,tout,0,,,False,False,1.0
+A,68,anomaly,24,ctx,journal,journal,0,,,False,False,
+A,68,anomaly,24,sans_ctx,journal,tout,0,,,False,False,1.0
+A,68,anomaly,24,sans_ctx,journal,journal,0,,,False,False,

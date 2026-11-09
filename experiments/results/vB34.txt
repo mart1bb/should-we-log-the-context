@@ -1,0 +1,11 @@
+=== médianes par jeu ===
+            sans_contexte  lent_nl  dann_lent   gain  effet_labels  cas  dispersion_graines_dann
+jeu                                                                                             
+N-CMAPSS            0.835    0.828     -0.047 -0.858        -0.857   24                    0.006
+C-MAPSS             0.882    0.806      0.819 -0.066         0.001   60                    0.019
+batteries           0.705   -0.244     -0.010 -0.465        -0.002   20                    0.187
+roulements          0.826    0.619      0.161 -0.663        -0.344   12                    0.315
+gaz                 0.693    0.346      0.033 -0.669        -0.208   12                    0.159
+PVDAQ              -0.127   -0.169     -0.177  0.001         0.004    8                    0.013
+
+jeux (hors PVDAQ) où les labels servent via DANN (gain médian ≥ 0,05) : aucun

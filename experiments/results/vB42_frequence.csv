@@ -1,0 +1,241 @@
+jeu,cas,methode,frequence,rho
+N-CMAPSS,DS01 aucune ref u1,resid_lin,fenetre,0.6923033931483409
+N-CMAPSS,DS01 aucune ref u1,resid_lin,vol,0.4415000202469068
+N-CMAPSS,DS01 aucune ref u1,resid_quad,fenetre,0.14424509236515193
+N-CMAPSS,DS01 aucune ref u1,resid_quad,vol,0.04182892106860851
+N-CMAPSS,DS01 aucune ref u1,span_W,fenetre,0.9681619402718645
+N-CMAPSS,DS01 aucune ref u1,span_W,vol,0.9684772624840152
+N-CMAPSS,DS01 aucune ref u4,resid_lin,fenetre,0.4135727316302229
+N-CMAPSS,DS01 aucune ref u4,resid_lin,vol,0.5300955701924319
+N-CMAPSS,DS01 aucune ref u4,resid_quad,fenetre,0.08480297798203629
+N-CMAPSS,DS01 aucune ref u4,resid_quad,vol,0.03485683123276762
+N-CMAPSS,DS01 aucune ref u4,span_W,fenetre,0.9689448486238214
+N-CMAPSS,DS01 aucune ref u4,span_W,vol,0.969421496751989
+N-CMAPSS,DS01 aucune ref u7,resid_lin,fenetre,0.4358695508259969
+N-CMAPSS,DS01 aucune ref u7,resid_lin,vol,0.4174636783669827
+N-CMAPSS,DS01 aucune ref u7,resid_quad,fenetre,0.047989556093437385
+N-CMAPSS,DS01 aucune ref u7,resid_quad,vol,-0.03276177316117211
+N-CMAPSS,DS01 aucune ref u7,span_W,fenetre,0.927249998023231
+N-CMAPSS,DS01 aucune ref u7,span_W,vol,0.9275878434216842
+N-CMAPSS,DS01 aucune ref u9,resid_lin,fenetre,0.5147595290887973
+N-CMAPSS,DS01 aucune ref u9,resid_lin,vol,0.4967801488424608
+N-CMAPSS,DS01 aucune ref u9,resid_quad,fenetre,0.2796100359935263
+N-CMAPSS,DS01 aucune ref u9,resid_quad,vol,-0.041512264533703123
+N-CMAPSS,DS01 aucune ref u9,span_W,fenetre,0.9532378757568329
+N-CMAPSS,DS01 aucune ref u9,span_W,vol,0.9529869411045034
+N-CMAPSS,DS05 aucune ref u10,resid_lin,fenetre,0.8285608179446445
+N-CMAPSS,DS05 aucune ref u10,resid_lin,vol,0.047999036883260286
+N-CMAPSS,DS05 aucune ref u10,resid_quad,fenetre,0.45350505108492056
+N-CMAPSS,DS05 aucune ref u10,resid_quad,vol,0.1498010887302435
+N-CMAPSS,DS05 aucune ref u10,span_W,fenetre,0.9495707013560784
+N-CMAPSS,DS05 aucune ref u10,span_W,vol,0.9510823202869303
+N-CMAPSS,DS05 aucune ref u4,resid_lin,fenetre,0.5951786998910255
+N-CMAPSS,DS05 aucune ref u4,resid_lin,vol,0.2853768227628597
+N-CMAPSS,DS05 aucune ref u4,resid_quad,fenetre,0.39339463479409376
+N-CMAPSS,DS05 aucune ref u4,resid_quad,vol,0.15110332705269416
+N-CMAPSS,DS05 aucune ref u4,span_W,fenetre,0.8885554973473513
+N-CMAPSS,DS05 aucune ref u4,span_W,vol,0.8890976375944731
+N-CMAPSS,DS05 aucune ref u5,resid_lin,fenetre,0.4534010994619917
+N-CMAPSS,DS05 aucune ref u5,resid_lin,vol,0.21206857318535555
+N-CMAPSS,DS05 aucune ref u5,resid_quad,fenetre,0.5238223776019816
+N-CMAPSS,DS05 aucune ref u5,resid_quad,vol,0.10775110882537461
+N-CMAPSS,DS05 aucune ref u5,span_W,fenetre,0.9222754621158173
+N-CMAPSS,DS05 aucune ref u5,span_W,vol,0.9218023474730446
+N-CMAPSS,DS05 aucune ref u8,resid_lin,fenetre,0.8392337926514726
+N-CMAPSS,DS05 aucune ref u8,resid_lin,vol,0.20818021355604652
+N-CMAPSS,DS05 aucune ref u8,resid_quad,fenetre,0.28213498875799925
+N-CMAPSS,DS05 aucune ref u8,resid_quad,vol,0.1296734488891818
+N-CMAPSS,DS05 aucune ref u8,span_W,fenetre,0.8811235038136441
+N-CMAPSS,DS05 aucune ref u8,span_W,vol,0.8811235038136441
+N-CMAPSS,DS07 aucune ref u10,resid_lin,fenetre,0.7981849758946057
+N-CMAPSS,DS07 aucune ref u10,resid_lin,vol,0.788273575023177
+N-CMAPSS,DS07 aucune ref u10,resid_quad,fenetre,0.446965625117274
+N-CMAPSS,DS07 aucune ref u10,resid_quad,vol,0.28466719173266786
+N-CMAPSS,DS07 aucune ref u10,span_W,fenetre,0.927798940281443
+N-CMAPSS,DS07 aucune ref u10,span_W,vol,0.9276217421087891
+N-CMAPSS,DS07 aucune ref u4,resid_lin,fenetre,-0.5505212099251415
+N-CMAPSS,DS07 aucune ref u4,resid_lin,vol,0.46447473299575204
+N-CMAPSS,DS07 aucune ref u4,resid_quad,fenetre,0.036042419314023064
+N-CMAPSS,DS07 aucune ref u4,resid_quad,vol,-0.060449961466679435
+N-CMAPSS,DS07 aucune ref u4,span_W,fenetre,0.9246350433761843
+N-CMAPSS,DS07 aucune ref u4,span_W,vol,0.9251903925273877
+N-CMAPSS,DS07 aucune ref u5,resid_lin,fenetre,0.2599950685295159
+N-CMAPSS,DS07 aucune ref u5,resid_lin,vol,0.2152478674791132
+N-CMAPSS,DS07 aucune ref u5,resid_quad,fenetre,0.32466127106409964
+N-CMAPSS,DS07 aucune ref u5,resid_quad,vol,0.17766157226711518
+N-CMAPSS,DS07 aucune ref u5,span_W,fenetre,0.8757747470925882
+N-CMAPSS,DS07 aucune ref u5,span_W,vol,0.8754193130529436
+N-CMAPSS,DS07 aucune ref u8,resid_lin,fenetre,0.6689579710686195
+N-CMAPSS,DS07 aucune ref u8,resid_lin,vol,0.38876032617462736
+N-CMAPSS,DS07 aucune ref u8,resid_quad,fenetre,0.17039891030022608
+N-CMAPSS,DS07 aucune ref u8,resid_quad,vol,0.15637322802528517
+N-CMAPSS,DS07 aucune ref u8,span_W,fenetre,0.8755597363163152
+N-CMAPSS,DS07 aucune ref u8,span_W,vol,0.875958975235291
+PVDAQ,Golden→Las_Vegas sans 10,resid_lin,fenetre,0.01151217233768536
+PVDAQ,Golden→Las_Vegas sans 10,resid_lin,vol,0.011034036200712105
+PVDAQ,Golden→Las_Vegas sans 10,resid_quad,fenetre,0.04558315692460882
+PVDAQ,Golden→Las_Vegas sans 10,resid_quad,vol,0.05491235490678616
+PVDAQ,Golden→Las_Vegas sans 10,span_W,fenetre,-0.17185808854504286
+PVDAQ,Golden→Las_Vegas sans 10,span_W,vol,-0.19892390864067755
+PVDAQ,Golden→Las_Vegas sans 33,resid_lin,fenetre,0.01963857956736574
+PVDAQ,Golden→Las_Vegas sans 33,resid_lin,vol,0.0063644060019958145
+PVDAQ,Golden→Las_Vegas sans 33,resid_quad,fenetre,0.01911859694343337
+PVDAQ,Golden→Las_Vegas sans 33,resid_quad,vol,0.021098980372824244
+PVDAQ,Golden→Las_Vegas sans 33,span_W,fenetre,-0.16527897081042153
+PVDAQ,Golden→Las_Vegas sans 33,span_W,vol,-0.13425266944851738
+PVDAQ,Golden→Las_Vegas sans 4,resid_lin,fenetre,0.01694665115251448
+PVDAQ,Golden→Las_Vegas sans 4,resid_lin,vol,0.008576915613825932
+PVDAQ,Golden→Las_Vegas sans 4,resid_quad,fenetre,0.017714803246657643
+PVDAQ,Golden→Las_Vegas sans 4,resid_quad,vol,0.0190959951327971
+PVDAQ,Golden→Las_Vegas sans 4,span_W,fenetre,-0.1691013807371618
+PVDAQ,Golden→Las_Vegas sans 4,span_W,vol,-0.15725643347869633
+PVDAQ,Golden→Las_Vegas sans 50,resid_lin,fenetre,0.05473002680889669
+PVDAQ,Golden→Las_Vegas sans 50,resid_lin,vol,0.030967965680709003
+PVDAQ,Golden→Las_Vegas sans 50,resid_quad,fenetre,0.04614392596689358
+PVDAQ,Golden→Las_Vegas sans 50,resid_quad,vol,0.035722776410414464
+PVDAQ,Golden→Las_Vegas sans 50,span_W,fenetre,0.17416184629191217
+PVDAQ,Golden→Las_Vegas sans 50,span_W,vol,0.1840126170831472
+PVDAQ,Las_Vegas→Golden sans 1276,resid_lin,fenetre,-0.05960768893658913
+PVDAQ,Las_Vegas→Golden sans 1276,resid_lin,vol,-0.05717865537620319
+PVDAQ,Las_Vegas→Golden sans 1276,resid_quad,fenetre,-0.05671146756180743
+PVDAQ,Las_Vegas→Golden sans 1276,resid_quad,vol,-0.05627928234703115
+PVDAQ,Las_Vegas→Golden sans 1276,span_W,fenetre,-0.05726127887721526
+PVDAQ,Las_Vegas→Golden sans 1276,span_W,vol,-0.057382463434796735
+PVDAQ,Las_Vegas→Golden sans 1278,resid_lin,fenetre,-0.05725413204771559
+PVDAQ,Las_Vegas→Golden sans 1278,resid_lin,vol,-0.05148084790470345
+PVDAQ,Las_Vegas→Golden sans 1278,resid_quad,fenetre,-0.057330626799176596
+PVDAQ,Las_Vegas→Golden sans 1278,resid_quad,vol,0.0588970639428365
+PVDAQ,Las_Vegas→Golden sans 1278,span_W,fenetre,-0.058530961366832016
+PVDAQ,Las_Vegas→Golden sans 1278,span_W,vol,-0.06007308450022793
+PVDAQ,Las_Vegas→Golden sans 34,resid_lin,fenetre,-0.04347438028510176
+PVDAQ,Las_Vegas→Golden sans 34,resid_lin,vol,-0.04086738677804629
+PVDAQ,Las_Vegas→Golden sans 34,resid_quad,fenetre,-0.04376064400478953
+PVDAQ,Las_Vegas→Golden sans 34,resid_quad,vol,-0.03832214528851944
+PVDAQ,Las_Vegas→Golden sans 34,span_W,fenetre,-0.04694083998975731
+PVDAQ,Las_Vegas→Golden sans 34,span_W,vol,-0.04761074800673769
+PVDAQ,Las_Vegas→Golden sans 35,resid_lin,fenetre,-0.05528898204230382
+PVDAQ,Las_Vegas→Golden sans 35,resid_lin,vol,-0.05122199203097799
+PVDAQ,Las_Vegas→Golden sans 35,resid_quad,fenetre,-0.05438057533543372
+PVDAQ,Las_Vegas→Golden sans 35,resid_quad,vol,-0.05778268301401315
+PVDAQ,Las_Vegas→Golden sans 35,span_W,fenetre,-0.05732713647638428
+PVDAQ,Las_Vegas→Golden sans 35,span_W,vol,-0.05731874606526961
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_lin,fenetre,0.9426040836289582
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_lin,vol,0.9168272570449956
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_quad,fenetre,0.9628357767947918
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_quad,vol,0.9168683197415994
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,span_W,fenetre,0.92985090024969
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,span_W,vol,0.9240965128244253
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_lin,fenetre,0.9388774842497523
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_lin,vol,-0.24073377567310586
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_quad,fenetre,0.9466051222014615
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_quad,vol,-0.06402298643956655
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,span_W,fenetre,-0.09391060468299436
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,span_W,vol,-0.22494602716296205
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_lin,fenetre,0.9169574415305877
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_lin,vol,0.8141548929770557
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_quad,fenetre,0.9499643058540085
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_quad,vol,0.7989201786976139
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,span_W,fenetre,0.8320187743663029
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,span_W,vol,0.7143116630166624
+batteries,entr. biaisee_basse_40C → uniforme,resid_lin,fenetre,0.8749618117862059
+batteries,entr. biaisee_basse_40C → uniforme,resid_lin,vol,0.8191590260779298
+batteries,entr. biaisee_basse_40C → uniforme,resid_quad,fenetre,0.83137405353099
+batteries,entr. biaisee_basse_40C → uniforme,resid_quad,vol,0.7965330360278176
+batteries,entr. biaisee_basse_40C → uniforme,span_W,fenetre,0.8272741134369761
+batteries,entr. biaisee_basse_40C → uniforme,span_W,vol,0.8159210527497103
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_lin,fenetre,-0.13956446335799647
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_lin,vol,-0.7885796322415953
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_quad,fenetre,0.43455356201397205
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_quad,vol,0.7932804688210051
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,span_W,fenetre,-0.0851350133281614
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,span_W,vol,0.004143788969076698
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_lin,fenetre,0.5642881232984204
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_lin,vol,0.06941903306458756
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_quad,fenetre,0.21504063851058364
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_quad,vol,0.6047305363182276
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,span_W,fenetre,0.35920914552073585
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,span_W,vol,0.4652649147771136
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_lin,fenetre,0.9094548310986889
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_lin,vol,0.5746049425718875
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_quad,fenetre,0.9500722324374058
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_quad,vol,0.09290354300038113
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,span_W,fenetre,0.7184327825373216
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,span_W,vol,0.7012794301398104
+batteries,entr. biaisee_basse_TA → uniforme,resid_lin,fenetre,-0.08961365116356426
+batteries,entr. biaisee_basse_TA → uniforme,resid_lin,vol,-0.3905167772326902
+batteries,entr. biaisee_basse_TA → uniforme,resid_quad,fenetre,0.21073523014153583
+batteries,entr. biaisee_basse_TA → uniforme,resid_quad,vol,0.7427611780801968
+batteries,entr. biaisee_basse_TA → uniforme,span_W,fenetre,-0.40638649807058697
+batteries,entr. biaisee_basse_TA → uniforme,span_W,vol,-0.38874642962239037
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_lin,fenetre,0.9805903157160892
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_lin,vol,0.6774602687390424
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_quad,fenetre,0.9496245121569737
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_quad,vol,0.8721030378210717
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,span_W,fenetre,-0.14748876215033238
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,span_W,vol,-0.1417831059607429
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_lin,fenetre,0.9536056992056877
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_lin,vol,0.8674621658214072
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_quad,fenetre,0.9638932884267574
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_quad,vol,0.9283450850329107
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,span_W,fenetre,0.8076051476527267
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,span_W,vol,0.8129941415111301
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_lin,fenetre,0.9387323180065757
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_lin,vol,0.7686194606047491
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_quad,fenetre,0.9511887113390878
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_quad,vol,0.8804439220578042
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,span_W,fenetre,0.7822624254329709
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,span_W,vol,0.7889983530004415
+batteries,entr. biaisee_haute_40C → uniforme,resid_lin,fenetre,0.890056158330703
+batteries,entr. biaisee_haute_40C → uniforme,resid_lin,vol,-0.22773441397753705
+batteries,entr. biaisee_haute_40C → uniforme,resid_quad,fenetre,0.8853471947468974
+batteries,entr. biaisee_haute_40C → uniforme,resid_quad,vol,-0.12034958020657122
+batteries,entr. biaisee_haute_40C → uniforme,span_W,fenetre,-0.40997772576894065
+batteries,entr. biaisee_haute_40C → uniforme,span_W,vol,-0.41149735028437295
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_lin,fenetre,0.24063080266651898
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_lin,vol,0.3563391533912796
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_quad,fenetre,0.189779305668991
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_quad,vol,0.8854345311839673
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,span_W,fenetre,0.33921154341239196
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,span_W,vol,0.40623974650654804
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_lin,fenetre,0.9379834758492771
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_lin,vol,0.9240753239648936
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_quad,fenetre,0.9384684159825203
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_quad,vol,0.9624462194052537
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,span_W,fenetre,0.8581257634373665
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,span_W,vol,0.8828880918785149
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_lin,fenetre,0.728311642001242
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_lin,vol,0.7631931861409222
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_quad,fenetre,0.7213927916951672
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_quad,vol,-0.1477430435569795
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,span_W,fenetre,0.460775807066867
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,span_W,vol,0.5237960573116194
+batteries,entr. biaisee_haute_TA → uniforme,resid_lin,fenetre,0.4061476216422103
+batteries,entr. biaisee_haute_TA → uniforme,resid_lin,vol,0.4339462459305279
+batteries,entr. biaisee_haute_TA → uniforme,resid_quad,fenetre,0.4321740497768849
+batteries,entr. biaisee_haute_TA → uniforme,resid_quad,vol,0.8952590456089957
+batteries,entr. biaisee_haute_TA → uniforme,span_W,fenetre,-0.021635676515756742
+batteries,entr. biaisee_haute_TA → uniforme,span_W,vol,0.005364152881132099
+batteries,entr. uniforme → biaisee_basse_40C,resid_lin,fenetre,0.8667535559119548
+batteries,entr. uniforme → biaisee_basse_40C,resid_lin,vol,-0.8920177839859689
+batteries,entr. uniforme → biaisee_basse_40C,resid_quad,fenetre,0.8570959402235346
+batteries,entr. uniforme → biaisee_basse_40C,resid_quad,vol,-0.9399925842263644
+batteries,entr. uniforme → biaisee_basse_40C,span_W,fenetre,-0.12248014800681095
+batteries,entr. uniforme → biaisee_basse_40C,span_W,vol,-0.10891750850670358
+batteries,entr. uniforme → biaisee_basse_TA,resid_lin,fenetre,0.8817992526945277
+batteries,entr. uniforme → biaisee_basse_TA,resid_lin,vol,-0.814049911118566
+batteries,entr. uniforme → biaisee_basse_TA,resid_quad,fenetre,0.940711784239856
+batteries,entr. uniforme → biaisee_basse_TA,resid_quad,vol,-0.8448694769089389
+batteries,entr. uniforme → biaisee_basse_TA,span_W,fenetre,-0.7905152218608533
+batteries,entr. uniforme → biaisee_basse_TA,span_W,vol,-0.7777621581738754
+batteries,entr. uniforme → biaisee_haute_40C,resid_lin,fenetre,0.7440745109305655
+batteries,entr. uniforme → biaisee_haute_40C,resid_lin,vol,-0.6891478003899305
+batteries,entr. uniforme → biaisee_haute_40C,resid_quad,fenetre,0.6500808875681754
+batteries,entr. uniforme → biaisee_haute_40C,resid_quad,vol,-0.7362801696276202
+batteries,entr. uniforme → biaisee_haute_40C,span_W,fenetre,-0.6016499419094948
+batteries,entr. uniforme → biaisee_haute_40C,span_W,vol,-0.5983965158329223
+batteries,entr. uniforme → biaisee_haute_TA,resid_lin,fenetre,0.9120511272240315
+batteries,entr. uniforme → biaisee_haute_TA,resid_lin,vol,-0.5303763392215688
+batteries,entr. uniforme → biaisee_haute_TA,resid_quad,fenetre,0.9090181026516014
+batteries,entr. uniforme → biaisee_haute_TA,resid_quad,vol,-0.6042328240040991
+batteries,entr. uniforme → biaisee_haute_TA,span_W,fenetre,-0.7212509976961061
+batteries,entr. uniforme → biaisee_haute_TA,span_W,vol,-0.6780440674930939

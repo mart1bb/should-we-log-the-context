@@ -1,0 +1,9 @@
+        source  R_perp   r
+          DS01  283.74 3.0
+          DS05    2.88 3.0
+          DS07   57.94 3.0
+banc se=0.0075    7.27 NaN
+  banc se=0.02    5.33 NaN
+ banc se=0.043    2.09 NaN
+  banc se=0.09    0.68 NaN
+  banc se=0.16    0.23 NaN

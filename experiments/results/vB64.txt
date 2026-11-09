@@ -1,0 +1,29 @@
+                                 fausses_alarmes_med  fausses_alarmes_moy detection  jeux
+scoreur  entrainement inference                                                          
+ctx      journal      journal                    0.0                0.010  0.177778    95
+                      tout                       0.0                0.000       0.2    95
+         tout         journal                    0.0                0.009       0.2    95
+                      tout                       0.0                0.001  0.244444    95
+sans_ctx journal      journal                    0.0                0.026       0.4    95
+                      tout                       0.0                0.004  0.177778    95
+         tout         journal                    0.0                0.020  0.444444    95
+                      tout                       0.0                0.009  0.288889    95
+
+Tri (entraînement journal, inférence tout)
+          part_expliquee  masquees
+scoreur                           
+ctx                  NaN  0.133333
+sans_ctx             0.0  0.111111
+
+AUROC sans seuil (pannes contre normaux, score journalier maximal / seuil), par parc
+                                 auroc               jeux_notes            
+parc                                 A      B      C          A     B     C
+scoreur  entrainement inference                                            
+ctx      journal      journal    0.300  0.685  0.609       15.0  15.0  58.0
+                      tout       0.608  0.778  0.793       22.0  15.0  58.0
+         tout         journal    0.280  0.611  0.535       15.0  15.0  58.0
+                      tout       0.592  0.833  0.731       22.0  15.0  58.0
+sans_ctx journal      journal    0.320  0.852  0.701       15.0  15.0  58.0
+                      tout       0.600  0.907  0.861       22.0  15.0  58.0
+         tout         journal    0.360  0.815  0.707       15.0  15.0  58.0
+                      tout       0.625  0.833  0.791       22.0  15.0  58.0

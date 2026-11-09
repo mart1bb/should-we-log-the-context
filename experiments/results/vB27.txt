@@ -1,0 +1,130 @@
+      jeu                 cas               decoupage  p_hors    D  lenteur  modele  span_W   choix  regret_regle
+ N-CMAPSS         DS01 aucune                  ref u1    0.89 0.02     0.97    0.14    0.97 lenteur          0.00
+ N-CMAPSS         DS01 aucune                  ref u4    0.90 0.01     0.98    0.08    0.97 lenteur          0.00
+ N-CMAPSS         DS01 aucune                  ref u7    0.90 0.01     0.92    0.05    0.93 lenteur          0.00
+ N-CMAPSS         DS01 aucune                  ref u9    0.90 0.01     0.99    0.28    0.95 lenteur          0.00
+ N-CMAPSS DS01 montante_h0.30                  ref u1    0.56 0.45     0.62   -0.10    0.60  span_W          0.02
+ N-CMAPSS DS01 montante_h0.30                  ref u4    0.71 0.30     0.54   -0.03    0.65  span_W          0.00
+ N-CMAPSS DS01 montante_h0.30                  ref u7    0.82 0.30     0.39    0.24    0.58  span_W          0.00
+ N-CMAPSS DS01 montante_h0.30                  ref u9    0.76 0.30     0.72    0.06    0.90  span_W          0.00
+ N-CMAPSS         DS05 aucune                  ref u4    0.57 0.02     0.91    0.39    0.89 lenteur          0.00
+ N-CMAPSS         DS05 aucune                  ref u5    0.62 0.01     0.87    0.52    0.92 lenteur          0.05
+ N-CMAPSS         DS05 aucune                  ref u8    0.57 0.01     0.91    0.28    0.88 lenteur          0.00
+ N-CMAPSS         DS05 aucune                 ref u10    0.59 0.01     0.94    0.45    0.95 lenteur          0.01
+ N-CMAPSS DS05 montante_h0.30                  ref u4    0.61 0.16    -0.29   -0.09   -0.56 lenteur          0.20
+ N-CMAPSS DS05 montante_h0.30                  ref u5    0.57 0.29     0.68   -0.06    0.62  span_W          0.06
+ N-CMAPSS DS05 montante_h0.30                  ref u8    0.59 0.20     0.28    0.16   -0.61  span_W          0.89
+ N-CMAPSS DS05 montante_h0.30                 ref u10    0.62 0.18     0.77    0.06    0.73 lenteur          0.00
+ N-CMAPSS         DS07 aucune                  ref u4    0.84 0.01     0.93    0.04    0.92 lenteur          0.00
+ N-CMAPSS         DS07 aucune                  ref u5    0.85 0.01     0.87    0.32    0.88 lenteur          0.00
+ N-CMAPSS         DS07 aucune                  ref u8    0.89 0.02     0.88    0.17    0.88 lenteur          0.00
+ N-CMAPSS         DS07 aucune                 ref u10    0.89 0.01     0.92    0.45    0.93 lenteur          0.00
+ N-CMAPSS DS07 montante_h0.30                  ref u4    0.67 0.36     0.77    0.02    0.80  span_W          0.00
+ N-CMAPSS DS07 montante_h0.30                  ref u5    0.70 0.32     0.79    0.13    0.78  span_W          0.01
+ N-CMAPSS DS07 montante_h0.30                  ref u8    0.73 0.38     0.75    0.21    0.83  span_W          0.00
+ N-CMAPSS DS07 montante_h0.30                 ref u10    0.82 0.27     0.80   -0.15    0.82  span_W          0.00
+batteries   biaisee_basse_40C          entr. uniforme    0.21 0.21     0.08    0.86   -0.12  modele          0.00
+batteries    biaisee_basse_TA          entr. uniforme    0.21 0.21    -0.25    0.94   -0.79  modele          0.00
+batteries   biaisee_haute_40C          entr. uniforme    0.21 0.21    -0.48    0.65   -0.60  modele          0.00
+batteries    biaisee_haute_TA          entr. uniforme    0.21 0.21    -0.08    0.91   -0.72  modele          0.00
+batteries   biaisee_basse_40C  entr. biaisee_basse_TA    0.18 0.35     0.24    0.43   -0.09  modele          0.00
+batteries   biaisee_haute_40C  entr. biaisee_basse_TA    0.18 0.35     0.51    0.22    0.36  modele          0.30
+batteries    biaisee_haute_TA  entr. biaisee_basse_TA    0.18 0.35     0.78    0.95    0.72  modele          0.00
+batteries            uniforme  entr. biaisee_basse_TA    0.18 0.35    -0.37    0.21   -0.41  modele          0.00
+batteries   biaisee_basse_40C  entr. biaisee_haute_TA    0.12 0.62     0.39    0.19    0.34  modele          0.20
+batteries    biaisee_basse_TA  entr. biaisee_haute_TA    0.12 0.62     0.87    0.94    0.86  modele          0.00
+batteries   biaisee_haute_40C  entr. biaisee_haute_TA    0.12 0.62     0.51    0.72    0.46  modele          0.00
+batteries            uniforme  entr. biaisee_haute_TA    0.12 0.62     0.03    0.43   -0.02  modele          0.00
+batteries    biaisee_basse_TA entr. biaisee_basse_40C    0.02 0.09     0.93    0.96    0.93  modele          0.00
+batteries   biaisee_haute_40C entr. biaisee_basse_40C    0.02 0.09     0.03    0.95   -0.09  modele          0.00
+batteries    biaisee_haute_TA entr. biaisee_basse_40C    0.02 0.09     0.88    0.95    0.83  modele          0.00
+batteries            uniforme entr. biaisee_basse_40C    0.02 0.09     0.83    0.83    0.83  modele          0.00
+batteries   biaisee_basse_40C entr. biaisee_haute_40C    0.03 0.13    -0.15    0.95   -0.15  modele          0.00
+batteries    biaisee_basse_TA entr. biaisee_haute_40C    0.03 0.13     0.81    0.96    0.81  modele          0.00
+batteries    biaisee_haute_TA entr. biaisee_haute_40C    0.03 0.13     0.77    0.95    0.78  modele          0.00
+batteries            uniforme entr. biaisee_haute_40C    0.03 0.13    -0.41    0.89   -0.41  modele          0.00
+  C-MAPSS         FD002 C0_42                tirage 0    0.68 0.00     0.83    0.81    0.81 lenteur          0.00
+  C-MAPSS         FD002 C0_42                tirage 1    0.67 0.00     0.77    0.72    0.72 lenteur          0.00
+  C-MAPSS         FD002 C0_42                tirage 2    0.68 0.00     0.81    0.81    0.80 lenteur          0.00
+  C-MAPSS         FD002 C0_42                tirage 3    0.70 0.00     0.86    0.86    0.86 lenteur          0.00
+  C-MAPSS         FD002 C0_42                tirage 4    0.67 0.00     0.82    0.82    0.81 lenteur          0.00
+  C-MAPSS         FD002 C0_60                tirage 0    0.68 0.00     0.82    0.83    0.83 lenteur          0.01
+  C-MAPSS         FD002 C0_60                tirage 1    0.67 0.00     0.83    0.81    0.80 lenteur          0.00
+  C-MAPSS         FD002 C0_60                tirage 2    0.68 0.00     0.84    0.84    0.84 lenteur          0.00
+  C-MAPSS         FD002 C0_60                tirage 3    0.70 0.00     0.86    0.86    0.85 lenteur          0.00
+  C-MAPSS         FD002 C0_60                tirage 4    0.67 0.00     0.83    0.84    0.83 lenteur          0.01
+  C-MAPSS         FD002 C0_20                tirage 0    0.68 0.00     0.83    0.84    0.83 lenteur          0.01
+  C-MAPSS         FD002 C0_20                tirage 1    0.67 0.00     0.81    0.81    0.81 lenteur          0.00
+  C-MAPSS         FD002 C0_20                tirage 2    0.68 0.00     0.84    0.82    0.83 lenteur          0.00
+  C-MAPSS         FD002 C0_20                tirage 3    0.70 0.00     0.87    0.88    0.87 lenteur          0.01
+  C-MAPSS         FD002 C0_20                tirage 4    0.67 0.00     0.84    0.84    0.83 lenteur          0.00
+  C-MAPSS           FD002 R42                tirage 0    0.67 0.00     0.83    0.81    0.81 lenteur          0.00
+  C-MAPSS           FD002 R42                tirage 1    0.67 0.00     0.79    0.70    0.70 lenteur          0.00
+  C-MAPSS           FD002 R42                tirage 2    0.67 0.00     0.83    0.80    0.80 lenteur          0.00
+  C-MAPSS           FD002 R42                tirage 3    0.69 0.00     0.88    0.87    0.87 lenteur          0.00
+  C-MAPSS           FD002 R42                tirage 4    0.67 0.00     0.83    0.81    0.82 lenteur          0.00
+  C-MAPSS           FD002 R60                tirage 0    0.92 0.00     0.80    0.81    0.81 lenteur          0.02
+  C-MAPSS           FD002 R60                tirage 1    0.92 0.00     0.79    0.81    0.78 lenteur          0.02
+  C-MAPSS           FD002 R60                tirage 2    0.92 0.00     0.83    0.83    0.83 lenteur          0.01
+  C-MAPSS           FD002 R60                tirage 3    0.92 0.00     0.86    0.85    0.85 lenteur          0.00
+  C-MAPSS           FD002 R60                tirage 4    0.92 0.00     0.82    0.83    0.82 lenteur          0.01
+  C-MAPSS           FD002 R20                tirage 0    0.79 0.00    -0.08    0.83    0.82 lenteur          0.91
+  C-MAPSS           FD002 R20                tirage 1    0.78 0.00    -0.11    0.81    0.78 lenteur          0.92
+  C-MAPSS           FD002 R20                tirage 2    0.79 0.00    -0.13    0.82    0.28 lenteur          0.95
+  C-MAPSS           FD002 R20                tirage 3    0.82 0.00    -0.03    0.87    0.42 lenteur          0.90
+  C-MAPSS           FD002 R20                tirage 4    0.79 0.00    -0.02    0.84    0.79 lenteur          0.86
+  C-MAPSS         FD004 C0_42                tirage 0    0.45 0.01     0.85    0.90    0.88 lenteur          0.04
+  C-MAPSS         FD004 C0_42                tirage 1    0.45 0.01     0.86    0.89    0.87 lenteur          0.03
+  C-MAPSS         FD004 C0_42                tirage 2    0.45 0.01     0.87    0.89    0.88 lenteur          0.02
+  C-MAPSS         FD004 C0_42                tirage 3    0.45 0.01     0.87    0.91    0.88 lenteur          0.04
+  C-MAPSS         FD004 C0_42                tirage 4    0.43 0.02     0.86    0.88    0.88 lenteur          0.02
+  C-MAPSS         FD004 C0_60                tirage 0    0.45 0.01     0.83    0.86    0.86 lenteur          0.03
+  C-MAPSS         FD004 C0_60                tirage 1    0.45 0.01     0.81    0.86    0.85 lenteur          0.05
+  C-MAPSS         FD004 C0_60                tirage 2    0.45 0.01     0.83    0.86    0.87 lenteur          0.03
+  C-MAPSS         FD004 C0_60                tirage 3    0.45 0.01     0.81    0.86    0.85 lenteur          0.05
+  C-MAPSS         FD004 C0_60                tirage 4    0.43 0.02     0.82    0.85    0.85 lenteur          0.03
+  C-MAPSS         FD004 C0_20                tirage 0    0.45 0.01     0.84    0.88    0.88 lenteur          0.04
+  C-MAPSS         FD004 C0_20                tirage 1    0.45 0.01     0.83    0.89    0.88 lenteur          0.06
+  C-MAPSS         FD004 C0_20                tirage 2    0.45 0.01     0.86    0.89    0.89 lenteur          0.03
+  C-MAPSS         FD004 C0_20                tirage 3    0.45 0.01     0.85    0.88    0.88 lenteur          0.03
+  C-MAPSS         FD004 C0_20                tirage 4    0.43 0.02     0.82    0.84    0.87 lenteur          0.04
+  C-MAPSS           FD004 R42                tirage 0    0.47 0.00     0.88    0.90    0.90 lenteur          0.02
+  C-MAPSS           FD004 R42                tirage 1    0.47 0.00     0.88    0.89    0.89 lenteur          0.01
+  C-MAPSS           FD004 R42                tirage 2    0.47 0.00     0.88    0.90    0.90 lenteur          0.01
+  C-MAPSS           FD004 R42                tirage 3    0.47 0.00     0.89    0.91    0.90 lenteur          0.02
+  C-MAPSS           FD004 R42                tirage 4    0.45 0.00     0.87    0.88    0.89 lenteur          0.02
+  C-MAPSS           FD004 R60                tirage 0    0.88 0.02     0.83    0.87    0.86 lenteur          0.04
+  C-MAPSS           FD004 R60                tirage 1    0.87 0.01     0.82    0.86    0.85 lenteur          0.04
+  C-MAPSS           FD004 R60                tirage 2    0.87 0.01     0.84    0.87    0.87 lenteur          0.04
+  C-MAPSS           FD004 R60                tirage 3    0.87 0.01     0.81    0.86    0.84 lenteur          0.05
+  C-MAPSS           FD004 R60                tirage 4    0.87 0.02     0.82    0.86    0.85 lenteur          0.05
+  C-MAPSS           FD004 R20                tirage 0    0.62 0.00     0.84    0.88    0.86 lenteur          0.04
+  C-MAPSS           FD004 R20                tirage 1    0.62 0.00     0.87    0.89    0.88 lenteur          0.02
+  C-MAPSS           FD004 R20                tirage 2    0.62 0.00     0.87    0.89    0.87 lenteur          0.02
+  C-MAPSS           FD004 R20                tirage 3    0.62 0.00     0.87    0.88    0.88 lenteur          0.01
+  C-MAPSS           FD004 R20                tirage 4    0.60 0.00     0.76    0.85    0.73 lenteur          0.09
+
+=== par jeu ===
+           decoupages  stabilite  p_hors_min  p_hors_max  sous_0_3  regret_med  regret_max
+jeu                                                                                       
+C-MAPSS            60      1.000       0.431       0.919         0       0.017       0.948
+N-CMAPSS           24      0.917       0.562       0.902         0       0.000       0.892
+batteries          20      1.000       0.017       0.214        20       0.000       0.296
+
+=== regret sur tous les découpages : médiane / max / part > 0,2 ===
+regret_regle   médiane 0.005   max 0.948   > 0,2 : 6.7%
+regret_lenteur médiane 0.021   max 1.296   > 0,2 : 14.4%
+regret_modele  médiane 0.000   max 0.976   > 0,2 : 22.1%
+regret_span_W  médiane 0.013   max 1.731   > 0,2 : 15.4%
+
+stabilité globale du choix : 98.1% (102/104)
+
+découpages à regret > 0,2 :
+      jeu                 cas              decoupage  p_hors    D  lenteur  modele  span_W   choix  regret_regle
+ N-CMAPSS DS05 montante_h0.30                 ref u8    0.59 0.20     0.28    0.16   -0.61  span_W          0.89
+batteries   biaisee_haute_40C entr. biaisee_basse_TA    0.18 0.35     0.51    0.22    0.36  modele          0.30
+  C-MAPSS           FD002 R20               tirage 0    0.79 0.00    -0.08    0.83    0.82 lenteur          0.91
+  C-MAPSS           FD002 R20               tirage 1    0.78 0.00    -0.11    0.81    0.78 lenteur          0.92
+  C-MAPSS           FD002 R20               tirage 2    0.79 0.00    -0.13    0.82    0.28 lenteur          0.95
+  C-MAPSS           FD002 R20               tirage 3    0.82 0.00    -0.03    0.87    0.42 lenteur          0.90
+  C-MAPSS           FD002 R20               tirage 4    0.79 0.00    -0.02    0.84    0.79 lenteur          0.86

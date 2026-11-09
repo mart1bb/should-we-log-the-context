@@ -1,0 +1,6 @@
+                             jeu  part_signature_hors_V  r  capteurs
+batteries (uniformes, par cycle)                  0.111  3         6
+batteries (uniformes, par étape)                  0.255  2         6
+         N-CMAPSS DS01 (par vol)                  0.806  3        14
+         N-CMAPSS DS05 (par vol)                  0.489  3        14
+         N-CMAPSS DS07 (par vol)                  0.775  3        14

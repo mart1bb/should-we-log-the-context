@@ -1,0 +1,31 @@
+      jeu                 cas  p_hors  R_chapeau    D  lenteur  modele  span_W   choix  regret_regle
+ N-CMAPSS         DS01 aucune    0.90     506.58 0.01     0.99    0.12    0.96 lenteur          0.00
+ N-CMAPSS DS01 montante_h0.30    0.76     154.60 0.30     0.78   -0.03    0.91  span_W          0.00
+ N-CMAPSS         DS05 aucune    0.59     419.64 0.01     0.95    0.43    0.94 lenteur          0.00
+ N-CMAPSS DS05 montante_h0.30    0.62     200.19 0.18     0.81    0.00    0.79 lenteur          0.00
+ N-CMAPSS         DS07 aucune    0.89     298.39 0.01     0.93    0.53    0.93 lenteur          0.00
+ N-CMAPSS DS07 montante_h0.30    0.82     156.47 0.27     0.83   -0.16    0.83  span_W          0.00
+  C-MAPSS         FD002 C0_42    0.68      20.65 0.00     0.82    0.81    0.81 lenteur          0.00
+  C-MAPSS         FD002 C0_60    0.68      20.65 0.00     0.83    0.84    0.83 lenteur          0.01
+  C-MAPSS         FD002 C0_20    0.68      20.65 0.00     0.84    0.84    0.83 lenteur          0.00
+  C-MAPSS           FD002 R42    0.67      19.77 0.00     0.83    0.81    0.81 lenteur          0.00
+  C-MAPSS           FD002 R60    0.92      24.79 0.00     0.82    0.83    0.82 lenteur          0.01
+  C-MAPSS           FD002 R20    0.79      20.69 0.00    -0.08    0.83    0.78 lenteur          0.91
+  C-MAPSS         FD004 C0_42    0.45      14.48 0.01     0.86    0.89    0.88 lenteur          0.03
+  C-MAPSS         FD004 C0_60    0.45      14.48 0.01     0.82    0.86    0.85 lenteur          0.04
+  C-MAPSS         FD004 C0_20    0.45      14.48 0.01     0.84    0.88    0.88 lenteur          0.04
+  C-MAPSS           FD004 R42    0.47      18.86 0.00     0.88    0.90    0.90 lenteur          0.01
+  C-MAPSS           FD004 R60    0.87      17.90 0.01     0.82    0.86    0.85 lenteur          0.04
+  C-MAPSS           FD004 R20    0.62      19.80 0.00     0.87    0.88    0.87 lenteur          0.01
+batteries   biaisee_basse_40C    0.21       0.65 0.21     0.08    0.86   -0.12  modele          0.00
+batteries    biaisee_basse_TA    0.21       0.65 0.21    -0.25    0.94   -0.79  modele          0.00
+batteries   biaisee_haute_40C    0.21       0.65 0.21    -0.48    0.65   -0.60  modele          0.00
+batteries    biaisee_haute_TA    0.21       0.65 0.21    -0.08    0.91   -0.72  modele          0.00
+
+=== regret : médiane / maximum ===
+regret_regle       médiane 0.002   max 0.906
+regret_lenteur     médiane 0.014   max 1.193
+regret_modele      médiane 0.000   max 0.995
+regret_span_W      médiane 0.011   max 1.731
+
+Spearman(p_hors, gain du modèle sur la lenteur) = -0.62 sur 22 cas

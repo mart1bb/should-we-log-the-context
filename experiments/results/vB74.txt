@@ -1,0 +1,122 @@
+Tableau IV (f = 1, médiane des méthodes ; IC, p de Holm sur le tableau)
+       jeu         cat         q    med     lo     hi     p  n  p_holm
+   C-MAPSS      mesure     degat -0.011 -0.015 -0.007 0.000 30   0.001
+   C-MAPSS      mesure detection -0.051 -0.399 -0.036 0.000 30   0.000
+   C-MAPSS      mesure      date -0.049 -0.403 -0.016 0.000 30   0.000
+   C-MAPSS      mesure       cat    NaN    NaN    NaN   NaN 30     NaN
+   C-MAPSS      mesure    infere -0.013 -0.022 -0.003 0.000 30   0.027
+   C-MAPSS      mesure    nommes -0.004 -0.013  0.004 0.109 30   1.000
+   C-MAPSS  production     degat -0.047 -0.195 -0.024 0.000 30   0.023
+   C-MAPSS  production detection -0.061 -0.345 -0.029 0.000 30   0.000
+   C-MAPSS  production      date -0.071 -0.262 -0.026 0.000 30   0.036
+   C-MAPSS  production       cat -0.030 -0.166  0.085 0.777 30   1.000
+   C-MAPSS  production    infere  0.072  0.015  0.185 0.001 30   0.113
+   C-MAPSS  production    nommes  0.098  0.030  0.209 0.000 30   0.015
+   C-MAPSS  prod_seuil     degat -0.117 -0.248 -0.069 0.000 30   0.000
+   C-MAPSS  prod_seuil detection -0.056 -0.305 -0.029 0.000 30   0.003
+   C-MAPSS  prod_seuil      date -0.058 -0.171 -0.030 0.000 30   0.023
+   C-MAPSS  prod_seuil       cat  0.003 -0.084  0.056 0.903 30   1.000
+   C-MAPSS  prod_seuil    infere  0.086  0.015  0.224 0.000 30   0.017
+   C-MAPSS  prod_seuil    nommes  0.151  0.009  0.261 0.000 30   0.000
+   C-MAPSS   prod_quad     degat -0.098 -0.206 -0.080 0.000 30   0.000
+   C-MAPSS   prod_quad detection -0.034 -0.334 -0.014 0.002 30   0.194
+   C-MAPSS   prod_quad      date -0.041 -0.208  0.008 0.043 30   1.000
+   C-MAPSS   prod_quad       cat -0.030 -0.142  0.005 0.299 30   1.000
+   C-MAPSS   prod_quad    infere  0.071  0.001  0.136 0.001 30   0.074
+   C-MAPSS   prod_quad    nommes  0.086  0.031  0.233 0.000 30   0.001
+   C-MAPSS maintenance     degat -0.693 -0.733 -0.608 0.000 30   0.000
+   C-MAPSS maintenance detection -0.048 -0.080 -0.032 0.000 30   0.002
+   C-MAPSS maintenance      date  0.021  0.004  0.043 0.006 30   0.489
+   C-MAPSS maintenance       cat  0.001 -0.000  0.004 0.092 30   1.000
+   C-MAPSS maintenance    infere    NaN    NaN    NaN   NaN 30     NaN
+   C-MAPSS maintenance    nommes  0.060  0.046  0.087 0.000 30   0.000
+  N-CMAPSS      mesure     degat -0.127 -0.167 -0.075 0.000 12   0.046
+  N-CMAPSS      mesure detection -0.044 -0.112  0.029 0.110 12   1.000
+  N-CMAPSS      mesure      date  0.033 -0.028  0.078 0.519 12   1.000
+  N-CMAPSS      mesure       cat    NaN    NaN    NaN   NaN 12     NaN
+  N-CMAPSS      mesure    infere  0.062 -0.019  0.114 0.233 12   1.000
+  N-CMAPSS      mesure    nommes  0.058  0.030  0.152 0.003 12   0.273
+  N-CMAPSS  production     degat -0.232 -0.262 -0.202 0.000 12   0.046
+  N-CMAPSS  production detection -0.003 -0.091  0.092 0.970 12   1.000
+  N-CMAPSS  production      date -0.058 -0.149  0.042 0.129 12   1.000
+  N-CMAPSS  production       cat  0.020 -0.121  0.113 0.733 12   1.000
+  N-CMAPSS  production    infere  0.191  0.144  0.203 0.000 12   0.046
+  N-CMAPSS  production    nommes  0.194  0.155  0.241 0.000 12   0.046
+  N-CMAPSS  prod_seuil     degat -0.186 -0.266 -0.174 0.000 12   0.046
+  N-CMAPSS  prod_seuil detection -0.099 -0.185  0.023 0.027 12   1.000
+  N-CMAPSS  prod_seuil      date -0.001 -0.110  0.063 0.733 12   1.000
+  N-CMAPSS  prod_seuil       cat  0.015 -0.060  0.098 0.677 12   1.000
+  N-CMAPSS  prod_seuil    infere  0.078  0.000  0.120 0.110 12   1.000
+  N-CMAPSS  prod_seuil    nommes  0.163  0.137  0.210 0.000 12   0.046
+  N-CMAPSS   prod_quad     degat -0.430 -0.561 -0.330 0.000 12   0.046
+  N-CMAPSS   prod_quad detection -0.069 -0.230  0.009 0.110 12   1.000
+  N-CMAPSS   prod_quad      date -0.146 -0.247 -0.070 0.009 12   0.724
+  N-CMAPSS   prod_quad       cat -0.359 -0.515 -0.219 0.002 12   0.198
+  N-CMAPSS   prod_quad    infere -0.131 -0.364  0.017 0.052 12   1.000
+  N-CMAPSS   prod_quad    nommes -0.151 -0.298  0.014 0.034 12   1.000
+  N-CMAPSS maintenance     degat -0.781 -0.803 -0.746 0.000 12   0.046
+  N-CMAPSS maintenance detection  0.067 -0.011  0.169 0.052 12   1.000
+  N-CMAPSS maintenance      date  0.339  0.216  0.349 0.000 12   0.046
+  N-CMAPSS maintenance       cat  0.054 -0.021  0.089 0.204 12   1.000
+  N-CMAPSS maintenance    infere    NaN    NaN    NaN   NaN 12     NaN
+  N-CMAPSS maintenance    nommes  0.229  0.102  0.272 0.001 12   0.122
+ batteries      mesure     degat -0.044 -0.439  0.182 0.625  5   1.000
+ batteries      mesure detection  0.096 -0.090  0.397 0.188  5   1.000
+ batteries      mesure      date  0.120  0.007  0.558 0.062  5   1.000
+ batteries      mesure       cat    NaN    NaN    NaN   NaN  5     NaN
+ batteries      mesure    infere  0.039 -0.014  0.332 0.188  5   1.000
+ batteries      mesure    nommes  0.140 -0.301  0.404 0.438  5   1.000
+ batteries  production     degat -0.043 -0.288  0.085 0.625  5   1.000
+ batteries  production detection  0.209 -0.066  0.220 0.188  5   1.000
+ batteries  production      date  0.008 -0.068  0.173 0.812  5   1.000
+ batteries  production       cat  0.140 -0.286  0.393 0.438  5   1.000
+ batteries  production    infere  0.066 -0.231  0.256 0.438  5   1.000
+ batteries  production    nommes  0.067 -0.275  0.084 0.812  5   1.000
+ batteries  prod_seuil     degat -0.143 -0.480  0.080 0.188  5   1.000
+ batteries  prod_seuil detection  0.122  0.017  0.456 0.062  5   1.000
+ batteries  prod_seuil      date  0.044 -0.232  0.211 0.812  5   1.000
+ batteries  prod_seuil       cat  0.190  0.139  0.277 0.062  5   1.000
+ batteries  prod_seuil    infere  0.166  0.073  0.301 0.062  5   1.000
+ batteries  prod_seuil    nommes  0.123 -0.018  0.303 0.125  5   1.000
+ batteries   prod_quad     degat -0.061 -0.317  0.035 0.312  5   1.000
+ batteries   prod_quad detection  0.181 -0.045  0.364 0.125  5   1.000
+ batteries   prod_quad      date  0.162 -0.083  0.236 0.188  5   1.000
+ batteries   prod_quad       cat  0.177 -0.302  0.442 0.312  5   1.000
+ batteries   prod_quad    infere  0.195 -0.350  0.413 0.438  5   1.000
+ batteries   prod_quad    nommes  0.173 -0.116  0.314 0.188  5   1.000
+ batteries maintenance     degat -0.273 -0.872 -0.076 0.062  5   1.000
+ batteries maintenance detection -0.056 -0.238  0.579 0.812  5   1.000
+ batteries maintenance      date  0.323  0.191  0.641 0.062  5   1.000
+ batteries maintenance       cat -0.010 -0.166  0.309 0.812  5   1.000
+ batteries maintenance    infere    NaN    NaN    NaN   NaN  5     NaN
+ batteries maintenance    nommes  0.092 -0.047  0.174 0.312  5   1.000
+roulements      mesure     degat -0.012 -0.098  0.030 0.625  4   1.000
+roulements      mesure detection -0.230 -0.375 -0.093 0.125  4   1.000
+roulements      mesure      date  0.004 -0.164  0.120 1.000  4   1.000
+roulements      mesure       cat    NaN    NaN    NaN   NaN  4     NaN
+roulements      mesure    infere  0.028 -0.081  0.111 0.875  4   1.000
+roulements      mesure    nommes  0.014 -0.032  0.029 0.875  4   1.000
+roulements  production     degat  0.008 -0.156  0.039 0.875  4   1.000
+roulements  production detection -0.151 -0.260 -0.109 0.125  4   1.000
+roulements  production      date  0.025 -0.002  0.073 0.250  4   1.000
+roulements  production       cat  0.037 -0.037  0.124 0.375  4   1.000
+roulements  production    infere -0.021 -0.084  0.027 0.375  4   1.000
+roulements  production    nommes -0.002 -0.033  0.061 1.000  4   1.000
+roulements  prod_seuil     degat -0.014 -0.058  0.016 0.625  4   1.000
+roulements  prod_seuil detection -0.095 -0.234  0.041 0.250  4   1.000
+roulements  prod_seuil      date -0.047 -0.343  0.057 0.375  4   1.000
+roulements  prod_seuil       cat  0.025 -0.407  0.182 0.875  4   1.000
+roulements  prod_seuil    infere  0.001 -0.330  0.157 1.000  4   1.000
+roulements  prod_seuil    nommes  0.027 -0.022  0.145 0.625  4   1.000
+roulements   prod_quad     degat -0.184 -0.395 -0.037 0.125  4   1.000
+roulements   prod_quad detection -0.142 -0.619  0.252 0.625  4   1.000
+roulements   prod_quad      date  0.140  0.096  0.417 0.125  4   1.000
+roulements   prod_quad       cat  0.143  0.049  0.224 0.125  4   1.000
+roulements   prod_quad    infere  0.069 -0.472  0.125 0.875  4   1.000
+roulements   prod_quad    nommes  0.104 -0.020  0.136 0.250  4   1.000
+roulements maintenance     degat -0.477 -0.769 -0.073 0.125  4   1.000
+roulements maintenance detection -0.018 -0.186  0.055 0.625  4   1.000
+roulements maintenance      date  0.209  0.054  0.291 0.125  4   1.000
+roulements maintenance       cat  0.096 -0.003  0.311 0.250  4   1.000
+roulements maintenance    infere    NaN    NaN    NaN   NaN  4     NaN
+roulements maintenance    nommes  0.082  0.004  0.156 0.125  4   1.000

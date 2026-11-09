@@ -1,0 +1,33 @@
+=== temps médian (s) : apprentissage par méthode ; « score » = pour 10 000 fenêtres ===
+jeu                                   B      C      G      N       P      R
+methode                                                                    
+DANN                              2.004  2.229  2.362  1.813   2.565  2.155
+acp (2) + autoencodeur + GP (2)   2.019  6.944  1.535  4.020   1.658  3.560
+lenteur                           0.005  0.029  0.005  0.004   0.009  0.010
+norm_regime + invariant_regime    0.095  0.105  0.025  0.101   0.588  0.071
+resid_lin + resid_quad + span_W   0.027  0.132  0.020  0.025   0.079  0.052
+residu_FNN                        0.306  0.105  0.065  0.117   0.311  0.089
+residu_FNN + Bajarunas (2)       11.448  6.477  3.398  4.745  13.247  6.174
+score DANN                        0.001  0.002  0.002  0.001   0.001  0.002
+score acp_T2                      0.000  0.001  0.001  0.001   0.000  0.002
+score autoencodeur                0.002  0.003  0.003  0.002   0.002  0.004
+score bajarunas_corr              0.001  0.002  0.002  0.001   0.001  0.002
+score lenteur                     0.000  0.001  0.000  0.001   0.001  0.001
+score norm_regime                 0.002  0.003  0.001  0.003   0.002  0.004
+score resid_GP_z                  0.105  0.109  0.105  0.109   0.106  0.110
+score resid_lin                   0.000  0.001  0.001  0.001   0.000  0.002
+score resid_quad                  0.000  0.002  0.001  0.001   0.000  0.002
+score residu_FNN                  0.001  0.002  0.002  0.002   0.001  0.003
+score span_W                      0.000  0.001  0.000  0.000   0.000  0.001
+score tendance_reg                0.000  0.001  0.000  0.001   0.000  0.001
+tendances (2)                     0.010  0.045  0.009  0.006   0.018  0.019
+
+=== taille de l'entraînement (médiane) ===
+     fenetres     vols     S    W
+jeu                              
+B     52493.0   4938.0   6.0  2.0
+C     20304.0  20304.0  21.0  3.0
+G     11680.0  11680.0   8.0  1.0
+N     22372.0    258.0  14.0  4.0
+P    273025.0   7174.0   3.0  2.0
+R     16507.0  16507.0  22.0  4.0

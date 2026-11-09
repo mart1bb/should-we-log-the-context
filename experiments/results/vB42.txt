@@ -1,0 +1,153 @@
+
+=== (a) ablation : médiane par jeu, meilleure des 3 méthodes par sous-ensemble ===
+methode                                 resid_lin  resid_quad  span_W  meilleure
+jeu            attributs                                                        
+C-MAPSS retenu s1                            0.84        0.85    0.84       0.85
+               s1+s2                         0.86        0.86    0.84       0.86
+               s1+s2+s3                      0.86        0.86    0.84       0.86
+               s1+s3                         0.84        0.86    0.84       0.86
+               s2                            0.86        0.86    0.84       0.86
+               s2+s3                         0.86        0.86    0.84       0.86
+               s3                            0.86        0.86    0.84       0.86
+N-CMAPSS       W_Mach                        0.91        0.52    0.91       0.91
+               W_Mach+W_T2                   0.85        0.22    0.92       0.92
+               W_Mach+W_TRA                  0.88        0.49    0.92       0.92
+               W_Mach+W_TRA+W_T2             0.84        0.27    0.93       0.93
+               W_T2                          0.88        0.37    0.92       0.92
+               W_TRA                         0.87        0.63    0.91       0.91
+               W_TRA+W_T2                    0.89        0.31    0.93       0.93
+               W_alt                         0.86        0.36    0.92       0.92
+               W_alt+W_Mach                  0.82        0.20    0.93       0.93
+               W_alt+W_Mach+W_T2             0.80        0.19    0.93       0.93
+               W_alt+W_Mach+W_TRA            0.82        0.29    0.93       0.93
+               W_alt+W_Mach+W_TRA+W_T2       0.55        0.28    0.93       0.93
+               W_alt+W_T2                    0.82        0.24    0.93       0.93
+               W_alt+W_TRA                   0.86        0.38    0.92       0.92
+               W_alt+W_TRA+W_T2              0.81        0.29    0.93       0.93
+PVDAQ          POA                          -0.12       -0.12   -0.12      -0.12
+               POA+T_amb                    -0.02       -0.01   -0.06      -0.01
+               T_amb                        -0.01       -0.00   -0.06      -0.00
+batteries      Ah                            0.44        0.42   -0.15       0.44
+               I                             0.55        0.53    0.23       0.55
+               I+Ah                          0.89        0.90    0.16       0.90
+roulements     T_amb                         0.57        0.61    0.84       0.84
+               dyn                           0.64        0.56    0.79       0.79
+               dyn+T_amb                    -0.08        0.52    0.83       0.83
+               dyn+stat                      0.45        0.65    0.84       0.84
+               dyn+stat+T_amb               -0.20        0.31    0.83       0.83
+               dyn+stat+vitesse              0.62        0.61    0.80       0.80
+               dyn+stat+vitesse+T_amb       -0.16        0.08    0.81       0.81
+               dyn+vitesse                   0.69        0.76    0.82       0.82
+               dyn+vitesse+T_amb             0.01        0.10    0.81       0.81
+               stat                          0.80        0.65    0.72       0.80
+               stat+T_amb                    0.08        0.52    0.83       0.83
+               stat+vitesse                  0.67        0.76    0.80       0.80
+               stat+vitesse+T_amb            0.08        0.09    0.81       0.81
+               vitesse                       0.74        0.79    0.80       0.80
+               vitesse+T_amb                 0.57        0.58    0.85       0.85
+
+médiane des gains appariés sur la meilleure sans contexte, par sous-ensemble :
+jeu             attributs              
+C-MAPSS retenu  s1                        -0.021
+                s1+s2                     -0.018
+                s1+s2+s3                  -0.012
+                s1+s3                     -0.023
+                s2                        -0.020
+                s2+s3                     -0.011
+                s3                        -0.022
+N-CMAPSS        W_Mach                     0.001
+                W_Mach+W_T2               -0.001
+                W_Mach+W_TRA              -0.001
+                W_Mach+W_TRA+W_T2         -0.002
+                W_T2                       0.000
+                W_TRA                     -0.000
+                W_TRA+W_T2                -0.000
+                W_alt                     -0.002
+                W_alt+W_Mach              -0.002
+                W_alt+W_Mach+W_T2         -0.003
+                W_alt+W_Mach+W_TRA         0.000
+                W_alt+W_Mach+W_TRA+W_T2   -0.002
+                W_alt+W_T2                -0.003
+                W_alt+W_TRA               -0.001
+                W_alt+W_TRA+W_T2          -0.002
+PVDAQ           POA                        0.011
+                POA+T_amb                  0.110
+                T_amb                      0.121
+batteries       Ah                        -0.062
+                I                         -0.054
+                I+Ah                       0.079
+roulements      T_amb                      0.010
+                dyn                       -0.001
+                dyn+T_amb                  0.000
+                dyn+stat                  -0.011
+                dyn+stat+T_amb             0.007
+                dyn+stat+vitesse           0.002
+                dyn+stat+vitesse+T_amb    -0.003
+                dyn+vitesse                0.007
+                dyn+vitesse+T_amb         -0.003
+                stat                       0.000
+                stat+T_amb                 0.000
+                stat+vitesse               0.000
+                stat+vitesse+T_amb        -0.003
+                vitesse                    0.009
+                vitesse+T_amb              0.011
+  C-MAPSS retenu   s1       meilleur gain avec lui -0.012 → non ; valeur marginale médiane -0.000
+  C-MAPSS retenu   s2       meilleur gain avec lui -0.011 → non ; valeur marginale médiane +0.011
+  C-MAPSS retenu   s3       meilleur gain avec lui -0.011 → non ; valeur marginale médiane +0.007
+  N-CMAPSS         W_alt    meilleur gain avec lui +0.000 → non ; valeur marginale médiane -0.002
+  N-CMAPSS         W_Mach   meilleur gain avec lui +0.001 → non ; valeur marginale médiane -0.000
+  N-CMAPSS         W_TRA    meilleur gain avec lui +0.000 → non ; valeur marginale médiane +0.000
+  N-CMAPSS         W_T2     meilleur gain avec lui +0.000 → non ; valeur marginale médiane -0.001
+  PVDAQ            POA      meilleur gain avec lui +0.110 → non ; valeur marginale médiane -0.011
+  PVDAQ            T_amb    meilleur gain avec lui +0.121 → non ; valeur marginale médiane +0.099
+  batteries        I        meilleur gain avec lui +0.079 → vaut d’être journalisé ; valeur marginale médiane +0.141
+  batteries        Ah       meilleur gain avec lui +0.079 → vaut d’être journalisé ; valeur marginale médiane +0.133
+  roulements       dyn      meilleur gain avec lui +0.007 → non ; valeur marginale médiane -0.002
+  roulements       stat     meilleur gain avec lui +0.007 → non ; valeur marginale médiane -0.009
+  roulements       vitesse  meilleur gain avec lui +0.011 → non ; valeur marginale médiane -0.000
+  roulements       T_amb    meilleur gain avec lui +0.011 → non ; valeur marginale médiane -0.000
+
+=== (b) granularité : médiane par jeu ===
+jeu                     C-MAPSS retenu  N-CMAPSS  PVDAQ  batteries   gaz  roulements
+methode                                                                             
+invariant_regime_K12              0.84      0.86  -0.08      -0.11  0.24        0.14
+invariant_regime_K2               0.84      0.89  -0.12       0.16  0.11        0.71
+invariant_regime_K24              0.84      0.87  -0.06      -0.11  0.25        0.13
+invariant_regime_K4               0.84      0.71  -0.09      -0.10  0.31        0.55
+invariant_regime_K6               0.84      0.82  -0.11      -0.10  0.38        0.59
+invariant_regime_natif            0.84       NaN    NaN        NaN   NaN         NaN
+norm_regime_K12                   0.82      0.71   0.08       0.80  0.31        0.13
+norm_regime_K2                    0.85      0.89  -0.11       0.42  0.41        0.75
+norm_regime_K24                   0.83      0.73   0.11       0.85  0.27        0.02
+norm_regime_K4                    0.84      0.79  -0.07       0.49  0.42        0.25
+norm_regime_K6                    0.83      0.82  -0.02       0.66  0.24        0.28
+norm_regime_natif                 0.83       NaN    NaN        NaN   NaN         NaN
+  K = 2      gain médian des labels : C-MAPSS retenu -0.016 ; N-CMAPSS -0.001 ; PVDAQ +0.019 ; batteries -0.130 ; gaz -0.253 ; roulements -0.012
+  K = 4      gain médian des labels : C-MAPSS retenu -0.023 ; N-CMAPSS -0.111 ; PVDAQ +0.068 ; batteries -0.122 ; gaz -0.211 ; roulements -0.201
+  K = 6      gain médian des labels : C-MAPSS retenu -0.022 ; N-CMAPSS -0.065 ; PVDAQ +0.117 ; batteries +0.020 ; gaz -0.218 ; roulements -0.172
+  K = 12     gain médian des labels : C-MAPSS retenu -0.023 ; N-CMAPSS -0.079 ; PVDAQ +0.209 ; batteries +0.066 ; gaz -0.236 ; roulements -0.322
+  K = 24     gain médian des labels : C-MAPSS retenu -0.023 ; N-CMAPSS -0.058 ; PVDAQ +0.233 ; batteries +0.097 ; gaz -0.351 ; roulements -0.401
+  K = natif  gain médian des labels : C-MAPSS retenu -0.022 ; N-CMAPSS +nan ; PVDAQ +nan ; batteries +nan ; gaz +nan ; roulements +nan
+
+=== (c) fréquence de W : médiane par jeu ===
+methode              resid_lin  resid_quad  span_W  meilleure
+jeu       frequence                                          
+N-CMAPSS  fenetre         0.55        0.28    0.93       0.93
+          vol             0.40        0.12    0.93       0.93
+PVDAQ     fenetre        -0.02       -0.01   -0.06      -0.01
+          vol            -0.02        0.02   -0.06       0.02
+batteries fenetre         0.89        0.90    0.16       0.90
+          vol             0.40        0.77    0.21       0.77
+  N-CMAPSS     W par vol − W par fenêtre : +0.000 → un W par vol suffit
+  PVDAQ        W par vol − W par fenêtre : +0.033 → un W par vol suffit
+  batteries    W par vol − W par fenêtre : -0.129 → non
+
+=== (d) C1 avec référence saine : médiane sur les découpages ===
+                   lenteur  resid_quad  span_W  resid_quad_ref  span_W_ref
+scenario                                                                  
+descendante_h0.15     0.23        0.01    0.08            0.45        0.55
+montante_h0.15        0.20        0.03    0.15            0.15        0.23
+montante_h0.30        0.70        0.04    0.69            0.39        0.77
+  descendante_h0.15    → une référence saine rend le contexte utile
+  montante_h0.15       → non
+  montante_h0.30       → une référence saine rend le contexte utile

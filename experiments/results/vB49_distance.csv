@@ -1,0 +1,113 @@
+quel,jeu,cas,part_hors,rapport
+hors,N-CMAPSS,DS01 aucune ref u1,1.0,175.15665117125147
+hors,N-CMAPSS,DS01 aucune ref u4,0.9999679754051112,181.35559516146128
+hors,N-CMAPSS,DS01 aucune ref u7,0.9999679754051112,171.58220880718065
+hors,N-CMAPSS,DS01 aucune ref u9,0.9999679754051112,175.23694787113052
+hors,N-CMAPSS,DS05 aucune ref u4,0.9998853026862111,155.9964670522317
+hors,N-CMAPSS,DS05 aucune ref u5,0.9999770605372422,168.61210346420242
+hors,N-CMAPSS,DS05 aucune ref u8,0.9998853026862111,154.30060623398737
+hors,N-CMAPSS,DS05 aucune ref u10,0.99989677241759,154.17095117806605
+hors,N-CMAPSS,DS07 aucune ref u4,0.9998747996794872,161.71473132925837
+hors,N-CMAPSS,DS07 aucune ref u5,1.0,170.94296916749965
+hors,N-CMAPSS,DS07 aucune ref u8,0.9998873197115384,158.49394072561495
+hors,N-CMAPSS,DS07 aucune ref u10,0.9998998397435898,162.81186973971575
+hors,batteries,entr. uniforme → biaisee_basse_40C,0.940995245052258,522.8479518051124
+hors,batteries,entr. biaisee_basse_TA → biaisee_basse_40C,0.059016018988410315,0.00018340300800964523
+hors,batteries,entr. biaisee_haute_TA → biaisee_basse_40C,2.513815511079642e-05,5.21682102034782e-06
+hors,batteries,entr. biaisee_basse_40C → biaisee_basse_TA,0.05551631586382257,0.00013266343392332792
+hors,batteries,entr. biaisee_haute_40C → biaisee_basse_40C,0.13195285824430003,0.0002186408109827149
+hors,roulements,G1_sinus → G2_bruit_3var,0.586067784321122,1.1039337166333687
+hors,roulements,G2_bruit_3var → G1_sinus,0.4504896741375907,0.76058200973457
+hors,roulements,G3_vitesse → G1_sinus,0.4439872583738919,0.2070160755594081
+hors,roulements,G4_charge → G1_sinus,0.9967812603371423,13.341588096124205
+hors,gaz,gaz 1 impairs→pairs,1.0,745785219873.9105
+hors,gaz,gaz 1 pairs→impairs,1.0,745785219873.9105
+hors,gaz,gaz 2 impairs→pairs,1.0,855715248211.1934
+hors,gaz,gaz 2 pairs→impairs,1.0,855715248211.1934
+hors,gaz,gaz 3 impairs→pairs,1.0,797867421903.528
+hors,gaz,gaz 3 pairs→impairs,1.0,797867421903.528
+hors,gaz,gaz 4 impairs→pairs,1.0,777505817835.3062
+hors,gaz,gaz 4 pairs→impairs,1.0,777505817835.3062
+hors,gaz,gaz 5 impairs→pairs,1.0,683600896382.6321
+hors,gaz,gaz 5 pairs→impairs,1.0,683600896382.6321
+hors,gaz,gaz 6 impairs→pairs,1.0,402482196952.73193
+hors,gaz,gaz 6 pairs→impairs,1.0,402482196952.73193
+hors,PVDAQ,Las_Vegas→Golden sans 34,0.03446965514105504,0.2242397964551599
+hors,PVDAQ,Las_Vegas→Golden sans 35,0.03520692186271899,0.22522916453416256
+hors,PVDAQ,Las_Vegas→Golden sans 1276,0.025911515001916244,0.20285071682817335
+hors,PVDAQ,Las_Vegas→Golden sans 1278,0.031199049023365184,0.22286251046233443
+hors,PVDAQ,Golden→Las_Vegas sans 4,0.2613485899759033,0.220159289622757
+hors,PVDAQ,Golden→Las_Vegas sans 10,0.24423147038908277,0.23131502572950693
+hors,PVDAQ,Golden→Las_Vegas sans 33,0.23833204032008246,0.21682714383605045
+hors,PVDAQ,Golden→Las_Vegas sans 50,0.2977046501873727,0.3153354205099855
+dans,N-CMAPSS,DS01 aucune ref u1,0.5113608895334784,1.0130130214343325
+dans,N-CMAPSS,DS01 aucune ref u4,0.5534288249461276,1.0783255394770779
+dans,N-CMAPSS,DS01 aucune ref u7,0.45341198552084727,0.9345594942739907
+dans,N-CMAPSS,DS01 aucune ref u9,0.4575990359993975,0.9560238833701475
+dans,N-CMAPSS,DS05 aucune ref u4,0.4681630242173656,0.9574940564323793
+dans,N-CMAPSS,DS05 aucune ref u5,0.5801393728222997,1.1437961276562825
+dans,N-CMAPSS,DS05 aucune ref u8,0.43051031487513575,0.9028951549784983
+dans,N-CMAPSS,DS05 aucune ref u10,0.5621606173192341,1.1062795705078337
+dans,N-CMAPSS,DS07 aucune ref u4,0.5019408778739922,1.0035765234753746
+dans,N-CMAPSS,DS07 aucune ref u5,0.5806629074405171,1.1409264321138608
+dans,N-CMAPSS,DS07 aucune ref u8,0.4650112866817156,0.9498351618465275
+dans,N-CMAPSS,DS07 aucune ref u10,0.6409328508242863,1.2667120791621893
+dans,batteries,uniforme cellule 1,0.005420054200542005,0.007812493697757071
+dans,batteries,uniforme cellule 2,0.009971509971509971,0.022554694603092028
+dans,batteries,uniforme cellule 3,0.022588522588522588,0.015629786259963013
+dans,batteries,uniforme cellule 4,0.029768467475192944,0.018469083723676078
+dans,batteries,uniforme cellule 5,0.006424870466321244,0.007878804879257028
+dans,batteries,uniforme cellule 6,0.015501205649328281,0.008517692010583127
+dans,batteries,uniforme cellule 7,0.008495909376966647,0.008202072614583384
+dans,batteries,uniforme cellule 8,0.006446140797285836,0.00765385798441854
+dans,batteries,biaisee_basse_TA cellule 13,0.00973743037926723,6.493039441428327e-05
+dans,batteries,biaisee_basse_TA cellule 14,0.011324123672587163,5.084019135697222e-05
+dans,batteries,biaisee_basse_TA cellule 15,0.008727338161860632,4.953914569822737e-05
+dans,batteries,biaisee_basse_TA cellule 16,0.008901629450814725,8.629180726607493e-05
+dans,batteries,biaisee_haute_TA cellule 17,0.02442827442827443,6.218395105040213e-07
+dans,batteries,biaisee_haute_TA cellule 18,0.005579286897393427,4.885046410028514e-07
+dans,batteries,biaisee_haute_TA cellule 19,0.021467499667685765,6.759083501240735e-07
+dans,batteries,biaisee_haute_TA cellule 20,0.0,5.056003414386511e-07
+dans,batteries,biaisee_basse_40C cellule 21,0.010383659142982499,0.00010714700003421334
+dans,batteries,biaisee_basse_40C cellule 22,0.015169870950750593,8.521949795946438e-05
+dans,batteries,biaisee_basse_40C cellule 23,0.009095906841921136,8.771125954326954e-05
+dans,batteries,biaisee_basse_40C cellule 24,0.009068767165880707,8.311487957641297e-05
+dans,batteries,biaisee_haute_40C cellule 25,0.005929919137466307,3.579705493384754e-05
+dans,batteries,biaisee_haute_40C cellule 26,0.0015235457063711912,1.8957830582458024e-05
+dans,batteries,biaisee_haute_40C cellule 27,0.02981229297018771,0.0028327329966569936
+dans,batteries,biaisee_haute_40C cellule 28,0.0073966038128971765,0.000738779714681409
+dans,roulements,G1_sinus roulement 2,0.016901408450704224,0.4956104876213831
+dans,roulements,G1_sinus roulement 3,0.03257328990228013,0.6158250537014646
+dans,roulements,G1_sinus roulement 4,0.9417293233082706,2.7809091612692036
+dans,roulements,G1_sinus roulement 6,0.991792489353465,5.1588751455668405
+dans,roulements,G2_bruit_3var roulement 7,0.12197837150127226,0.36731425587316796
+dans,roulements,G2_bruit_3var roulement 8,0.04614518851997749,0.26805384334936133
+dans,roulements,G2_bruit_3var roulement 9,1.0,38.95502117615224
+dans,roulements,G2_bruit_3var roulement 10,0.9432534678436317,2.656045193482124
+dans,roulements,G3_vitesse roulement 11,0.8991295442908346,18.914397103382164
+dans,roulements,G3_vitesse roulement 12,0.16427640156453716,0.5105126073265572
+dans,roulements,G3_vitesse roulement 13,0.9097697893598393,10.18057356506062
+dans,roulements,G4_charge roulement 14,0.03669724770642202,0.1242771417806285
+dans,roulements,G4_charge roulement 15,0.11924491514157841,0.17568505583961963
+dans,roulements,G4_charge roulement 16,0.0013580037345102699,0.22482626433233777
+dans,roulements,G4_charge roulement 17,0.036223929747530186,0.2030181746294864
+dans,gaz,gaz 1 impairs→pairs (basses),0.0,0.0
+dans,gaz,gaz 1 pairs→impairs (basses),0.0,0.0
+dans,gaz,gaz 2 impairs→pairs (basses),0.0,0.0
+dans,gaz,gaz 2 pairs→impairs (basses),0.0,0.0
+dans,gaz,gaz 3 impairs→pairs (basses),0.0,0.0
+dans,gaz,gaz 3 pairs→impairs (basses),0.0,0.0
+dans,gaz,gaz 4 impairs→pairs (basses),0.0,0.0
+dans,gaz,gaz 4 pairs→impairs (basses),0.0,0.0
+dans,gaz,gaz 5 impairs→pairs (basses),0.0,0.0
+dans,gaz,gaz 5 pairs→impairs (basses),0.0,0.0
+dans,gaz,gaz 6 impairs→pairs (basses),0.0,0.0
+dans,gaz,gaz 6 pairs→impairs (basses),0.0,0.0
+dans,PVDAQ,contrôle Las_Vegas sans 34,0.010271577873112468,0.15364705704002196
+dans,PVDAQ,contrôle Las_Vegas sans 35,0.011410697938009504,0.15657423379015503
+dans,PVDAQ,contrôle Las_Vegas sans 1276,0.009963679198979091,0.13398312150123165
+dans,PVDAQ,contrôle Las_Vegas sans 1278,0.005927447113869993,0.14703332948779704
+dans,PVDAQ,contrôle Golden sans 4,0.007788861573373676,0.13706574131817234
+dans,PVDAQ,contrôle Golden sans 10,0.004462082173389405,0.14108934625638028
+dans,PVDAQ,contrôle Golden sans 33,0.003451025056947608,0.1327398124667824
+dans,PVDAQ,contrôle Golden sans 50,0.07201357201357202,0.20802148212679666

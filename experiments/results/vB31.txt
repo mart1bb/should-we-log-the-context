@@ -1,0 +1,45 @@
+                jours  age_max
+site      unit                
+Golden    4      2584     3352
+          10     3083     3623
+          33     2690     3324
+          50     1041     3125
+Las_Vegas 34     2794     3341
+          35     2418     3341
+          1276   2156     2978
+          1278   2224     2521
+
+                       cadre         entr            test  p_hors  R_chapeau    D  lenteur  modele  span_W choix_v1 choix_v2  regret_v1  regret_v2
+inter-sites Las_Vegas→Golden 35,1276,1278      4,10,33,50    0.00       5.18 0.02    -0.06   -0.04   -0.05   modele  lenteur       0.00       0.01
+          contrôle Las_Vegas 35,1276,1278              34    0.00       5.18 0.02     0.13    0.15    0.14   modele  lenteur       0.00       0.02
+inter-sites Las_Vegas→Golden 34,1276,1278      4,10,33,50    0.00       4.58 0.01    -0.06   -0.05   -0.06   modele  lenteur       0.00       0.01
+          contrôle Las_Vegas 34,1276,1278              35    0.00       4.58 0.01     0.11    0.08    0.10   modele  lenteur       0.03       0.00
+inter-sites Las_Vegas→Golden   34,35,1278      4,10,33,50    0.00       7.26 0.01    -0.06   -0.06   -0.06   modele  lenteur       0.00       0.00
+          contrôle Las_Vegas   34,35,1278            1276    0.00       7.26 0.01     0.05    0.11    0.06   modele  lenteur       0.00       0.05
+inter-sites Las_Vegas→Golden   34,35,1276      4,10,33,50    0.00       4.96 0.00    -0.07   -0.06   -0.06   modele  lenteur       0.00       0.01
+          contrôle Las_Vegas   34,35,1276            1278    0.00       4.96 0.00     0.09    0.06    0.09   modele  lenteur       0.04       0.00
+inter-sites Golden→Las_Vegas     10,33,50 34,35,1276,1278    0.84       2.92 0.82    -0.19    0.02   -0.17   span_W  lenteur       0.19       0.21
+             contrôle Golden     10,33,50               4    0.84       2.92 0.82     0.18    0.28    0.22   span_W  lenteur       0.06       0.10
+inter-sites Golden→Las_Vegas      4,33,50 34,35,1276,1278    0.85       2.41 0.83    -0.19    0.05   -0.17   span_W  lenteur       0.22       0.23
+             contrôle Golden      4,33,50              10    0.85       2.41 0.83     0.14    0.16    0.03   span_W  lenteur       0.13       0.01
+inter-sites Golden→Las_Vegas      4,10,50 34,35,1276,1278    0.81       2.65 0.82    -0.19    0.02   -0.17   span_W  lenteur       0.18       0.21
+             contrôle Golden      4,10,50              33    0.81       2.65 0.82     0.18    0.37    0.10   span_W  lenteur       0.26       0.18
+inter-sites Golden→Las_Vegas      4,10,33 34,35,1276,1278    0.04       2.64 0.87    -0.19    0.05    0.17   modele  lenteur       0.13       0.36
+             contrôle Golden      4,10,33              50    0.04       2.64 0.87    -0.04   -0.16   -0.11   modele  lenteur       0.12       0.00
+
+=== regret médian : inter-sites (critère) / contrôle ===
+                inter-sites  contrôle
+regret_v1             0.064     0.049
+regret_v2             0.110     0.018
+regret_lenteur        0.110     0.018
+regret_modele         0.000     0.000
+regret_span_W         0.003     0.055
+règle v1 validée sur ce jeu : NON
+règle v2 validée sur ce jeu : NON
+
+cas inter-sites à regret > 0,2 (v2) :
+                       cadre     entr  R_chapeau  lenteur  modele  span_W choix_v2  regret_v2
+inter-sites Golden→Las_Vegas 10,33,50       2.92    -0.19    0.02   -0.17  lenteur       0.21
+inter-sites Golden→Las_Vegas  4,33,50       2.41    -0.19    0.05   -0.17  lenteur       0.23
+inter-sites Golden→Las_Vegas  4,10,50       2.65    -0.19    0.02   -0.17  lenteur       0.21
+inter-sites Golden→Las_Vegas  4,10,33       2.64    -0.19    0.05    0.17  lenteur       0.36

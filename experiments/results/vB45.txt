@@ -1,0 +1,22 @@
+=== V-REx (lenteur, régimes = environnements) : médiane par jeu ===
+                vrex_b1  vrex_b10  vrex_b100    cf
+jeu                                               
+N-CMAPSS           0.83      0.84       0.84  0.92
+C-MAPSS retenu     0.76      0.77       0.63  0.88
+batteries         -0.24     -0.27      -0.26  0.70
+roulements         0.57      0.64       0.47  0.83
+gaz                0.34      0.35       0.34  0.69
+
+=== gain médian apparié sur la meilleure sans contexte ===
+                vrex_b1  vrex_b10  vrex_b100
+jeu                                         
+N-CMAPSS         -0.090    -0.076     -0.089
+C-MAPSS retenu   -0.120    -0.116     -0.251
+batteries        -0.764    -0.755     -0.766
+roulements       -0.211    -0.158     -0.299
+gaz              -0.278    -0.297     -0.380
+  N-CMAPSS         β = 10 : -0.076 → non ; oracle β : -0.076 → non
+  C-MAPSS retenu   β = 10 : -0.116 → non ; oracle β : -0.116 → non
+  batteries        β = 10 : -0.755 → non ; oracle β : -0.755 → non
+  roulements       β = 10 : -0.158 → non ; oracle β : -0.158 → non
+  gaz              β = 10 : -0.297 → non ; oracle β : -0.278 → non

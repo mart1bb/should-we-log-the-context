@@ -1,0 +1,40 @@
+=== médianes sur les 12 découpages, par scénario ===
+                            vols_par_unite  lenteur  resid_quad  span_W  R2W_lenteur  R2W_resid_quad  R2W_span_W
+scenario                                                                                                        
+aucune                               86.33     0.92        0.28    0.93         0.10            0.87        0.10
+controle descendante_h0.15           18.67     0.69        0.07    0.60         0.50            0.90        0.49
+controle montante_h0.15              18.33     0.68        0.06    0.59         0.53            0.89        0.58
+controle montante_h0.30              40.83     0.87        0.17    0.80         0.19            0.89        0.27
+descendante_h0.15                    19.00     0.23        0.01    0.08         0.83            0.92        0.62
+montante_h0.15                       18.33     0.20        0.03    0.15         0.91            0.91        0.76
+montante_h0.30                       40.33     0.70        0.04    0.69         0.31            0.82        0.39
+
+=== par DS (Spearman médian) ===
+DS                                     DS01  DS05  DS07
+           scenario                                    
+lenteur    aucune                      0.97  0.91  0.90
+           controle descendante_h0.15  0.51  0.66  0.79
+           controle montante_h0.15     0.77  0.39  0.54
+           controle montante_h0.30     0.81  0.84  0.87
+           descendante_h0.15           0.13  0.38  0.14
+           montante_h0.15              0.02  0.24  0.42
+           montante_h0.30              0.58  0.48  0.78
+resid_quad aucune                      0.11  0.42  0.25
+           controle descendante_h0.15  0.01  0.13  0.08
+           controle montante_h0.15    -0.00  0.06  0.02
+           controle montante_h0.30     0.04  0.17  0.27
+           descendante_h0.15          -0.29 -0.03  0.14
+           montante_h0.15             -0.29  0.08  0.02
+           montante_h0.30              0.02 -0.00  0.07
+span_W     aucune                      0.96  0.91  0.90
+           controle descendante_h0.15  0.28  0.57  0.78
+           controle montante_h0.15     0.73  0.04  0.68
+           controle montante_h0.30     0.78  0.80  0.73
+           descendante_h0.15           0.37 -0.02  0.00
+           montante_h0.15             -0.01  0.18  0.58
+           montante_h0.30              0.63  0.03  0.81
+
+=== lecture fixée ===
+montante_h0.30       lenteur 0.70 (contrôle 0.87) → piégée : OUI ; span_W 0.69 → le contexte aide : non
+montante_h0.15       lenteur 0.20 (contrôle 0.68) → piégée : OUI ; span_W 0.15 → le contexte aide : non
+descendante_h0.15    lenteur 0.23 (contrôle 0.69) → piégée : OUI ; span_W 0.08 → le contexte aide : non

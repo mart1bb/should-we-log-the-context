@@ -1,0 +1,28 @@
+=== étapes par groupe ; cycles par batterie ===
+                   etapes  batteries   I_max
+groupe                                      
+biaisee_basse_40C   78804          4  5.0005
+biaisee_basse_TA    89788          4  5.0000
+biaisee_haute_40C   36962          4  5.0010
+biaisee_haute_TA    52493          4  5.0000
+uniforme            33127          8  4.0400
+
+=== sp_capacite — médiane par groupe ===
+methode                                                sfa_brut  sfa_resid_lin  sfa_resid_quad  span_W  sonde
+cadre                               groupe                                                                   
+classe non vue                      biaisee_basse_40C      0.08           0.87            0.86   -0.12   0.98
+                                    biaisee_basse_TA      -0.25           0.88            0.94   -0.79   0.95
+                                    biaisee_haute_40C     -0.48           0.74            0.65   -0.60   0.92
+                                    biaisee_haute_TA      -0.08           0.91            0.91   -0.72   0.94
+contrôle (uniforme laissée de côté) uniforme               0.71           0.85            0.90    0.53   0.90
+
+=== sp_cycle — médiane par groupe ===
+methode                                                sfa_brut  sfa_resid_lin  sfa_resid_quad  span_W  sonde
+cadre                               groupe                                                                   
+classe non vue                      biaisee_basse_40C      0.08           0.87            0.86   -0.12   0.98
+                                    biaisee_basse_TA      -0.25           0.88            0.94   -0.79   0.95
+                                    biaisee_haute_40C     -0.48           0.74            0.65   -0.60   0.92
+                                    biaisee_haute_TA      -0.08           0.92            0.90   -0.73   0.94
+contrôle (uniforme laissée de côté) uniforme               0.72           0.85            0.90    0.53   0.91
+
+diagnostics sans étiquettes (SFA brute, batteries uniformes) : R̂ = 0.6, D = 0.21

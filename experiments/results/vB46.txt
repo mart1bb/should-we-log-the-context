@@ -1,0 +1,22 @@
+=== seuil de la référence (classe vue) appliqué aux non vues : médianes sur les 12 cas ===
+                  FA_non_vue  FA_ref  rappel_non_vue  rappel_ref  transfère
+methode                                                                    
+span_W                 0.000   0.065           0.622       0.981      False
+tendance_moy           0.000   0.065           0.000       0.310      False
+bajarunas_corr         0.000   0.065           0.407       0.984      False
+lenteur                0.000   0.065           0.704       0.981      False
+resid_quad             0.116   0.065           0.231       0.615      False
+invariant_regime       0.258   0.065           0.525       0.749      False
+tendance_reg           0.310   0.065           0.545       0.621      False
+norm_regime            0.349   0.065           0.783       0.687      False
+bajarunas_mono         0.950   0.065           1.000       0.978      False
+autoencodeur           1.000   0.065           1.000       0.466      False
+resid_GP               1.000   0.065           1.000       0.502      False
+resid_GP_z             1.000   0.065           1.000       0.599      False
+resid_lin              1.000   0.065           1.000       0.752      False
+acp_T2                 1.000   0.065           1.000       0.044      False
+residu_FNN             1.000   0.065           1.000       0.602      False
+acp_SPE                1.000   0.065           1.000       0.433      False
+DANN                   1.000   0.065           1.000       0.056      False
+
+méthodes dont le seuil se transfère : aucune

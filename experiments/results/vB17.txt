@@ -1,0 +1,59 @@
+=== ancres par classe : pente commune b, bruit σ, b/σ ===
+  DS        methode classe       b  sigma  b_sur_sigma
+DS01 sfa (A, citée)    Fc1  0.0031 0.0043       0.7205
+DS01 sfa (A, citée)    Fc2  0.0060 0.0120       0.5023
+DS01 sfa (A, citée)    Fc3  0.0033 0.0219       0.1521
+DS01         span_W    Fc1  0.0061 0.0138       0.4433
+DS01         span_W    Fc2  0.0213 0.0511       0.4159
+DS01         span_W    Fc3  0.0032 0.1846       0.0175
+DS05 sfa (A, citée)    Fc1  0.0023 0.0059       0.3898
+DS05 sfa (A, citée)    Fc2  0.0065 0.0143       0.4500
+DS05 sfa (A, citée)    Fc3 -0.0027 0.0372      -0.0713
+DS05         span_W    Fc1  0.0053 0.0180       0.2931
+DS05         span_W    Fc2  0.0215 0.0771       0.2787
+DS05         span_W    Fc3 -0.0192 0.2595      -0.0741
+DS07 sfa (A, citée)    Fc1  0.0007 0.0024       0.2846
+DS07 sfa (A, citée)    Fc2 -0.0004 0.0232      -0.0177
+DS07 sfa (A, citée)    Fc3 -0.0000 0.0713      -0.0002
+DS07         span_W    Fc1  0.0038 0.0116       0.3237
+DS07         span_W    Fc2  0.0155 0.0931       0.1664
+DS07         span_W    Fc3 -0.0134 0.2782      -0.0480
+
+=== unités (FA / rappel / délai ; non-détection) ===
+  DS        methode       alarme  unite    role classe   FA  rappel  delai  non_detecte
+DS01 sfa (A, citée) flotte_pente      9     ref    Fc1 0.05    0.72   0.08        False
+DS01 sfa (A, citée) flotte_pente      8 non_vue    Fc2 0.00    0.61   0.13        False
+DS01 sfa (A, citée) flotte_pente     10 non_vue    Fc3 0.17    0.82   0.03        False
+DS01 sfa (A, citée) flotte_bruit      9     ref    Fc1 0.05    0.72   0.08        False
+DS01 sfa (A, citée) flotte_bruit      8 non_vue    Fc2 0.00    0.61   0.13        False
+DS01 sfa (A, citée) flotte_bruit     10 non_vue    Fc3 0.17    0.77   0.03        False
+DS01         span_W flotte_pente      9     ref    Fc1 0.05    0.74   0.08        False
+DS01         span_W flotte_pente      8 non_vue    Fc2 0.00    0.41   0.27        False
+DS01         span_W flotte_pente     10 non_vue    Fc3 0.50    0.86   0.02        False
+DS01         span_W flotte_bruit      9     ref    Fc1 0.05    0.74   0.08        False
+DS01         span_W flotte_bruit      8 non_vue    Fc2 0.00    0.41   0.27        False
+DS01         span_W flotte_bruit     10 non_vue    Fc3 0.67    0.89   0.02        False
+DS05 sfa (A, citée) flotte_pente     10     ref    Fc1 0.09    0.87   0.04        False
+DS05 sfa (A, citée) flotte_pente      7 non_vue    Fc2 0.00    0.34   0.18        False
+DS05 sfa (A, citée) flotte_pente      9 non_vue    Fc3 0.29    0.02    NaN         True
+DS05 sfa (A, citée) flotte_bruit     10     ref    Fc1 0.09    0.87   0.04        False
+DS05 sfa (A, citée) flotte_bruit      7 non_vue    Fc2 0.00    0.34   0.18        False
+DS05 sfa (A, citée) flotte_bruit      9 non_vue    Fc3 1.00    1.00   0.01        False
+DS05         span_W flotte_pente     10     ref    Fc1 0.09    0.67   0.09        False
+DS05         span_W flotte_pente      7 non_vue    Fc2 0.09    0.24   0.31        False
+DS05         span_W flotte_pente      9 non_vue    Fc3 0.00    0.00    NaN         True
+DS05         span_W flotte_bruit     10     ref    Fc1 0.09    0.67   0.09        False
+DS05         span_W flotte_bruit      7 non_vue    Fc2 0.09    0.24   0.31        False
+DS05         span_W flotte_bruit      9 non_vue    Fc3 0.71    0.96   0.01        False
+DS07 sfa (A, citée) flotte_pente     10     ref    Fc1 0.09    1.00   0.03        False
+DS07 sfa (A, citée) flotte_pente      7 non_vue    Fc2 0.09    0.04   0.03        False
+DS07 sfa (A, citée) flotte_pente      9 non_vue    Fc3 0.00    0.03    NaN         True
+DS07 sfa (A, citée) flotte_bruit     10     ref    Fc1 0.09    1.00   0.03        False
+DS07 sfa (A, citée) flotte_bruit      7 non_vue    Fc2 0.00    0.55   0.12        False
+DS07 sfa (A, citée) flotte_bruit      9 non_vue    Fc3 0.00    0.36   0.26        False
+DS07         span_W flotte_pente     10     ref    Fc1 0.09    0.73   0.06        False
+DS07         span_W flotte_pente      7 non_vue    Fc2 0.45    0.44   0.01        False
+DS07         span_W flotte_pente      9 non_vue    Fc3 0.00    0.03    NaN         True
+DS07         span_W flotte_bruit     10     ref    Fc1 0.09    0.73   0.06        False
+DS07         span_W flotte_bruit      7 non_vue    Fc2 0.27    0.42   0.19        False
+DS07         span_W flotte_bruit      9 non_vue    Fc3 0.86    0.96   0.01        False

@@ -1,0 +1,49 @@
+PLACEBO : effet médian (réponse − propre)
+estimation                       est_brut                               est_ctx                              
+reponse                               cat cat_capteurs   date detection     cat cat_capteurs   date detection
+jeu     categorie   methode                                                                                  
+C-MAPSS maintenance lenteur        -0.000       -0.473 -0.043    -0.018  -0.000        0.008 -0.082    -0.215
+                    resid_quad     -0.001       -0.834 -0.682    -0.881  -0.001       -0.761 -0.230    -0.222
+                    span_W          0.000       -0.452 -0.043    -0.029   0.000       -0.037 -0.100    -0.187
+                    tendance_reg    0.003       -0.059 -0.002    -0.014   0.003        0.002 -0.008    -0.088
+        mesure      lenteur        -0.054       -0.704 -0.054    -0.018  -0.093        0.005 -0.093    -0.215
+                    resid_quad     -0.837       -0.551 -0.837    -0.881  -0.201       -0.606 -0.201    -0.222
+                    span_W         -0.054       -0.683 -0.054    -0.029  -0.107       -0.026 -0.107    -0.187
+                    tendance_reg   -0.007       -0.043 -0.007    -0.014  -0.025        0.001 -0.025    -0.088
+        production  lenteur        -1.022       -0.309 -0.064    -0.018  -1.200       -0.247 -0.077    -0.215
+                    resid_quad     -0.853       -0.312 -0.415    -0.881  -1.299       -0.929 -0.179    -0.222
+                    span_W         -0.908       -0.270 -0.067    -0.029  -1.164       -0.299 -0.117    -0.187
+                    tendance_reg   -0.373       -0.236  0.001    -0.014  -1.174       -0.077 -0.014    -0.088
+
+INJECTÉ : dégât sans journal (sans − propre)
+                                      d
+jeu     categorie   methode            
+C-MAPSS maintenance lenteur      -0.927
+                    resid_quad   -0.870
+                    span_W       -0.905
+                    tendance_reg -0.966
+        mesure      lenteur      -0.680
+                    resid_quad   -0.575
+                    span_W       -0.662
+                    tendance_reg -0.460
+        production  lenteur      -0.569
+                    resid_quad   -0.551
+                    span_W       -0.598
+                    tendance_reg -0.625
+
+INJECTÉ : gain médian (réponse − sans_journal)
+estimation                       est_brut                               est_ctx                              
+reponse                               cat cat_capteurs   date detection     cat cat_capteurs   date detection
+jeu     categorie   methode                                                                                  
+C-MAPSS maintenance lenteur         0.114        0.201  0.237     0.243   0.114        0.089  0.122     0.238
+                    resid_quad      0.085        0.080  0.011     0.012   0.085        0.109  0.037     0.065
+                    span_W          0.113        0.200  0.203     0.242   0.113        0.153  0.121     0.236
+                    tendance_reg    0.270        0.449  0.534     0.440   0.270        0.419  0.340     0.223
+        mesure      lenteur         0.626       -0.024  0.626     0.130  -0.007        0.537 -0.007    -0.092
+                    resid_quad     -0.262        0.024 -0.262    -0.020  -0.251       -0.124 -0.251    -0.283
+                    span_W          0.608       -0.021  0.608     0.130  -0.110        0.106 -0.110    -0.027
+                    tendance_reg    0.452        0.416  0.452     0.407  -0.050        0.433 -0.050    -0.175
+        production  lenteur        -0.454        0.259  0.097    -0.234  -0.042        0.234  0.049    -0.093
+                    resid_quad     -0.302        0.239 -0.329    -0.292  -0.754        0.539  0.025    -0.114
+                    span_W         -0.311        0.328  0.129    -0.079   0.137        0.284  0.115    -0.282
+                    tendance_reg    0.252        0.390 -0.003    -0.426   0.665        0.310 -0.004    -0.217

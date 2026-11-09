@@ -1,0 +1,28 @@
+ gaz     decoupage  n_tr  n_te  lots_te  p_hors  R_chapeau    D  lenteur  modele  span_W choix_v1 choix_v2  regret_v1  regret_v2
+   1 impairs→pairs 11680  8840        8    0.07      11.46 0.03     0.37    0.28    0.32   modele  lenteur       0.08       0.00
+   1 pairs→impairs 11680  8840        8    0.07      13.28 0.02     0.34    0.20    0.29   modele  lenteur       0.13       0.00
+   2 impairs→pairs 13368 10040        7    0.59       2.83 0.05     0.00    0.35   -0.08  lenteur  lenteur       0.35       0.35
+   2 pairs→impairs 13368 10040        7    0.71       3.32 0.04    -0.15    0.32    0.28  lenteur  lenteur       0.46       0.46
+   3 impairs→pairs  6608  6520        8    0.93       8.72 0.04     0.80    0.72    0.78  lenteur  lenteur       0.00       0.00
+   3 pairs→impairs  6608  6520        8    0.97       4.96 0.02     0.68    0.69    0.53  lenteur  lenteur       0.01       0.01
+   4 impairs→pairs  7760  7728        9    0.03       8.85 0.04     0.62    0.82    0.62   modele  lenteur       0.00       0.19
+   4 pairs→impairs  7760  7728        9    0.03       8.82 0.05     0.61    0.65    0.60   modele  lenteur       0.00       0.04
+   5 impairs→pairs 12288 11784        9    0.81      14.93 0.06     0.46   -0.49    0.39  lenteur  lenteur       0.00       0.00
+   5 pairs→impairs 12288 11784        9    0.20      10.20 0.10    -0.25   -0.42    0.17   modele  lenteur       0.59       0.42
+   6 impairs→pairs  9344  5320        5    0.03       9.54 0.15     0.54   -0.54    0.33   modele  lenteur       1.07       0.00
+   6 pairs→impairs  9344  5320        5    0.03       5.55 0.20     0.48   -0.36    0.04   modele  lenteur       0.84       0.00
+
+=== regret médian sur les 12 cas ===
+regret_v1         0.109
+regret_v2         0.004
+regret_lenteur    0.004
+regret_modele     0.083
+regret_span_W     0.061
+règle v1 validée sur ce jeu : NON
+règle v2 validée sur ce jeu : OUI
+
+cas à regret > 0,2 (v2) :
+ gaz     decoupage  R_chapeau  lenteur  modele  span_W choix_v2  regret_v2
+   2 impairs→pairs       2.83     0.00    0.35   -0.08  lenteur       0.35
+   2 pairs→impairs       3.32    -0.15    0.32    0.28  lenteur       0.46
+   5 pairs→impairs      10.20    -0.25   -0.42    0.17  lenteur       0.42

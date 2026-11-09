@@ -1,0 +1,1001 @@
+jeu,cas,methode,rho
+C-MAPSS retenu,FD002 R20 tirage 0,invariant_regime_K12,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,invariant_regime_K2,-0.049303289049205556
+C-MAPSS retenu,FD002 R20 tirage 0,invariant_regime_K24,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,invariant_regime_K4,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,invariant_regime_K6,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,invariant_regime_natif,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,norm_regime_K12,0.815468504942189
+C-MAPSS retenu,FD002 R20 tirage 0,norm_regime_K2,0.8710893343753383
+C-MAPSS retenu,FD002 R20 tirage 0,norm_regime_K24,0.828083028083028
+C-MAPSS retenu,FD002 R20 tirage 0,norm_regime_K4,0.8053247050524728
+C-MAPSS retenu,FD002 R20 tirage 0,norm_regime_K6,0.8181658076394918
+C-MAPSS retenu,FD002 R20 tirage 0,norm_regime_natif,0.8181658076394918
+C-MAPSS retenu,FD002 R20 tirage 1,invariant_regime_K12,0.7873024021474786
+C-MAPSS retenu,FD002 R20 tirage 1,invariant_regime_K2,-0.1023063948132894
+C-MAPSS retenu,FD002 R20 tirage 1,invariant_regime_K24,0.7873024021474786
+C-MAPSS retenu,FD002 R20 tirage 1,invariant_regime_K4,0.7873024021474786
+C-MAPSS retenu,FD002 R20 tirage 1,invariant_regime_K6,0.7873024021474786
+C-MAPSS retenu,FD002 R20 tirage 1,invariant_regime_natif,0.7873024021474786
+C-MAPSS retenu,FD002 R20 tirage 1,norm_regime_K12,0.7948444395812816
+C-MAPSS retenu,FD002 R20 tirage 1,norm_regime_K2,0.8658996162567589
+C-MAPSS retenu,FD002 R20 tirage 1,norm_regime_K24,0.8003209472868915
+C-MAPSS retenu,FD002 R20 tirage 1,norm_regime_K4,0.7576631066550421
+C-MAPSS retenu,FD002 R20 tirage 1,norm_regime_K6,0.7959922146254912
+C-MAPSS retenu,FD002 R20 tirage 1,norm_regime_natif,0.7900866486180578
+C-MAPSS retenu,FD002 R20 tirage 2,invariant_regime_K12,0.28258603583680986
+C-MAPSS retenu,FD002 R20 tirage 2,invariant_regime_K2,-0.11600534600534601
+C-MAPSS retenu,FD002 R20 tirage 2,invariant_regime_K24,0.28258603583680986
+C-MAPSS retenu,FD002 R20 tirage 2,invariant_regime_K4,0.28258603583680986
+C-MAPSS retenu,FD002 R20 tirage 2,invariant_regime_K6,0.28258603583680986
+C-MAPSS retenu,FD002 R20 tirage 2,invariant_regime_natif,0.28258603583680986
+C-MAPSS retenu,FD002 R20 tirage 2,norm_regime_K12,0.8034137757667168
+C-MAPSS retenu,FD002 R20 tirage 2,norm_regime_K2,0.8746753246753246
+C-MAPSS retenu,FD002 R20 tirage 2,norm_regime_K24,0.8069980912086175
+C-MAPSS retenu,FD002 R20 tirage 2,norm_regime_K4,0.7927450980392157
+C-MAPSS retenu,FD002 R20 tirage 2,norm_regime_K6,0.8029612870789341
+C-MAPSS retenu,FD002 R20 tirage 2,norm_regime_natif,0.8028479753866751
+C-MAPSS retenu,FD002 R20 tirage 3,invariant_regime_K12,0.4308831021839959
+C-MAPSS retenu,FD002 R20 tirage 3,invariant_regime_K2,-0.027591036414565825
+C-MAPSS retenu,FD002 R20 tirage 3,invariant_regime_K24,0.4308831021839959
+C-MAPSS retenu,FD002 R20 tirage 3,invariant_regime_K4,0.4308831021839959
+C-MAPSS retenu,FD002 R20 tirage 3,invariant_regime_K6,0.4308831021839959
+C-MAPSS retenu,FD002 R20 tirage 3,invariant_regime_natif,0.4308831021839959
+C-MAPSS retenu,FD002 R20 tirage 3,norm_regime_K12,0.8721322537112011
+C-MAPSS retenu,FD002 R20 tirage 3,norm_regime_K2,0.8863413282651031
+C-MAPSS retenu,FD002 R20 tirage 3,norm_regime_K24,0.8762446657183499
+C-MAPSS retenu,FD002 R20 tirage 3,norm_regime_K4,0.8580086101637825
+C-MAPSS retenu,FD002 R20 tirage 3,norm_regime_K6,0.8709101894219862
+C-MAPSS retenu,FD002 R20 tirage 3,norm_regime_natif,0.8709101894219862
+C-MAPSS retenu,FD002 R20 tirage 4,invariant_regime_K12,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,invariant_regime_K2,-0.002605612087573234
+C-MAPSS retenu,FD002 R20 tirage 4,invariant_regime_K24,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,invariant_regime_K4,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,invariant_regime_K6,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,invariant_regime_natif,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,norm_regime_K12,0.8300433438364474
+C-MAPSS retenu,FD002 R20 tirage 4,norm_regime_K2,0.8768692737837198
+C-MAPSS retenu,FD002 R20 tirage 4,norm_regime_K24,0.8309510835720513
+C-MAPSS retenu,FD002 R20 tirage 4,norm_regime_K4,0.7993951612903226
+C-MAPSS retenu,FD002 R20 tirage 4,norm_regime_K6,0.8337780753103334
+C-MAPSS retenu,FD002 R20 tirage 4,norm_regime_natif,0.8255861773103153
+C-MAPSS retenu,FD002 R42 tirage 0,invariant_regime_K12,0.8119854751699329
+C-MAPSS retenu,FD002 R42 tirage 0,invariant_regime_K2,0.8415601663322028
+C-MAPSS retenu,FD002 R42 tirage 0,invariant_regime_K24,0.8119854751699329
+C-MAPSS retenu,FD002 R42 tirage 0,invariant_regime_K4,0.8119854751699329
+C-MAPSS retenu,FD002 R42 tirage 0,invariant_regime_K6,0.8119854751699329
+C-MAPSS retenu,FD002 R42 tirage 0,invariant_regime_natif,0.8119854751699329
+C-MAPSS retenu,FD002 R42 tirage 0,norm_regime_K12,0.7512585275931138
+C-MAPSS retenu,FD002 R42 tirage 0,norm_regime_K2,0.8456934738544927
+C-MAPSS retenu,FD002 R42 tirage 0,norm_regime_K24,0.7584218018813241
+C-MAPSS retenu,FD002 R42 tirage 0,norm_regime_K4,0.6039562255351729
+C-MAPSS retenu,FD002 R42 tirage 0,norm_regime_K6,0.8304277423922467
+C-MAPSS retenu,FD002 R42 tirage 0,norm_regime_natif,0.8315362422155568
+C-MAPSS retenu,FD002 R42 tirage 1,invariant_regime_K12,0.7025837414724035
+C-MAPSS retenu,FD002 R42 tirage 1,invariant_regime_K2,0.79574496754318
+C-MAPSS retenu,FD002 R42 tirage 1,invariant_regime_K24,0.7025837414724035
+C-MAPSS retenu,FD002 R42 tirage 1,invariant_regime_K4,0.702652140925208
+C-MAPSS retenu,FD002 R42 tirage 1,invariant_regime_K6,0.7025837414724035
+C-MAPSS retenu,FD002 R42 tirage 1,invariant_regime_natif,0.7025837414724035
+C-MAPSS retenu,FD002 R42 tirage 1,norm_regime_K12,0.5650180515160322
+C-MAPSS retenu,FD002 R42 tirage 1,norm_regime_K2,0.8356726122714495
+C-MAPSS retenu,FD002 R42 tirage 1,norm_regime_K24,0.4497438713856625
+C-MAPSS retenu,FD002 R42 tirage 1,norm_regime_K4,0.3448292230694499
+C-MAPSS retenu,FD002 R42 tirage 1,norm_regime_K6,0.7709250376512775
+C-MAPSS retenu,FD002 R42 tirage 1,norm_regime_natif,0.7681791811997334
+C-MAPSS retenu,FD002 R42 tirage 2,invariant_regime_K12,0.8025065180309652
+C-MAPSS retenu,FD002 R42 tirage 2,invariant_regime_K2,0.8322525056534241
+C-MAPSS retenu,FD002 R42 tirage 2,invariant_regime_K24,0.8025065180309652
+C-MAPSS retenu,FD002 R42 tirage 2,invariant_regime_K4,0.8025065180309652
+C-MAPSS retenu,FD002 R42 tirage 2,invariant_regime_K6,0.8025065180309652
+C-MAPSS retenu,FD002 R42 tirage 2,invariant_regime_natif,0.8025065180309652
+C-MAPSS retenu,FD002 R42 tirage 2,norm_regime_K12,0.7980724865260913
+C-MAPSS retenu,FD002 R42 tirage 2,norm_regime_K2,0.8524720893141946
+C-MAPSS retenu,FD002 R42 tirage 2,norm_regime_K24,0.6623282727725237
+C-MAPSS retenu,FD002 R42 tirage 2,norm_regime_K4,0.5647736866030262
+C-MAPSS retenu,FD002 R42 tirage 2,norm_regime_K6,0.8186623623903468
+C-MAPSS retenu,FD002 R42 tirage 2,norm_regime_natif,0.8186932151609256
+C-MAPSS retenu,FD002 R42 tirage 3,invariant_regime_K12,0.8694285483908124
+C-MAPSS retenu,FD002 R42 tirage 3,invariant_regime_K2,0.8805837768101918
+C-MAPSS retenu,FD002 R42 tirage 3,invariant_regime_K24,0.8693882323127604
+C-MAPSS retenu,FD002 R42 tirage 3,invariant_regime_K4,0.8698474159862298
+C-MAPSS retenu,FD002 R42 tirage 3,invariant_regime_K6,0.8692244667581595
+C-MAPSS retenu,FD002 R42 tirage 3,invariant_regime_natif,0.8692244667581595
+C-MAPSS retenu,FD002 R42 tirage 3,norm_regime_K12,0.7362557478310903
+C-MAPSS retenu,FD002 R42 tirage 3,norm_regime_K2,0.8639691265871077
+C-MAPSS retenu,FD002 R42 tirage 3,norm_regime_K24,0.5834612256177231
+C-MAPSS retenu,FD002 R42 tirage 3,norm_regime_K4,0.7029981861835903
+C-MAPSS retenu,FD002 R42 tirage 3,norm_regime_K6,0.8790588978697429
+C-MAPSS retenu,FD002 R42 tirage 3,norm_regime_natif,0.8781180222451825
+C-MAPSS retenu,FD002 R42 tirage 4,invariant_regime_K12,0.8191908659515315
+C-MAPSS retenu,FD002 R42 tirage 4,invariant_regime_K2,0.8308697662036787
+C-MAPSS retenu,FD002 R42 tirage 4,invariant_regime_K24,0.8191908659515315
+C-MAPSS retenu,FD002 R42 tirage 4,invariant_regime_K4,0.8193415982268933
+C-MAPSS retenu,FD002 R42 tirage 4,invariant_regime_K6,0.8191908659515315
+C-MAPSS retenu,FD002 R42 tirage 4,invariant_regime_natif,0.8191908659515315
+C-MAPSS retenu,FD002 R42 tirage 4,norm_regime_K12,0.8254747247525704
+C-MAPSS retenu,FD002 R42 tirage 4,norm_regime_K2,0.8512516469038207
+C-MAPSS retenu,FD002 R42 tirage 4,norm_regime_K24,0.8409407612860056
+C-MAPSS retenu,FD002 R42 tirage 4,norm_regime_K4,0.6194805194805195
+C-MAPSS retenu,FD002 R42 tirage 4,norm_regime_K6,0.823860076800276
+C-MAPSS retenu,FD002 R42 tirage 4,norm_regime_natif,0.8239110972084394
+C-MAPSS retenu,FD002 R60 tirage 0,invariant_regime_K12,0.8146599324574854
+C-MAPSS retenu,FD002 R60 tirage 0,invariant_regime_K2,0.8005177705177706
+C-MAPSS retenu,FD002 R60 tirage 0,invariant_regime_K24,0.8146599324574854
+C-MAPSS retenu,FD002 R60 tirage 0,invariant_regime_K4,0.8146599324574854
+C-MAPSS retenu,FD002 R60 tirage 0,invariant_regime_K6,0.8146599324574854
+C-MAPSS retenu,FD002 R60 tirage 0,invariant_regime_natif,0.8146599324574854
+C-MAPSS retenu,FD002 R60 tirage 0,norm_regime_K12,0.8199264705882354
+C-MAPSS retenu,FD002 R60 tirage 0,norm_regime_K2,0.8448874417802311
+C-MAPSS retenu,FD002 R60 tirage 0,norm_regime_K24,0.8246302308802309
+C-MAPSS retenu,FD002 R60 tirage 0,norm_regime_K4,0.7691880341880342
+C-MAPSS retenu,FD002 R60 tirage 0,norm_regime_K6,0.8176187782805431
+C-MAPSS retenu,FD002 R60 tirage 0,norm_regime_natif,0.8156134306869601
+C-MAPSS retenu,FD002 R60 tirage 1,invariant_regime_K12,0.7830697433238266
+C-MAPSS retenu,FD002 R60 tirage 1,invariant_regime_K2,0.7740010946907498
+C-MAPSS retenu,FD002 R60 tirage 1,invariant_regime_K24,0.7830697433238266
+C-MAPSS retenu,FD002 R60 tirage 1,invariant_regime_K4,0.7830697433238266
+C-MAPSS retenu,FD002 R60 tirage 1,invariant_regime_K6,0.7830697433238266
+C-MAPSS retenu,FD002 R60 tirage 1,invariant_regime_natif,0.7830697433238266
+C-MAPSS retenu,FD002 R60 tirage 1,norm_regime_K12,0.8080925446367724
+C-MAPSS retenu,FD002 R60 tirage 1,norm_regime_K2,0.8305370042251601
+C-MAPSS retenu,FD002 R60 tirage 1,norm_regime_K24,0.8140459781764129
+C-MAPSS retenu,FD002 R60 tirage 1,norm_regime_K4,0.7013915203570377
+C-MAPSS retenu,FD002 R60 tirage 1,norm_regime_K6,0.7985494210090984
+C-MAPSS retenu,FD002 R60 tirage 1,norm_regime_natif,0.7926711941143181
+C-MAPSS retenu,FD002 R60 tirage 2,invariant_regime_K12,0.8337958807369263
+C-MAPSS retenu,FD002 R60 tirage 2,invariant_regime_K2,0.8260911809342815
+C-MAPSS retenu,FD002 R60 tirage 2,invariant_regime_K24,0.8337958807369263
+C-MAPSS retenu,FD002 R60 tirage 2,invariant_regime_K4,0.8337958807369263
+C-MAPSS retenu,FD002 R60 tirage 2,invariant_regime_K6,0.8337958807369263
+C-MAPSS retenu,FD002 R60 tirage 2,invariant_regime_natif,0.8337958807369263
+C-MAPSS retenu,FD002 R60 tirage 2,norm_regime_K12,0.8280634017476123
+C-MAPSS retenu,FD002 R60 tirage 2,norm_regime_K2,0.845232519969362
+C-MAPSS retenu,FD002 R60 tirage 2,norm_regime_K24,0.834877734877735
+C-MAPSS retenu,FD002 R60 tirage 2,norm_regime_K4,0.77421559490525
+C-MAPSS retenu,FD002 R60 tirage 2,norm_regime_K6,0.8280634017476123
+C-MAPSS retenu,FD002 R60 tirage 2,norm_regime_natif,0.8280634017476123
+C-MAPSS retenu,FD002 R60 tirage 3,invariant_regime_K12,0.8514203092304116
+C-MAPSS retenu,FD002 R60 tirage 3,invariant_regime_K2,0.8504393250373261
+C-MAPSS retenu,FD002 R60 tirage 3,invariant_regime_K24,0.8514203092304116
+C-MAPSS retenu,FD002 R60 tirage 3,invariant_regime_K4,0.8514203092304116
+C-MAPSS retenu,FD002 R60 tirage 3,invariant_regime_K6,0.8514203092304116
+C-MAPSS retenu,FD002 R60 tirage 3,invariant_regime_natif,0.8514203092304116
+C-MAPSS retenu,FD002 R60 tirage 3,norm_regime_K12,0.864112996977447
+C-MAPSS retenu,FD002 R60 tirage 3,norm_regime_K2,0.8760526315789474
+C-MAPSS retenu,FD002 R60 tirage 3,norm_regime_K24,0.8700513196480938
+C-MAPSS retenu,FD002 R60 tirage 3,norm_regime_K4,0.8334263359730252
+C-MAPSS retenu,FD002 R60 tirage 3,norm_regime_K6,0.8502147525676937
+C-MAPSS retenu,FD002 R60 tirage 3,norm_regime_natif,0.8489542483660131
+C-MAPSS retenu,FD002 R60 tirage 4,invariant_regime_K12,0.8186640758622183
+C-MAPSS retenu,FD002 R60 tirage 4,invariant_regime_K2,0.8130556645262528
+C-MAPSS retenu,FD002 R60 tirage 4,invariant_regime_K24,0.8186640758622183
+C-MAPSS retenu,FD002 R60 tirage 4,invariant_regime_K4,0.8186640758622183
+C-MAPSS retenu,FD002 R60 tirage 4,invariant_regime_K6,0.8186640758622183
+C-MAPSS retenu,FD002 R60 tirage 4,invariant_regime_natif,0.8186640758622183
+C-MAPSS retenu,FD002 R60 tirage 4,norm_regime_K12,0.819675748623117
+C-MAPSS retenu,FD002 R60 tirage 4,norm_regime_K2,0.8451259789735288
+C-MAPSS retenu,FD002 R60 tirage 4,norm_regime_K24,0.8232708931238344
+C-MAPSS retenu,FD002 R60 tirage 4,norm_regime_K4,0.7666862930020824
+C-MAPSS retenu,FD002 R60 tirage 4,norm_regime_K6,0.8194733194733195
+C-MAPSS retenu,FD002 R60 tirage 4,norm_regime_natif,0.817986832986833
+C-MAPSS retenu,FD004 R20 tirage 0,invariant_regime_K12,0.8653846153846154
+C-MAPSS retenu,FD004 R20 tirage 0,invariant_regime_K2,0.8438423645320196
+C-MAPSS retenu,FD004 R20 tirage 0,invariant_regime_K24,0.8653846153846154
+C-MAPSS retenu,FD004 R20 tirage 0,invariant_regime_K4,0.8653846153846154
+C-MAPSS retenu,FD004 R20 tirage 0,invariant_regime_K6,0.8653846153846154
+C-MAPSS retenu,FD004 R20 tirage 0,invariant_regime_natif,0.8653846153846154
+C-MAPSS retenu,FD004 R20 tirage 0,norm_regime_K12,0.8526610644257705
+C-MAPSS retenu,FD004 R20 tirage 0,norm_regime_K2,0.6226600985221674
+C-MAPSS retenu,FD004 R20 tirage 0,norm_regime_K24,0.8461959496442255
+C-MAPSS retenu,FD004 R20 tirage 0,norm_regime_K4,0.8789473684210526
+C-MAPSS retenu,FD004 R20 tirage 0,norm_regime_K6,0.850420168067227
+C-MAPSS retenu,FD004 R20 tirage 0,norm_regime_natif,0.850420168067227
+C-MAPSS retenu,FD004 R20 tirage 1,invariant_regime_K12,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,invariant_regime_K2,0.8724513987671881
+C-MAPSS retenu,FD004 R20 tirage 1,invariant_regime_K24,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,invariant_regime_K4,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,invariant_regime_K6,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,invariant_regime_natif,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,norm_regime_K12,0.8662035638779824
+C-MAPSS retenu,FD004 R20 tirage 1,norm_regime_K2,0.6361416361416361
+C-MAPSS retenu,FD004 R20 tirage 1,norm_regime_K24,0.8656308129992342
+C-MAPSS retenu,FD004 R20 tirage 1,norm_regime_K4,0.8868589743589742
+C-MAPSS retenu,FD004 R20 tirage 1,norm_regime_K6,0.8639531298180697
+C-MAPSS retenu,FD004 R20 tirage 1,norm_regime_natif,0.8639531298180697
+C-MAPSS retenu,FD004 R20 tirage 2,invariant_regime_K12,0.8693693693693693
+C-MAPSS retenu,FD004 R20 tirage 2,invariant_regime_K2,0.8613629355534999
+C-MAPSS retenu,FD004 R20 tirage 2,invariant_regime_K24,0.8693693693693693
+C-MAPSS retenu,FD004 R20 tirage 2,invariant_regime_K4,0.8693693693693693
+C-MAPSS retenu,FD004 R20 tirage 2,invariant_regime_K6,0.8693693693693693
+C-MAPSS retenu,FD004 R20 tirage 2,invariant_regime_natif,0.8693693693693693
+C-MAPSS retenu,FD004 R20 tirage 2,norm_regime_K12,0.8586956521739131
+C-MAPSS retenu,FD004 R20 tirage 2,norm_regime_K2,0.5897435897435896
+C-MAPSS retenu,FD004 R20 tirage 2,norm_regime_K24,0.8586956521739131
+C-MAPSS retenu,FD004 R20 tirage 2,norm_regime_K4,0.8960204081632652
+C-MAPSS retenu,FD004 R20 tirage 2,norm_regime_K6,0.8586956521739131
+C-MAPSS retenu,FD004 R20 tirage 2,norm_regime_natif,0.8586956521739131
+C-MAPSS retenu,FD004 R20 tirage 3,invariant_regime_K12,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,invariant_regime_K2,0.8693877551020407
+C-MAPSS retenu,FD004 R20 tirage 3,invariant_regime_K24,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,invariant_regime_K4,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,invariant_regime_K6,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,invariant_regime_natif,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,norm_regime_K12,0.8553113553113553
+C-MAPSS retenu,FD004 R20 tirage 3,norm_regime_K2,0.6608163265306122
+C-MAPSS retenu,FD004 R20 tirage 3,norm_regime_K24,0.851037851037851
+C-MAPSS retenu,FD004 R20 tirage 3,norm_regime_K4,0.875219170075979
+C-MAPSS retenu,FD004 R20 tirage 3,norm_regime_K6,0.851037851037851
+C-MAPSS retenu,FD004 R20 tirage 3,norm_regime_natif,0.8553113553113553
+C-MAPSS retenu,FD004 R20 tirage 4,invariant_regime_K12,0.728587319243604
+C-MAPSS retenu,FD004 R20 tirage 4,invariant_regime_K2,0.7523088023088025
+C-MAPSS retenu,FD004 R20 tirage 4,invariant_regime_K24,0.728587319243604
+C-MAPSS retenu,FD004 R20 tirage 4,invariant_regime_K4,0.728587319243604
+C-MAPSS retenu,FD004 R20 tirage 4,invariant_regime_K6,0.728587319243604
+C-MAPSS retenu,FD004 R20 tirage 4,invariant_regime_natif,0.728587319243604
+C-MAPSS retenu,FD004 R20 tirage 4,norm_regime_K12,0.8330532212885153
+C-MAPSS retenu,FD004 R20 tirage 4,norm_regime_K2,0.5871148459383754
+C-MAPSS retenu,FD004 R20 tirage 4,norm_regime_K24,0.8330532212885153
+C-MAPSS retenu,FD004 R20 tirage 4,norm_regime_K4,0.8738738738738738
+C-MAPSS retenu,FD004 R20 tirage 4,norm_regime_K6,0.8366946778711486
+C-MAPSS retenu,FD004 R20 tirage 4,norm_regime_natif,0.8366946778711486
+C-MAPSS retenu,FD004 R42 tirage 0,invariant_regime_K12,0.8981240981240983
+C-MAPSS retenu,FD004 R42 tirage 0,invariant_regime_K2,0.8739568682606659
+C-MAPSS retenu,FD004 R42 tirage 0,invariant_regime_K24,0.8981240981240983
+C-MAPSS retenu,FD004 R42 tirage 0,invariant_regime_K4,0.8951788372714431
+C-MAPSS retenu,FD004 R42 tirage 0,invariant_regime_K6,0.8981240981240983
+C-MAPSS retenu,FD004 R42 tirage 0,invariant_regime_natif,0.8981240981240983
+C-MAPSS retenu,FD004 R42 tirage 0,norm_regime_K12,0.6870679723502304
+C-MAPSS retenu,FD004 R42 tirage 0,norm_regime_K2,0.3903306474020562
+C-MAPSS retenu,FD004 R42 tirage 0,norm_regime_K24,0.7981954919950806
+C-MAPSS retenu,FD004 R42 tirage 0,norm_regime_K4,0.8646863396521398
+C-MAPSS retenu,FD004 R42 tirage 0,norm_regime_K6,0.8142126415783706
+C-MAPSS retenu,FD004 R42 tirage 0,norm_regime_natif,0.8092097386837322
+C-MAPSS retenu,FD004 R42 tirage 1,invariant_regime_K12,0.8861350375104198
+C-MAPSS retenu,FD004 R42 tirage 1,invariant_regime_K2,0.8749511751312317
+C-MAPSS retenu,FD004 R42 tirage 1,invariant_regime_K24,0.8861350375104198
+C-MAPSS retenu,FD004 R42 tirage 1,invariant_regime_K4,0.8823928485912682
+C-MAPSS retenu,FD004 R42 tirage 1,invariant_regime_K6,0.8861350375104198
+C-MAPSS retenu,FD004 R42 tirage 1,invariant_regime_natif,0.8861350375104198
+C-MAPSS retenu,FD004 R42 tirage 1,norm_regime_K12,0.5231414288018061
+C-MAPSS retenu,FD004 R42 tirage 1,norm_regime_K2,0.38588235294117645
+C-MAPSS retenu,FD004 R42 tirage 1,norm_regime_K24,0.5761824729891956
+C-MAPSS retenu,FD004 R42 tirage 1,norm_regime_K4,0.8659235501340764
+C-MAPSS retenu,FD004 R42 tirage 1,norm_regime_K6,0.8464798359535203
+C-MAPSS retenu,FD004 R42 tirage 1,norm_regime_natif,0.8458646616541354
+C-MAPSS retenu,FD004 R42 tirage 2,invariant_regime_K12,0.8963070472504434
+C-MAPSS retenu,FD004 R42 tirage 2,invariant_regime_K2,0.8792717086834735
+C-MAPSS retenu,FD004 R42 tirage 2,invariant_regime_K24,0.8963070472504434
+C-MAPSS retenu,FD004 R42 tirage 2,invariant_regime_K4,0.8901740096260643
+C-MAPSS retenu,FD004 R42 tirage 2,invariant_regime_K6,0.8963070472504434
+C-MAPSS retenu,FD004 R42 tirage 2,invariant_regime_natif,0.8963070472504434
+C-MAPSS retenu,FD004 R42 tirage 2,norm_regime_K12,0.5409706083390294
+C-MAPSS retenu,FD004 R42 tirage 2,norm_regime_K2,0.3370629370629371
+C-MAPSS retenu,FD004 R42 tirage 2,norm_regime_K24,0.6004048582995952
+C-MAPSS retenu,FD004 R42 tirage 2,norm_regime_K4,0.8676962676962677
+C-MAPSS retenu,FD004 R42 tirage 2,norm_regime_K6,0.792601299506971
+C-MAPSS retenu,FD004 R42 tirage 2,norm_regime_natif,0.7915129352096735
+C-MAPSS retenu,FD004 R42 tirage 3,invariant_regime_K12,0.9042726629548742
+C-MAPSS retenu,FD004 R42 tirage 3,invariant_regime_K2,0.883010595542565
+C-MAPSS retenu,FD004 R42 tirage 3,invariant_regime_K24,0.9042726629548742
+C-MAPSS retenu,FD004 R42 tirage 3,invariant_regime_K4,0.8941073419334289
+C-MAPSS retenu,FD004 R42 tirage 3,invariant_regime_K6,0.9042726629548742
+C-MAPSS retenu,FD004 R42 tirage 3,invariant_regime_natif,0.9042726629548742
+C-MAPSS retenu,FD004 R42 tirage 3,norm_regime_K12,0.5263382566379237
+C-MAPSS retenu,FD004 R42 tirage 3,norm_regime_K2,0.4461376957396553
+C-MAPSS retenu,FD004 R42 tirage 3,norm_regime_K24,0.8198222829801778
+C-MAPSS retenu,FD004 R42 tirage 3,norm_regime_K4,0.880672268907563
+C-MAPSS retenu,FD004 R42 tirage 3,norm_regime_K6,0.5249722530521642
+C-MAPSS retenu,FD004 R42 tirage 3,norm_regime_natif,0.8291316526610645
+C-MAPSS retenu,FD004 R42 tirage 4,invariant_regime_K12,0.8874294398610507
+C-MAPSS retenu,FD004 R42 tirage 4,invariant_regime_K2,0.878310898827616
+C-MAPSS retenu,FD004 R42 tirage 4,invariant_regime_K24,0.8874294398610507
+C-MAPSS retenu,FD004 R42 tirage 4,invariant_regime_K4,0.8897893772893773
+C-MAPSS retenu,FD004 R42 tirage 4,invariant_regime_K6,0.8874294398610507
+C-MAPSS retenu,FD004 R42 tirage 4,invariant_regime_natif,0.8874294398610507
+C-MAPSS retenu,FD004 R42 tirage 4,norm_regime_K12,0.5251430035003841
+C-MAPSS retenu,FD004 R42 tirage 4,norm_regime_K2,0.4836893793662043
+C-MAPSS retenu,FD004 R42 tirage 4,norm_regime_K24,0.6498762059250406
+C-MAPSS retenu,FD004 R42 tirage 4,norm_regime_K4,0.8500913408841798
+C-MAPSS retenu,FD004 R42 tirage 4,norm_regime_K6,0.7961121798116837
+C-MAPSS retenu,FD004 R42 tirage 4,norm_regime_natif,0.7914548952110965
+C-MAPSS retenu,FD004 R60 tirage 0,invariant_regime_K12,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,invariant_regime_K2,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,invariant_regime_K24,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,invariant_regime_K4,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,invariant_regime_K6,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,invariant_regime_natif,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,norm_regime_K12,0.872822299651568
+C-MAPSS retenu,FD004 R60 tirage 0,norm_regime_K2,0.8571428571428571
+C-MAPSS retenu,FD004 R60 tirage 0,norm_regime_K24,0.8675958188153311
+C-MAPSS retenu,FD004 R60 tirage 0,norm_regime_K4,0.8545296167247387
+C-MAPSS retenu,FD004 R60 tirage 0,norm_regime_K6,0.872473867595819
+C-MAPSS retenu,FD004 R60 tirage 0,norm_regime_natif,0.8688153310104532
+C-MAPSS retenu,FD004 R60 tirage 1,invariant_regime_K12,0.8451612903225806
+C-MAPSS retenu,FD004 R60 tirage 1,invariant_regime_K2,0.8455693560171174
+C-MAPSS retenu,FD004 R60 tirage 1,invariant_regime_K24,0.8451612903225806
+C-MAPSS retenu,FD004 R60 tirage 1,invariant_regime_K4,0.8453846153846154
+C-MAPSS retenu,FD004 R60 tirage 1,invariant_regime_K6,0.8451612903225806
+C-MAPSS retenu,FD004 R60 tirage 1,invariant_regime_natif,0.8451612903225806
+C-MAPSS retenu,FD004 R60 tirage 1,norm_regime_K12,0.8647058823529412
+C-MAPSS retenu,FD004 R60 tirage 1,norm_regime_K2,0.840204081632653
+C-MAPSS retenu,FD004 R60 tirage 1,norm_regime_K24,0.8555718475073313
+C-MAPSS retenu,FD004 R60 tirage 1,norm_regime_K4,0.8388683236382865
+C-MAPSS retenu,FD004 R60 tirage 1,norm_regime_K6,0.8559103370424124
+C-MAPSS retenu,FD004 R60 tirage 1,norm_regime_natif,0.8559103370424124
+C-MAPSS retenu,FD004 R60 tirage 2,invariant_regime_K12,0.8682110682110683
+C-MAPSS retenu,FD004 R60 tirage 2,invariant_regime_K2,0.8682110682110683
+C-MAPSS retenu,FD004 R60 tirage 2,invariant_regime_K24,0.8682110682110683
+C-MAPSS retenu,FD004 R60 tirage 2,invariant_regime_K4,0.8682110682110683
+C-MAPSS retenu,FD004 R60 tirage 2,invariant_regime_K6,0.8682110682110683
+C-MAPSS retenu,FD004 R60 tirage 2,invariant_regime_natif,0.8682110682110683
+C-MAPSS retenu,FD004 R60 tirage 2,norm_regime_K12,0.8666443850267381
+C-MAPSS retenu,FD004 R60 tirage 2,norm_regime_K2,0.859145299145299
+C-MAPSS retenu,FD004 R60 tirage 2,norm_regime_K24,0.8662337662337661
+C-MAPSS retenu,FD004 R60 tirage 2,norm_regime_K4,0.8587848932676518
+C-MAPSS retenu,FD004 R60 tirage 2,norm_regime_K6,0.8698821864714388
+C-MAPSS retenu,FD004 R60 tirage 2,norm_regime_natif,0.8698821864714388
+C-MAPSS retenu,FD004 R60 tirage 3,invariant_regime_K12,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,invariant_regime_K2,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,invariant_regime_K24,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,invariant_regime_K4,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,invariant_regime_K6,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,invariant_regime_natif,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,norm_regime_K12,0.861624649859944
+C-MAPSS retenu,FD004 R60 tirage 3,norm_regime_K2,0.8473270915131381
+C-MAPSS retenu,FD004 R60 tirage 3,norm_regime_K24,0.8614260666277033
+C-MAPSS retenu,FD004 R60 tirage 3,norm_regime_K4,0.8462037112065472
+C-MAPSS retenu,FD004 R60 tirage 3,norm_regime_K6,0.8611338398597314
+C-MAPSS retenu,FD004 R60 tirage 3,norm_regime_natif,0.8621262458471761
+C-MAPSS retenu,FD004 R60 tirage 4,invariant_regime_K12,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,invariant_regime_K2,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,invariant_regime_K24,0.8508523409363745
+C-MAPSS retenu,FD004 R60 tirage 4,invariant_regime_K4,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,invariant_regime_K6,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,invariant_regime_natif,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,norm_regime_K12,0.8509803921568628
+C-MAPSS retenu,FD004 R60 tirage 4,norm_regime_K2,0.822108124433706
+C-MAPSS retenu,FD004 R60 tirage 4,norm_regime_K24,0.849706744868035
+C-MAPSS retenu,FD004 R60 tirage 4,norm_regime_K4,0.8468379446640316
+C-MAPSS retenu,FD004 R60 tirage 4,norm_regime_K6,0.8509803921568628
+C-MAPSS retenu,FD004 R60 tirage 4,norm_regime_natif,0.8509803921568628
+N-CMAPSS,DS01 aucune ref u1,invariant_regime_K12,0.8938114604302024
+N-CMAPSS,DS01 aucune ref u1,invariant_regime_K2,0.9782782605486985
+N-CMAPSS,DS01 aucune ref u1,invariant_regime_K24,-0.3842582285439428
+N-CMAPSS,DS01 aucune ref u1,invariant_regime_K4,0.9371069086998682
+N-CMAPSS,DS01 aucune ref u1,invariant_regime_K6,0.7762298363815774
+N-CMAPSS,DS01 aucune ref u1,norm_regime_K12,0.5699492968829869
+N-CMAPSS,DS01 aucune ref u1,norm_regime_K2,0.919596532766787
+N-CMAPSS,DS01 aucune ref u1,norm_regime_K24,0.6147844025431559
+N-CMAPSS,DS01 aucune ref u1,norm_regime_K4,0.7796340769436325
+N-CMAPSS,DS01 aucune ref u1,norm_regime_K6,0.8167446631395845
+N-CMAPSS,DS01 aucune ref u4,invariant_regime_K12,0.7363871371520677
+N-CMAPSS,DS01 aucune ref u4,invariant_regime_K2,0.8127492975281763
+N-CMAPSS,DS01 aucune ref u4,invariant_regime_K24,-0.5426719367224594
+N-CMAPSS,DS01 aucune ref u4,invariant_regime_K4,0.69503462939894
+N-CMAPSS,DS01 aucune ref u4,invariant_regime_K6,0.789436467482629
+N-CMAPSS,DS01 aucune ref u4,norm_regime_K12,0.4004821401755915
+N-CMAPSS,DS01 aucune ref u4,norm_regime_K2,0.9264137869222444
+N-CMAPSS,DS01 aucune ref u4,norm_regime_K24,0.7219820475828669
+N-CMAPSS,DS01 aucune ref u4,norm_regime_K4,0.7989680163566255
+N-CMAPSS,DS01 aucune ref u4,norm_regime_K6,0.8227351731150601
+N-CMAPSS,DS01 aucune ref u7,invariant_regime_K12,0.8430477857525884
+N-CMAPSS,DS01 aucune ref u7,invariant_regime_K2,0.9115358986183797
+N-CMAPSS,DS01 aucune ref u7,invariant_regime_K24,0.9072344617889883
+N-CMAPSS,DS01 aucune ref u7,invariant_regime_K4,0.718713878853105
+N-CMAPSS,DS01 aucune ref u7,invariant_regime_K6,0.8136712503870251
+N-CMAPSS,DS01 aucune ref u7,norm_regime_K12,0.7685313396958939
+N-CMAPSS,DS01 aucune ref u7,norm_regime_K2,0.9662594318292173
+N-CMAPSS,DS01 aucune ref u7,norm_regime_K24,0.6539782873163473
+N-CMAPSS,DS01 aucune ref u7,norm_regime_K4,0.9543412188967693
+N-CMAPSS,DS01 aucune ref u7,norm_regime_K6,0.8505712948570091
+N-CMAPSS,DS01 aucune ref u9,invariant_regime_K12,0.940415236874727
+N-CMAPSS,DS01 aucune ref u9,invariant_regime_K2,0.9149027275851653
+N-CMAPSS,DS01 aucune ref u9,invariant_regime_K24,0.8966522946562084
+N-CMAPSS,DS01 aucune ref u9,invariant_regime_K4,0.777429653899903
+N-CMAPSS,DS01 aucune ref u9,invariant_regime_K6,0.8271725677213482
+N-CMAPSS,DS01 aucune ref u9,norm_regime_K12,0.5655939735258144
+N-CMAPSS,DS01 aucune ref u9,norm_regime_K2,0.8964249042225463
+N-CMAPSS,DS01 aucune ref u9,norm_regime_K24,0.8863812446479571
+N-CMAPSS,DS01 aucune ref u9,norm_regime_K4,0.9243241618439494
+N-CMAPSS,DS01 aucune ref u9,norm_regime_K6,0.9514677491708761
+N-CMAPSS,DS05 aucune ref u10,invariant_regime_K12,0.8930272059674366
+N-CMAPSS,DS05 aucune ref u10,invariant_regime_K2,0.8644937158102026
+N-CMAPSS,DS05 aucune ref u10,invariant_regime_K24,0.8704860774008896
+N-CMAPSS,DS05 aucune ref u10,invariant_regime_K4,0.7072780069460117
+N-CMAPSS,DS05 aucune ref u10,invariant_regime_K6,0.8383546987381467
+N-CMAPSS,DS05 aucune ref u10,norm_regime_K12,0.7588995505666802
+N-CMAPSS,DS05 aucune ref u10,norm_regime_K2,0.7851204352865888
+N-CMAPSS,DS05 aucune ref u10,norm_regime_K24,0.7467704196827687
+N-CMAPSS,DS05 aucune ref u10,norm_regime_K4,0.6992066324263507
+N-CMAPSS,DS05 aucune ref u10,norm_regime_K6,0.8071811374109974
+N-CMAPSS,DS05 aucune ref u4,invariant_regime_K12,0.8865462460025353
+N-CMAPSS,DS05 aucune ref u4,invariant_regime_K2,0.8712395611412804
+N-CMAPSS,DS05 aucune ref u4,invariant_regime_K24,0.8678294034324705
+N-CMAPSS,DS05 aucune ref u4,invariant_regime_K4,0.8053979836843297
+N-CMAPSS,DS05 aucune ref u4,invariant_regime_K6,0.8572758454609575
+N-CMAPSS,DS05 aucune ref u4,norm_regime_K12,0.7190494626133302
+N-CMAPSS,DS05 aucune ref u4,norm_regime_K2,0.9170397204747934
+N-CMAPSS,DS05 aucune ref u4,norm_regime_K24,0.7735377275145019
+N-CMAPSS,DS05 aucune ref u4,norm_regime_K4,0.6680870629373283
+N-CMAPSS,DS05 aucune ref u4,norm_regime_K6,0.6509513704723513
+N-CMAPSS,DS05 aucune ref u5,invariant_regime_K12,-0.7198477652910584
+N-CMAPSS,DS05 aucune ref u5,invariant_regime_K2,-0.6758652945436407
+N-CMAPSS,DS05 aucune ref u5,invariant_regime_K24,-0.6462162117521225
+N-CMAPSS,DS05 aucune ref u5,invariant_regime_K4,-0.4564535807019985
+N-CMAPSS,DS05 aucune ref u5,invariant_regime_K6,0.7735862354037091
+N-CMAPSS,DS05 aucune ref u5,norm_regime_K12,0.7565439912855725
+N-CMAPSS,DS05 aucune ref u5,norm_regime_K2,-0.5645162318625978
+N-CMAPSS,DS05 aucune ref u5,norm_regime_K24,0.6898129282694216
+N-CMAPSS,DS05 aucune ref u5,norm_regime_K4,0.3350072196246655
+N-CMAPSS,DS05 aucune ref u5,norm_regime_K6,0.6736348562795582
+N-CMAPSS,DS05 aucune ref u8,invariant_regime_K12,0.8073968917913752
+N-CMAPSS,DS05 aucune ref u8,invariant_regime_K2,0.8597811616587352
+N-CMAPSS,DS05 aucune ref u8,invariant_regime_K24,0.8588210702341137
+N-CMAPSS,DS05 aucune ref u8,invariant_regime_K4,0.5326101798258421
+N-CMAPSS,DS05 aucune ref u8,invariant_regime_K6,0.6225481796684329
+N-CMAPSS,DS05 aucune ref u8,norm_regime_K12,0.7898950920284409
+N-CMAPSS,DS05 aucune ref u8,norm_regime_K2,0.904627900257494
+N-CMAPSS,DS05 aucune ref u8,norm_regime_K24,0.8053445289769274
+N-CMAPSS,DS05 aucune ref u8,norm_regime_K4,0.6638032853222726
+N-CMAPSS,DS05 aucune ref u8,norm_regime_K6,0.8753677104176701
+N-CMAPSS,DS07 aucune ref u10,invariant_regime_K12,0.9310342475607871
+N-CMAPSS,DS07 aucune ref u10,invariant_regime_K2,0.9314563725747936
+N-CMAPSS,DS07 aucune ref u10,invariant_regime_K24,0.8945457503023293
+N-CMAPSS,DS07 aucune ref u10,invariant_regime_K4,-0.7902078513591672
+N-CMAPSS,DS07 aucune ref u10,invariant_regime_K6,0.862768974446606
+N-CMAPSS,DS07 aucune ref u10,norm_regime_K12,0.7501302867373962
+N-CMAPSS,DS07 aucune ref u10,norm_regime_K2,0.736129376454719
+N-CMAPSS,DS07 aucune ref u10,norm_regime_K24,-0.7044093837454275
+N-CMAPSS,DS07 aucune ref u10,norm_regime_K4,-0.4131058877338112
+N-CMAPSS,DS07 aucune ref u10,norm_regime_K6,0.8982559154171696
+N-CMAPSS,DS07 aucune ref u4,invariant_regime_K12,0.8427782414953469
+N-CMAPSS,DS07 aucune ref u4,invariant_regime_K2,0.9292512457422095
+N-CMAPSS,DS07 aucune ref u4,invariant_regime_K24,0.8230722895525527
+N-CMAPSS,DS07 aucune ref u4,invariant_regime_K4,0.8121702310847048
+N-CMAPSS,DS07 aucune ref u4,invariant_regime_K6,0.7780015530741033
+N-CMAPSS,DS07 aucune ref u4,norm_regime_K12,0.6990574515070596
+N-CMAPSS,DS07 aucune ref u4,norm_regime_K2,0.88284440241768
+N-CMAPSS,DS07 aucune ref u4,norm_regime_K24,0.7623563278826437
+N-CMAPSS,DS07 aucune ref u4,norm_regime_K4,0.8124514785449547
+N-CMAPSS,DS07 aucune ref u4,norm_regime_K6,0.7495978773175797
+N-CMAPSS,DS07 aucune ref u5,invariant_regime_K12,0.7260032955173813
+N-CMAPSS,DS07 aucune ref u5,invariant_regime_K2,0.9068793377674957
+N-CMAPSS,DS07 aucune ref u5,invariant_regime_K24,0.8828386377088537
+N-CMAPSS,DS07 aucune ref u5,invariant_regime_K4,0.8660694239970557
+N-CMAPSS,DS07 aucune ref u5,invariant_regime_K6,0.8825494571218255
+N-CMAPSS,DS07 aucune ref u5,norm_regime_K12,0.5645067459117779
+N-CMAPSS,DS07 aucune ref u5,norm_regime_K2,0.8249644987412155
+N-CMAPSS,DS07 aucune ref u5,norm_regime_K24,0.8165289570228287
+N-CMAPSS,DS07 aucune ref u5,norm_regime_K4,0.9012113215731636
+N-CMAPSS,DS07 aucune ref u5,norm_regime_K6,0.7495552660546673
+N-CMAPSS,DS07 aucune ref u8,invariant_regime_K12,0.8903952297702298
+N-CMAPSS,DS07 aucune ref u8,invariant_regime_K2,0.8491222612293894
+N-CMAPSS,DS07 aucune ref u8,invariant_regime_K24,0.9060207864424732
+N-CMAPSS,DS07 aucune ref u8,invariant_regime_K4,0.23285156108951288
+N-CMAPSS,DS07 aucune ref u8,invariant_regime_K6,0.8504158514235587
+N-CMAPSS,DS07 aucune ref u8,norm_regime_K12,0.6644961945948789
+N-CMAPSS,DS07 aucune ref u8,norm_regime_K2,0.8209090363723621
+N-CMAPSS,DS07 aucune ref u8,norm_regime_K24,0.717783679898406
+N-CMAPSS,DS07 aucune ref u8,norm_regime_K4,0.81611993269888
+N-CMAPSS,DS07 aucune ref u8,norm_regime_K6,0.8571365476628634
+PVDAQ,Golden→Las_Vegas sans 10,invariant_regime_K12,-0.17184179618922157
+PVDAQ,Golden→Las_Vegas sans 10,invariant_regime_K2,-0.1762183381663392
+PVDAQ,Golden→Las_Vegas sans 10,invariant_regime_K24,-0.1696510868177893
+PVDAQ,Golden→Las_Vegas sans 10,invariant_regime_K4,-0.19981222370547527
+PVDAQ,Golden→Las_Vegas sans 10,invariant_regime_K6,-0.19782608362099482
+PVDAQ,Golden→Las_Vegas sans 10,norm_regime_K12,0.08607901060275103
+PVDAQ,Golden→Las_Vegas sans 10,norm_regime_K2,-0.15405441611245882
+PVDAQ,Golden→Las_Vegas sans 10,norm_regime_K24,0.10910617678670136
+PVDAQ,Golden→Las_Vegas sans 10,norm_regime_K4,-0.07493147776392364
+PVDAQ,Golden→Las_Vegas sans 10,norm_regime_K6,0.02611695158935281
+PVDAQ,Golden→Las_Vegas sans 33,invariant_regime_K12,-0.16978570110838986
+PVDAQ,Golden→Las_Vegas sans 33,invariant_regime_K2,-0.17722891713768046
+PVDAQ,Golden→Las_Vegas sans 33,invariant_regime_K24,-0.16893719476721775
+PVDAQ,Golden→Las_Vegas sans 33,invariant_regime_K4,-0.17047804488048135
+PVDAQ,Golden→Las_Vegas sans 33,invariant_regime_K6,-0.16923354299588217
+PVDAQ,Golden→Las_Vegas sans 33,norm_regime_K12,0.0977926282493685
+PVDAQ,Golden→Las_Vegas sans 33,norm_regime_K2,-0.1537296134816014
+PVDAQ,Golden→Las_Vegas sans 33,norm_regime_K24,0.1299505759826901
+PVDAQ,Golden→Las_Vegas sans 33,norm_regime_K4,-0.0713416017653721
+PVDAQ,Golden→Las_Vegas sans 33,norm_regime_K6,0.02500079295161035
+PVDAQ,Golden→Las_Vegas sans 4,invariant_regime_K12,-0.16598592641139837
+PVDAQ,Golden→Las_Vegas sans 4,invariant_regime_K2,-0.17607389310087435
+PVDAQ,Golden→Las_Vegas sans 4,invariant_regime_K24,-0.16605476672465866
+PVDAQ,Golden→Las_Vegas sans 4,invariant_regime_K4,-0.20324716287439082
+PVDAQ,Golden→Las_Vegas sans 4,invariant_regime_K6,-0.20134695058325794
+PVDAQ,Golden→Las_Vegas sans 4,norm_regime_K12,0.11475757401744097
+PVDAQ,Golden→Las_Vegas sans 4,norm_regime_K2,-0.1469867257346974
+PVDAQ,Golden→Las_Vegas sans 4,norm_regime_K24,0.13017908066086858
+PVDAQ,Golden→Las_Vegas sans 4,norm_regime_K4,-0.07267541492985585
+PVDAQ,Golden→Las_Vegas sans 4,norm_regime_K6,0.03423447416588196
+PVDAQ,Golden→Las_Vegas sans 50,invariant_regime_K12,-0.09169174847647903
+PVDAQ,Golden→Las_Vegas sans 50,invariant_regime_K2,-0.17415849904476388
+PVDAQ,Golden→Las_Vegas sans 50,invariant_regime_K24,0.025191029938688762
+PVDAQ,Golden→Las_Vegas sans 50,invariant_regime_K4,-0.11149699905850899
+PVDAQ,Golden→Las_Vegas sans 50,invariant_regime_K6,-0.14203226380339706
+PVDAQ,Golden→Las_Vegas sans 50,norm_regime_K12,0.113774640262939
+PVDAQ,Golden→Las_Vegas sans 50,norm_regime_K2,-0.144919899764787
+PVDAQ,Golden→Las_Vegas sans 50,norm_regime_K24,0.1440801879433474
+PVDAQ,Golden→Las_Vegas sans 50,norm_regime_K4,-0.05358712194042753
+PVDAQ,Golden→Las_Vegas sans 50,norm_regime_K6,0.06519203453072202
+PVDAQ,Las_Vegas→Golden sans 1276,invariant_regime_K12,-0.06965527551259991
+PVDAQ,Las_Vegas→Golden sans 1276,invariant_regime_K2,-0.06110376803045729
+PVDAQ,Las_Vegas→Golden sans 1276,invariant_regime_K24,-0.06834037782701592
+PVDAQ,Las_Vegas→Golden sans 1276,invariant_regime_K4,-0.07510388042344873
+PVDAQ,Las_Vegas→Golden sans 1276,invariant_regime_K6,-0.07150528230377876
+PVDAQ,Las_Vegas→Golden sans 1276,norm_regime_K12,-0.0759525955280376
+PVDAQ,Las_Vegas→Golden sans 1276,norm_regime_K2,-0.08338810946787623
+PVDAQ,Las_Vegas→Golden sans 1276,norm_regime_K24,-0.07326921353451796
+PVDAQ,Las_Vegas→Golden sans 1276,norm_regime_K4,-0.08463899681710133
+PVDAQ,Las_Vegas→Golden sans 1276,norm_regime_K6,-0.09241080923111963
+PVDAQ,Las_Vegas→Golden sans 1278,invariant_regime_K12,-0.03980700183389255
+PVDAQ,Las_Vegas→Golden sans 1278,invariant_regime_K2,-0.06402168634739769
+PVDAQ,Las_Vegas→Golden sans 1278,invariant_regime_K24,-0.03945785828825122
+PVDAQ,Las_Vegas→Golden sans 1278,invariant_regime_K4,-0.044260555868610954
+PVDAQ,Las_Vegas→Golden sans 1278,invariant_regime_K6,-0.04461174045760785
+PVDAQ,Las_Vegas→Golden sans 1278,norm_regime_K12,0.0648607162752369
+PVDAQ,Las_Vegas→Golden sans 1278,norm_regime_K2,-0.08438281630102937
+PVDAQ,Las_Vegas→Golden sans 1278,norm_regime_K24,0.07828787043555199
+PVDAQ,Las_Vegas→Golden sans 1278,norm_regime_K4,-0.07909459561060496
+PVDAQ,Las_Vegas→Golden sans 1278,norm_regime_K6,-0.09044271334063594
+PVDAQ,Las_Vegas→Golden sans 34,invariant_regime_K12,-0.03962526035045193
+PVDAQ,Las_Vegas→Golden sans 34,invariant_regime_K2,-0.0524119246619754
+PVDAQ,Las_Vegas→Golden sans 34,invariant_regime_K24,-0.03893437869028868
+PVDAQ,Las_Vegas→Golden sans 34,invariant_regime_K4,-0.04287025160452326
+PVDAQ,Las_Vegas→Golden sans 34,invariant_regime_K6,-0.041933574051916486
+PVDAQ,Las_Vegas→Golden sans 34,norm_regime_K12,-0.06778520821164083
+PVDAQ,Las_Vegas→Golden sans 34,norm_regime_K2,-0.07620156233973507
+PVDAQ,Las_Vegas→Golden sans 34,norm_regime_K24,0.08791727215158102
+PVDAQ,Las_Vegas→Golden sans 34,norm_regime_K4,-0.06464697592660594
+PVDAQ,Las_Vegas→Golden sans 34,norm_regime_K6,-0.06262922074149484
+PVDAQ,Las_Vegas→Golden sans 35,invariant_regime_K12,-0.05410034092926265
+PVDAQ,Las_Vegas→Golden sans 35,invariant_regime_K2,-0.06113896998905828
+PVDAQ,Las_Vegas→Golden sans 35,invariant_regime_K24,-0.053387663852404635
+PVDAQ,Las_Vegas→Golden sans 35,invariant_regime_K4,-0.05884097889800324
+PVDAQ,Las_Vegas→Golden sans 35,invariant_regime_K6,-0.05793632925239845
+PVDAQ,Las_Vegas→Golden sans 35,norm_regime_K12,0.08306541361097211
+PVDAQ,Las_Vegas→Golden sans 35,norm_regime_K2,-0.07747542028954921
+PVDAQ,Las_Vegas→Golden sans 35,norm_regime_K24,0.10927003782436315
+PVDAQ,Las_Vegas→Golden sans 35,norm_regime_K4,-0.07531109186894946
+PVDAQ,Las_Vegas→Golden sans 35,norm_regime_K6,-0.08520311151843185
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,invariant_regime_K12,0.9152407128731075
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,invariant_regime_K2,0.9288847404305791
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,invariant_regime_K24,0.9137398044506518
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,invariant_regime_K4,0.918686852034214
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,invariant_regime_K6,0.9157516574012667
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,norm_regime_K12,0.9473061607276718
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,norm_regime_K2,0.9288813522370369
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,norm_regime_K24,0.946290278460536
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,norm_regime_K4,0.9432219969082957
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,norm_regime_K6,0.9517095833922886
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,invariant_regime_K12,-0.3346517228244887
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,invariant_regime_K2,0.055483902468574625
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,invariant_regime_K24,-0.33804231934283374
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,invariant_regime_K4,-0.32959825614766264
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,invariant_regime_K6,-0.3386904095007638
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,norm_regime_K12,0.7978069238075727
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,norm_regime_K2,0.45798306712807324
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,norm_regime_K24,0.8477047826308344
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,norm_regime_K4,0.5185339232892399
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,norm_regime_K6,0.5704350126798418
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,invariant_regime_K12,0.7639918694063283
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,invariant_regime_K2,0.884218646578658
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,invariant_regime_K24,0.7529495447741344
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,invariant_regime_K4,0.7811588481313496
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,invariant_regime_K6,0.7679664661144845
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,norm_regime_K12,0.9159365119381412
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,norm_regime_K2,0.9014092636445602
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,norm_regime_K24,0.9085150811219822
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,norm_regime_K4,0.8803003455123087
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,norm_regime_K6,0.9091153493040351
+batteries,entr. biaisee_basse_40C → uniforme,invariant_regime_K12,0.8634289522523877
+batteries,entr. biaisee_basse_40C → uniforme,invariant_regime_K2,0.8307870532781063
+batteries,entr. biaisee_basse_40C → uniforme,invariant_regime_K24,0.8607915508263255
+batteries,entr. biaisee_basse_40C → uniforme,invariant_regime_K4,0.8672602855095052
+batteries,entr. biaisee_basse_40C → uniforme,invariant_regime_K6,0.8671598404219157
+batteries,entr. biaisee_basse_40C → uniforme,norm_regime_K12,0.8656859465799627
+batteries,entr. biaisee_basse_40C → uniforme,norm_regime_K2,0.8354458321578607
+batteries,entr. biaisee_basse_40C → uniforme,norm_regime_K24,0.7562822490609897
+batteries,entr. biaisee_basse_40C → uniforme,norm_regime_K4,0.7996646455029772
+batteries,entr. biaisee_basse_40C → uniforme,norm_regime_K6,0.8355021990170035
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,invariant_regime_K12,-0.23504448415952073
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,invariant_regime_K2,-0.14055208315290446
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,invariant_regime_K24,-0.23780057073363797
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,invariant_regime_K4,-0.22387612029869497
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,invariant_regime_K6,-0.22597656355003254
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,norm_regime_K12,0.7431462275390522
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,norm_regime_K2,0.7409646527385209
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,norm_regime_K24,0.6847212292269825
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,norm_regime_K4,0.735171839496427
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,norm_regime_K6,0.7746940511639313
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,invariant_regime_K12,-0.012197859737925233
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,invariant_regime_K2,0.23216714011565753
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,invariant_regime_K24,-0.01503228967179165
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,invariant_regime_K4,0.010787003662541463
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,invariant_regime_K6,0.0036415832949419262
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,norm_regime_K12,0.6347844849768023
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,norm_regime_K2,0.6040147404755332
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,norm_regime_K24,0.6834779294199271
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,norm_regime_K4,0.6249930935538137
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,norm_regime_K6,0.636686587722971
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,invariant_regime_K12,0.83455681381892
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,invariant_regime_K2,0.8334774369157787
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,invariant_regime_K24,0.8332840794167776
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,invariant_regime_K4,0.8352181195899362
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,invariant_regime_K6,0.8354531528150295
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,norm_regime_K12,0.9118480811846881
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,norm_regime_K2,0.7953137559822829
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,norm_regime_K24,0.9262507271327034
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,norm_regime_K4,0.8451907888910826
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,norm_regime_K6,0.8808044872123639
+batteries,entr. biaisee_basse_TA → uniforme,invariant_regime_K12,-0.29629231995004823
+batteries,entr. biaisee_basse_TA → uniforme,invariant_regime_K2,-0.281264200067277
+batteries,entr. biaisee_basse_TA → uniforme,invariant_regime_K24,-0.298410282797613
+batteries,entr. biaisee_basse_TA → uniforme,invariant_regime_K4,-0.3001620677643705
+batteries,entr. biaisee_basse_TA → uniforme,invariant_regime_K6,-0.29726571776352906
+batteries,entr. biaisee_basse_TA → uniforme,norm_regime_K12,0.27063328892507965
+batteries,entr. biaisee_basse_TA → uniforme,norm_regime_K2,-0.37084435369778157
+batteries,entr. biaisee_basse_TA → uniforme,norm_regime_K24,0.4205953384817205
+batteries,entr. biaisee_basse_TA → uniforme,norm_regime_K4,0.011093761014351385
+batteries,entr. biaisee_basse_TA → uniforme,norm_regime_K6,0.26451314536528836
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,invariant_regime_K12,-0.21881398809797103
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,invariant_regime_K2,-0.12037377557167159
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,invariant_regime_K24,-0.21442233521815957
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,invariant_regime_K4,-0.21671217896908518
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,invariant_regime_K6,-0.2169019720766261
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,norm_regime_K12,0.9395809354422374
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,norm_regime_K2,-0.059858675098679745
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,norm_regime_K24,0.9597541048816242
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,norm_regime_K4,-0.001896704667631457
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,norm_regime_K6,0.8742785956782618
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,invariant_regime_K12,0.11301453393750766
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,invariant_regime_K2,0.719865086582496
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,invariant_regime_K24,0.1377082525147087
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,invariant_regime_K4,0.12033811214620806
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,invariant_regime_K6,0.10725030610370366
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,norm_regime_K12,0.9092359360557429
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,norm_regime_K2,0.1103006905375851
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,norm_regime_K24,0.9325377779532951
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,norm_regime_K4,-0.3678676118236332
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,norm_regime_K6,0.8236289468262642
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,invariant_regime_K12,0.23802377159612026
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,invariant_regime_K2,0.712311690775522
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,invariant_regime_K24,0.2890810789532779
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,invariant_regime_K4,0.19117628117555546
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,invariant_regime_K6,0.19362138814608104
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,norm_regime_K12,0.8970746392295916
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,norm_regime_K2,0.7712795335078007
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,norm_regime_K24,0.913502338016355
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,norm_regime_K4,0.5573300500574803
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,norm_regime_K6,0.8387595605917142
+batteries,entr. biaisee_haute_40C → uniforme,invariant_regime_K12,-0.6248118923911066
+batteries,entr. biaisee_haute_40C → uniforme,invariant_regime_K2,-0.5044062895070187
+batteries,entr. biaisee_haute_40C → uniforme,invariant_regime_K24,-0.6182368675896622
+batteries,entr. biaisee_haute_40C → uniforme,invariant_regime_K4,-0.6309039051038382
+batteries,entr. biaisee_haute_40C → uniforme,invariant_regime_K6,-0.6324981365619474
+batteries,entr. biaisee_haute_40C → uniforme,norm_regime_K12,0.7879690506060724
+batteries,entr. biaisee_haute_40C → uniforme,norm_regime_K2,-0.43634897382562293
+batteries,entr. biaisee_haute_40C → uniforme,norm_regime_K24,0.8495606006952967
+batteries,entr. biaisee_haute_40C → uniforme,norm_regime_K4,-0.5529687233051437
+batteries,entr. biaisee_haute_40C → uniforme,norm_regime_K6,0.5253870233202018
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,invariant_regime_K12,0.12542386797313038
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,invariant_regime_K2,0.24534621735481443
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,invariant_regime_K24,0.12645684762579618
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,invariant_regime_K4,0.1222387419938634
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,invariant_regime_K6,0.12437115211688882
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,norm_regime_K12,0.2172431193011944
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,norm_regime_K2,0.3884194723069888
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,norm_regime_K24,0.1989363934153403
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,norm_regime_K4,0.46868236338192204
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,norm_regime_K6,0.38900767769741285
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,invariant_regime_K12,0.8307018112343465
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,invariant_regime_K2,0.8752051337937627
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,invariant_regime_K24,0.8320860950898354
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,invariant_regime_K4,0.828778980178356
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,invariant_regime_K6,0.8267520040838334
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,norm_regime_K12,0.9331660053262669
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,norm_regime_K2,0.8690684934993623
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,norm_regime_K24,0.9354078201582856
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,norm_regime_K4,0.9164201326995394
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,norm_regime_K6,0.9192774305083918
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,invariant_regime_K12,-0.31786522280218976
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,invariant_regime_K2,-0.3374816515687476
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,invariant_regime_K24,-0.3161736670121663
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,invariant_regime_K4,-0.31757758909750533
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,invariant_regime_K6,-0.3156071255666251
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,norm_regime_K12,0.7568836768445313
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,norm_regime_K2,0.5046133335202866
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,norm_regime_K24,0.7624555562449549
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,norm_regime_K4,0.6822491577209902
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,norm_regime_K6,0.691152899503777
+batteries,entr. biaisee_haute_TA → uniforme,invariant_regime_K12,0.7583228817867438
+batteries,entr. biaisee_haute_TA → uniforme,invariant_regime_K2,0.8657306863447835
+batteries,entr. biaisee_haute_TA → uniforme,invariant_regime_K24,0.7578181767127508
+batteries,entr. biaisee_haute_TA → uniforme,invariant_regime_K4,0.751116628719954
+batteries,entr. biaisee_haute_TA → uniforme,invariant_regime_K6,0.7538835399693007
+batteries,entr. biaisee_haute_TA → uniforme,norm_regime_K12,0.3063032689149701
+batteries,entr. biaisee_haute_TA → uniforme,norm_regime_K2,0.03201885409438305
+batteries,entr. biaisee_haute_TA → uniforme,norm_regime_K24,0.2599870179121949
+batteries,entr. biaisee_haute_TA → uniforme,norm_regime_K4,0.3018675075091836
+batteries,entr. biaisee_haute_TA → uniforme,norm_regime_K6,0.021186825926090613
+batteries,entr. uniforme → biaisee_basse_40C,invariant_regime_K12,-0.21106276215363973
+batteries,entr. uniforme → biaisee_basse_40C,invariant_regime_K2,0.08221901737660847
+batteries,entr. uniforme → biaisee_basse_40C,invariant_regime_K24,-0.20205855552401825
+batteries,entr. uniforme → biaisee_basse_40C,invariant_regime_K4,-0.2093256411247027
+batteries,entr. uniforme → biaisee_basse_40C,invariant_regime_K6,-0.20641739460633673
+batteries,entr. uniforme → biaisee_basse_40C,norm_regime_K12,0.646608982967292
+batteries,entr. uniforme → biaisee_basse_40C,norm_regime_K2,0.0118831653439056
+batteries,entr. uniforme → biaisee_basse_40C,norm_regime_K24,0.8560515902846488
+batteries,entr. uniforme → biaisee_basse_40C,norm_regime_K4,0.104304092210165
+batteries,entr. uniforme → biaisee_basse_40C,norm_regime_K6,0.24306943144297022
+batteries,entr. uniforme → biaisee_basse_TA,invariant_regime_K12,-0.7927642483648151
+batteries,entr. uniforme → biaisee_basse_TA,invariant_regime_K2,-0.2572114678647181
+batteries,entr. uniforme → biaisee_basse_TA,invariant_regime_K24,-0.7751001151529981
+batteries,entr. uniforme → biaisee_basse_TA,invariant_regime_K4,-0.7858195734573175
+batteries,entr. uniforme → biaisee_basse_TA,invariant_regime_K6,-0.7879724185662551
+batteries,entr. uniforme → biaisee_basse_TA,norm_regime_K12,0.8013169724939997
+batteries,entr. uniforme → biaisee_basse_TA,norm_regime_K2,0.10975432110348732
+batteries,entr. uniforme → biaisee_basse_TA,norm_regime_K24,0.8672162697487114
+batteries,entr. uniforme → biaisee_basse_TA,norm_regime_K4,0.08198697876471685
+batteries,entr. uniforme → biaisee_basse_TA,norm_regime_K6,0.12496702639157539
+batteries,entr. uniforme → biaisee_haute_40C,invariant_regime_K12,-0.4821911010607971
+batteries,entr. uniforme → biaisee_haute_40C,invariant_regime_K2,-0.47369147012034074
+batteries,entr. uniforme → biaisee_haute_40C,invariant_regime_K24,-0.4732944843347068
+batteries,entr. uniforme → biaisee_haute_40C,invariant_regime_K4,-0.4767308477004185
+batteries,entr. uniforme → biaisee_haute_40C,invariant_regime_K6,-0.48154204460793437
+batteries,entr. uniforme → biaisee_haute_40C,norm_regime_K12,0.512074584234437
+batteries,entr. uniforme → biaisee_haute_40C,norm_regime_K2,-0.5080261375174931
+batteries,entr. uniforme → biaisee_haute_40C,norm_regime_K24,0.7283697295997525
+batteries,entr. uniforme → biaisee_haute_40C,norm_regime_K4,0.06814204110465119
+batteries,entr. uniforme → biaisee_haute_40C,norm_regime_K6,0.08165362353623395
+batteries,entr. uniforme → biaisee_haute_TA,invariant_regime_K12,-0.610221344648542
+batteries,entr. uniforme → biaisee_haute_TA,invariant_regime_K2,-0.08429944205867057
+batteries,entr. uniforme → biaisee_haute_TA,invariant_regime_K24,-0.568966776800228
+batteries,entr. uniforme → biaisee_haute_TA,invariant_regime_K4,-0.5953817126678491
+batteries,entr. uniforme → biaisee_haute_TA,invariant_regime_K6,-0.600015469388044
+batteries,entr. uniforme → biaisee_haute_TA,norm_regime_K12,0.8118614176581133
+batteries,entr. uniforme → biaisee_haute_TA,norm_regime_K2,0.13881038653629274
+batteries,entr. uniforme → biaisee_haute_TA,norm_regime_K24,0.8700284429911977
+batteries,entr. uniforme → biaisee_haute_TA,norm_regime_K4,0.12204428224773703
+batteries,entr. uniforme → biaisee_haute_TA,norm_regime_K6,0.08324058000714132
+gaz,gaz 1 impairs→pairs,invariant_regime_K12,0.24625838704680342
+gaz,gaz 1 impairs→pairs,invariant_regime_K2,-0.05070087532209111
+gaz,gaz 1 impairs→pairs,invariant_regime_K24,0.34755710082142627
+gaz,gaz 1 impairs→pairs,invariant_regime_K4,0.14449878655518228
+gaz,gaz 1 impairs→pairs,invariant_regime_K6,0.37845488963754886
+gaz,gaz 1 impairs→pairs,norm_regime_K12,0.40045827598538775
+gaz,gaz 1 impairs→pairs,norm_regime_K2,0.1991951370971869
+gaz,gaz 1 impairs→pairs,norm_regime_K24,0.40678213735627444
+gaz,gaz 1 impairs→pairs,norm_regime_K4,0.20378456195114064
+gaz,gaz 1 impairs→pairs,norm_regime_K6,0.3822542246174056
+gaz,gaz 1 pairs→impairs,invariant_regime_K12,0.33471517084300584
+gaz,gaz 1 pairs→impairs,invariant_regime_K2,-0.03451540567467368
+gaz,gaz 1 pairs→impairs,invariant_regime_K24,0.37702013675936785
+gaz,gaz 1 pairs→impairs,invariant_regime_K4,-0.04930479921943685
+gaz,gaz 1 pairs→impairs,invariant_regime_K6,0.3737324650083027
+gaz,gaz 1 pairs→impairs,norm_regime_K12,0.38774772176082395
+gaz,gaz 1 pairs→impairs,norm_regime_K2,0.2983631117774661
+gaz,gaz 1 pairs→impairs,norm_regime_K24,0.38931085732365234
+gaz,gaz 1 pairs→impairs,norm_regime_K4,0.11294367793425275
+gaz,gaz 1 pairs→impairs,norm_regime_K6,0.3354652206638538
+gaz,gaz 2 impairs→pairs,invariant_regime_K12,-0.035781934423382004
+gaz,gaz 2 impairs→pairs,invariant_regime_K2,0.2487423247425298
+gaz,gaz 2 impairs→pairs,invariant_regime_K24,0.2632714859576779
+gaz,gaz 2 impairs→pairs,invariant_regime_K4,0.22048386890327432
+gaz,gaz 2 impairs→pairs,invariant_regime_K6,0.1923835801045803
+gaz,gaz 2 impairs→pairs,norm_regime_K12,-0.2925630196990278
+gaz,gaz 2 impairs→pairs,norm_regime_K2,-0.03355135464034936
+gaz,gaz 2 impairs→pairs,norm_regime_K24,-0.2918494370978714
+gaz,gaz 2 impairs→pairs,norm_regime_K4,-0.3613262817229098
+gaz,gaz 2 impairs→pairs,norm_regime_K6,-0.3349433540507185
+gaz,gaz 2 pairs→impairs,invariant_regime_K12,0.5536918707905942
+gaz,gaz 2 pairs→impairs,invariant_regime_K2,0.42773927584599036
+gaz,gaz 2 pairs→impairs,invariant_regime_K24,-0.19440237687466533
+gaz,gaz 2 pairs→impairs,invariant_regime_K4,0.4070522019099752
+gaz,gaz 2 pairs→impairs,invariant_regime_K6,0.3845337056073861
+gaz,gaz 2 pairs→impairs,norm_regime_K12,-0.3939064291629451
+gaz,gaz 2 pairs→impairs,norm_regime_K2,-0.2728695341500894
+gaz,gaz 2 pairs→impairs,norm_regime_K24,-0.40000603944593766
+gaz,gaz 2 pairs→impairs,norm_regime_K4,-0.40347627434640837
+gaz,gaz 2 pairs→impairs,norm_regime_K6,-0.41778500013245956
+gaz,gaz 3 impairs→pairs,invariant_regime_K12,0.24019505292652588
+gaz,gaz 3 impairs→pairs,invariant_regime_K2,0.36548694327421627
+gaz,gaz 3 impairs→pairs,invariant_regime_K24,0.24592535909383925
+gaz,gaz 3 impairs→pairs,invariant_regime_K4,0.6624043055507762
+gaz,gaz 3 impairs→pairs,invariant_regime_K6,0.0740156829244423
+gaz,gaz 3 impairs→pairs,norm_regime_K12,0.06864779219627062
+gaz,gaz 3 impairs→pairs,norm_regime_K2,0.4730502597295677
+gaz,gaz 3 impairs→pairs,norm_regime_K24,-0.14001945492550438
+gaz,gaz 3 impairs→pairs,norm_regime_K4,0.4844836990427799
+gaz,gaz 3 impairs→pairs,norm_regime_K6,0.1351760236300324
+gaz,gaz 3 pairs→impairs,invariant_regime_K12,0.19173257281546147
+gaz,gaz 3 pairs→impairs,invariant_regime_K2,0.015457845445801852
+gaz,gaz 3 pairs→impairs,invariant_regime_K24,0.2494495555850527
+gaz,gaz 3 pairs→impairs,invariant_regime_K4,0.5029688628739277
+gaz,gaz 3 pairs→impairs,invariant_regime_K6,0.5171272082773215
+gaz,gaz 3 pairs→impairs,norm_regime_K12,0.3050926367892681
+gaz,gaz 3 pairs→impairs,norm_regime_K2,0.5548661560945705
+gaz,gaz 3 pairs→impairs,norm_regime_K24,0.35301092270578227
+gaz,gaz 3 pairs→impairs,norm_regime_K4,0.4584360206162815
+gaz,gaz 3 pairs→impairs,norm_regime_K6,-0.1426840560807478
+gaz,gaz 4 impairs→pairs,invariant_regime_K12,0.33814213040421415
+gaz,gaz 4 impairs→pairs,invariant_regime_K2,0.6128822054429315
+gaz,gaz 4 impairs→pairs,invariant_regime_K24,0.3129636566176991
+gaz,gaz 4 impairs→pairs,invariant_regime_K4,0.6044830148531811
+gaz,gaz 4 impairs→pairs,invariant_regime_K6,0.6216113742674316
+gaz,gaz 4 impairs→pairs,norm_regime_K12,0.5683178154527948
+gaz,gaz 4 impairs→pairs,norm_regime_K2,0.6987644500455961
+gaz,gaz 4 impairs→pairs,norm_regime_K24,0.45693358564988984
+gaz,gaz 4 impairs→pairs,norm_regime_K4,0.614401571135546
+gaz,gaz 4 impairs→pairs,norm_regime_K6,0.5873714935110934
+gaz,gaz 4 pairs→impairs,invariant_regime_K12,0.24622632092477842
+gaz,gaz 4 pairs→impairs,invariant_regime_K2,0.5454790861880181
+gaz,gaz 4 pairs→impairs,invariant_regime_K24,0.2553100905789192
+gaz,gaz 4 pairs→impairs,invariant_regime_K4,0.5343847505862243
+gaz,gaz 4 pairs→impairs,invariant_regime_K6,0.5638772511086825
+gaz,gaz 4 pairs→impairs,norm_regime_K12,0.5634035008400543
+gaz,gaz 4 pairs→impairs,norm_regime_K2,0.3884900383349519
+gaz,gaz 4 pairs→impairs,norm_regime_K24,0.552632120366306
+gaz,gaz 4 pairs→impairs,norm_regime_K4,0.5016995666167228
+gaz,gaz 4 pairs→impairs,norm_regime_K6,0.4828137999140093
+gaz,gaz 5 impairs→pairs,invariant_regime_K12,0.491059023500518
+gaz,gaz 5 impairs→pairs,invariant_regime_K2,-0.26142704865219524
+gaz,gaz 5 impairs→pairs,invariant_regime_K24,-0.004382666511475673
+gaz,gaz 5 impairs→pairs,invariant_regime_K4,0.41106750567644823
+gaz,gaz 5 impairs→pairs,invariant_regime_K6,0.42950138585227526
+gaz,gaz 5 impairs→pairs,norm_regime_K12,0.3916772645088722
+gaz,gaz 5 impairs→pairs,norm_regime_K2,0.36978763566472594
+gaz,gaz 5 impairs→pairs,norm_regime_K24,0.05102680031983179
+gaz,gaz 5 impairs→pairs,norm_regime_K4,0.49409557278887073
+gaz,gaz 5 impairs→pairs,norm_regime_K6,0.5119636048190315
+gaz,gaz 5 pairs→impairs,invariant_regime_K12,0.16569650035373296
+gaz,gaz 5 pairs→impairs,invariant_regime_K2,0.21200482978414778
+gaz,gaz 5 pairs→impairs,invariant_regime_K24,0.2887446352864357
+gaz,gaz 5 pairs→impairs,invariant_regime_K4,0.18777844575673602
+gaz,gaz 5 pairs→impairs,invariant_regime_K6,0.17321805458190476
+gaz,gaz 5 pairs→impairs,norm_regime_K12,-0.12796154344139313
+gaz,gaz 5 pairs→impairs,norm_regime_K2,0.426767108010185
+gaz,gaz 5 pairs→impairs,norm_regime_K24,0.23762396636583022
+gaz,gaz 5 pairs→impairs,norm_regime_K4,-0.2433756565623567
+gaz,gaz 5 pairs→impairs,norm_regime_K6,-0.2188208427315682
+gaz,gaz 6 impairs→pairs,invariant_regime_K12,-0.23105782054486487
+gaz,gaz 6 impairs→pairs,invariant_regime_K2,-0.37475871979362135
+gaz,gaz 6 impairs→pairs,invariant_regime_K24,-0.23105782054486487
+gaz,gaz 6 impairs→pairs,invariant_regime_K4,-0.3222784256361715
+gaz,gaz 6 impairs→pairs,invariant_regime_K6,-0.2615811567887013
+gaz,gaz 6 impairs→pairs,norm_regime_K12,-0.577172602295968
+gaz,gaz 6 impairs→pairs,norm_regime_K2,0.5480197968582892
+gaz,gaz 6 impairs→pairs,norm_regime_K24,-0.577172602295968
+gaz,gaz 6 impairs→pairs,norm_regime_K4,0.5400659136062698
+gaz,gaz 6 impairs→pairs,norm_regime_K6,-0.5994646981919884
+gaz,gaz 6 pairs→impairs,invariant_regime_K12,0.020569001125779605
+gaz,gaz 6 pairs→impairs,invariant_regime_K2,-0.23750999744952336
+gaz,gaz 6 pairs→impairs,invariant_regime_K24,0.020569001125779605
+gaz,gaz 6 pairs→impairs,invariant_regime_K4,0.03921101134061564
+gaz,gaz 6 pairs→impairs,invariant_regime_K6,0.029710967255323337
+gaz,gaz 6 pairs→impairs,norm_regime_K12,0.30874514527448954
+gaz,gaz 6 pairs→impairs,norm_regime_K2,0.5404201903332951
+gaz,gaz 6 pairs→impairs,norm_regime_K24,0.30874514527448954
+gaz,gaz 6 pairs→impairs,norm_regime_K4,0.38106295818041036
+gaz,gaz 6 pairs→impairs,norm_regime_K6,0.4493649828917847
+roulements,G1_sinus → G2_bruit_3var,invariant_regime_K12,-0.12616174256085513
+roulements,G1_sinus → G2_bruit_3var,invariant_regime_K2,0.6546757746973932
+roulements,G1_sinus → G2_bruit_3var,invariant_regime_K24,-0.131607173169915
+roulements,G1_sinus → G2_bruit_3var,invariant_regime_K4,0.5868828354635859
+roulements,G1_sinus → G2_bruit_3var,invariant_regime_K6,0.5432880809615959
+roulements,G1_sinus → G2_bruit_3var,norm_regime_K12,-0.09553729082291126
+roulements,G1_sinus → G2_bruit_3var,norm_regime_K2,0.7890666917653193
+roulements,G1_sinus → G2_bruit_3var,norm_regime_K24,0.15384153672337544
+roulements,G1_sinus → G2_bruit_3var,norm_regime_K4,0.40936685231259506
+roulements,G1_sinus → G2_bruit_3var,norm_regime_K6,0.08225313045765725
+roulements,G1_sinus → G3_vitesse,invariant_regime_K12,-0.0708706439929058
+roulements,G1_sinus → G3_vitesse,invariant_regime_K2,0.9573782399741924
+roulements,G1_sinus → G3_vitesse,invariant_regime_K24,-0.07327579328944278
+roulements,G1_sinus → G3_vitesse,invariant_regime_K4,0.8145012282518782
+roulements,G1_sinus → G3_vitesse,invariant_regime_K6,0.8143086822706214
+roulements,G1_sinus → G3_vitesse,norm_regime_K12,0.21915099812176694
+roulements,G1_sinus → G3_vitesse,norm_regime_K2,0.9563947251105205
+roulements,G1_sinus → G3_vitesse,norm_regime_K24,0.2013253863132326
+roulements,G1_sinus → G3_vitesse,norm_regime_K4,-0.09713583726784976
+roulements,G1_sinus → G3_vitesse,norm_regime_K6,-0.1485091674225973
+roulements,G1_sinus → G4_charge,invariant_regime_K12,-0.15248939676839746
+roulements,G1_sinus → G4_charge,invariant_regime_K2,0.8550799282010109
+roulements,G1_sinus → G4_charge,invariant_regime_K24,-0.14810224678030803
+roulements,G1_sinus → G4_charge,invariant_regime_K4,0.2782566603388551
+roulements,G1_sinus → G4_charge,invariant_regime_K6,0.19899605850276103
+roulements,G1_sinus → G4_charge,norm_regime_K12,0.6003913401212513
+roulements,G1_sinus → G4_charge,norm_regime_K2,0.9070857204174874
+roulements,G1_sinus → G4_charge,norm_regime_K24,0.6719466879594599
+roulements,G1_sinus → G4_charge,norm_regime_K4,-0.4589085898551932
+roulements,G1_sinus → G4_charge,norm_regime_K6,-0.4630351610910797
+roulements,G2_bruit_3var → G1_sinus,invariant_regime_K12,0.4348063351961213
+roulements,G2_bruit_3var → G1_sinus,invariant_regime_K2,0.5321928746674678
+roulements,G2_bruit_3var → G1_sinus,invariant_regime_K24,0.38814174524855216
+roulements,G2_bruit_3var → G1_sinus,invariant_regime_K4,0.5376419720598945
+roulements,G2_bruit_3var → G1_sinus,invariant_regime_K6,0.7145837075326811
+roulements,G2_bruit_3var → G1_sinus,norm_regime_K12,0.5641583178332721
+roulements,G2_bruit_3var → G1_sinus,norm_regime_K2,0.539190905792706
+roulements,G2_bruit_3var → G1_sinus,norm_regime_K24,0.4053507594693552
+roulements,G2_bruit_3var → G1_sinus,norm_regime_K4,0.5434556677916241
+roulements,G2_bruit_3var → G1_sinus,norm_regime_K6,0.6384934741909325
+roulements,G2_bruit_3var → G3_vitesse,invariant_regime_K12,0.2779460375522258
+roulements,G2_bruit_3var → G3_vitesse,invariant_regime_K2,0.5513047640492219
+roulements,G2_bruit_3var → G3_vitesse,invariant_regime_K24,0.24157412658298585
+roulements,G2_bruit_3var → G3_vitesse,invariant_regime_K4,0.5688791819643084
+roulements,G2_bruit_3var → G3_vitesse,invariant_regime_K6,0.6658294799424306
+roulements,G2_bruit_3var → G3_vitesse,norm_regime_K12,-0.005641601008041822
+roulements,G2_bruit_3var → G3_vitesse,norm_regime_K2,0.5966754617232329
+roulements,G2_bruit_3var → G3_vitesse,norm_regime_K24,-0.020451496873607866
+roulements,G2_bruit_3var → G3_vitesse,norm_regime_K4,0.5180145122589523
+roulements,G2_bruit_3var → G3_vitesse,norm_regime_K6,0.07757367547547457
+roulements,G2_bruit_3var → G4_charge,invariant_regime_K12,-0.007181618103672613
+roulements,G2_bruit_3var → G4_charge,invariant_regime_K2,0.8146366822126914
+roulements,G2_bruit_3var → G4_charge,invariant_regime_K24,0.011588830092113866
+roulements,G2_bruit_3var → G4_charge,invariant_regime_K4,0.7857393660515892
+roulements,G2_bruit_3var → G4_charge,invariant_regime_K6,0.5299269498580517
+roulements,G2_bruit_3var → G4_charge,norm_regime_K12,0.751573097889077
+roulements,G2_bruit_3var → G4_charge,norm_regime_K2,0.7081003824403647
+roulements,G2_bruit_3var → G4_charge,norm_regime_K24,0.6506256789117842
+roulements,G2_bruit_3var → G4_charge,norm_regime_K4,0.6952446044202303
+roulements,G2_bruit_3var → G4_charge,norm_regime_K6,0.601591761227072
+roulements,G3_vitesse → G1_sinus,invariant_regime_K12,0.3844037938727519
+roulements,G3_vitesse → G1_sinus,invariant_regime_K2,0.7574395104781122
+roulements,G3_vitesse → G1_sinus,invariant_regime_K24,0.31800091607614317
+roulements,G3_vitesse → G1_sinus,invariant_regime_K4,-0.7123622516899295
+roulements,G3_vitesse → G1_sinus,invariant_regime_K6,0.23452537619610106
+roulements,G3_vitesse → G1_sinus,norm_regime_K12,0.31495104871114665
+roulements,G3_vitesse → G1_sinus,norm_regime_K2,0.7874251862830279
+roulements,G3_vitesse → G1_sinus,norm_regime_K24,-0.2782765739729476
+roulements,G3_vitesse → G1_sinus,norm_regime_K4,-0.2928364081085165
+roulements,G3_vitesse → G1_sinus,norm_regime_K6,0.3286690729876979
+roulements,G3_vitesse → G2_bruit_3var,invariant_regime_K12,0.0015033195948866984
+roulements,G3_vitesse → G2_bruit_3var,invariant_regime_K2,0.8430108032154607
+roulements,G3_vitesse → G2_bruit_3var,invariant_regime_K24,-0.14437013083730302
+roulements,G3_vitesse → G2_bruit_3var,invariant_regime_K4,-0.04191328379938619
+roulements,G3_vitesse → G2_bruit_3var,invariant_regime_K6,0.35238967609852734
+roulements,G3_vitesse → G2_bruit_3var,norm_regime_K12,-0.0643790731877874
+roulements,G3_vitesse → G2_bruit_3var,norm_regime_K2,0.8442820448567269
+roulements,G3_vitesse → G2_bruit_3var,norm_regime_K24,-0.22354588151531812
+roulements,G3_vitesse → G2_bruit_3var,norm_regime_K4,0.09331952328553093
+roulements,G3_vitesse → G2_bruit_3var,norm_regime_K6,0.23771663905359375
+roulements,G3_vitesse → G4_charge,invariant_regime_K12,0.6899169491394677
+roulements,G3_vitesse → G4_charge,invariant_regime_K2,0.8730184443305602
+roulements,G3_vitesse → G4_charge,invariant_regime_K24,0.48387227634370344
+roulements,G3_vitesse → G4_charge,invariant_regime_K4,-0.7565502399723165
+roulements,G3_vitesse → G4_charge,invariant_regime_K6,0.6342550736114552
+roulements,G3_vitesse → G4_charge,norm_regime_K12,0.7875932881322112
+roulements,G3_vitesse → G4_charge,norm_regime_K2,0.8826493867145695
+roulements,G3_vitesse → G4_charge,norm_regime_K24,0.06384230886880231
+roulements,G3_vitesse → G4_charge,norm_regime_K4,0.1662138291374479
+roulements,G3_vitesse → G4_charge,norm_regime_K6,0.846555388752837
+roulements,G4_charge → G1_sinus,invariant_regime_K12,-0.16325423587224214
+roulements,G4_charge → G1_sinus,invariant_regime_K2,0.12651399986418435
+roulements,G4_charge → G1_sinus,invariant_regime_K24,-0.022596310483006157
+roulements,G4_charge → G1_sinus,invariant_regime_K4,0.0564400193666387
+roulements,G4_charge → G1_sinus,invariant_regime_K6,0.0449275919271225
+roulements,G4_charge → G1_sinus,norm_regime_K12,0.03210249776533705
+roulements,G4_charge → G1_sinus,norm_regime_K2,0.3358775332542563
+roulements,G4_charge → G1_sinus,norm_regime_K24,-0.39428559088187026
+roulements,G4_charge → G1_sinus,norm_regime_K4,0.42365942142443735
+roulements,G4_charge → G1_sinus,norm_regime_K6,0.23312283898931574
+roulements,G4_charge → G2_bruit_3var,invariant_regime_K12,0.5764095746044355
+roulements,G4_charge → G2_bruit_3var,invariant_regime_K2,-0.5471797763103752
+roulements,G4_charge → G2_bruit_3var,invariant_regime_K24,0.6641045642548905
+roulements,G4_charge → G2_bruit_3var,invariant_regime_K4,0.7513147268512224
+roulements,G4_charge → G2_bruit_3var,invariant_regime_K6,0.7543085954007385
+roulements,G4_charge → G2_bruit_3var,norm_regime_K12,-0.6241161349028503
+roulements,G4_charge → G2_bruit_3var,norm_regime_K2,-0.39941175603198253
+roulements,G4_charge → G2_bruit_3var,norm_regime_K24,-0.4659829889900578
+roulements,G4_charge → G2_bruit_3var,norm_regime_K4,-0.2733204386807971
+roulements,G4_charge → G2_bruit_3var,norm_regime_K6,0.4387924167584967
+roulements,G4_charge → G3_vitesse,invariant_regime_K12,0.8548554745472065
+roulements,G4_charge → G3_vitesse,invariant_regime_K2,-0.09543053665142166
+roulements,G4_charge → G3_vitesse,invariant_regime_K24,0.8668864715558653
+roulements,G4_charge → G3_vitesse,invariant_regime_K4,0.8641408321730931
+roulements,G4_charge → G3_vitesse,invariant_regime_K6,0.8737527980756153
+roulements,G4_charge → G3_vitesse,norm_regime_K12,-0.704367426879334
+roulements,G4_charge → G3_vitesse,norm_regime_K2,0.13181407110045856
+roulements,G4_charge → G3_vitesse,norm_regime_K24,-0.6492243322377715
+roulements,G4_charge → G3_vitesse,norm_regime_K4,0.3405571408389813
+roulements,G4_charge → G3_vitesse,norm_regime_K6,0.5969960752533522

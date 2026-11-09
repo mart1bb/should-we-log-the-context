@@ -1,0 +1,13 @@
+                                               contraste  n  mediane  ic_bas  ic_haut  p_wilcoxon
+batteries : résidu quadratique − meilleure sans contexte 20    0.079   0.019    0.212       0.143
+       batteries : attributs I − meilleure sans contexte 20   -0.054  -0.240   -0.004       0.024
+      batteries : attributs Ah − meilleure sans contexte 20   -0.062  -0.373   -0.023       0.004
+    batteries : attributs I+Ah − meilleure sans contexte 20    0.079   0.037    0.214       0.040
+                  N-CMAPSS : W par cycle − W par fenêtre 12    0.000  -0.000    0.001       0.123
+                 batteries : W par cycle − W par fenêtre 20   -0.063  -0.612    0.029       0.083
+                     PVDAQ : W par cycle − W par fenêtre  8    0.004   0.001    0.010       0.008
+    batteries : régimes K = 12 − meilleure sans contexte 20    0.066   0.030    0.142       0.030
+    batteries : régimes K = 24 − meilleure sans contexte 20    0.097   0.038    0.164       0.014
+             C1 descendante_h0.15 : span_W_ref − lenteur 12    0.089  -0.026    0.334       0.092
+                C1 montante_h0.15 : span_W_ref − lenteur 12    0.052  -0.098    0.194       0.519
+                C1 montante_h0.30 : span_W_ref − lenteur 12    0.067  -0.017    0.140       0.110

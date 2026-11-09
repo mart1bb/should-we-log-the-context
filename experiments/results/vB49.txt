@@ -1,0 +1,7 @@
+quel         dans   hors
+jeu                     
+N-CMAPSS    0.507  1.000
+PVDAQ       0.009  0.137
+batteries   0.009  0.059
+gaz         0.000  1.000
+roulements  0.122  0.518

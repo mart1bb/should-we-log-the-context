@@ -1,0 +1,109 @@
+=== dérive fabriquée : ρ(altitude moyenne du vol, âge) et vols gardés, unités d'entraînement ===
+           rho_alt_age                                                   vols                                                
+scenario        aucune descendante_h0.15 montante_h0.15 montante_h0.30 aucune descendante_h0.15 montante_h0.15 montante_h0.30
+DS   unite                                                                                                                   
+DS01 1           -0.11             -0.97           0.96           0.86  100.0              30.0           28.0           40.0
+     4           -0.21             -0.95           0.93           0.72   95.0              29.0           17.0           42.0
+     7            0.09             -0.96           0.97           0.83   90.0              16.0           31.0           50.0
+DS05 4           -0.05             -0.96           0.94           0.81   99.0              25.0           26.0           52.0
+     5            0.06             -0.97           0.96           0.83  100.0              20.0           24.0           47.0
+     8           -0.17             -0.96           0.91           0.75   91.0              29.0           18.0           45.0
+DS07 4            0.01             -0.96           0.96           0.77   79.0              20.0           18.0           40.0
+     5            0.24             -0.94           0.96           0.82   85.0              18.0           25.0           49.0
+     8           -0.07             -0.97           0.94           0.79   83.0              26.0           18.0           39.0
+
+=== principal — corr_spearman, unités NON VUES (par vol) ===
+methode    sans_W_sfa                                                 cond_lin_sfa                                                 sfa_insens_W                                                
+scenario       aucune montante_h0.30 montante_h0.15 descendante_h0.15       aucune montante_h0.30 montante_h0.15 descendante_h0.15       aucune montante_h0.30 montante_h0.15 descendante_h0.15
+DS   unite                                                                                                                                                                                     
+DS01 8           0.99           0.81           0.17             -0.01         0.75           0.14           0.47             -0.05         0.98           0.95           0.13              0.79
+     10          0.98           0.75          -0.05              0.17         0.48           0.24           0.35             -0.06         0.95           0.82           0.02              0.56
+DS05 7           0.97           0.86           0.61              0.36        -0.63          -0.76          -0.60             -0.46         0.97           0.94          -0.51             -0.73
+     9           0.92           0.76          -0.13              0.45         0.85           0.73          -0.04              0.35         0.91           0.62           0.35             -0.13
+DS07 7           0.94           0.78           0.77              0.37         0.83          -0.84          -0.72              0.38         0.94           0.82          -0.82              0.47
+     9           0.93           0.88           0.85             -0.26         0.70          -0.76          -0.46             -0.44         0.92           0.86          -0.84             -0.21
+
+=== principal — R2_score_W, unités NON VUES (par vol) ===
+methode    sans_W_sfa                                                 cond_lin_sfa                                                 sfa_insens_W                                                
+scenario       aucune montante_h0.30 montante_h0.15 descendante_h0.15       aucune montante_h0.30 montante_h0.15 descendante_h0.15       aucune montante_h0.30 montante_h0.15 descendante_h0.15
+DS   unite                                                                                                                                                                                     
+DS01 8           0.02           0.13           0.94              0.98         0.21           0.74           0.62              0.84         0.02           0.03           0.85              0.13
+     10          0.14           0.21           0.97              0.99         0.61           0.83           0.75              0.88         0.17           0.31           0.91              0.55
+DS05 7           0.04           0.06           0.63              0.69         0.08           0.05           0.32              0.42         0.05           0.02           0.63              0.11
+     9           0.11           0.62           0.97              0.87         0.08           0.66           0.81              0.90         0.16           0.78           0.97              0.68
+DS07 7           0.04           0.14           0.28              0.54         0.14           0.05           0.18              0.85         0.04           0.05           0.02              0.72
+     9           0.23           0.24           0.19              0.89         0.21           0.27           0.47              0.96         0.23           0.32           0.43              0.95
+
+=== principal — FA_classe, unités NON VUES (par vol) ===
+methode    sans_W_sfa                                                 cond_lin_sfa                                                 sfa_insens_W                                                
+scenario       aucune montante_h0.30 montante_h0.15 descendante_h0.15       aucune montante_h0.30 montante_h0.15 descendante_h0.15       aucune montante_h0.30 montante_h0.15 descendante_h0.15
+DS   unite                                                                                                                                                                                     
+DS01 8           0.04           1.00           1.00              0.00         1.00           0.83           0.91              1.00         0.00           0.00            1.0              0.35
+     10          0.06           1.00           1.00              0.00         1.00           0.88           1.00              1.00         0.69           0.19            1.0              0.88
+DS05 7           0.00           0.81           1.00              0.00         0.62           0.00           0.00              0.05         0.00           0.00            0.0              0.00
+     9           0.24           0.35           1.00              0.00         0.59           0.00           0.00              0.00         0.12           0.00            0.0              0.00
+DS07 7           0.00           1.00           0.95              0.62         1.00           0.62           0.43              1.00         0.05           0.10            1.0              1.00
+     9           0.00           0.59           1.00              1.00         1.00           0.71           0.18              1.00         0.00           0.00            1.0              1.00
+
+=== principal — rappel, unités NON VUES (par vol) ===
+methode    sans_W_sfa                                                 cond_lin_sfa                                                 sfa_insens_W                                                
+scenario       aucune montante_h0.30 montante_h0.15 descendante_h0.15       aucune montante_h0.30 montante_h0.15 descendante_h0.15       aucune montante_h0.30 montante_h0.15 descendante_h0.15
+DS   unite                                                                                                                                                                                     
+DS01 8           0.95           1.00           1.00              0.00         1.00           0.80           1.00              0.98         0.92           0.83           1.00              0.86
+     10          0.98           1.00           1.00              0.00         1.00           0.86           1.00              0.97         1.00           0.78           1.00              0.98
+DS05 7           0.77           0.90           1.00              0.00         0.52           0.00           0.00              0.00         0.73           0.60           0.00              0.00
+     9           0.80           0.73           1.00              0.00         0.94           0.08           0.00              0.02         0.80           0.06           0.02              0.00
+DS07 7           0.75           1.00           0.96              0.71         1.00           0.16           0.07              1.00         0.76           0.64           0.47              1.00
+     9           0.49           0.91           0.97              0.97         1.00           0.36           0.01              1.00         0.49           0.45           0.71              1.00
+
+=== secondaire — corr_spearman, unités NON VUES (par vol) ===
+methode        sans_W_sfa                                    cond_lin_sfa                                    sfa_insens_W                                 
+scenario   montante_h0.30 montante_h0.15 descendante_h0.15 montante_h0.30 montante_h0.15 descendante_h0.15 montante_h0.30 montante_h0.15 descendante_h0.15
+DS   unite                                                                                                                                                
+DS01 8               0.97           0.97              0.94           0.33           0.86             -0.51           0.95           0.88              0.66
+     10              0.94            NaN              0.91           0.49            NaN             -0.69           0.87            NaN             -0.41
+DS05 7               0.95           0.96               NaN          -0.92          -0.92               NaN           0.93          -0.96               NaN
+     9               0.70            NaN              0.88           0.02            NaN              0.97          -0.29            NaN              0.93
+DS07 7               0.88           0.96               NaN          -0.81          -0.89               NaN           0.69          -0.56               NaN
+     9                NaN            NaN             -0.86            NaN            NaN             -0.93            NaN            NaN             -0.94
+
+=== secondaire — R2_score_W, unités NON VUES (par vol) ===
+methode        sans_W_sfa                                    cond_lin_sfa                                    sfa_insens_W                                 
+scenario   montante_h0.30 montante_h0.15 descendante_h0.15 montante_h0.30 montante_h0.15 descendante_h0.15 montante_h0.30 montante_h0.15 descendante_h0.15
+DS   unite                                                                                                                                                
+DS01 8               0.74           1.00              0.99           0.70           0.83              0.81           0.41           0.87              0.23
+     10              0.75            NaN              0.99           0.82            NaN              0.87           0.58            NaN              0.55
+DS05 7               0.59           0.94               NaN           0.60           0.78               NaN           0.43           0.90               NaN
+     9               0.81            NaN              0.97           0.62            NaN              0.93           0.81            NaN              0.94
+DS07 7               0.67           0.91               NaN           0.48           0.78               NaN           0.49           0.58               NaN
+     9                NaN            NaN              0.91            NaN            NaN              0.97            NaN            NaN              0.97
+
+=== secondaire — FA_classe, unités NON VUES (par vol) ===
+methode        sans_W_sfa                                    cond_lin_sfa                                    sfa_insens_W                                 
+scenario   montante_h0.30 montante_h0.15 descendante_h0.15 montante_h0.30 montante_h0.15 descendante_h0.15 montante_h0.30 montante_h0.15 descendante_h0.15
+DS   unite                                                                                                                                                
+DS01 8                1.0            1.0               0.0           1.00            0.0               1.0            0.0            1.0               0.6
+     10               1.0            NaN               0.0           0.83            NaN               1.0            0.0            NaN               1.0
+DS05 7                1.0            1.0               NaN           0.00            0.2               NaN            0.0            0.0               NaN
+     9                1.0            NaN               0.0           0.00            NaN               0.0            0.0            NaN               0.0
+DS07 7                1.0            1.0               NaN           0.90            1.0               NaN            0.0            1.0               NaN
+     9                NaN            NaN               1.0            NaN            NaN               1.0            NaN            NaN               1.0
+
+=== secondaire — rappel, unités NON VUES (par vol) ===
+methode        sans_W_sfa                                    cond_lin_sfa                                    sfa_insens_W                                 
+scenario   montante_h0.30 montante_h0.15 descendante_h0.15 montante_h0.30 montante_h0.15 descendante_h0.15 montante_h0.30 montante_h0.15 descendante_h0.15
+DS   unite                                                                                                                                                
+DS01 8                1.0            1.0              0.00           0.83           0.89              0.95           0.63           1.00               1.0
+     10               1.0            NaN              0.00           0.94            NaN              0.95           0.57            NaN               1.0
+DS05 7                1.0            1.0               NaN           0.00           0.00               NaN           0.64           0.00               NaN
+     9                1.0            NaN              0.00           0.00            NaN              0.12           0.00            NaN               0.0
+DS07 7                1.0            1.0               NaN           0.41           0.31               NaN           0.59           0.62               NaN
+     9                NaN            NaN              0.95            NaN            NaN              1.00            NaN            NaN               1.0
+
+=== principal — corr_spearman, RÉFÉRENCE (Fc1) ===
+methode  cond_lin_sfa                                                 sans_W_sfa                                                 sfa_insens_W                                                
+scenario       aucune descendante_h0.15 montante_h0.15 montante_h0.30     aucune descendante_h0.15 montante_h0.15 montante_h0.30       aucune descendante_h0.15 montante_h0.15 montante_h0.30
+DS                                                                                                                                                                                           
+DS01             0.96              0.27          -0.62          -0.71       0.98             -0.18           0.49           0.89         0.98              0.66           0.17           0.95
+DS05             0.77              0.51           0.79           0.83       0.95              0.75           0.29           0.71         0.93             -0.28           0.86           0.96
+DS07             0.98             -0.22          -0.89          -0.95       0.99              0.75           0.53           0.76         0.99              0.73          -0.94           0.97

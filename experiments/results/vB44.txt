@@ -1,0 +1,18 @@
+=== H-CDE sur les 12 cas N-CMAPSS (médiane des graines) ===
+methode              H-CDE  H-CDE_orientation_verite  meilleure sans contexte  lenteur
+cas                                                                                   
+DS01 aucune ref u1   0.725                     0.725                    0.970    0.970
+DS01 aucune ref u4   0.681                     0.681                    0.979    0.979
+DS01 aucune ref u7   0.633                     0.633                    0.925    0.925
+DS01 aucune ref u9   0.714                     0.714                    0.985    0.985
+DS05 aucune ref u10  0.250                     0.250                    0.936    0.936
+DS05 aucune ref u4   0.106                     0.106                    0.913    0.913
+DS05 aucune ref u5   0.518                     0.518                    0.871    0.871
+DS05 aucune ref u8   0.651                     0.651                    0.908    0.908
+DS07 aucune ref u10  0.129                     0.129                    0.925    0.925
+DS07 aucune ref u4   0.501                     0.501                    0.927    0.927
+DS07 aucune ref u5   0.555                     0.555                    0.873    0.873
+DS07 aucune ref u8   0.141                     0.141                    0.887    0.877
+
+médianes : methode ; H-CDE                       0.536 ; H-CDE_orientation_verite    0.536 ; meilleure sans contexte     0.925 ; lenteur                     0.925
+lecture fixée : H-CDE 0.54 contre meilleure sans contexte 0.92 → ne fait pas mieux

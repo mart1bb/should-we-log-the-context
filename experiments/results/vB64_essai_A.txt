@@ -1,0 +1,16 @@
+                                 fausses_alarmes_med  fausses_alarmes_moy  detection  jeux
+scoreur  entrainement inference                                                           
+ctx      journal      journal                    NaN                  NaN        0.0     2
+                      tout                       NaN                  NaN        0.0     2
+         tout         journal                    NaN                  NaN        0.0     2
+                      tout                       NaN                  NaN        0.0     2
+sans_ctx journal      journal                    NaN                  NaN        0.0     2
+                      tout                       NaN                  NaN        0.0     2
+         tout         journal                    NaN                  NaN        0.0     2
+                      tout                       NaN                  NaN        0.0     2
+
+Tri (entraînement journal, inférence tout)
+          part_expliquee  masquees
+scoreur                           
+ctx                  NaN       0.0
+sans_ctx             NaN       0.0

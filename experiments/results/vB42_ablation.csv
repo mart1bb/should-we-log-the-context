@@ -1,0 +1,1897 @@
+jeu,cas,methode,attributs,rho
+C-MAPSS retenu,FD002 R20 tirage 0,resid_lin,s1,-0.14096719147429088
+C-MAPSS retenu,FD002 R20 tirage 0,resid_lin,s1+s2,-0.14400131787302173
+C-MAPSS retenu,FD002 R20 tirage 0,resid_lin,s1+s2+s3,-0.12835249042145594
+C-MAPSS retenu,FD002 R20 tirage 0,resid_lin,s1+s3,-0.12972085385878487
+C-MAPSS retenu,FD002 R20 tirage 0,resid_lin,s2,-0.13273125342090858
+C-MAPSS retenu,FD002 R20 tirage 0,resid_lin,s2+s3,0.21219232874405286
+C-MAPSS retenu,FD002 R20 tirage 0,resid_lin,s3,0.8526976981192869
+C-MAPSS retenu,FD002 R20 tirage 0,resid_quad,s1,-0.12244862417276209
+C-MAPSS retenu,FD002 R20 tirage 0,resid_quad,s1+s2,-0.1261631089217296
+C-MAPSS retenu,FD002 R20 tirage 0,resid_quad,s1+s2+s3,0.8297773460564157
+C-MAPSS retenu,FD002 R20 tirage 0,resid_quad,s1+s3,-0.11861493495676403
+C-MAPSS retenu,FD002 R20 tirage 0,resid_quad,s2,-0.1386828111599917
+C-MAPSS retenu,FD002 R20 tirage 0,resid_quad,s2+s3,0.8489896779370463
+C-MAPSS retenu,FD002 R20 tirage 0,resid_quad,s3,0.8526976981192869
+C-MAPSS retenu,FD002 R20 tirage 0,span_W,s1,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,span_W,s1+s2,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,span_W,s1+s2+s3,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,span_W,s1+s3,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,span_W,s2,0.8353964666715268
+C-MAPSS retenu,FD002 R20 tirage 0,span_W,s2+s3,0.8208019414694638
+C-MAPSS retenu,FD002 R20 tirage 0,span_W,s3,-0.0661139074296969
+C-MAPSS retenu,FD002 R20 tirage 1,resid_lin,s1,-0.14815003848979508
+C-MAPSS retenu,FD002 R20 tirage 1,resid_lin,s1+s2,-0.1457793928382164
+C-MAPSS retenu,FD002 R20 tirage 1,resid_lin,s1+s2+s3,-0.15346524605425535
+C-MAPSS retenu,FD002 R20 tirage 1,resid_lin,s1+s3,-0.1497581945917859
+C-MAPSS retenu,FD002 R20 tirage 1,resid_lin,s2,-0.14283153177676505
+C-MAPSS retenu,FD002 R20 tirage 1,resid_lin,s2+s3,0.02752363737486096
+C-MAPSS retenu,FD002 R20 tirage 1,resid_lin,s3,0.8220155331320514
+C-MAPSS retenu,FD002 R20 tirage 1,resid_quad,s1,-0.13564993564993566
+C-MAPSS retenu,FD002 R20 tirage 1,resid_quad,s1+s2,-0.15282726045883938
+C-MAPSS retenu,FD002 R20 tirage 1,resid_quad,s1+s2+s3,0.802275032841921
+C-MAPSS retenu,FD002 R20 tirage 1,resid_quad,s1+s3,-0.12851817334575955
+C-MAPSS retenu,FD002 R20 tirage 1,resid_quad,s2,-0.14399690910847096
+C-MAPSS retenu,FD002 R20 tirage 1,resid_quad,s2+s3,0.8110387715650873
+C-MAPSS retenu,FD002 R20 tirage 1,resid_quad,s3,0.8220155331320514
+C-MAPSS retenu,FD002 R20 tirage 1,span_W,s1,0.7831707647497121
+C-MAPSS retenu,FD002 R20 tirage 1,span_W,s1+s2,0.7831707647497121
+C-MAPSS retenu,FD002 R20 tirage 1,span_W,s1+s2+s3,0.7831707647497121
+C-MAPSS retenu,FD002 R20 tirage 1,span_W,s1+s3,0.7831707647497121
+C-MAPSS retenu,FD002 R20 tirage 1,span_W,s2,0.7967692960689565
+C-MAPSS retenu,FD002 R20 tirage 1,span_W,s2+s3,0.7831707647497121
+C-MAPSS retenu,FD002 R20 tirage 1,span_W,s3,-0.11512475046224338
+C-MAPSS retenu,FD002 R20 tirage 2,resid_lin,s1,-0.1473911183366133
+C-MAPSS retenu,FD002 R20 tirage 2,resid_lin,s1+s2,-0.15046456662745292
+C-MAPSS retenu,FD002 R20 tirage 2,resid_lin,s1+s2+s3,-0.14314707032098337
+C-MAPSS retenu,FD002 R20 tirage 2,resid_lin,s1+s3,-0.14360536761979542
+C-MAPSS retenu,FD002 R20 tirage 2,resid_lin,s2,-0.14357674104124407
+C-MAPSS retenu,FD002 R20 tirage 2,resid_lin,s2+s3,-0.037801387801387795
+C-MAPSS retenu,FD002 R20 tirage 2,resid_lin,s3,0.5578702892677484
+C-MAPSS retenu,FD002 R20 tirage 2,resid_quad,s1,-0.12229437229437229
+C-MAPSS retenu,FD002 R20 tirage 2,resid_quad,s1+s2,-0.14748473748473748
+C-MAPSS retenu,FD002 R20 tirage 2,resid_quad,s1+s2+s3,0.8207661290322582
+C-MAPSS retenu,FD002 R20 tirage 2,resid_quad,s1+s3,-0.03875732111026229
+C-MAPSS retenu,FD002 R20 tirage 2,resid_quad,s2,-0.1478318250377074
+C-MAPSS retenu,FD002 R20 tirage 2,resid_quad,s2+s3,0.8252761302426921
+C-MAPSS retenu,FD002 R20 tirage 2,resid_quad,s3,0.5578702892677484
+C-MAPSS retenu,FD002 R20 tirage 2,span_W,s1,0.2797849153886306
+C-MAPSS retenu,FD002 R20 tirage 2,span_W,s1+s2,0.2797849153886306
+C-MAPSS retenu,FD002 R20 tirage 2,span_W,s1+s2+s3,0.2797849153886306
+C-MAPSS retenu,FD002 R20 tirage 2,span_W,s1+s3,0.2797849153886306
+C-MAPSS retenu,FD002 R20 tirage 2,span_W,s2,0.29678767666383765
+C-MAPSS retenu,FD002 R20 tirage 2,span_W,s2+s3,0.2797849153886306
+C-MAPSS retenu,FD002 R20 tirage 2,span_W,s3,-0.1268222768222768
+C-MAPSS retenu,FD002 R20 tirage 3,resid_lin,s1,-0.0751973516679399
+C-MAPSS retenu,FD002 R20 tirage 3,resid_lin,s1+s2,-0.0751973516679399
+C-MAPSS retenu,FD002 R20 tirage 3,resid_lin,s1+s2+s3,-0.07759103641456583
+C-MAPSS retenu,FD002 R20 tirage 3,resid_lin,s1+s3,-0.07888993359581593
+C-MAPSS retenu,FD002 R20 tirage 3,resid_lin,s2,-0.04663111398405516
+C-MAPSS retenu,FD002 R20 tirage 3,resid_lin,s2+s3,0.5158494650256663
+C-MAPSS retenu,FD002 R20 tirage 3,resid_lin,s3,0.6472715070106857
+C-MAPSS retenu,FD002 R20 tirage 3,resid_quad,s1,-0.044912734324499035
+C-MAPSS retenu,FD002 R20 tirage 3,resid_quad,s1+s2,-0.07827858416093711
+C-MAPSS retenu,FD002 R20 tirage 3,resid_quad,s1+s2+s3,0.8682554086365338
+C-MAPSS retenu,FD002 R20 tirage 3,resid_quad,s1+s3,-0.06416720534367594
+C-MAPSS retenu,FD002 R20 tirage 3,resid_quad,s2,-0.07308377896613191
+C-MAPSS retenu,FD002 R20 tirage 3,resid_quad,s2+s3,0.8741209189485053
+C-MAPSS retenu,FD002 R20 tirage 3,resid_quad,s3,0.6472715070106857
+C-MAPSS retenu,FD002 R20 tirage 3,span_W,s1,0.4193906312446099
+C-MAPSS retenu,FD002 R20 tirage 3,span_W,s1+s2,0.4193906312446099
+C-MAPSS retenu,FD002 R20 tirage 3,span_W,s1+s2+s3,0.4193906312446099
+C-MAPSS retenu,FD002 R20 tirage 3,span_W,s1+s3,0.4193906312446099
+C-MAPSS retenu,FD002 R20 tirage 3,span_W,s2,0.4681301689742603
+C-MAPSS retenu,FD002 R20 tirage 3,span_W,s2+s3,0.4193906312446099
+C-MAPSS retenu,FD002 R20 tirage 3,span_W,s3,-0.03877756230697407
+C-MAPSS retenu,FD002 R20 tirage 4,resid_lin,s1,-0.07355062441145654
+C-MAPSS retenu,FD002 R20 tirage 4,resid_lin,s1+s2,-0.07385620118762157
+C-MAPSS retenu,FD002 R20 tirage 4,resid_lin,s1+s2+s3,-0.07142857142857142
+C-MAPSS retenu,FD002 R20 tirage 4,resid_lin,s1+s3,-0.07574584669276205
+C-MAPSS retenu,FD002 R20 tirage 4,resid_lin,s2,-0.027892107892107894
+C-MAPSS retenu,FD002 R20 tirage 4,resid_lin,s2+s3,0.7158575418021944
+C-MAPSS retenu,FD002 R20 tirage 4,resid_lin,s3,0.8219024972002851
+C-MAPSS retenu,FD002 R20 tirage 4,resid_quad,s1,-0.0362812524073234
+C-MAPSS retenu,FD002 R20 tirage 4,resid_quad,s1+s2,-0.0753986866791745
+C-MAPSS retenu,FD002 R20 tirage 4,resid_quad,s1+s2+s3,0.8400823683484974
+C-MAPSS retenu,FD002 R20 tirage 4,resid_quad,s1+s3,-0.019710793082886105
+C-MAPSS retenu,FD002 R20 tirage 4,resid_quad,s2,-0.0705424911900244
+C-MAPSS retenu,FD002 R20 tirage 4,resid_quad,s2+s3,0.8407256508319421
+C-MAPSS retenu,FD002 R20 tirage 4,resid_quad,s3,0.8219024972002851
+C-MAPSS retenu,FD002 R20 tirage 4,span_W,s1,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,span_W,s1+s2,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,span_W,s1+s2+s3,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,span_W,s1+s3,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,span_W,s2,0.8027308950882899
+C-MAPSS retenu,FD002 R20 tirage 4,span_W,s2+s3,0.7860297061121015
+C-MAPSS retenu,FD002 R20 tirage 4,span_W,s3,-0.016936769710382903
+C-MAPSS retenu,FD002 R42 tirage 0,resid_lin,s1,0.8369109507866841
+C-MAPSS retenu,FD002 R42 tirage 0,resid_lin,s1+s2,0.8369179505727891
+C-MAPSS retenu,FD002 R42 tirage 0,resid_lin,s1+s2+s3,0.8101942153477789
+C-MAPSS retenu,FD002 R42 tirage 0,resid_lin,s1+s3,0.8102527763032232
+C-MAPSS retenu,FD002 R42 tirage 0,resid_lin,s2,0.8328662219239726
+C-MAPSS retenu,FD002 R42 tirage 0,resid_lin,s2+s3,0.8107787791304101
+C-MAPSS retenu,FD002 R42 tirage 0,resid_lin,s3,0.8112788986729157
+C-MAPSS retenu,FD002 R42 tirage 0,resid_quad,s1,0.8362029396347627
+C-MAPSS retenu,FD002 R42 tirage 0,resid_quad,s1+s2,0.8101984550857209
+C-MAPSS retenu,FD002 R42 tirage 0,resid_quad,s1+s2+s3,0.8079106349350872
+C-MAPSS retenu,FD002 R42 tirage 0,resid_quad,s1+s3,0.8090044929892046
+C-MAPSS retenu,FD002 R42 tirage 0,resid_quad,s2,0.8352001342122923
+C-MAPSS retenu,FD002 R42 tirage 0,resid_quad,s2+s3,0.8078855352785853
+C-MAPSS retenu,FD002 R42 tirage 0,resid_quad,s3,0.8112788986729157
+C-MAPSS retenu,FD002 R42 tirage 0,span_W,s1,0.8138391379976011
+C-MAPSS retenu,FD002 R42 tirage 0,span_W,s1+s2,0.8116055359602063
+C-MAPSS retenu,FD002 R42 tirage 0,span_W,s1+s2+s3,0.8116055359602063
+C-MAPSS retenu,FD002 R42 tirage 0,span_W,s1+s3,0.8138391379976011
+C-MAPSS retenu,FD002 R42 tirage 0,span_W,s2,0.8138391379976011
+C-MAPSS retenu,FD002 R42 tirage 0,span_W,s2+s3,0.8138391379976011
+C-MAPSS retenu,FD002 R42 tirage 0,span_W,s3,0.8415601663322028
+C-MAPSS retenu,FD002 R42 tirage 1,resid_lin,s1,0.7853109756362263
+C-MAPSS retenu,FD002 R42 tirage 1,resid_lin,s1+s2,0.786164727877326
+C-MAPSS retenu,FD002 R42 tirage 1,resid_lin,s1+s2+s3,0.6980582630714326
+C-MAPSS retenu,FD002 R42 tirage 1,resid_lin,s1+s3,0.6948004748584613
+C-MAPSS retenu,FD002 R42 tirage 1,resid_lin,s2,0.788893601989004
+C-MAPSS retenu,FD002 R42 tirage 1,resid_lin,s2+s3,0.6956061803724993
+C-MAPSS retenu,FD002 R42 tirage 1,resid_lin,s3,0.7051837712484548
+C-MAPSS retenu,FD002 R42 tirage 1,resid_quad,s1,0.7839860485229893
+C-MAPSS retenu,FD002 R42 tirage 1,resid_quad,s1+s2,0.6979095102989993
+C-MAPSS retenu,FD002 R42 tirage 1,resid_quad,s1+s2+s3,0.7003239292916081
+C-MAPSS retenu,FD002 R42 tirage 1,resid_quad,s1+s3,0.6962901524634584
+C-MAPSS retenu,FD002 R42 tirage 1,resid_quad,s2,0.7835074151634691
+C-MAPSS retenu,FD002 R42 tirage 1,resid_quad,s2+s3,0.6981680314091446
+C-MAPSS retenu,FD002 R42 tirage 1,resid_quad,s3,0.7051837712484548
+C-MAPSS retenu,FD002 R42 tirage 1,span_W,s1,0.7040005760619519
+C-MAPSS retenu,FD002 R42 tirage 1,span_W,s1+s2,0.702652140925208
+C-MAPSS retenu,FD002 R42 tirage 1,span_W,s1+s2+s3,0.702652140925208
+C-MAPSS retenu,FD002 R42 tirage 1,span_W,s1+s3,0.7040005760619519
+C-MAPSS retenu,FD002 R42 tirage 1,span_W,s2,0.7040005760619519
+C-MAPSS retenu,FD002 R42 tirage 1,span_W,s2+s3,0.7040005760619519
+C-MAPSS retenu,FD002 R42 tirage 1,span_W,s3,0.79574496754318
+C-MAPSS retenu,FD002 R42 tirage 2,resid_lin,s1,0.8249568664675172
+C-MAPSS retenu,FD002 R42 tirage 2,resid_lin,s1+s2,0.8250198218822413
+C-MAPSS retenu,FD002 R42 tirage 2,resid_lin,s1+s2+s3,0.7977926835188072
+C-MAPSS retenu,FD002 R42 tirage 2,resid_lin,s1+s3,0.7957509627323718
+C-MAPSS retenu,FD002 R42 tirage 2,resid_lin,s2,0.8279543677936291
+C-MAPSS retenu,FD002 R42 tirage 2,resid_lin,s2+s3,0.7946260392346498
+C-MAPSS retenu,FD002 R42 tirage 2,resid_lin,s3,0.80050045141336
+C-MAPSS retenu,FD002 R42 tirage 2,resid_quad,s1,0.8239558614143332
+C-MAPSS retenu,FD002 R42 tirage 2,resid_quad,s1+s2,0.7956630868076151
+C-MAPSS retenu,FD002 R42 tirage 2,resid_quad,s1+s2+s3,0.7987084860734814
+C-MAPSS retenu,FD002 R42 tirage 2,resid_quad,s1+s3,0.795642978035346
+C-MAPSS retenu,FD002 R42 tirage 2,resid_quad,s2,0.8234901867723833
+C-MAPSS retenu,FD002 R42 tirage 2,resid_quad,s2+s3,0.7957805436132246
+C-MAPSS retenu,FD002 R42 tirage 2,resid_quad,s3,0.80050045141336
+C-MAPSS retenu,FD002 R42 tirage 2,span_W,s1,0.8046934475206815
+C-MAPSS retenu,FD002 R42 tirage 2,span_W,s1+s2,0.8026818540917482
+C-MAPSS retenu,FD002 R42 tirage 2,span_W,s1+s2+s3,0.8026818540917482
+C-MAPSS retenu,FD002 R42 tirage 2,span_W,s1+s3,0.8046934475206815
+C-MAPSS retenu,FD002 R42 tirage 2,span_W,s2,0.8046934475206815
+C-MAPSS retenu,FD002 R42 tirage 2,span_W,s2+s3,0.8046934475206815
+C-MAPSS retenu,FD002 R42 tirage 2,span_W,s3,0.8322525056534241
+C-MAPSS retenu,FD002 R42 tirage 3,resid_lin,s1,0.8731312263657276
+C-MAPSS retenu,FD002 R42 tirage 3,resid_lin,s1+s2,0.8729943838000316
+C-MAPSS retenu,FD002 R42 tirage 3,resid_lin,s1+s2+s3,0.8691970310391364
+C-MAPSS retenu,FD002 R42 tirage 3,resid_lin,s1+s3,0.8675981802595506
+C-MAPSS retenu,FD002 R42 tirage 3,resid_lin,s2,0.8727961915293451
+C-MAPSS retenu,FD002 R42 tirage 3,resid_lin,s2+s3,0.8693595877806404
+C-MAPSS retenu,FD002 R42 tirage 3,resid_lin,s3,0.8718222044502367
+C-MAPSS retenu,FD002 R42 tirage 3,resid_quad,s1,0.8732086579189005
+C-MAPSS retenu,FD002 R42 tirage 3,resid_quad,s1+s2,0.8658319465061649
+C-MAPSS retenu,FD002 R42 tirage 3,resid_quad,s1+s2+s3,0.86975747822109
+C-MAPSS retenu,FD002 R42 tirage 3,resid_quad,s1+s3,0.868972321951468
+C-MAPSS retenu,FD002 R42 tirage 3,resid_quad,s2,0.8731365358177672
+C-MAPSS retenu,FD002 R42 tirage 3,resid_quad,s2+s3,0.8645216166941994
+C-MAPSS retenu,FD002 R42 tirage 3,resid_quad,s3,0.8718222044502367
+C-MAPSS retenu,FD002 R42 tirage 3,span_W,s1,0.8693043995537256
+C-MAPSS retenu,FD002 R42 tirage 3,span_W,s1+s2,0.8696276275386787
+C-MAPSS retenu,FD002 R42 tirage 3,span_W,s1+s2+s3,0.8696276275386787
+C-MAPSS retenu,FD002 R42 tirage 3,span_W,s1+s3,0.8693043995537256
+C-MAPSS retenu,FD002 R42 tirage 3,span_W,s2,0.8693043995537256
+C-MAPSS retenu,FD002 R42 tirage 3,span_W,s2+s3,0.8693043995537256
+C-MAPSS retenu,FD002 R42 tirage 3,span_W,s3,0.8805837768101918
+C-MAPSS retenu,FD002 R42 tirage 4,resid_lin,s1,0.8273241739132802
+C-MAPSS retenu,FD002 R42 tirage 4,resid_lin,s1+s2,0.8265468186216844
+C-MAPSS retenu,FD002 R42 tirage 4,resid_lin,s1+s2+s3,0.8182560517596779
+C-MAPSS retenu,FD002 R42 tirage 4,resid_lin,s1+s3,0.8131236556211652
+C-MAPSS retenu,FD002 R42 tirage 4,resid_lin,s2,0.827908163265306
+C-MAPSS retenu,FD002 R42 tirage 4,resid_lin,s2+s3,0.8123172346205564
+C-MAPSS retenu,FD002 R42 tirage 4,resid_lin,s3,0.8150298787591146
+C-MAPSS retenu,FD002 R42 tirage 4,resid_quad,s1,0.8264285714285713
+C-MAPSS retenu,FD002 R42 tirage 4,resid_quad,s1+s2,0.8110336344997469
+C-MAPSS retenu,FD002 R42 tirage 4,resid_quad,s1+s2+s3,0.8133490952043951
+C-MAPSS retenu,FD002 R42 tirage 4,resid_quad,s1+s3,0.8143572512246648
+C-MAPSS retenu,FD002 R42 tirage 4,resid_quad,s2,0.8258283599002796
+C-MAPSS retenu,FD002 R42 tirage 4,resid_quad,s2+s3,0.8103291391295768
+C-MAPSS retenu,FD002 R42 tirage 4,resid_quad,s3,0.8150298787591146
+C-MAPSS retenu,FD002 R42 tirage 4,span_W,s1,0.8221507175054051
+C-MAPSS retenu,FD002 R42 tirage 4,span_W,s1+s2,0.8189138646168888
+C-MAPSS retenu,FD002 R42 tirage 4,span_W,s1+s2+s3,0.8189138646168888
+C-MAPSS retenu,FD002 R42 tirage 4,span_W,s1+s3,0.8221507175054051
+C-MAPSS retenu,FD002 R42 tirage 4,span_W,s2,0.8221507175054051
+C-MAPSS retenu,FD002 R42 tirage 4,span_W,s2+s3,0.8221507175054051
+C-MAPSS retenu,FD002 R42 tirage 4,span_W,s3,0.8308697662036787
+C-MAPSS retenu,FD002 R60 tirage 0,resid_lin,s1,0.8063180074401302
+C-MAPSS retenu,FD002 R60 tirage 0,resid_lin,s1+s2,0.8143269230769231
+C-MAPSS retenu,FD002 R60 tirage 0,resid_lin,s1+s2+s3,0.8143269230769231
+C-MAPSS retenu,FD002 R60 tirage 0,resid_lin,s1+s3,0.8063180074401302
+C-MAPSS retenu,FD002 R60 tirage 0,resid_lin,s2,0.8074098969145753
+C-MAPSS retenu,FD002 R60 tirage 0,resid_lin,s2+s3,0.8074098969145753
+C-MAPSS retenu,FD002 R60 tirage 0,resid_quad,s1,0.8170266107640969
+C-MAPSS retenu,FD002 R60 tirage 0,resid_quad,s1+s2,0.8136744138214727
+C-MAPSS retenu,FD002 R60 tirage 0,resid_quad,s1+s2+s3,0.8136744138214727
+C-MAPSS retenu,FD002 R60 tirage 0,resid_quad,s1+s3,0.8170266107640969
+C-MAPSS retenu,FD002 R60 tirage 0,resid_quad,s2,0.8123240273240273
+C-MAPSS retenu,FD002 R60 tirage 0,resid_quad,s2+s3,0.8123240273240273
+C-MAPSS retenu,FD002 R60 tirage 0,span_W,s1,0.8136243195066726
+C-MAPSS retenu,FD002 R60 tirage 0,span_W,s1+s2,0.8136243195066726
+C-MAPSS retenu,FD002 R60 tirage 0,span_W,s1+s2+s3,0.8136243195066726
+C-MAPSS retenu,FD002 R60 tirage 0,span_W,s1+s3,0.8136243195066726
+C-MAPSS retenu,FD002 R60 tirage 0,span_W,s2,0.8005177705177706
+C-MAPSS retenu,FD002 R60 tirage 0,span_W,s2+s3,0.8005177705177706
+C-MAPSS retenu,FD002 R60 tirage 1,resid_lin,s1,0.7677739375320021
+C-MAPSS retenu,FD002 R60 tirage 1,resid_lin,s1+s2,0.7927188661308442
+C-MAPSS retenu,FD002 R60 tirage 1,resid_lin,s1+s2+s3,0.7927188661308442
+C-MAPSS retenu,FD002 R60 tirage 1,resid_lin,s1+s3,0.7677739375320021
+C-MAPSS retenu,FD002 R60 tirage 1,resid_lin,s2,0.777045177045177
+C-MAPSS retenu,FD002 R60 tirage 1,resid_lin,s2+s3,0.777045177045177
+C-MAPSS retenu,FD002 R60 tirage 1,resid_quad,s1,0.7933497536945813
+C-MAPSS retenu,FD002 R60 tirage 1,resid_quad,s1+s2,0.8000159377789111
+C-MAPSS retenu,FD002 R60 tirage 1,resid_quad,s1+s2+s3,0.8000159377789111
+C-MAPSS retenu,FD002 R60 tirage 1,resid_quad,s1+s3,0.7933497536945813
+C-MAPSS retenu,FD002 R60 tirage 1,resid_quad,s2,0.7927188661308442
+C-MAPSS retenu,FD002 R60 tirage 1,resid_quad,s2+s3,0.7927188661308442
+C-MAPSS retenu,FD002 R60 tirage 1,span_W,s1,0.7830697433238266
+C-MAPSS retenu,FD002 R60 tirage 1,span_W,s1+s2,0.7830697433238266
+C-MAPSS retenu,FD002 R60 tirage 1,span_W,s1+s2+s3,0.7830697433238266
+C-MAPSS retenu,FD002 R60 tirage 1,span_W,s1+s3,0.7830697433238266
+C-MAPSS retenu,FD002 R60 tirage 1,span_W,s2,0.7715969937109366
+C-MAPSS retenu,FD002 R60 tirage 1,span_W,s2+s3,0.7715969937109366
+C-MAPSS retenu,FD002 R60 tirage 2,resid_lin,s1,0.824192237350132
+C-MAPSS retenu,FD002 R60 tirage 2,resid_lin,s1+s2,0.8271236594929587
+C-MAPSS retenu,FD002 R60 tirage 2,resid_lin,s1+s2+s3,0.8271236594929587
+C-MAPSS retenu,FD002 R60 tirage 2,resid_lin,s1+s3,0.824192237350132
+C-MAPSS retenu,FD002 R60 tirage 2,resid_lin,s2,0.8230052553745546
+C-MAPSS retenu,FD002 R60 tirage 2,resid_lin,s2+s3,0.8230052553745546
+C-MAPSS retenu,FD002 R60 tirage 2,resid_quad,s1,0.822267985449298
+C-MAPSS retenu,FD002 R60 tirage 2,resid_quad,s1+s2,0.8276494800790801
+C-MAPSS retenu,FD002 R60 tirage 2,resid_quad,s1+s2+s3,0.8276494800790801
+C-MAPSS retenu,FD002 R60 tirage 2,resid_quad,s1+s3,0.822267985449298
+C-MAPSS retenu,FD002 R60 tirage 2,resid_quad,s2,0.8265581865590648
+C-MAPSS retenu,FD002 R60 tirage 2,resid_quad,s2+s3,0.8265581865590648
+C-MAPSS retenu,FD002 R60 tirage 2,span_W,s1,0.8336671806082261
+C-MAPSS retenu,FD002 R60 tirage 2,span_W,s1+s2,0.8337958807369263
+C-MAPSS retenu,FD002 R60 tirage 2,span_W,s1+s2+s3,0.8337958807369263
+C-MAPSS retenu,FD002 R60 tirage 2,span_W,s1+s3,0.8336671806082261
+C-MAPSS retenu,FD002 R60 tirage 2,span_W,s2,0.8337958807369263
+C-MAPSS retenu,FD002 R60 tirage 2,span_W,s2+s3,0.8337958807369263
+C-MAPSS retenu,FD002 R60 tirage 3,resid_lin,s1,0.8376710654936461
+C-MAPSS retenu,FD002 R60 tirage 3,resid_lin,s1+s2,0.8537085056829217
+C-MAPSS retenu,FD002 R60 tirage 3,resid_lin,s1+s2+s3,0.8537085056829217
+C-MAPSS retenu,FD002 R60 tirage 3,resid_lin,s1+s3,0.8376710654936461
+C-MAPSS retenu,FD002 R60 tirage 3,resid_lin,s2,0.8534146051081533
+C-MAPSS retenu,FD002 R60 tirage 3,resid_lin,s2+s3,0.8534146051081533
+C-MAPSS retenu,FD002 R60 tirage 3,resid_quad,s1,0.8497816838334079
+C-MAPSS retenu,FD002 R60 tirage 3,resid_quad,s1+s2,0.8510293571163136
+C-MAPSS retenu,FD002 R60 tirage 3,resid_quad,s1+s2+s3,0.8510293571163136
+C-MAPSS retenu,FD002 R60 tirage 3,resid_quad,s1+s3,0.8497816838334079
+C-MAPSS retenu,FD002 R60 tirage 3,resid_quad,s2,0.8537085056829217
+C-MAPSS retenu,FD002 R60 tirage 3,resid_quad,s2+s3,0.8537085056829217
+C-MAPSS retenu,FD002 R60 tirage 3,span_W,s1,0.8499108138238572
+C-MAPSS retenu,FD002 R60 tirage 3,span_W,s1+s2,0.8499108138238572
+C-MAPSS retenu,FD002 R60 tirage 3,span_W,s1+s2+s3,0.8499108138238572
+C-MAPSS retenu,FD002 R60 tirage 3,span_W,s1+s3,0.8499108138238572
+C-MAPSS retenu,FD002 R60 tirage 3,span_W,s2,0.8504393250373261
+C-MAPSS retenu,FD002 R60 tirage 3,span_W,s2+s3,0.8504393250373261
+C-MAPSS retenu,FD002 R60 tirage 4,resid_lin,s1,0.8082842535048418
+C-MAPSS retenu,FD002 R60 tirage 4,resid_lin,s1+s2,0.8224764874764876
+C-MAPSS retenu,FD002 R60 tirage 4,resid_lin,s1+s2+s3,0.8224764874764876
+C-MAPSS retenu,FD002 R60 tirage 4,resid_lin,s1+s3,0.8082842535048418
+C-MAPSS retenu,FD002 R60 tirage 4,resid_lin,s2,0.8172086922086923
+C-MAPSS retenu,FD002 R60 tirage 4,resid_lin,s2+s3,0.8172086922086923
+C-MAPSS retenu,FD002 R60 tirage 4,resid_quad,s1,0.8211732788938673
+C-MAPSS retenu,FD002 R60 tirage 4,resid_quad,s1+s2,0.8204030568001157
+C-MAPSS retenu,FD002 R60 tirage 4,resid_quad,s1+s2+s3,0.8204030568001157
+C-MAPSS retenu,FD002 R60 tirage 4,resid_quad,s1+s3,0.8211732788938673
+C-MAPSS retenu,FD002 R60 tirage 4,resid_quad,s2,0.8205534105534107
+C-MAPSS retenu,FD002 R60 tirage 4,resid_quad,s2+s3,0.8205534105534107
+C-MAPSS retenu,FD002 R60 tirage 4,span_W,s1,0.8186640758622183
+C-MAPSS retenu,FD002 R60 tirage 4,span_W,s1+s2,0.8186640758622183
+C-MAPSS retenu,FD002 R60 tirage 4,span_W,s1+s2+s3,0.8186640758622183
+C-MAPSS retenu,FD002 R60 tirage 4,span_W,s1+s3,0.8186640758622183
+C-MAPSS retenu,FD002 R60 tirage 4,span_W,s2,0.8130556645262528
+C-MAPSS retenu,FD002 R60 tirage 4,span_W,s2+s3,0.8130556645262528
+C-MAPSS retenu,FD004 R20 tirage 0,resid_lin,s1,0.87683284457478
+C-MAPSS retenu,FD004 R20 tirage 0,resid_lin,s1+s2,0.87683284457478
+C-MAPSS retenu,FD004 R20 tirage 0,resid_lin,s1+s2+s3,0.8806787082649151
+C-MAPSS retenu,FD004 R20 tirage 0,resid_lin,s1+s3,0.8809716599190284
+C-MAPSS retenu,FD004 R20 tirage 0,resid_lin,s2,0.8771968854282535
+C-MAPSS retenu,FD004 R20 tirage 0,resid_lin,s2+s3,0.8834677419354839
+C-MAPSS retenu,FD004 R20 tirage 0,resid_lin,s3,0.8686234817813766
+C-MAPSS retenu,FD004 R20 tirage 0,resid_quad,s1,0.8776418242491658
+C-MAPSS retenu,FD004 R20 tirage 0,resid_quad,s1+s2,0.8819838056680163
+C-MAPSS retenu,FD004 R20 tirage 0,resid_quad,s1+s2+s3,0.8803643724696357
+C-MAPSS retenu,FD004 R20 tirage 0,resid_quad,s1+s3,0.8790896159317212
+C-MAPSS retenu,FD004 R20 tirage 0,resid_quad,s2,0.87683284457478
+C-MAPSS retenu,FD004 R20 tirage 0,resid_quad,s2+s3,0.8805668016194332
+C-MAPSS retenu,FD004 R20 tirage 0,resid_quad,s3,0.8686234817813766
+C-MAPSS retenu,FD004 R20 tirage 0,span_W,s1,0.8610837438423643
+C-MAPSS retenu,FD004 R20 tirage 0,span_W,s1+s2,0.8610837438423643
+C-MAPSS retenu,FD004 R20 tirage 0,span_W,s1+s2+s3,0.8610837438423643
+C-MAPSS retenu,FD004 R20 tirage 0,span_W,s1+s3,0.8610837438423643
+C-MAPSS retenu,FD004 R20 tirage 0,span_W,s2,0.8610837438423643
+C-MAPSS retenu,FD004 R20 tirage 0,span_W,s2+s3,0.8610837438423643
+C-MAPSS retenu,FD004 R20 tirage 0,span_W,s3,0.8448275862068964
+C-MAPSS retenu,FD004 R20 tirage 1,resid_lin,s1,0.8705276705276705
+C-MAPSS retenu,FD004 R20 tirage 1,resid_lin,s1+s2,0.8705276705276705
+C-MAPSS retenu,FD004 R20 tirage 1,resid_lin,s1+s2+s3,0.8887652947719689
+C-MAPSS retenu,FD004 R20 tirage 1,resid_lin,s1+s3,0.8842105263157896
+C-MAPSS retenu,FD004 R20 tirage 1,resid_lin,s2,0.8705276705276705
+C-MAPSS retenu,FD004 R20 tirage 1,resid_lin,s2+s3,0.8869963369963368
+C-MAPSS retenu,FD004 R20 tirage 1,resid_lin,s3,0.8862348178137652
+C-MAPSS retenu,FD004 R20 tirage 1,resid_quad,s1,0.8711018711018711
+C-MAPSS retenu,FD004 R20 tirage 1,resid_quad,s1+s2,0.8844129554655871
+C-MAPSS retenu,FD004 R20 tirage 1,resid_quad,s1+s2+s3,0.8897581792318633
+C-MAPSS retenu,FD004 R20 tirage 1,resid_quad,s1+s3,0.8899835796387521
+C-MAPSS retenu,FD004 R20 tirage 1,resid_quad,s2,0.8713379643612202
+C-MAPSS retenu,FD004 R20 tirage 1,resid_quad,s2+s3,0.8887652947719689
+C-MAPSS retenu,FD004 R20 tirage 1,resid_quad,s3,0.8862348178137652
+C-MAPSS retenu,FD004 R20 tirage 1,span_W,s1,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,span_W,s1+s2,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,span_W,s1+s2+s3,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,span_W,s1+s3,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,span_W,s2,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,span_W,s2+s3,0.8822660098522165
+C-MAPSS retenu,FD004 R20 tirage 1,span_W,s3,0.8699788583509513
+C-MAPSS retenu,FD004 R20 tirage 2,resid_lin,s1,0.8840579710144927
+C-MAPSS retenu,FD004 R20 tirage 2,resid_lin,s1+s2,0.8844532279314886
+C-MAPSS retenu,FD004 R20 tirage 2,resid_lin,s1+s2+s3,0.8896361721092295
+C-MAPSS retenu,FD004 R20 tirage 2,resid_lin,s1+s3,0.8878066378066379
+C-MAPSS retenu,FD004 R20 tirage 2,resid_lin,s2,0.8844532279314886
+C-MAPSS retenu,FD004 R20 tirage 2,resid_lin,s2+s3,0.8922291548496881
+C-MAPSS retenu,FD004 R20 tirage 2,resid_lin,s3,0.8816974869606448
+C-MAPSS retenu,FD004 R20 tirage 2,resid_quad,s1,0.8841642228739002
+C-MAPSS retenu,FD004 R20 tirage 2,resid_quad,s1+s2,0.8855846365772627
+C-MAPSS retenu,FD004 R20 tirage 2,resid_quad,s1+s2+s3,0.8875901875901878
+C-MAPSS retenu,FD004 R20 tirage 2,resid_quad,s1+s3,0.8889916743755782
+C-MAPSS retenu,FD004 R20 tirage 2,resid_quad,s2,0.8844532279314886
+C-MAPSS retenu,FD004 R20 tirage 2,resid_quad,s2+s3,0.8907563025210085
+C-MAPSS retenu,FD004 R20 tirage 2,resid_quad,s3,0.8816974869606448
+C-MAPSS retenu,FD004 R20 tirage 2,span_W,s1,0.8668489405331511
+C-MAPSS retenu,FD004 R20 tirage 2,span_W,s1+s2,0.8668489405331511
+C-MAPSS retenu,FD004 R20 tirage 2,span_W,s1+s2+s3,0.8668489405331511
+C-MAPSS retenu,FD004 R20 tirage 2,span_W,s1+s3,0.8668489405331511
+C-MAPSS retenu,FD004 R20 tirage 2,span_W,s2,0.8668489405331511
+C-MAPSS retenu,FD004 R20 tirage 2,span_W,s2+s3,0.8668489405331511
+C-MAPSS retenu,FD004 R20 tirage 2,span_W,s3,0.8602528522972557
+C-MAPSS retenu,FD004 R20 tirage 3,resid_lin,s1,0.8776923076923077
+C-MAPSS retenu,FD004 R20 tirage 3,resid_lin,s1+s2,0.8783783783783782
+C-MAPSS retenu,FD004 R20 tirage 3,resid_lin,s1+s2+s3,0.8904573687182383
+C-MAPSS retenu,FD004 R20 tirage 3,resid_lin,s1+s3,0.8827001753360609
+C-MAPSS retenu,FD004 R20 tirage 3,resid_lin,s2,0.8776923076923077
+C-MAPSS retenu,FD004 R20 tirage 3,resid_lin,s2+s3,0.8852605137347056
+C-MAPSS retenu,FD004 R20 tirage 3,resid_lin,s3,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,resid_quad,s1,0.8788525367472735
+C-MAPSS retenu,FD004 R20 tirage 3,resid_quad,s1+s2,0.8904573687182383
+C-MAPSS retenu,FD004 R20 tirage 3,resid_quad,s1+s2+s3,0.8811740890688259
+C-MAPSS retenu,FD004 R20 tirage 3,resid_quad,s1+s3,0.8904573687182383
+C-MAPSS retenu,FD004 R20 tirage 3,resid_quad,s2,0.8776923076923077
+C-MAPSS retenu,FD004 R20 tirage 3,resid_quad,s2+s3,0.89
+C-MAPSS retenu,FD004 R20 tirage 3,resid_quad,s3,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,span_W,s1,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,span_W,s1+s2,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,span_W,s1+s2+s3,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,span_W,s1+s3,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,span_W,s2,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,span_W,s2+s3,0.8815384615384615
+C-MAPSS retenu,FD004 R20 tirage 3,span_W,s3,0.8700600240096038
+C-MAPSS retenu,FD004 R20 tirage 4,resid_lin,s1,0.8508097165991902
+C-MAPSS retenu,FD004 R20 tirage 4,resid_lin,s1+s2,0.8506072874493927
+C-MAPSS retenu,FD004 R20 tirage 4,resid_lin,s1+s2+s3,0.8558398220244716
+C-MAPSS retenu,FD004 R20 tirage 4,resid_lin,s1+s3,0.8492307692307692
+C-MAPSS retenu,FD004 R20 tirage 4,resid_lin,s2,0.8303167420814479
+C-MAPSS retenu,FD004 R20 tirage 4,resid_lin,s2+s3,0.840926640926641
+C-MAPSS retenu,FD004 R20 tirage 4,resid_lin,s3,0.8213642213642214
+C-MAPSS retenu,FD004 R20 tirage 4,resid_quad,s1,0.8479638009049774
+C-MAPSS retenu,FD004 R20 tirage 4,resid_quad,s1+s2,0.8546153846153846
+C-MAPSS retenu,FD004 R20 tirage 4,resid_quad,s1+s2+s3,0.8549019607843138
+C-MAPSS retenu,FD004 R20 tirage 4,resid_quad,s1+s3,0.8558398220244716
+C-MAPSS retenu,FD004 R20 tirage 4,resid_quad,s2,0.8455433455433455
+C-MAPSS retenu,FD004 R20 tirage 4,resid_quad,s2+s3,0.8582633053221289
+C-MAPSS retenu,FD004 R20 tirage 4,resid_quad,s3,0.8213642213642214
+C-MAPSS retenu,FD004 R20 tirage 4,span_W,s1,0.7330367074527252
+C-MAPSS retenu,FD004 R20 tirage 4,span_W,s1+s2,0.7330367074527252
+C-MAPSS retenu,FD004 R20 tirage 4,span_W,s1+s2+s3,0.7330367074527252
+C-MAPSS retenu,FD004 R20 tirage 4,span_W,s1+s3,0.7330367074527252
+C-MAPSS retenu,FD004 R20 tirage 4,span_W,s2,0.7330367074527252
+C-MAPSS retenu,FD004 R20 tirage 4,span_W,s2+s3,0.7330367074527252
+C-MAPSS retenu,FD004 R20 tirage 4,span_W,s3,0.7607503607503608
+C-MAPSS retenu,FD004 R42 tirage 0,resid_lin,s1,0.8909925895000523
+C-MAPSS retenu,FD004 R42 tirage 0,resid_lin,s1+s2,0.8909925895000523
+C-MAPSS retenu,FD004 R42 tirage 0,resid_lin,s1+s2+s3,0.897113368811482
+C-MAPSS retenu,FD004 R42 tirage 0,resid_lin,s1+s3,0.8995832175604336
+C-MAPSS retenu,FD004 R42 tirage 0,resid_lin,s2,0.8930800542740843
+C-MAPSS retenu,FD004 R42 tirage 0,resid_lin,s2+s3,0.8993949114237807
+C-MAPSS retenu,FD004 R42 tirage 0,resid_lin,s3,0.8900162778079218
+C-MAPSS retenu,FD004 R42 tirage 0,resid_quad,s1,0.8934140486379293
+C-MAPSS retenu,FD004 R42 tirage 0,resid_quad,s1+s2,0.8966287443899386
+C-MAPSS retenu,FD004 R42 tirage 0,resid_quad,s1+s2+s3,0.8981297486849796
+C-MAPSS retenu,FD004 R42 tirage 0,resid_quad,s1+s3,0.8991215280309104
+C-MAPSS retenu,FD004 R42 tirage 0,resid_quad,s2,0.8929130570921617
+C-MAPSS retenu,FD004 R42 tirage 0,resid_quad,s2+s3,0.9001389274798558
+C-MAPSS retenu,FD004 R42 tirage 0,resid_quad,s3,0.8900162778079218
+C-MAPSS retenu,FD004 R42 tirage 0,span_W,s1,0.8763947491795594
+C-MAPSS retenu,FD004 R42 tirage 0,span_W,s1+s2,0.8985647476213513
+C-MAPSS retenu,FD004 R42 tirage 0,span_W,s1+s2+s3,0.8985647476213513
+C-MAPSS retenu,FD004 R42 tirage 0,span_W,s1+s3,0.8924304309653776
+C-MAPSS retenu,FD004 R42 tirage 0,span_W,s2,0.8763947491795594
+C-MAPSS retenu,FD004 R42 tirage 0,span_W,s2+s3,0.8924304309653776
+C-MAPSS retenu,FD004 R42 tirage 0,span_W,s3,0.8819425444596444
+C-MAPSS retenu,FD004 R42 tirage 1,resid_lin,s1,0.8753997632897685
+C-MAPSS retenu,FD004 R42 tirage 1,resid_lin,s1+s2,0.8729319332174964
+C-MAPSS retenu,FD004 R42 tirage 1,resid_lin,s1+s2+s3,0.8886053801851715
+C-MAPSS retenu,FD004 R42 tirage 1,resid_lin,s1+s3,0.8883078215062792
+C-MAPSS retenu,FD004 R42 tirage 1,resid_lin,s2,0.8743139068763491
+C-MAPSS retenu,FD004 R42 tirage 1,resid_lin,s2+s3,0.8863573214781886
+C-MAPSS retenu,FD004 R42 tirage 1,resid_lin,s3,0.8843877551020407
+C-MAPSS retenu,FD004 R42 tirage 1,resid_quad,s1,0.8727304777013927
+C-MAPSS retenu,FD004 R42 tirage 1,resid_quad,s1+s2,0.8870241733814951
+C-MAPSS retenu,FD004 R42 tirage 1,resid_quad,s1+s2+s3,0.8885245901639346
+C-MAPSS retenu,FD004 R42 tirage 1,resid_quad,s1+s3,0.8898728862083444
+C-MAPSS retenu,FD004 R42 tirage 1,resid_quad,s2,0.8786691481372646
+C-MAPSS retenu,FD004 R42 tirage 1,resid_quad,s2+s3,0.889469297026952
+C-MAPSS retenu,FD004 R42 tirage 1,resid_quad,s3,0.8843877551020407
+C-MAPSS retenu,FD004 R42 tirage 1,span_W,s1,0.8744938885554507
+C-MAPSS retenu,FD004 R42 tirage 1,span_W,s1+s2,0.8869686023895529
+C-MAPSS retenu,FD004 R42 tirage 1,span_W,s1+s2+s3,0.8869686023895529
+C-MAPSS retenu,FD004 R42 tirage 1,span_W,s1+s3,0.8821534041024823
+C-MAPSS retenu,FD004 R42 tirage 1,span_W,s2,0.8744938885554507
+C-MAPSS retenu,FD004 R42 tirage 1,span_W,s2+s3,0.8821534041024823
+C-MAPSS retenu,FD004 R42 tirage 1,span_W,s3,0.8760309278350514
+C-MAPSS retenu,FD004 R42 tirage 2,resid_lin,s1,0.8835497835497834
+C-MAPSS retenu,FD004 R42 tirage 2,resid_lin,s1+s2,0.8831640058055151
+C-MAPSS retenu,FD004 R42 tirage 2,resid_lin,s1+s2+s3,0.895500725689405
+C-MAPSS retenu,FD004 R42 tirage 2,resid_lin,s1+s3,0.8963963963963962
+C-MAPSS retenu,FD004 R42 tirage 2,resid_lin,s2,0.8888198757763975
+C-MAPSS retenu,FD004 R42 tirage 2,resid_lin,s2+s3,0.8966101694915256
+C-MAPSS retenu,FD004 R42 tirage 2,resid_lin,s3,0.8869717906630529
+C-MAPSS retenu,FD004 R42 tirage 2,resid_quad,s1,0.8862041816114077
+C-MAPSS retenu,FD004 R42 tirage 2,resid_quad,s1+s2,0.8940385739333724
+C-MAPSS retenu,FD004 R42 tirage 2,resid_quad,s1+s2+s3,0.8962820400664858
+C-MAPSS retenu,FD004 R42 tirage 2,resid_quad,s1+s3,0.8956851588430536
+C-MAPSS retenu,FD004 R42 tirage 2,resid_quad,s2,0.8889886233169817
+C-MAPSS retenu,FD004 R42 tirage 2,resid_quad,s2+s3,0.8977493748263408
+C-MAPSS retenu,FD004 R42 tirage 2,resid_quad,s3,0.8869717906630529
+C-MAPSS retenu,FD004 R42 tirage 2,span_W,s1,0.8794506167439419
+C-MAPSS retenu,FD004 R42 tirage 2,span_W,s1+s2,0.8963070472504434
+C-MAPSS retenu,FD004 R42 tirage 2,span_W,s1+s2+s3,0.8963070472504434
+C-MAPSS retenu,FD004 R42 tirage 2,span_W,s1+s3,0.8895206243032331
+C-MAPSS retenu,FD004 R42 tirage 2,span_W,s2,0.8794506167439419
+C-MAPSS retenu,FD004 R42 tirage 2,span_W,s2+s3,0.8895206243032331
+C-MAPSS retenu,FD004 R42 tirage 2,span_W,s3,0.8829924021040328
+C-MAPSS retenu,FD004 R42 tirage 3,resid_lin,s1,0.8918617614269789
+C-MAPSS retenu,FD004 R42 tirage 3,resid_lin,s1+s2,0.8917980570154483
+C-MAPSS retenu,FD004 R42 tirage 3,resid_lin,s1+s2+s3,0.9079639484450462
+C-MAPSS retenu,FD004 R42 tirage 3,resid_lin,s1+s3,0.9047883884970157
+C-MAPSS retenu,FD004 R42 tirage 3,resid_lin,s2,0.8916630481980026
+C-MAPSS retenu,FD004 R42 tirage 3,resid_lin,s2+s3,0.9044492674986436
+C-MAPSS retenu,FD004 R42 tirage 3,resid_lin,s3,0.8930243669374104
+C-MAPSS retenu,FD004 R42 tirage 3,resid_quad,s1,0.8914954610606786
+C-MAPSS retenu,FD004 R42 tirage 3,resid_quad,s1+s2,0.9082937522835222
+C-MAPSS retenu,FD004 R42 tirage 3,resid_quad,s1+s2+s3,0.9078077243678803
+C-MAPSS retenu,FD004 R42 tirage 3,resid_quad,s1+s3,0.9055073250135648
+C-MAPSS retenu,FD004 R42 tirage 3,resid_quad,s2,0.8940086534744824
+C-MAPSS retenu,FD004 R42 tirage 3,resid_quad,s2+s3,0.9062398263700489
+C-MAPSS retenu,FD004 R42 tirage 3,resid_quad,s3,0.8930243669374104
+C-MAPSS retenu,FD004 R42 tirage 3,span_W,s1,0.8941073419334289
+C-MAPSS retenu,FD004 R42 tirage 3,span_W,s1+s2,0.9031037558829864
+C-MAPSS retenu,FD004 R42 tirage 3,span_W,s1+s2+s3,0.9031037558829864
+C-MAPSS retenu,FD004 R42 tirage 3,span_W,s1+s3,0.8941073419334289
+C-MAPSS retenu,FD004 R42 tirage 3,span_W,s2,0.8941073419334289
+C-MAPSS retenu,FD004 R42 tirage 3,span_W,s2+s3,0.8941073419334289
+C-MAPSS retenu,FD004 R42 tirage 3,span_W,s3,0.89011701170117
+C-MAPSS retenu,FD004 R42 tirage 4,resid_lin,s1,0.8641633728590249
+C-MAPSS retenu,FD004 R42 tirage 4,resid_lin,s1+s2,0.8624391411924336
+C-MAPSS retenu,FD004 R42 tirage 4,resid_lin,s1+s2+s3,0.8850931677018634
+C-MAPSS retenu,FD004 R42 tirage 4,resid_lin,s1+s3,0.8812568505663135
+C-MAPSS retenu,FD004 R42 tirage 4,resid_lin,s2,0.8672268907563027
+C-MAPSS retenu,FD004 R42 tirage 4,resid_lin,s2+s3,0.8812203142126417
+C-MAPSS retenu,FD004 R42 tirage 4,resid_lin,s3,0.884776334776335
+C-MAPSS retenu,FD004 R42 tirage 4,resid_quad,s1,0.8635046113306982
+C-MAPSS retenu,FD004 R42 tirage 4,resid_quad,s1+s2,0.881476068688345
+C-MAPSS retenu,FD004 R42 tirage 4,resid_quad,s1+s2+s3,0.8799387195613609
+C-MAPSS retenu,FD004 R42 tirage 4,resid_quad,s1+s3,0.8825356229448301
+C-MAPSS retenu,FD004 R42 tirage 4,resid_quad,s2,0.8686147186147188
+C-MAPSS retenu,FD004 R42 tirage 4,resid_quad,s2+s3,0.881074168797954
+C-MAPSS retenu,FD004 R42 tirage 4,resid_quad,s3,0.884776334776335
+C-MAPSS retenu,FD004 R42 tirage 4,span_W,s1,0.879179331306991
+C-MAPSS retenu,FD004 R42 tirage 4,span_W,s1+s2,0.8900347372991749
+C-MAPSS retenu,FD004 R42 tirage 4,span_W,s1+s2+s3,0.8900347372991749
+C-MAPSS retenu,FD004 R42 tirage 4,span_W,s1+s3,0.8893877551020407
+C-MAPSS retenu,FD004 R42 tirage 4,span_W,s2,0.8786365610073817
+C-MAPSS retenu,FD004 R42 tirage 4,span_W,s2+s3,0.8893877551020407
+C-MAPSS retenu,FD004 R42 tirage 4,span_W,s3,0.8741322616002924
+C-MAPSS retenu,FD004 R60 tirage 0,resid_lin,s1,0.8564842482711515
+C-MAPSS retenu,FD004 R60 tirage 0,resid_lin,s1+s2,0.8704433497536944
+C-MAPSS retenu,FD004 R60 tirage 0,resid_lin,s1+s2+s3,0.8704433497536944
+C-MAPSS retenu,FD004 R60 tirage 0,resid_lin,s1+s3,0.8564842482711515
+C-MAPSS retenu,FD004 R60 tirage 0,resid_lin,s2,0.8675626698882513
+C-MAPSS retenu,FD004 R60 tirage 0,resid_lin,s2+s3,0.8675626698882513
+C-MAPSS retenu,FD004 R60 tirage 0,resid_quad,s1,0.8680380785643944
+C-MAPSS retenu,FD004 R60 tirage 0,resid_quad,s1+s2,0.8711018711018711
+C-MAPSS retenu,FD004 R60 tirage 0,resid_quad,s1+s2+s3,0.8711018711018711
+C-MAPSS retenu,FD004 R60 tirage 0,resid_quad,s1+s3,0.8680380785643944
+C-MAPSS retenu,FD004 R60 tirage 0,resid_quad,s2,0.8704433497536944
+C-MAPSS retenu,FD004 R60 tirage 0,resid_quad,s2+s3,0.8704433497536944
+C-MAPSS retenu,FD004 R60 tirage 0,span_W,s1,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,span_W,s1+s2,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,span_W,s1+s2+s3,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,span_W,s1+s3,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,span_W,s2,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 0,span_W,s2+s3,0.8581174838112858
+C-MAPSS retenu,FD004 R60 tirage 1,resid_lin,s1,0.8427350427350427
+C-MAPSS retenu,FD004 R60 tirage 1,resid_lin,s1+s2,0.8582123758594346
+C-MAPSS retenu,FD004 R60 tirage 1,resid_lin,s1+s2+s3,0.8582123758594346
+C-MAPSS retenu,FD004 R60 tirage 1,resid_lin,s1+s3,0.8427350427350427
+C-MAPSS retenu,FD004 R60 tirage 1,resid_lin,s2,0.8577075098814229
+C-MAPSS retenu,FD004 R60 tirage 1,resid_lin,s2+s3,0.8577075098814229
+C-MAPSS retenu,FD004 R60 tirage 1,resid_quad,s1,0.8575480106960538
+C-MAPSS retenu,FD004 R60 tirage 1,resid_quad,s1+s2,0.8620689655172412
+C-MAPSS retenu,FD004 R60 tirage 1,resid_quad,s1+s2+s3,0.8620689655172412
+C-MAPSS retenu,FD004 R60 tirage 1,resid_quad,s1+s3,0.8575480106960538
+C-MAPSS retenu,FD004 R60 tirage 1,resid_quad,s2,0.8602892102335928
+C-MAPSS retenu,FD004 R60 tirage 1,resid_quad,s2+s3,0.8602892102335928
+C-MAPSS retenu,FD004 R60 tirage 1,span_W,s1,0.8459677419354841
+C-MAPSS retenu,FD004 R60 tirage 1,span_W,s1+s2,0.8459677419354841
+C-MAPSS retenu,FD004 R60 tirage 1,span_W,s1+s2+s3,0.8459677419354841
+C-MAPSS retenu,FD004 R60 tirage 1,span_W,s1+s3,0.8459677419354841
+C-MAPSS retenu,FD004 R60 tirage 1,span_W,s2,0.8459677419354841
+C-MAPSS retenu,FD004 R60 tirage 1,span_W,s2+s3,0.8459677419354841
+C-MAPSS retenu,FD004 R60 tirage 2,resid_lin,s1,0.8513949363005967
+C-MAPSS retenu,FD004 R60 tirage 2,resid_lin,s1+s2,0.8713343108504397
+C-MAPSS retenu,FD004 R60 tirage 2,resid_lin,s1+s2+s3,0.8713343108504397
+C-MAPSS retenu,FD004 R60 tirage 2,resid_lin,s1+s3,0.8513949363005967
+C-MAPSS retenu,FD004 R60 tirage 2,resid_lin,s2,0.8749191107400065
+C-MAPSS retenu,FD004 R60 tirage 2,resid_lin,s2+s3,0.8749191107400065
+C-MAPSS retenu,FD004 R60 tirage 2,resid_quad,s1,0.8722672064777328
+C-MAPSS retenu,FD004 R60 tirage 2,resid_quad,s1+s2,0.8743751007901951
+C-MAPSS retenu,FD004 R60 tirage 2,resid_quad,s1+s2+s3,0.8743751007901951
+C-MAPSS retenu,FD004 R60 tirage 2,resid_quad,s1+s3,0.8722672064777328
+C-MAPSS retenu,FD004 R60 tirage 2,resid_quad,s2,0.8713343108504397
+C-MAPSS retenu,FD004 R60 tirage 2,resid_quad,s2+s3,0.8713343108504397
+C-MAPSS retenu,FD004 R60 tirage 2,span_W,s1,0.866502463054187
+C-MAPSS retenu,FD004 R60 tirage 2,span_W,s1+s2,0.8682110682110683
+C-MAPSS retenu,FD004 R60 tirage 2,span_W,s1+s2+s3,0.8682110682110683
+C-MAPSS retenu,FD004 R60 tirage 2,span_W,s1+s3,0.866502463054187
+C-MAPSS retenu,FD004 R60 tirage 2,span_W,s2,0.866502463054187
+C-MAPSS retenu,FD004 R60 tirage 2,span_W,s2+s3,0.866502463054187
+C-MAPSS retenu,FD004 R60 tirage 3,resid_lin,s1,0.8394554042789665
+C-MAPSS retenu,FD004 R60 tirage 3,resid_lin,s1+s2,0.857174638487208
+C-MAPSS retenu,FD004 R60 tirage 3,resid_lin,s1+s2+s3,0.857174638487208
+C-MAPSS retenu,FD004 R60 tirage 3,resid_lin,s1+s3,0.8394554042789665
+C-MAPSS retenu,FD004 R60 tirage 3,resid_lin,s2,0.8576195773081201
+C-MAPSS retenu,FD004 R60 tirage 3,resid_lin,s2+s3,0.8576195773081201
+C-MAPSS retenu,FD004 R60 tirage 3,resid_quad,s1,0.8588235294117645
+C-MAPSS retenu,FD004 R60 tirage 3,resid_quad,s1+s2,0.8573148046832257
+C-MAPSS retenu,FD004 R60 tirage 3,resid_quad,s1+s2+s3,0.8573148046832257
+C-MAPSS retenu,FD004 R60 tirage 3,resid_quad,s1+s3,0.8588235294117645
+C-MAPSS retenu,FD004 R60 tirage 3,resid_quad,s2,0.857174638487208
+C-MAPSS retenu,FD004 R60 tirage 3,resid_quad,s2+s3,0.857174638487208
+C-MAPSS retenu,FD004 R60 tirage 3,span_W,s1,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,span_W,s1+s2,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,span_W,s1+s2+s3,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,span_W,s1+s3,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,span_W,s2,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 3,span_W,s2+s3,0.8417514646931853
+C-MAPSS retenu,FD004 R60 tirage 4,resid_lin,s1,0.850420168067227
+C-MAPSS retenu,FD004 R60 tirage 4,resid_lin,s1+s2,0.8598828245451742
+C-MAPSS retenu,FD004 R60 tirage 4,resid_lin,s1+s2+s3,0.8598828245451742
+C-MAPSS retenu,FD004 R60 tirage 4,resid_lin,s1+s3,0.850420168067227
+C-MAPSS retenu,FD004 R60 tirage 4,resid_lin,s2,0.8625963613937712
+C-MAPSS retenu,FD004 R60 tirage 4,resid_lin,s2+s3,0.8625963613937712
+C-MAPSS retenu,FD004 R60 tirage 4,resid_quad,s1,0.8586956521739131
+C-MAPSS retenu,FD004 R60 tirage 4,resid_quad,s1+s2,0.8640989167304957
+C-MAPSS retenu,FD004 R60 tirage 4,resid_quad,s1+s2+s3,0.8640989167304957
+C-MAPSS retenu,FD004 R60 tirage 4,resid_quad,s1+s3,0.8586956521739131
+C-MAPSS retenu,FD004 R60 tirage 4,resid_quad,s2,0.8641456582633054
+C-MAPSS retenu,FD004 R60 tirage 4,resid_quad,s2+s3,0.8641456582633054
+C-MAPSS retenu,FD004 R60 tirage 4,span_W,s1,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,span_W,s1+s2,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,span_W,s1+s2+s3,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,span_W,s1+s3,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,span_W,s2,0.8526610644257705
+C-MAPSS retenu,FD004 R60 tirage 4,span_W,s2+s3,0.8526610644257705
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_Mach,0.9665373308634504
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_Mach+W_T2,0.9260030619786717
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_Mach+W_TRA,0.936089301558389
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_Mach+W_TRA+W_T2,0.9260100646044891
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_T2,0.9257506450856204
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_TRA,0.9763514115448582
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_TRA+W_T2,0.9279813943658857
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_alt,0.9404597820953609
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_alt+W_Mach,0.9353235974815104
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_alt+W_Mach+W_T2,0.8903987164578544
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_alt+W_Mach+W_TRA,0.9123431895175507
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.6923033931483409
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_alt+W_T2,0.908050660996756
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_alt+W_TRA,0.9158988392651979
+N-CMAPSS,DS01 aucune ref u1,resid_lin,W_alt+W_TRA+W_T2,0.8577602334601182
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_Mach,0.7485524587658143
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_Mach+W_T2,0.19523654339602858
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_Mach+W_TRA,0.4259028614538017
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_Mach+W_TRA+W_T2,0.17499974069325877
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_T2,0.2480780987545383
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_TRA,0.41708537671207624
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_TRA+W_T2,0.21447744480057646
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_alt,0.2314767703307516
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_alt+W_Mach,0.1952571430528283
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_alt+W_Mach+W_T2,0.15245581603640945
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_alt+W_Mach+W_TRA,0.18598569308394836
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.14424509236515193
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_alt+W_T2,0.19838666635994198
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_alt+W_TRA,0.2292214286708939
+N-CMAPSS,DS01 aucune ref u1,resid_quad,W_alt+W_TRA+W_T2,0.17923754713537998
+N-CMAPSS,DS01 aucune ref u1,span_W,W_Mach,0.9588469889477413
+N-CMAPSS,DS01 aucune ref u1,span_W,W_Mach+W_T2,0.9668151903077458
+N-CMAPSS,DS01 aucune ref u1,span_W,W_Mach+W_TRA,0.9469664287115995
+N-CMAPSS,DS01 aucune ref u1,span_W,W_Mach+W_TRA+W_T2,0.9682720355233778
+N-CMAPSS,DS01 aucune ref u1,span_W,W_T2,0.9670076413503657
+N-CMAPSS,DS01 aucune ref u1,span_W,W_TRA,0.8826591910476926
+N-CMAPSS,DS01 aucune ref u1,span_W,W_TRA+W_T2,0.9673582626668364
+N-CMAPSS,DS01 aucune ref u1,span_W,W_alt,0.9668196949450063
+N-CMAPSS,DS01 aucune ref u1,span_W,W_alt+W_Mach,0.9662182156508831
+N-CMAPSS,DS01 aucune ref u1,span_W,W_alt+W_Mach+W_T2,0.9666224086055824
+N-CMAPSS,DS01 aucune ref u1,span_W,W_alt+W_Mach+W_TRA,0.967756805656291
+N-CMAPSS,DS01 aucune ref u1,span_W,W_alt+W_Mach+W_TRA+W_T2,0.9681619402718645
+N-CMAPSS,DS01 aucune ref u1,span_W,W_alt+W_T2,0.9666224086055824
+N-CMAPSS,DS01 aucune ref u1,span_W,W_alt+W_TRA,0.9682040083124934
+N-CMAPSS,DS01 aucune ref u1,span_W,W_alt+W_TRA+W_T2,0.9676211585687426
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_Mach,0.7112769808004213
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_Mach+W_T2,0.6925245137327941
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_Mach+W_TRA,0.6856898696219005
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_Mach+W_TRA+W_T2,0.6378686979705412
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_T2,0.9267862982475195
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_TRA,0.9556178922715126
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_TRA+W_T2,0.9275740614828711
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_alt,0.7764635746165607
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_alt+W_Mach,0.684109836953696
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_alt+W_Mach+W_T2,0.5877707471261477
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_alt+W_Mach+W_TRA,0.6301153019412831
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.4135727316302229
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_alt+W_T2,0.7592515257661658
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_alt+W_TRA,0.7638034760943933
+N-CMAPSS,DS01 aucune ref u4,resid_lin,W_alt+W_TRA+W_T2,0.721553678144147
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_Mach,0.3926569467273968
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_Mach+W_T2,0.16281999439699874
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_Mach+W_TRA,0.39932815562026686
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_Mach+W_TRA+W_T2,0.15847018386121314
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_T2,0.2202700570578583
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_TRA,0.4827128208909689
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_TRA+W_T2,0.19322176825438275
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_alt,0.252816258509698
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_alt+W_Mach,0.167833531361364
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_alt+W_Mach+W_T2,0.10815042062607647
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_alt+W_Mach+W_TRA,0.15192209137616303
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.08480297798203629
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_alt+W_T2,0.16814639770416562
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_alt+W_TRA,0.22545631476729033
+N-CMAPSS,DS01 aucune ref u4,resid_quad,W_alt+W_TRA+W_T2,0.16102659637707642
+N-CMAPSS,DS01 aucune ref u4,span_W,W_Mach,0.9641990072067008
+N-CMAPSS,DS01 aucune ref u4,span_W,W_Mach+W_T2,0.9679977869771417
+N-CMAPSS,DS01 aucune ref u4,span_W,W_Mach+W_TRA,0.9670828687926158
+N-CMAPSS,DS01 aucune ref u4,span_W,W_Mach+W_TRA+W_T2,0.9697654497676638
+N-CMAPSS,DS01 aucune ref u4,span_W,W_T2,0.9713306418406915
+N-CMAPSS,DS01 aucune ref u4,span_W,W_TRA,0.9752535776518945
+N-CMAPSS,DS01 aucune ref u4,span_W,W_TRA+W_T2,0.9695260953876108
+N-CMAPSS,DS01 aucune ref u4,span_W,W_alt,0.9684973656258319
+N-CMAPSS,DS01 aucune ref u4,span_W,W_alt+W_Mach,0.9672974356873179
+N-CMAPSS,DS01 aucune ref u4,span_W,W_alt+W_Mach+W_T2,0.9676296311205261
+N-CMAPSS,DS01 aucune ref u4,span_W,W_alt+W_Mach+W_TRA,0.96890774287243
+N-CMAPSS,DS01 aucune ref u4,span_W,W_alt+W_Mach+W_TRA+W_T2,0.9689448486238214
+N-CMAPSS,DS01 aucune ref u4,span_W,W_alt+W_T2,0.9677630642267825
+N-CMAPSS,DS01 aucune ref u4,span_W,W_alt+W_TRA,0.9699587154787244
+N-CMAPSS,DS01 aucune ref u4,span_W,W_alt+W_TRA+W_T2,0.9686789240721825
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_Mach,0.9643598591476954
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_Mach+W_T2,0.7826166781236042
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_Mach+W_TRA,0.862629086011496
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_Mach+W_TRA+W_T2,0.7678285557300275
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_T2,0.7375232711685091
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_TRA,0.8701117728906377
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_TRA+W_T2,0.7175166464007456
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_alt,0.8340306677684368
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_alt+W_Mach,0.7921952361775271
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_alt+W_Mach+W_T2,0.8009146826817052
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_alt+W_Mach+W_TRA,0.695722900517024
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.4358695508259969
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_alt+W_T2,0.8067825854373145
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_alt+W_TRA,0.8395034877573238
+N-CMAPSS,DS01 aucune ref u7,resid_lin,W_alt+W_TRA+W_T2,0.7974372676595984
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_Mach,0.8454696019984138
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_Mach+W_T2,0.659277128788041
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_Mach+W_TRA,0.8841025160640468
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_Mach+W_TRA+W_T2,0.6403190544369963
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_T2,0.41326475357189796
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_TRA,0.8800952778702267
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_TRA+W_T2,0.37870688680661946
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_alt,0.29549048120476684
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_alt+W_Mach,0.623806712889061
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_alt+W_Mach+W_T2,0.018551123624255247
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_alt+W_Mach+W_TRA,0.6563139852180946
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.047989556093437385
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_alt+W_T2,0.5510408185282959
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_alt+W_TRA,0.26627487883847956
+N-CMAPSS,DS01 aucune ref u7,resid_quad,W_alt+W_TRA+W_T2,0.680212349488279
+N-CMAPSS,DS01 aucune ref u7,span_W,W_Mach,0.9330906124557533
+N-CMAPSS,DS01 aucune ref u7,span_W,W_Mach+W_T2,0.926259442666151
+N-CMAPSS,DS01 aucune ref u7,span_W,W_Mach+W_TRA,0.9240803363718071
+N-CMAPSS,DS01 aucune ref u7,span_W,W_Mach+W_TRA+W_T2,0.927249998023231
+N-CMAPSS,DS01 aucune ref u7,span_W,W_T2,0.9279182322078209
+N-CMAPSS,DS01 aucune ref u7,span_W,W_TRA,0.9551180250903504
+N-CMAPSS,DS01 aucune ref u7,span_W,W_TRA+W_T2,0.9265749685454119
+N-CMAPSS,DS01 aucune ref u7,span_W,W_alt,0.9269874327808685
+N-CMAPSS,DS01 aucune ref u7,span_W,W_alt+W_Mach,0.9261914154552668
+N-CMAPSS,DS01 aucune ref u7,span_W,W_alt+W_Mach+W_T2,0.926523610888475
+N-CMAPSS,DS01 aucune ref u7,span_W,W_alt+W_Mach+W_TRA,0.9273635292586973
+N-CMAPSS,DS01 aucune ref u7,span_W,W_alt+W_Mach+W_TRA+W_T2,0.927249998023231
+N-CMAPSS,DS01 aucune ref u7,span_W,W_alt+W_T2,0.9262718112499483
+N-CMAPSS,DS01 aucune ref u7,span_W,W_alt+W_TRA,0.9265819675057512
+N-CMAPSS,DS01 aucune ref u7,span_W,W_alt+W_TRA+W_T2,0.9267799918389391
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_Mach,0.9863591109696046
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_Mach+W_T2,0.9319211863114302
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_Mach+W_TRA,0.9854669884283813
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_Mach+W_TRA+W_T2,0.9336525039109691
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_T2,0.8805004290457252
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_TRA,0.9871070572570546
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_TRA+W_T2,0.8824414377724481
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_alt,0.935697163986084
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_alt+W_Mach,0.9113481672540906
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_alt+W_Mach+W_T2,0.8677580684897758
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_alt+W_Mach+W_TRA,0.807132449432101
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.5147595290887973
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_alt+W_T2,0.9338945172906303
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_alt+W_TRA,0.9049201572720736
+N-CMAPSS,DS01 aucune ref u9,resid_lin,W_alt+W_TRA+W_T2,0.7087369253514066
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_Mach,0.9251451696533376
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_Mach+W_T2,0.33395964190277744
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_Mach+W_TRA,0.8292357925918334
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_Mach+W_TRA+W_T2,0.31144831767952375
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_T2,0.2844271220480399
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_TRA,0.9590952807193871
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_TRA+W_T2,0.26398627745687553
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_alt,0.9368649496499626
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_alt+W_Mach,0.30265650966703417
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_alt+W_Mach+W_T2,0.3097752524640923
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_alt+W_Mach+W_TRA,0.3188165955798765
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.2796100359935263
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_alt+W_T2,0.3471280092320854
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_alt+W_TRA,0.5321961723331585
+N-CMAPSS,DS01 aucune ref u9,resid_quad,W_alt+W_TRA+W_T2,0.32025529204446673
+N-CMAPSS,DS01 aucune ref u9,span_W,W_Mach,0.9376792803698213
+N-CMAPSS,DS01 aucune ref u9,span_W,W_Mach+W_T2,0.952184892836357
+N-CMAPSS,DS01 aucune ref u9,span_W,W_Mach+W_TRA,0.9533327271241703
+N-CMAPSS,DS01 aucune ref u9,span_W,W_Mach+W_TRA+W_T2,0.9533287568135634
+N-CMAPSS,DS01 aucune ref u9,span_W,W_T2,0.9523497817287601
+N-CMAPSS,DS01 aucune ref u9,span_W,W_TRA,0.9469267447742016
+N-CMAPSS,DS01 aucune ref u9,span_W,W_TRA+W_T2,0.9530491913577097
+N-CMAPSS,DS01 aucune ref u9,span_W,W_alt,0.9526667835955488
+N-CMAPSS,DS01 aucune ref u9,span_W,W_alt+W_Mach,0.9510995627866166
+N-CMAPSS,DS01 aucune ref u9,span_W,W_alt+W_Mach+W_T2,0.9522872008160103
+N-CMAPSS,DS01 aucune ref u9,span_W,W_alt+W_Mach+W_TRA,0.9529281268352504
+N-CMAPSS,DS01 aucune ref u9,span_W,W_alt+W_Mach+W_TRA+W_T2,0.9532378757568329
+N-CMAPSS,DS01 aucune ref u9,span_W,W_alt+W_T2,0.9523250445611657
+N-CMAPSS,DS01 aucune ref u9,span_W,W_alt+W_TRA,0.9533327271241703
+N-CMAPSS,DS01 aucune ref u9,span_W,W_alt+W_TRA+W_T2,0.9530426764062675
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_Mach,0.9192335446927091
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_Mach+W_T2,0.8890133898905066
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_Mach+W_TRA,0.8364617934318648
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_Mach+W_TRA+W_T2,0.7068583203128093
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_T2,0.8659113346517145
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_TRA,-0.6701528348641967
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_TRA+W_T2,0.8347226086150137
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_alt,0.8341600802940756
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_alt+W_Mach,0.8450757154141721
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_alt+W_Mach+W_T2,0.8392953416530204
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_alt+W_Mach+W_TRA,0.765408282538068
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.8285608179446445
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_alt+W_T2,0.8454125101873451
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_alt+W_TRA,0.8318834672090769
+N-CMAPSS,DS05 aucune ref u10,resid_lin,W_alt+W_TRA+W_T2,0.7808522206008275
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_Mach,0.492039011004144
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_Mach+W_T2,0.6199199241448629
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_Mach+W_TRA,0.5466231346535848
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_Mach+W_TRA+W_T2,0.3735679846898712
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_T2,0.8104120349391561
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_TRA,-0.34210581298040466
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_TRA+W_T2,0.2572188823103086
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_alt,0.007054095064202754
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_alt+W_Mach,0.6688394951142501
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_alt+W_Mach+W_T2,0.4120085909812473
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_alt+W_Mach+W_TRA,0.4442976172338724
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.45350505108492056
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_alt+W_T2,0.5283680648213316
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_alt+W_TRA,0.22514249883414295
+N-CMAPSS,DS05 aucune ref u10,resid_quad,W_alt+W_TRA+W_T2,0.4399816840468637
+N-CMAPSS,DS05 aucune ref u10,span_W,W_Mach,0.9648049046706663
+N-CMAPSS,DS05 aucune ref u10,span_W,W_Mach+W_T2,0.9470577033017995
+N-CMAPSS,DS05 aucune ref u10,span_W,W_Mach+W_TRA,0.9471093803230588
+N-CMAPSS,DS05 aucune ref u10,span_W,W_Mach+W_TRA+W_T2,0.9515200839213688
+N-CMAPSS,DS05 aucune ref u10,span_W,W_T2,0.9512447499600345
+N-CMAPSS,DS05 aucune ref u10,span_W,W_TRA,0.9050045264107967
+N-CMAPSS,DS05 aucune ref u10,span_W,W_TRA+W_T2,0.9510131281905324
+N-CMAPSS,DS05 aucune ref u10,span_W,W_alt,0.9457167053615193
+N-CMAPSS,DS05 aucune ref u10,span_W,W_alt+W_Mach,0.9473130308195489
+N-CMAPSS,DS05 aucune ref u10,span_W,W_alt+W_Mach+W_T2,0.9471550554112429
+N-CMAPSS,DS05 aucune ref u10,span_W,W_alt+W_Mach+W_TRA,0.9487590059666386
+N-CMAPSS,DS05 aucune ref u10,span_W,W_alt+W_Mach+W_TRA+W_T2,0.9495707013560784
+N-CMAPSS,DS05 aucune ref u10,span_W,W_alt+W_T2,0.9474900689712706
+N-CMAPSS,DS05 aucune ref u10,span_W,W_alt+W_TRA,0.9480559115926583
+N-CMAPSS,DS05 aucune ref u10,span_W,W_alt+W_TRA+W_T2,0.9483308680739251
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_Mach,0.8949203816723775
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_Mach+W_T2,0.8290457145733259
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_Mach+W_TRA,0.9027403133805907
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_Mach+W_TRA+W_T2,0.8493163434964323
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_T2,0.8497042316644059
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_TRA,-0.2810182765036787
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_TRA+W_T2,0.8695690214290903
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_alt,0.7828624502594573
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_alt+W_Mach,0.8185706048030148
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_alt+W_Mach+W_T2,0.8627491405233068
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_alt+W_Mach+W_TRA,0.8367091585016916
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.5951786998910255
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_alt+W_T2,0.8352322087644797
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_alt+W_TRA,0.8240208775048818
+N-CMAPSS,DS05 aucune ref u4,resid_lin,W_alt+W_TRA+W_T2,0.8393300773188638
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_Mach,0.5814604699098369
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_Mach+W_T2,0.23693493222148126
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_Mach+W_TRA,0.513103036204302
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_Mach+W_TRA+W_T2,0.297771597702692
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_T2,0.489873630977242
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_TRA,0.4441548957371742
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_TRA+W_T2,0.39814751143099447
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_alt,0.6081428278299852
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_alt+W_Mach,0.20279475208856207
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_alt+W_Mach+W_T2,0.3275029208099115
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_alt+W_Mach+W_TRA,0.375887594099109
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.39339463479409376
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_alt+W_T2,0.2725269277816236
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_alt+W_TRA,0.38717752072716377
+N-CMAPSS,DS05 aucune ref u4,resid_quad,W_alt+W_TRA+W_T2,0.38090406429014023
+N-CMAPSS,DS05 aucune ref u4,span_W,W_Mach,0.8885846170299008
+N-CMAPSS,DS05 aucune ref u4,span_W,W_Mach+W_T2,0.8906006292095001
+N-CMAPSS,DS05 aucune ref u4,span_W,W_Mach+W_TRA,0.8802203738312865
+N-CMAPSS,DS05 aucune ref u4,span_W,W_Mach+W_TRA+W_T2,0.8900835188018733
+N-CMAPSS,DS05 aucune ref u4,span_W,W_T2,0.8750317231597857
+N-CMAPSS,DS05 aucune ref u4,span_W,W_TRA,0.9099648740412274
+N-CMAPSS,DS05 aucune ref u4,span_W,W_TRA+W_T2,0.8861572788175482
+N-CMAPSS,DS05 aucune ref u4,span_W,W_alt,0.905170191135145
+N-CMAPSS,DS05 aucune ref u4,span_W,W_alt+W_Mach,0.8878901663533145
+N-CMAPSS,DS05 aucune ref u4,span_W,W_alt+W_Mach+W_T2,0.8896025766291691
+N-CMAPSS,DS05 aucune ref u4,span_W,W_alt+W_Mach+W_TRA,0.8881660134135635
+N-CMAPSS,DS05 aucune ref u4,span_W,W_alt+W_Mach+W_TRA+W_T2,0.8885554973473513
+N-CMAPSS,DS05 aucune ref u4,span_W,W_alt+W_T2,0.888115392841812
+N-CMAPSS,DS05 aucune ref u4,span_W,W_alt+W_TRA,0.8884384483761781
+N-CMAPSS,DS05 aucune ref u4,span_W,W_alt+W_TRA+W_T2,0.8875939588858126
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_Mach,-0.571891709930195
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_Mach+W_T2,0.2253108888355418
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_Mach+W_TRA,-0.4420728941081362
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_Mach+W_TRA+W_T2,0.3266964809214197
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_T2,0.814710304455248
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_TRA,-0.40265125015487335
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_TRA+W_T2,0.7525396294981537
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_alt,-0.6718842220118251
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_alt+W_Mach,0.3190656377275916
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_alt+W_Mach+W_T2,0.599936022792005
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_alt+W_Mach+W_TRA,0.4224021550621694
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.4534010994619917
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_alt+W_T2,0.10696552622211054
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_alt+W_TRA,0.6700681333585117
+N-CMAPSS,DS05 aucune ref u5,resid_lin,W_alt+W_TRA+W_T2,0.2610563788838085
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_Mach,0.10692960571482418
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_Mach+W_T2,0.4287619833454993
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_Mach+W_TRA,0.23936389678784534
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_Mach+W_TRA+W_T2,0.4309878666692883
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_T2,0.6425233836192391
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_TRA,-0.3858650667044988
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_TRA+W_T2,0.46582746575001577
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_alt,0.3964285269588128
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_alt+W_Mach,0.3890856101951512
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_alt+W_Mach+W_T2,0.4987221066625027
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_alt+W_Mach+W_TRA,0.4473757340782348
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.5238223776019816
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_alt+W_T2,0.4286192432523566
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_alt+W_TRA,0.4223753753997639
+N-CMAPSS,DS05 aucune ref u5,resid_quad,W_alt+W_TRA+W_T2,0.4582572341823631
+N-CMAPSS,DS05 aucune ref u5,span_W,W_Mach,0.8651015713928997
+N-CMAPSS,DS05 aucune ref u5,span_W,W_Mach+W_T2,0.9190597919933836
+N-CMAPSS,DS05 aucune ref u5,span_W,W_Mach+W_TRA,0.9258109899735633
+N-CMAPSS,DS05 aucune ref u5,span_W,W_Mach+W_TRA+W_T2,0.921616440898984
+N-CMAPSS,DS05 aucune ref u5,span_W,W_T2,0.9225796143210654
+N-CMAPSS,DS05 aucune ref u5,span_W,W_TRA,0.8624361846353157
+N-CMAPSS,DS05 aucune ref u5,span_W,W_TRA+W_T2,0.9197069060733336
+N-CMAPSS,DS05 aucune ref u5,span_W,W_alt,0.8525412618743433
+N-CMAPSS,DS05 aucune ref u5,span_W,W_alt+W_Mach,0.9215051314640396
+N-CMAPSS,DS05 aucune ref u5,span_W,W_alt+W_Mach+W_T2,0.9205502649626965
+N-CMAPSS,DS05 aucune ref u5,span_W,W_alt+W_Mach+W_TRA,0.9222354138398915
+N-CMAPSS,DS05 aucune ref u5,span_W,W_alt+W_Mach+W_TRA+W_T2,0.9222754621158173
+N-CMAPSS,DS05 aucune ref u5,span_W,W_alt+W_T2,0.9202162705988515
+N-CMAPSS,DS05 aucune ref u5,span_W,W_alt+W_TRA,0.9197537584274785
+N-CMAPSS,DS05 aucune ref u5,span_W,W_alt+W_TRA+W_T2,0.9218824440248964
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_Mach,0.8563813761830118
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_Mach+W_T2,0.7956389946445599
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_Mach+W_TRA,0.8227656422004214
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_Mach+W_TRA+W_T2,0.8308672668895906
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_T2,0.9306304738148683
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_TRA,-0.2952915155995495
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_TRA+W_T2,0.7867581243183073
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_alt,0.8533355164772154
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_alt+W_Mach,0.7812113091243489
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_alt+W_Mach+W_T2,0.7923010211180828
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_alt+W_Mach+W_TRA,0.8229984443171252
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.8392337926514726
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_alt+W_T2,0.781247294478906
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_alt+W_TRA,0.814758019428033
+N-CMAPSS,DS05 aucune ref u8,resid_lin,W_alt+W_TRA+W_T2,0.8070802292311703
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_Mach,0.545155162633925
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_Mach+W_T2,0.13788742562125134
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_Mach+W_TRA,0.47663011698976654
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_Mach+W_TRA+W_T2,0.24461354124754725
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_T2,0.33124008053159765
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_TRA,0.25361511744346577
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_TRA+W_T2,0.5923133284301108
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_alt,0.11590676725610344
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_alt+W_Mach,0.08001026477787546
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_alt+W_Mach+W_T2,0.23738261619959505
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_alt+W_Mach+W_TRA,0.251914537802319
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.28213498875799925
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_alt+W_T2,0.0851238620634369
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_alt+W_TRA,0.5123705174961529
+N-CMAPSS,DS05 aucune ref u8,resid_quad,W_alt+W_TRA+W_T2,0.26892930053179354
+N-CMAPSS,DS05 aucune ref u8,span_W,W_Mach,0.8653033143117281
+N-CMAPSS,DS05 aucune ref u8,span_W,W_Mach+W_T2,0.8812391488147311
+N-CMAPSS,DS05 aucune ref u8,span_W,W_Mach+W_TRA,0.8777034158530458
+N-CMAPSS,DS05 aucune ref u8,span_W,W_Mach+W_TRA+W_T2,0.8817807579519109
+N-CMAPSS,DS05 aucune ref u8,span_W,W_T2,0.8848669622524175
+N-CMAPSS,DS05 aucune ref u8,span_W,W_TRA,0.9079273141052187
+N-CMAPSS,DS05 aucune ref u8,span_W,W_TRA+W_T2,0.87793908247594
+N-CMAPSS,DS05 aucune ref u8,span_W,W_alt,0.8781604233320308
+N-CMAPSS,DS05 aucune ref u8,span_W,W_alt+W_Mach,0.8809661220192936
+N-CMAPSS,DS05 aucune ref u8,span_W,W_alt+W_Mach+W_T2,0.8809661220192936
+N-CMAPSS,DS05 aucune ref u8,span_W,W_alt+W_Mach+W_TRA,0.8811235038136441
+N-CMAPSS,DS05 aucune ref u8,span_W,W_alt+W_Mach+W_TRA+W_T2,0.8811235038136441
+N-CMAPSS,DS05 aucune ref u8,span_W,W_alt+W_T2,0.8805036098479206
+N-CMAPSS,DS05 aucune ref u8,span_W,W_alt+W_TRA,0.8799561800839485
+N-CMAPSS,DS05 aucune ref u8,span_W,W_alt+W_TRA+W_T2,0.8805553297037549
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_Mach,0.9357825245272092
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_Mach+W_T2,0.17318465552873774
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_Mach+W_TRA,0.9289266766189161
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_Mach+W_TRA+W_T2,0.9379794072921943
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_T2,0.7952179698682944
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_TRA,0.8941231766553716
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_TRA+W_T2,0.9152936439260628
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_alt,0.8689065749480084
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_alt+W_Mach,0.359620371655276
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_alt+W_Mach+W_T2,0.8366961182351537
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_alt+W_Mach+W_TRA,0.845291898842728
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.7981849758946057
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_alt+W_T2,0.29508075641580245
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_alt+W_TRA,0.9106945685893054
+N-CMAPSS,DS07 aucune ref u10,resid_lin,W_alt+W_TRA+W_T2,0.8625927306176467
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_Mach,-0.6218882784565951
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_Mach+W_T2,-0.6853918024233963
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_Mach+W_TRA,0.22564581267492229
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_Mach+W_TRA+W_T2,-0.2044202020518673
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_T2,-0.5847213028481
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_TRA,0.7730738942860567
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_TRA+W_T2,-0.4289758054019649
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_alt,0.6293308525181426
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_alt+W_Mach,-0.7074717393197244
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_alt+W_Mach+W_T2,-0.18109477040725222
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_alt+W_Mach+W_TRA,0.07372482202989265
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.446965625117274
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_alt+W_T2,-0.7901725966226694
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_alt+W_TRA,0.6186095370027827
+N-CMAPSS,DS07 aucune ref u10,resid_quad,W_alt+W_TRA+W_T2,-0.033771376168757014
+N-CMAPSS,DS07 aucune ref u10,span_W,W_Mach,0.9241804213423754
+N-CMAPSS,DS07 aucune ref u10,span_W,W_Mach+W_T2,0.9252265009674995
+N-CMAPSS,DS07 aucune ref u10,span_W,W_Mach+W_TRA,0.9241594247018379
+N-CMAPSS,DS07 aucune ref u10,span_W,W_Mach+W_TRA+W_T2,0.927572749947535
+N-CMAPSS,DS07 aucune ref u10,span_W,W_T2,0.919491053330086
+N-CMAPSS,DS07 aucune ref u10,span_W,W_TRA,0.9248803093602926
+N-CMAPSS,DS07 aucune ref u10,span_W,W_TRA+W_T2,0.9274311564695102
+N-CMAPSS,DS07 aucune ref u10,span_W,W_alt,0.9245443631116923
+N-CMAPSS,DS07 aucune ref u10,span_W,W_alt+W_Mach,0.9252265009674995
+N-CMAPSS,DS07 aucune ref u10,span_W,W_alt+W_Mach+W_T2,0.9256857074377667
+N-CMAPSS,DS07 aucune ref u10,span_W,W_alt+W_Mach+W_TRA,0.9273057394732926
+N-CMAPSS,DS07 aucune ref u10,span_W,W_alt+W_Mach+W_TRA+W_T2,0.927798940281443
+N-CMAPSS,DS07 aucune ref u10,span_W,W_alt+W_T2,0.9262318907784111
+N-CMAPSS,DS07 aucune ref u10,span_W,W_alt+W_TRA,0.9250902757656677
+N-CMAPSS,DS07 aucune ref u10,span_W,W_alt+W_TRA+W_T2,0.927798940281443
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_Mach,0.9274989738291475
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_Mach+W_T2,0.8903227693359272
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_Mach+W_TRA,0.9037351792943898
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_Mach+W_TRA+W_T2,0.9190252651317499
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_T2,0.8971661732137458
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_TRA,0.8971333526781324
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_TRA+W_T2,0.9004279805063824
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_alt,0.9384728988816335
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_alt+W_Mach,0.9320154229868676
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_alt+W_Mach+W_T2,-0.6436894652123213
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_alt+W_Mach+W_TRA,0.9359253943117571
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_alt+W_Mach+W_TRA+W_T2,-0.5505212099251415
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_alt+W_T2,0.8914752549010168
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_alt+W_TRA,0.9449209581012492
+N-CMAPSS,DS07 aucune ref u4,resid_lin,W_alt+W_TRA+W_T2,0.8759981479886295
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_Mach,0.7836598486745825
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_Mach+W_T2,0.6240992050768688
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_Mach+W_TRA,0.7570138468016746
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_Mach+W_TRA+W_T2,0.5115757233626461
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_T2,0.5216866123532212
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_TRA,0.8302870612282474
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_TRA+W_T2,0.3461923931331826
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_alt,0.3172096126425127
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_alt+W_Mach,0.6710856730676458
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_alt+W_Mach+W_T2,0.0070353122625872
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_alt+W_Mach+W_TRA,0.5151709624404816
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.036042419314023064
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_alt+W_T2,0.6626795021088617
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_alt+W_TRA,0.2209664285583536
+N-CMAPSS,DS07 aucune ref u4,resid_quad,W_alt+W_TRA+W_T2,0.5589437525573513
+N-CMAPSS,DS07 aucune ref u4,span_W,W_Mach,0.8834983108996267
+N-CMAPSS,DS07 aucune ref u4,span_W,W_Mach+W_T2,0.9245747962172484
+N-CMAPSS,DS07 aucune ref u4,span_W,W_Mach+W_TRA,0.9251673313398154
+N-CMAPSS,DS07 aucune ref u4,span_W,W_Mach+W_TRA+W_T2,0.925028400019541
+N-CMAPSS,DS07 aucune ref u4,span_W,W_T2,0.9143512914265041
+N-CMAPSS,DS07 aucune ref u4,span_W,W_TRA,0.9266302841382572
+N-CMAPSS,DS07 aucune ref u4,span_W,W_TRA+W_T2,0.924829617582984
+N-CMAPSS,DS07 aucune ref u4,span_W,W_alt,0.9220122896239125
+N-CMAPSS,DS07 aucune ref u4,span_W,W_alt+W_Mach,0.9250118591543114
+N-CMAPSS,DS07 aucune ref u4,span_W,W_alt+W_Mach+W_T2,0.9245747962172484
+N-CMAPSS,DS07 aucune ref u4,span_W,W_alt+W_Mach+W_TRA,0.9249777773608391
+N-CMAPSS,DS07 aucune ref u4,span_W,W_alt+W_Mach+W_TRA+W_T2,0.9246350433761843
+N-CMAPSS,DS07 aucune ref u4,span_W,W_alt+W_T2,0.9248588871263392
+N-CMAPSS,DS07 aucune ref u4,span_W,W_alt+W_TRA,0.9248588871263392
+N-CMAPSS,DS07 aucune ref u4,span_W,W_alt+W_TRA+W_T2,0.9246350433761843
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_Mach,0.8823427230664074
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_Mach+W_T2,0.8686663008044588
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_Mach+W_TRA,0.8777695988222304
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_Mach+W_TRA+W_T2,0.8992025006354383
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_T2,0.8880429438982071
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_TRA,0.8751033985970015
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_TRA+W_T2,0.8894136784268363
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_alt,0.9400363123718387
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_alt+W_Mach,0.9115793088490457
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_alt+W_Mach+W_T2,0.1768075984079705
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_alt+W_Mach+W_TRA,0.9257445778884474
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.2599950685295159
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_alt+W_T2,0.8612436796902601
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_alt+W_TRA,0.9242724380882276
+N-CMAPSS,DS07 aucune ref u5,resid_lin,W_alt+W_TRA+W_T2,0.8516675409105423
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_Mach,-0.6769127735258513
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_Mach+W_T2,-0.5318845922993922
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_Mach+W_TRA,-0.34266482519681074
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_Mach+W_TRA+W_T2,-0.0716131630218938
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_T2,-0.419321330982507
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_TRA,0.8510297326978293
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_TRA+W_T2,0.09475401067587702
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_alt,0.5831305240629961
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_alt+W_Mach,-0.5430725477970301
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_alt+W_Mach+W_T2,0.3709758327250354
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_alt+W_Mach+W_TRA,-0.0703162980779795
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.32466127106409964
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_alt+W_T2,-0.5766057919103539
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_alt+W_TRA,0.5931453331103387
+N-CMAPSS,DS07 aucune ref u5,resid_quad,W_alt+W_TRA+W_T2,-0.03358314612695555
+N-CMAPSS,DS07 aucune ref u5,span_W,W_Mach,0.8445853568267684
+N-CMAPSS,DS07 aucune ref u5,span_W,W_Mach+W_T2,0.8752259199638811
+N-CMAPSS,DS07 aucune ref u5,span_W,W_Mach+W_TRA,0.8739960848581088
+N-CMAPSS,DS07 aucune ref u5,span_W,W_Mach+W_TRA+W_T2,0.8757747470925882
+N-CMAPSS,DS07 aucune ref u5,span_W,W_T2,0.8754193130529436
+N-CMAPSS,DS07 aucune ref u5,span_W,W_TRA,0.8733682185619969
+N-CMAPSS,DS07 aucune ref u5,span_W,W_TRA+W_T2,0.8750892145640178
+N-CMAPSS,DS07 aucune ref u5,span_W,W_alt,0.8747803436818321
+N-CMAPSS,DS07 aucune ref u5,span_W,W_alt+W_Mach,0.8763260448008108
+N-CMAPSS,DS07 aucune ref u5,span_W,W_alt+W_Mach+W_T2,0.8752259199638811
+N-CMAPSS,DS07 aucune ref u5,span_W,W_alt+W_Mach+W_TRA,0.8761594792987236
+N-CMAPSS,DS07 aucune ref u5,span_W,W_alt+W_Mach+W_TRA+W_T2,0.8757747470925882
+N-CMAPSS,DS07 aucune ref u5,span_W,W_alt+W_T2,0.8755969816300302
+N-CMAPSS,DS07 aucune ref u5,span_W,W_alt+W_TRA,0.8747803436818321
+N-CMAPSS,DS07 aucune ref u5,span_W,W_alt+W_TRA+W_T2,0.8757509520208614
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_Mach,0.9034663691571587
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_Mach+W_T2,0.9393818652808379
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_Mach+W_TRA,0.8726913218360588
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_Mach+W_TRA+W_T2,0.833850528900582
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_T2,0.9175870673397624
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_TRA,0.8547214179382481
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_TRA+W_T2,0.9096447451984772
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_alt,0.886539699102689
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_alt+W_Mach,0.8216135887686487
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_alt+W_Mach+W_T2,0.6986027093047642
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_alt+W_Mach+W_TRA,0.8260994307530214
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_alt+W_Mach+W_TRA+W_T2,0.6689579710686195
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_alt+W_T2,0.793009117742355
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_alt+W_TRA,0.8738623638399674
+N-CMAPSS,DS07 aucune ref u8,resid_lin,W_alt+W_TRA+W_T2,0.8188930156484195
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_Mach,-0.43052329296277225
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_Mach+W_T2,0.15710265568998447
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_Mach+W_TRA,0.5359164953579376
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_Mach+W_TRA+W_T2,0.1619982360835479
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_T2,0.7958759871147889
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_TRA,0.8536816527498761
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_TRA+W_T2,0.721726065787516
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_alt,0.5141720341491223
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_alt+W_Mach,0.14769759851095468
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_alt+W_Mach+W_T2,0.11666472841171638
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_alt+W_Mach+W_TRA,0.15141218039334478
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_alt+W_Mach+W_TRA+W_T2,0.17039891030022608
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_alt+W_T2,0.16570563522618317
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_alt+W_TRA,0.37859101478607704
+N-CMAPSS,DS07 aucune ref u8,resid_quad,W_alt+W_TRA+W_T2,0.1717992067986473
+N-CMAPSS,DS07 aucune ref u8,span_W,W_Mach,0.8456989392186761
+N-CMAPSS,DS07 aucune ref u8,span_W,W_Mach+W_T2,0.8745677677585573
+N-CMAPSS,DS07 aucune ref u8,span_W,W_Mach+W_TRA,0.8768082575319417
+N-CMAPSS,DS07 aucune ref u8,span_W,W_Mach+W_TRA+W_T2,0.8751632906567117
+N-CMAPSS,DS07 aucune ref u8,span_W,W_T2,0.8750393028024606
+N-CMAPSS,DS07 aucune ref u8,span_W,W_TRA,0.8767214925400608
+N-CMAPSS,DS07 aucune ref u8,span_W,W_TRA+W_T2,0.8752316433566433
+N-CMAPSS,DS07 aucune ref u8,span_W,W_alt,0.8760243918862293
+N-CMAPSS,DS07 aucune ref u8,span_W,W_alt+W_Mach,0.875016003733109
+N-CMAPSS,DS07 aucune ref u8,span_W,W_alt+W_Mach+W_T2,0.8747562634733687
+N-CMAPSS,DS07 aucune ref u8,span_W,W_alt+W_Mach+W_TRA,0.8754394947158104
+N-CMAPSS,DS07 aucune ref u8,span_W,W_alt+W_Mach+W_TRA+W_T2,0.8755597363163152
+N-CMAPSS,DS07 aucune ref u8,span_W,W_alt+W_T2,0.8747562634733687
+N-CMAPSS,DS07 aucune ref u8,span_W,W_alt+W_TRA,0.8768902807718597
+N-CMAPSS,DS07 aucune ref u8,span_W,W_alt+W_TRA+W_T2,0.8745733542773015
+PVDAQ,Golden→Las_Vegas sans 10,resid_lin,POA,-0.1722491938851815
+PVDAQ,Golden→Las_Vegas sans 10,resid_lin,POA+T_amb,0.01151217233768536
+PVDAQ,Golden→Las_Vegas sans 10,resid_lin,T_amb,0.022970762385675657
+PVDAQ,Golden→Las_Vegas sans 10,resid_quad,POA,-0.18236763182892152
+PVDAQ,Golden→Las_Vegas sans 10,resid_quad,POA+T_amb,0.04558315692460882
+PVDAQ,Golden→Las_Vegas sans 10,resid_quad,T_amb,0.06804420772490634
+PVDAQ,Golden→Las_Vegas sans 10,span_W,POA,-0.17582534301204894
+PVDAQ,Golden→Las_Vegas sans 10,span_W,POA+T_amb,-0.17185808854504286
+PVDAQ,Golden→Las_Vegas sans 10,span_W,T_amb,-0.1708424453819955
+PVDAQ,Golden→Las_Vegas sans 33,resid_lin,POA,-0.17240570350193218
+PVDAQ,Golden→Las_Vegas sans 33,resid_lin,POA+T_amb,0.01963857956736574
+PVDAQ,Golden→Las_Vegas sans 33,resid_lin,T_amb,0.033488753919552645
+PVDAQ,Golden→Las_Vegas sans 33,resid_quad,POA,-0.18024224140691086
+PVDAQ,Golden→Las_Vegas sans 33,resid_quad,POA+T_amb,0.01911859694343337
+PVDAQ,Golden→Las_Vegas sans 33,resid_quad,T_amb,0.046235673059164956
+PVDAQ,Golden→Las_Vegas sans 33,span_W,POA,-0.17444696244079938
+PVDAQ,Golden→Las_Vegas sans 33,span_W,POA+T_amb,-0.16527897081042153
+PVDAQ,Golden→Las_Vegas sans 33,span_W,T_amb,-0.17297979286019521
+PVDAQ,Golden→Las_Vegas sans 4,resid_lin,POA,-0.17138700404588308
+PVDAQ,Golden→Las_Vegas sans 4,resid_lin,POA+T_amb,0.01694665115251448
+PVDAQ,Golden→Las_Vegas sans 4,resid_lin,T_amb,0.029149677821438336
+PVDAQ,Golden→Las_Vegas sans 4,resid_quad,POA,-0.17979871380445783
+PVDAQ,Golden→Las_Vegas sans 4,resid_quad,POA+T_amb,0.017714803246657643
+PVDAQ,Golden→Las_Vegas sans 4,resid_quad,T_amb,0.04107476173796392
+PVDAQ,Golden→Las_Vegas sans 4,span_W,POA,-0.17456932301037698
+PVDAQ,Golden→Las_Vegas sans 4,span_W,POA+T_amb,-0.1691013807371618
+PVDAQ,Golden→Las_Vegas sans 4,span_W,T_amb,-0.1708328524548878
+PVDAQ,Golden→Las_Vegas sans 50,resid_lin,POA,-0.16868567291632808
+PVDAQ,Golden→Las_Vegas sans 50,resid_lin,POA+T_amb,0.05473002680889669
+PVDAQ,Golden→Las_Vegas sans 50,resid_lin,T_amb,0.20134711126475918
+PVDAQ,Golden→Las_Vegas sans 50,resid_quad,POA,-0.1750358703005634
+PVDAQ,Golden→Las_Vegas sans 50,resid_quad,POA+T_amb,0.04614392596689358
+PVDAQ,Golden→Las_Vegas sans 50,resid_quad,T_amb,0.26682578408865504
+PVDAQ,Golden→Las_Vegas sans 50,span_W,POA,-0.17794609505645484
+PVDAQ,Golden→Las_Vegas sans 50,span_W,POA+T_amb,0.17416184629191217
+PVDAQ,Golden→Las_Vegas sans 50,span_W,T_amb,0.1585046124150726
+PVDAQ,Las_Vegas→Golden sans 1276,resid_lin,POA,-0.056119453657045425
+PVDAQ,Las_Vegas→Golden sans 1276,resid_lin,POA+T_amb,-0.05960768893658913
+PVDAQ,Las_Vegas→Golden sans 1276,resid_lin,T_amb,-0.06510306384533893
+PVDAQ,Las_Vegas→Golden sans 1276,resid_quad,POA,-0.05652528204179366
+PVDAQ,Las_Vegas→Golden sans 1276,resid_quad,POA+T_amb,-0.05671146756180743
+PVDAQ,Las_Vegas→Golden sans 1276,resid_quad,T_amb,-0.06246905764149563
+PVDAQ,Las_Vegas→Golden sans 1276,span_W,POA,-0.05558745989718697
+PVDAQ,Las_Vegas→Golden sans 1276,span_W,POA+T_amb,-0.05726127887721526
+PVDAQ,Las_Vegas→Golden sans 1276,span_W,T_amb,-0.05948402251972534
+PVDAQ,Las_Vegas→Golden sans 1278,resid_lin,POA,-0.067003232685119
+PVDAQ,Las_Vegas→Golden sans 1278,resid_lin,POA+T_amb,-0.05725413204771559
+PVDAQ,Las_Vegas→Golden sans 1278,resid_lin,T_amb,-0.05346974920112079
+PVDAQ,Las_Vegas→Golden sans 1278,resid_quad,POA,-0.06251640198509584
+PVDAQ,Las_Vegas→Golden sans 1278,resid_quad,POA+T_amb,-0.057330626799176596
+PVDAQ,Las_Vegas→Golden sans 1278,resid_quad,T_amb,-0.058336373902975636
+PVDAQ,Las_Vegas→Golden sans 1278,span_W,POA,-0.06603791726583128
+PVDAQ,Las_Vegas→Golden sans 1278,span_W,POA+T_amb,-0.058530961366832016
+PVDAQ,Las_Vegas→Golden sans 1278,span_W,T_amb,-0.06042436313356565
+PVDAQ,Las_Vegas→Golden sans 34,resid_lin,POA,-0.05433762989346706
+PVDAQ,Las_Vegas→Golden sans 34,resid_lin,POA+T_amb,-0.04347438028510176
+PVDAQ,Las_Vegas→Golden sans 34,resid_lin,T_amb,-0.04748500562349361
+PVDAQ,Las_Vegas→Golden sans 34,resid_quad,POA,-0.05119636948463941
+PVDAQ,Las_Vegas→Golden sans 34,resid_quad,POA+T_amb,-0.04376064400478953
+PVDAQ,Las_Vegas→Golden sans 34,resid_quad,T_amb,-0.050173835222535046
+PVDAQ,Las_Vegas→Golden sans 34,span_W,POA,-0.055170803511078566
+PVDAQ,Las_Vegas→Golden sans 34,span_W,POA+T_amb,-0.04694083998975731
+PVDAQ,Las_Vegas→Golden sans 34,span_W,T_amb,-0.048258970785591396
+PVDAQ,Las_Vegas→Golden sans 35,resid_lin,POA,-0.0584854538985875
+PVDAQ,Las_Vegas→Golden sans 35,resid_lin,POA+T_amb,-0.05528898204230382
+PVDAQ,Las_Vegas→Golden sans 35,resid_lin,T_amb,-0.05727652267223586
+PVDAQ,Las_Vegas→Golden sans 35,resid_quad,POA,-0.05706800217416369
+PVDAQ,Las_Vegas→Golden sans 35,resid_quad,POA+T_amb,-0.05438057533543372
+PVDAQ,Las_Vegas→Golden sans 35,resid_quad,T_amb,-0.058049032392436695
+PVDAQ,Las_Vegas→Golden sans 35,span_W,POA,-0.05958253749324856
+PVDAQ,Las_Vegas→Golden sans 35,span_W,POA+T_amb,-0.05732713647638428
+PVDAQ,Las_Vegas→Golden sans 35,span_W,T_amb,-0.05878957451860402
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_lin,Ah,0.9278897331536735
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_lin,I,0.9226027971953474
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_lin,I+Ah,0.9426040836289582
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_quad,Ah,0.9410396497217886
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_quad,I,0.9189068931839063
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,resid_quad,I+Ah,0.9628357767947918
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,span_W,Ah,0.9288622278438301
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,span_W,I,0.9314502049221625
+batteries,entr. biaisee_basse_40C → biaisee_basse_TA,span_W,I+Ah,0.92985090024969
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_lin,Ah,0.636808572663615
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_lin,I,0.28642506734740425
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_lin,I+Ah,0.9388774842497523
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_quad,Ah,0.6626911236170169
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_quad,I,0.3213798491416571
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,resid_quad,I+Ah,0.9466051222014615
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,span_W,Ah,-0.12405113313319627
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,span_W,I,-0.049846622365983126
+batteries,entr. biaisee_basse_40C → biaisee_haute_40C,span_W,I+Ah,-0.09391060468299436
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_lin,Ah,0.9092892174205085
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_lin,I,0.840714321943872
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_lin,I+Ah,0.9169574415305877
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_quad,Ah,0.8374226372625461
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_quad,I,0.8365402441439809
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,resid_quad,I+Ah,0.9499643058540085
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,span_W,Ah,0.7747220745165431
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,span_W,I,0.788959674529842
+batteries,entr. biaisee_basse_40C → biaisee_haute_TA,span_W,I+Ah,0.8320187743663029
+batteries,entr. biaisee_basse_40C → uniforme,resid_lin,Ah,0.745667728341092
+batteries,entr. biaisee_basse_40C → uniforme,resid_lin,I,0.7853722657862438
+batteries,entr. biaisee_basse_40C → uniforme,resid_lin,I+Ah,0.8749618117862059
+batteries,entr. biaisee_basse_40C → uniforme,resid_quad,Ah,0.7335300968058196
+batteries,entr. biaisee_basse_40C → uniforme,resid_quad,I,0.7727262344727504
+batteries,entr. biaisee_basse_40C → uniforme,resid_quad,I+Ah,0.83137405353099
+batteries,entr. biaisee_basse_40C → uniforme,span_W,Ah,0.8106485429618593
+batteries,entr. biaisee_basse_40C → uniforme,span_W,I,0.8083910831105751
+batteries,entr. biaisee_basse_40C → uniforme,span_W,I+Ah,0.8272741134369761
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_lin,Ah,-0.49705468661374796
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_lin,I,0.3152503523874577
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_lin,I+Ah,-0.13956446335799647
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_quad,Ah,-0.4246962176150821
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_quad,I,0.3285253442444154
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,resid_quad,I+Ah,0.43455356201397205
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,span_W,Ah,-0.005466168158010823
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,span_W,I,0.14095288670597986
+batteries,entr. biaisee_basse_TA → biaisee_basse_40C,span_W,I+Ah,-0.0851350133281614
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_lin,Ah,0.3250477536866301
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_lin,I,0.6617705060778492
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_lin,I+Ah,0.5642881232984204
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_quad,Ah,0.18157957986749143
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_quad,I,0.6833554336630359
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,resid_quad,I+Ah,0.21504063851058364
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,span_W,Ah,0.4822619858752526
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,span_W,I,0.4236122131731508
+batteries,entr. biaisee_basse_TA → biaisee_haute_40C,span_W,I+Ah,0.35920914552073585
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_lin,Ah,0.8019723451127249
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_lin,I,0.8854583166190438
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_lin,I+Ah,0.9094548310986889
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_quad,Ah,0.8149500678042995
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_quad,I,0.8823285945317552
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,resid_quad,I+Ah,0.9500722324374058
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,span_W,Ah,0.7343363291573963
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,span_W,I,0.76144177857845
+batteries,entr. biaisee_basse_TA → biaisee_haute_TA,span_W,I+Ah,0.7184327825373216
+batteries,entr. biaisee_basse_TA → uniforme,resid_lin,Ah,-0.46050573112043125
+batteries,entr. biaisee_basse_TA → uniforme,resid_lin,I,0.001930760355691005
+batteries,entr. biaisee_basse_TA → uniforme,resid_lin,I+Ah,-0.08961365116356426
+batteries,entr. biaisee_basse_TA → uniforme,resid_quad,Ah,-0.4781213326305657
+batteries,entr. biaisee_basse_TA → uniforme,resid_quad,I,0.049913762966616516
+batteries,entr. biaisee_basse_TA → uniforme,resid_quad,I+Ah,0.21073523014153583
+batteries,entr. biaisee_basse_TA → uniforme,span_W,Ah,-0.4044981086734055
+batteries,entr. biaisee_basse_TA → uniforme,span_W,I,-0.40176701814561955
+batteries,entr. biaisee_basse_TA → uniforme,span_W,I+Ah,-0.40638649807058697
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_lin,Ah,0.9200444343387387
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_lin,I,0.3684943450659259
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_lin,I+Ah,0.9805903157160892
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_quad,Ah,0.8796596596732382
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_quad,I,0.42068552391174063
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,resid_quad,I+Ah,0.9496245121569737
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,span_W,Ah,-0.30383773554506366
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,span_W,I,-0.03626070333956354
+batteries,entr. biaisee_haute_40C → biaisee_basse_40C,span_W,I+Ah,-0.14748876215033238
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_lin,Ah,0.9073153711001019
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_lin,I,0.8574090460882868
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_lin,I+Ah,0.9536056992056877
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_quad,Ah,0.9055820873604331
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_quad,I,0.8573903972623156
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,resid_quad,I+Ah,0.9638932884267574
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,span_W,Ah,-0.33790145303617203
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,span_W,I,0.8498851518527701
+batteries,entr. biaisee_haute_40C → biaisee_basse_TA,span_W,I+Ah,0.8076051476527267
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_lin,Ah,0.8162668809213209
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_lin,I,0.8633872034095447
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_lin,I+Ah,0.9387323180065757
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_quad,Ah,0.7728349138671804
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_quad,I,0.8631344777202483
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,resid_quad,I+Ah,0.9511887113390878
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,span_W,Ah,-0.3102123101189619
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,span_W,I,0.8637326818943691
+batteries,entr. biaisee_haute_40C → biaisee_haute_TA,span_W,I+Ah,0.7822624254329709
+batteries,entr. biaisee_haute_40C → uniforme,resid_lin,Ah,-0.03550106784745545
+batteries,entr. biaisee_haute_40C → uniforme,resid_lin,I,0.4501505751404278
+batteries,entr. biaisee_haute_40C → uniforme,resid_lin,I+Ah,0.890056158330703
+batteries,entr. biaisee_haute_40C → uniforme,resid_quad,Ah,-0.05813191732448739
+batteries,entr. biaisee_haute_40C → uniforme,resid_quad,I,0.4628945106603311
+batteries,entr. biaisee_haute_40C → uniforme,resid_quad,I+Ah,0.8853471947468974
+batteries,entr. biaisee_haute_40C → uniforme,span_W,Ah,-0.6889867368451175
+batteries,entr. biaisee_haute_40C → uniforme,span_W,I,-0.26014068408496305
+batteries,entr. biaisee_haute_40C → uniforme,span_W,I+Ah,-0.40997772576894065
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_lin,Ah,0.37393527968684037
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_lin,I,0.25176601751258554
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_lin,I+Ah,0.24063080266651898
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_quad,Ah,0.33966099111308234
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_quad,I,0.2433818167516147
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,resid_quad,I+Ah,0.189779305668991
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,span_W,Ah,-0.17661096650193342
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,span_W,I,0.3248715302482356
+batteries,entr. biaisee_haute_TA → biaisee_basse_40C,span_W,I+Ah,0.33921154341239196
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_lin,Ah,0.8688628935360687
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_lin,I,0.9383541871690975
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_lin,I+Ah,0.9379834758492771
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_quad,Ah,0.8683362952998013
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_quad,I,0.9384563649700178
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,resid_quad,I+Ah,0.9384684159825203
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,span_W,Ah,0.4071824796104443
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,span_W,I,0.8493557112467417
+batteries,entr. biaisee_haute_TA → biaisee_basse_TA,span_W,I+Ah,0.8581257634373665
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_lin,Ah,0.5026992133444909
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_lin,I,0.7298279967986111
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_lin,I+Ah,0.728311642001242
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_quad,Ah,0.4967875404543326
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_quad,I,0.7294677928817301
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,resid_quad,I+Ah,0.7213927916951672
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,span_W,Ah,-0.45396635787505796
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,span_W,I,0.4490529845699779
+batteries,entr. biaisee_haute_TA → biaisee_haute_40C,span_W,I+Ah,0.460775807066867
+batteries,entr. biaisee_haute_TA → uniforme,resid_lin,Ah,0.028804699395256754
+batteries,entr. biaisee_haute_TA → uniforme,resid_lin,I,0.40418175693801295
+batteries,entr. biaisee_haute_TA → uniforme,resid_lin,I+Ah,0.4061476216422103
+batteries,entr. biaisee_haute_TA → uniforme,resid_quad,Ah,0.022416405820128486
+batteries,entr. biaisee_haute_TA → uniforme,resid_quad,I,0.4105537450692657
+batteries,entr. biaisee_haute_TA → uniforme,resid_quad,I+Ah,0.4321740497768849
+batteries,entr. biaisee_haute_TA → uniforme,span_W,Ah,0.7929050835302915
+batteries,entr. biaisee_haute_TA → uniforme,span_W,I,-0.04937094467701695
+batteries,entr. biaisee_haute_TA → uniforme,span_W,I+Ah,-0.021635676515756742
+batteries,entr. uniforme → biaisee_basse_40C,resid_lin,Ah,-0.6810728568801632
+batteries,entr. uniforme → biaisee_basse_40C,resid_lin,I,0.16846990692205524
+batteries,entr. uniforme → biaisee_basse_40C,resid_lin,I+Ah,0.8667535559119548
+batteries,entr. uniforme → biaisee_basse_40C,resid_quad,Ah,-0.47985704598008005
+batteries,entr. uniforme → biaisee_basse_40C,resid_quad,I,0.13275688314955084
+batteries,entr. uniforme → biaisee_basse_40C,resid_quad,I+Ah,0.8570959402235346
+batteries,entr. uniforme → biaisee_basse_40C,span_W,Ah,-0.10721446404369174
+batteries,entr. uniforme → biaisee_basse_40C,span_W,I,-0.02233834003638342
+batteries,entr. uniforme → biaisee_basse_40C,span_W,I+Ah,-0.12248014800681095
+batteries,entr. uniforme → biaisee_basse_TA,resid_lin,Ah,-0.7523805599014961
+batteries,entr. uniforme → biaisee_basse_TA,resid_lin,I,0.5376969394663196
+batteries,entr. uniforme → biaisee_basse_TA,resid_lin,I+Ah,0.8817992526945277
+batteries,entr. uniforme → biaisee_basse_TA,resid_quad,Ah,-0.7567929422304835
+batteries,entr. uniforme → biaisee_basse_TA,resid_quad,I,0.5197760067510737
+batteries,entr. uniforme → biaisee_basse_TA,resid_quad,I+Ah,0.940711784239856
+batteries,entr. uniforme → biaisee_basse_TA,span_W,Ah,-0.776059840958861
+batteries,entr. uniforme → biaisee_basse_TA,span_W,I,-0.6603232729358136
+batteries,entr. uniforme → biaisee_basse_TA,span_W,I+Ah,-0.7905152218608533
+batteries,entr. uniforme → biaisee_haute_40C,resid_lin,Ah,-0.5658906392110484
+batteries,entr. uniforme → biaisee_haute_40C,resid_lin,I,-0.0743429126484721
+batteries,entr. uniforme → biaisee_haute_40C,resid_lin,I+Ah,0.7440745109305655
+batteries,entr. uniforme → biaisee_haute_40C,resid_quad,Ah,-0.5306670732964867
+batteries,entr. uniforme → biaisee_haute_40C,resid_quad,I,-0.08332832929024281
+batteries,entr. uniforme → biaisee_haute_40C,resid_quad,I+Ah,0.6500808875681754
+batteries,entr. uniforme → biaisee_haute_40C,span_W,Ah,-0.5991092339595607
+batteries,entr. uniforme → biaisee_haute_40C,span_W,I,-0.5634900535011398
+batteries,entr. uniforme → biaisee_haute_40C,span_W,I+Ah,-0.6016499419094948
+batteries,entr. uniforme → biaisee_haute_TA,resid_lin,Ah,-0.5045776235398998
+batteries,entr. uniforme → biaisee_haute_TA,resid_lin,I,0.5580989152205326
+batteries,entr. uniforme → biaisee_haute_TA,resid_lin,I+Ah,0.9120511272240315
+batteries,entr. uniforme → biaisee_haute_TA,resid_quad,Ah,-0.5401983289871319
+batteries,entr. uniforme → biaisee_haute_TA,resid_quad,I,0.5382939240663999
+batteries,entr. uniforme → biaisee_haute_TA,resid_quad,I+Ah,0.9090181026516014
+batteries,entr. uniforme → biaisee_haute_TA,span_W,Ah,-0.7256412869372362
+batteries,entr. uniforme → biaisee_haute_TA,span_W,I,-0.6267521739734607
+batteries,entr. uniforme → biaisee_haute_TA,span_W,I+Ah,-0.7212509976961061
+roulements,G1_sinus → G2_bruit_3var,resid_lin,T_amb,0.2913021908129512
+roulements,G1_sinus → G2_bruit_3var,resid_lin,dyn,0.7093571577908293
+roulements,G1_sinus → G2_bruit_3var,resid_lin,dyn+T_amb,-0.6851314839203216
+roulements,G1_sinus → G2_bruit_3var,resid_lin,dyn+stat,0.44835773467946805
+roulements,G1_sinus → G2_bruit_3var,resid_lin,dyn+stat+T_amb,-0.6506968686420687
+roulements,G1_sinus → G2_bruit_3var,resid_lin,dyn+stat+vitesse,0.5252406893934032
+roulements,G1_sinus → G2_bruit_3var,resid_lin,dyn+stat+vitesse+T_amb,-0.3448761819450279
+roulements,G1_sinus → G2_bruit_3var,resid_lin,dyn+vitesse,0.8620062682721027
+roulements,G1_sinus → G2_bruit_3var,resid_lin,dyn+vitesse+T_amb,-0.39631349087066625
+roulements,G1_sinus → G2_bruit_3var,resid_lin,stat,0.737103793937087
+roulements,G1_sinus → G2_bruit_3var,resid_lin,stat+T_amb,-0.3447331647484471
+roulements,G1_sinus → G2_bruit_3var,resid_lin,stat+vitesse,0.3629899623601095
+roulements,G1_sinus → G2_bruit_3var,resid_lin,stat+vitesse+T_amb,-0.09153021642841477
+roulements,G1_sinus → G2_bruit_3var,resid_lin,vitesse,0.4026079357766395
+roulements,G1_sinus → G2_bruit_3var,resid_lin,vitesse+T_amb,-0.01869464154684377
+roulements,G1_sinus → G2_bruit_3var,resid_quad,T_amb,0.6170158286290869
+roulements,G1_sinus → G2_bruit_3var,resid_quad,dyn,0.40174889294224847
+roulements,G1_sinus → G2_bruit_3var,resid_quad,dyn+T_amb,0.6605874308238759
+roulements,G1_sinus → G2_bruit_3var,resid_quad,dyn+stat,0.7912742589692134
+roulements,G1_sinus → G2_bruit_3var,resid_quad,dyn+stat+T_amb,0.6637958465177822
+roulements,G1_sinus → G2_bruit_3var,resid_quad,dyn+stat+vitesse,0.21946377938509737
+roulements,G1_sinus → G2_bruit_3var,resid_quad,dyn+stat+vitesse+T_amb,-0.23598203961787922
+roulements,G1_sinus → G2_bruit_3var,resid_quad,dyn+vitesse,0.6427951088939818
+roulements,G1_sinus → G2_bruit_3var,resid_quad,dyn+vitesse+T_amb,-0.36960575942164053
+roulements,G1_sinus → G2_bruit_3var,resid_quad,stat,0.648414558656413
+roulements,G1_sinus → G2_bruit_3var,resid_quad,stat+T_amb,0.6780580793794264
+roulements,G1_sinus → G2_bruit_3var,resid_quad,stat+vitesse,0.7169791485870947
+roulements,G1_sinus → G2_bruit_3var,resid_quad,stat+vitesse+T_amb,-0.14955660253571734
+roulements,G1_sinus → G2_bruit_3var,resid_quad,vitesse,0.684543848906907
+roulements,G1_sinus → G2_bruit_3var,resid_quad,vitesse+T_amb,-0.5517219498026011
+roulements,G1_sinus → G2_bruit_3var,span_W,T_amb,0.8428205991849629
+roulements,G1_sinus → G2_bruit_3var,span_W,dyn,0.7942839410808717
+roulements,G1_sinus → G2_bruit_3var,span_W,dyn+T_amb,0.8428639287429884
+roulements,G1_sinus → G2_bruit_3var,span_W,dyn+stat,0.8414106462419211
+roulements,G1_sinus → G2_bruit_3var,span_W,dyn+stat+T_amb,0.8430972914216519
+roulements,G1_sinus → G2_bruit_3var,span_W,dyn+stat+vitesse,0.8052395340061386
+roulements,G1_sinus → G2_bruit_3var,span_W,dyn+stat+vitesse+T_amb,0.8572494797603123
+roulements,G1_sinus → G2_bruit_3var,span_W,dyn+vitesse,0.8050562795600019
+roulements,G1_sinus → G2_bruit_3var,span_W,dyn+vitesse+T_amb,0.8574343229874046
+roulements,G1_sinus → G2_bruit_3var,span_W,stat,0.8125822951133541
+roulements,G1_sinus → G2_bruit_3var,span_W,stat+T_amb,0.8431073624372358
+roulements,G1_sinus → G2_bruit_3var,span_W,stat+vitesse,0.8030051886051169
+roulements,G1_sinus → G2_bruit_3var,span_W,stat+vitesse+T_amb,0.8571883088584611
+roulements,G1_sinus → G2_bruit_3var,span_W,vitesse,0.8033008406549851
+roulements,G1_sinus → G2_bruit_3var,span_W,vitesse+T_amb,0.8574121250387525
+roulements,G1_sinus → G3_vitesse,resid_lin,T_amb,0.6320026618864297
+roulements,G1_sinus → G3_vitesse,resid_lin,dyn,0.9101469655492253
+roulements,G1_sinus → G3_vitesse,resid_lin,dyn+T_amb,-0.9589406156512533
+roulements,G1_sinus → G3_vitesse,resid_lin,dyn+stat,0.2721497956150733
+roulements,G1_sinus → G3_vitesse,resid_lin,dyn+stat+T_amb,-0.9589135908164742
+roulements,G1_sinus → G3_vitesse,resid_lin,dyn+stat+vitesse,0.4024151021224905
+roulements,G1_sinus → G3_vitesse,resid_lin,dyn+stat+vitesse+T_amb,-0.9418938102741129
+roulements,G1_sinus → G3_vitesse,resid_lin,dyn+vitesse,0.6219562841902091
+roulements,G1_sinus → G3_vitesse,resid_lin,dyn+vitesse+T_amb,-0.956015099962119
+roulements,G1_sinus → G3_vitesse,resid_lin,stat,0.9500501634802753
+roulements,G1_sinus → G3_vitesse,resid_lin,stat+T_amb,0.5626261654882712
+roulements,G1_sinus → G3_vitesse,resid_lin,stat+vitesse,0.8574477371011702
+roulements,G1_sinus → G3_vitesse,resid_lin,stat+vitesse+T_amb,0.6437872173522164
+roulements,G1_sinus → G3_vitesse,resid_lin,vitesse,0.8712788529417776
+roulements,G1_sinus → G3_vitesse,resid_lin,vitesse+T_amb,0.6432638388834597
+roulements,G1_sinus → G3_vitesse,resid_quad,T_amb,0.936849917960519
+roulements,G1_sinus → G3_vitesse,resid_quad,dyn,0.883012763634867
+roulements,G1_sinus → G3_vitesse,resid_quad,dyn+T_amb,0.7626749774902045
+roulements,G1_sinus → G3_vitesse,resid_quad,dyn+stat,0.8776405128233496
+roulements,G1_sinus → G3_vitesse,resid_quad,dyn+stat+T_amb,0.9539308740779069
+roulements,G1_sinus → G3_vitesse,resid_quad,dyn+stat+vitesse,0.3324369006149787
+roulements,G1_sinus → G3_vitesse,resid_quad,dyn+stat+vitesse+T_amb,-0.543213620983252
+roulements,G1_sinus → G3_vitesse,resid_quad,dyn+vitesse,0.9566628148222495
+roulements,G1_sinus → G3_vitesse,resid_quad,dyn+vitesse+T_amb,-0.6102919498446755
+roulements,G1_sinus → G3_vitesse,resid_quad,stat,0.9479268114507048
+roulements,G1_sinus → G3_vitesse,resid_quad,stat+T_amb,0.8753045630631705
+roulements,G1_sinus → G3_vitesse,resid_quad,stat+vitesse,0.9575761707920072
+roulements,G1_sinus → G3_vitesse,resid_quad,stat+vitesse+T_amb,-0.009225026892609978
+roulements,G1_sinus → G3_vitesse,resid_quad,vitesse,0.9576615980087658
+roulements,G1_sinus → G3_vitesse,resid_quad,vitesse+T_amb,-0.3645590877873509
+roulements,G1_sinus → G3_vitesse,span_W,T_amb,0.932813246702822
+roulements,G1_sinus → G3_vitesse,span_W,dyn,0.06650174410625471
+roulements,G1_sinus → G3_vitesse,span_W,dyn+T_amb,0.9332045993665544
+roulements,G1_sinus → G3_vitesse,span_W,dyn+stat,0.8546405791052226
+roulements,G1_sinus → G3_vitesse,span_W,dyn+stat+T_amb,0.9355766133832808
+roulements,G1_sinus → G3_vitesse,span_W,dyn+stat+vitesse,0.042531105038016506
+roulements,G1_sinus → G3_vitesse,span_W,dyn+stat+vitesse+T_amb,0.9538877560667534
+roulements,G1_sinus → G3_vitesse,span_W,dyn+vitesse,0.041389579773019554
+roulements,G1_sinus → G3_vitesse,span_W,dyn+vitesse+T_amb,0.9538097245948963
+roulements,G1_sinus → G3_vitesse,span_W,stat,0.034968595540639934
+roulements,G1_sinus → G3_vitesse,span_W,stat+T_amb,0.9355658943053945
+roulements,G1_sinus → G3_vitesse,span_W,stat+vitesse,0.03979308078077847
+roulements,G1_sinus → G3_vitesse,span_W,stat+vitesse+T_amb,0.9538300254394295
+roulements,G1_sinus → G3_vitesse,span_W,vitesse,0.039297644610616564
+roulements,G1_sinus → G3_vitesse,span_W,vitesse+T_amb,0.9537562613011042
+roulements,G1_sinus → G4_charge,resid_lin,T_amb,0.009661766875428385
+roulements,G1_sinus → G4_charge,resid_lin,dyn,0.6343463105178966
+roulements,G1_sinus → G4_charge,resid_lin,dyn+T_amb,-0.8543050591104864
+roulements,G1_sinus → G4_charge,resid_lin,dyn+stat,0.046623727783676155
+roulements,G1_sinus → G4_charge,resid_lin,dyn+stat+T_amb,-0.830071094838316
+roulements,G1_sinus → G4_charge,resid_lin,dyn+stat+vitesse,0.12331558486547028
+roulements,G1_sinus → G4_charge,resid_lin,dyn+stat+vitesse+T_amb,-0.3536970334464319
+roulements,G1_sinus → G4_charge,resid_lin,dyn+vitesse,0.42218368825809005
+roulements,G1_sinus → G4_charge,resid_lin,dyn+vitesse+T_amb,-0.7853466533607232
+roulements,G1_sinus → G4_charge,resid_lin,stat,0.8761121830057277
+roulements,G1_sinus → G4_charge,resid_lin,stat+T_amb,-0.15966348141101416
+roulements,G1_sinus → G4_charge,resid_lin,stat+vitesse,0.5843100150842884
+roulements,G1_sinus → G4_charge,resid_lin,stat+vitesse+T_amb,-0.02957813174518982
+roulements,G1_sinus → G4_charge,resid_lin,vitesse,0.6132363404327525
+roulements,G1_sinus → G4_charge,resid_lin,vitesse+T_amb,-0.015964083206416638
+roulements,G1_sinus → G4_charge,resid_quad,T_amb,0.3479530514058897
+roulements,G1_sinus → G4_charge,resid_quad,dyn,0.6497891426874336
+roulements,G1_sinus → G4_charge,resid_quad,dyn+T_amb,0.3492929321441234
+roulements,G1_sinus → G4_charge,resid_quad,dyn+stat,0.7996516998395109
+roulements,G1_sinus → G4_charge,resid_quad,dyn+stat+T_amb,0.6625494992286749
+roulements,G1_sinus → G4_charge,resid_quad,dyn+stat+vitesse,0.5563226417341588
+roulements,G1_sinus → G4_charge,resid_quad,dyn+stat+vitesse+T_amb,0.03454483728909222
+roulements,G1_sinus → G4_charge,resid_quad,dyn+vitesse,0.8111952004922407
+roulements,G1_sinus → G4_charge,resid_quad,dyn+vitesse+T_amb,0.08647568157574542
+roulements,G1_sinus → G4_charge,resid_quad,stat,0.7847810391912204
+roulements,G1_sinus → G4_charge,resid_quad,stat+T_amb,0.3619188731716856
+roulements,G1_sinus → G4_charge,resid_quad,stat+vitesse,0.814575127260926
+roulements,G1_sinus → G4_charge,resid_quad,stat+vitesse+T_amb,-0.18709136147965555
+roulements,G1_sinus → G4_charge,resid_quad,vitesse,0.8615409472256557
+roulements,G1_sinus → G4_charge,resid_quad,vitesse+T_amb,-0.23606379294642224
+roulements,G1_sinus → G4_charge,span_W,T_amb,0.8896732793357771
+roulements,G1_sinus → G4_charge,span_W,dyn,0.8479818054088959
+roulements,G1_sinus → G4_charge,span_W,dyn+T_amb,0.8893266770723733
+roulements,G1_sinus → G4_charge,span_W,dyn+stat,0.8775817498572008
+roulements,G1_sinus → G4_charge,span_W,dyn+stat+T_amb,0.890212126571899
+roulements,G1_sinus → G4_charge,span_W,dyn+stat+vitesse,0.8296993585375134
+roulements,G1_sinus → G4_charge,span_W,dyn+stat+vitesse+T_amb,0.9108898126580511
+roulements,G1_sinus → G4_charge,span_W,dyn+vitesse,0.8297487459671498
+roulements,G1_sinus → G4_charge,span_W,dyn+vitesse+T_amb,0.9108559799375056
+roulements,G1_sinus → G4_charge,span_W,stat,0.827815528406911
+roulements,G1_sinus → G4_charge,span_W,stat+T_amb,0.8904830751442354
+roulements,G1_sinus → G4_charge,span_W,stat+vitesse,0.8274129493818663
+roulements,G1_sinus → G4_charge,span_W,stat+vitesse+T_amb,0.9107395772862739
+roulements,G1_sinus → G4_charge,span_W,vitesse,0.8275036600084594
+roulements,G1_sinus → G4_charge,span_W,vitesse+T_amb,0.9108666192725221
+roulements,G2_bruit_3var → G1_sinus,resid_lin,T_amb,0.8241032291709588
+roulements,G2_bruit_3var → G1_sinus,resid_lin,dyn,0.6427788320925732
+roulements,G2_bruit_3var → G1_sinus,resid_lin,dyn+T_amb,0.8017999411865384
+roulements,G2_bruit_3var → G1_sinus,resid_lin,dyn+stat,0.5963038261761169
+roulements,G2_bruit_3var → G1_sinus,resid_lin,dyn+stat+T_amb,0.8062081937010168
+roulements,G2_bruit_3var → G1_sinus,resid_lin,dyn+stat+vitesse,0.5297929061141047
+roulements,G2_bruit_3var → G1_sinus,resid_lin,dyn+stat+vitesse+T_amb,0.827365456778917
+roulements,G2_bruit_3var → G1_sinus,resid_lin,dyn+vitesse,0.5629622336905475
+roulements,G2_bruit_3var → G1_sinus,resid_lin,dyn+vitesse+T_amb,0.831440500636834
+roulements,G2_bruit_3var → G1_sinus,resid_lin,stat,0.7959627356745725
+roulements,G2_bruit_3var → G1_sinus,resid_lin,stat+T_amb,0.8269559013170429
+roulements,G2_bruit_3var → G1_sinus,resid_lin,stat+vitesse,0.5806161705365571
+roulements,G2_bruit_3var → G1_sinus,resid_lin,stat+vitesse+T_amb,0.8455216882184542
+roulements,G2_bruit_3var → G1_sinus,resid_lin,vitesse,0.4553483805436597
+roulements,G2_bruit_3var → G1_sinus,resid_lin,vitesse+T_amb,0.8354878561535299
+roulements,G2_bruit_3var → G1_sinus,resid_quad,T_amb,0.8685484908721066
+roulements,G2_bruit_3var → G1_sinus,resid_quad,dyn,0.49060001714721546
+roulements,G2_bruit_3var → G1_sinus,resid_quad,dyn+T_amb,0.6806068128909852
+roulements,G2_bruit_3var → G1_sinus,resid_quad,dyn+stat,0.645018279347015
+roulements,G2_bruit_3var → G1_sinus,resid_quad,dyn+stat+T_amb,-0.47109262514708156
+roulements,G2_bruit_3var → G1_sinus,resid_quad,dyn+stat+vitesse,0.6362974095688546
+roulements,G2_bruit_3var → G1_sinus,resid_quad,dyn+stat+vitesse+T_amb,-0.3192165385062969
+roulements,G2_bruit_3var → G1_sinus,resid_quad,dyn+vitesse,0.44227463710970105
+roulements,G2_bruit_3var → G1_sinus,resid_quad,dyn+vitesse+T_amb,-0.25595303199457653
+roulements,G2_bruit_3var → G1_sinus,resid_quad,stat,0.30956243434196423
+roulements,G2_bruit_3var → G1_sinus,resid_quad,stat+T_amb,0.6428495578525633
+roulements,G2_bruit_3var → G1_sinus,resid_quad,stat+vitesse,0.42783957594615596
+roulements,G2_bruit_3var → G1_sinus,resid_quad,stat+vitesse+T_amb,-0.31056233287004475
+roulements,G2_bruit_3var → G1_sinus,resid_quad,vitesse,0.45152216929339106
+roulements,G2_bruit_3var → G1_sinus,resid_quad,vitesse+T_amb,0.7339388721474001
+roulements,G2_bruit_3var → G1_sinus,span_W,T_amb,0.6177424543563105
+roulements,G2_bruit_3var → G1_sinus,span_W,dyn,0.7279170530249506
+roulements,G2_bruit_3var → G1_sinus,span_W,dyn+T_amb,0.6168603001556414
+roulements,G2_bruit_3var → G1_sinus,span_W,dyn+stat,0.7308576813060416
+roulements,G2_bruit_3var → G1_sinus,span_W,dyn+stat+T_amb,0.6170089069819698
+roulements,G2_bruit_3var → G1_sinus,span_W,dyn+stat+vitesse,0.7387594959172921
+roulements,G2_bruit_3var → G1_sinus,span_W,dyn+stat+vitesse+T_amb,0.4203454486448457
+roulements,G2_bruit_3var → G1_sinus,span_W,dyn+vitesse,0.7479785216872306
+roulements,G2_bruit_3var → G1_sinus,span_W,dyn+vitesse+T_amb,0.5313944942739426
+roulements,G2_bruit_3var → G1_sinus,span_W,stat,0.7172862235981243
+roulements,G2_bruit_3var → G1_sinus,span_W,stat+T_amb,0.6169315536758246
+roulements,G2_bruit_3var → G1_sinus,span_W,stat+vitesse,0.715645130313072
+roulements,G2_bruit_3var → G1_sinus,span_W,stat+vitesse+T_amb,0.4325494247566979
+roulements,G2_bruit_3var → G1_sinus,span_W,vitesse,0.7441819496054984
+roulements,G2_bruit_3var → G1_sinus,span_W,vitesse+T_amb,0.5332529120753213
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,T_amb,-0.1794114593958556
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,dyn,0.21988867530593914
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,dyn+T_amb,-0.195709337107985
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,dyn+stat,0.207387138581459
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,dyn+stat+T_amb,-0.28275768627294445
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,dyn+stat+vitesse,0.3135457620688127
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,dyn+stat+vitesse+T_amb,-0.189148230027553
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,dyn+vitesse,0.31155948817445345
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,dyn+vitesse+T_amb,-0.02083763239130463
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,stat,0.051669572569883505
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,stat+T_amb,-0.19086427943068812
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,stat+vitesse,0.2794496248193071
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,stat+vitesse+T_amb,-0.07133902089979643
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,vitesse,-0.3450262632576367
+roulements,G2_bruit_3var → G3_vitesse,resid_lin,vitesse+T_amb,-0.015235169076514612
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,T_amb,0.5983553489494029
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,dyn,0.5594142990166389
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,dyn+T_amb,0.6117584752784127
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,dyn+stat,0.1988603410021232
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,dyn+stat+T_amb,0.007274333298534041
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,dyn+stat+vitesse,0.15309339053536972
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,dyn+stat+vitesse+T_amb,0.40840694044240483
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,dyn+vitesse,0.43827636312583607
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,dyn+vitesse+T_amb,0.540847042588225
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,stat,0.4971977645092439
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,stat+T_amb,0.580509736932594
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,stat+vitesse,0.5898409090376022
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,stat+vitesse+T_amb,0.4898775550360592
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,vitesse,-0.35657617335249187
+roulements,G2_bruit_3var → G3_vitesse,resid_quad,vitesse+T_amb,0.645781267974931
+roulements,G2_bruit_3var → G3_vitesse,span_W,T_amb,-0.054471344891515595
+roulements,G2_bruit_3var → G3_vitesse,span_W,dyn,0.043542885435751494
+roulements,G2_bruit_3var → G3_vitesse,span_W,dyn+T_amb,-0.05365436624197185
+roulements,G2_bruit_3var → G3_vitesse,span_W,dyn+stat,0.053396421272012065
+roulements,G2_bruit_3var → G3_vitesse,span_W,dyn+stat+T_amb,-0.05207924374118625
+roulements,G2_bruit_3var → G3_vitesse,span_W,dyn+stat+vitesse,0.040892426419525396
+roulements,G2_bruit_3var → G3_vitesse,span_W,dyn+stat+vitesse+T_amb,-0.08613014376058664
+roulements,G2_bruit_3var → G3_vitesse,span_W,dyn+vitesse,0.028081863945509926
+roulements,G2_bruit_3var → G3_vitesse,span_W,dyn+vitesse+T_amb,0.061242652192729494
+roulements,G2_bruit_3var → G3_vitesse,span_W,stat,0.030100640816830393
+roulements,G2_bruit_3var → G3_vitesse,span_W,stat+T_amb,-0.05365094154829136
+roulements,G2_bruit_3var → G3_vitesse,span_W,stat+vitesse,0.025860992705822598
+roulements,G2_bruit_3var → G3_vitesse,span_W,stat+vitesse+T_amb,-0.1136856694943804
+roulements,G2_bruit_3var → G3_vitesse,span_W,vitesse,0.024530194738167723
+roulements,G2_bruit_3var → G3_vitesse,span_W,vitesse+T_amb,0.12139982299322595
+roulements,G2_bruit_3var → G4_charge,resid_lin,T_amb,0.9627470329682569
+roulements,G2_bruit_3var → G4_charge,resid_lin,dyn,0.7794899621982514
+roulements,G2_bruit_3var → G4_charge,resid_lin,dyn+T_amb,0.9334369555544675
+roulements,G2_bruit_3var → G4_charge,resid_lin,dyn+stat,0.8199158427390738
+roulements,G2_bruit_3var → G4_charge,resid_lin,dyn+stat+T_amb,0.9242229797016595
+roulements,G2_bruit_3var → G4_charge,resid_lin,dyn+stat+vitesse,0.7540832796113812
+roulements,G2_bruit_3var → G4_charge,resid_lin,dyn+stat+vitesse+T_amb,0.9214411771826193
+roulements,G2_bruit_3var → G4_charge,resid_lin,dyn+vitesse,0.7507863700886948
+roulements,G2_bruit_3var → G4_charge,resid_lin,dyn+vitesse+T_amb,0.9206200752639531
+roulements,G2_bruit_3var → G4_charge,resid_lin,stat,0.8108441863234765
+roulements,G2_bruit_3var → G4_charge,resid_lin,stat+T_amb,0.9623897592072967
+roulements,G2_bruit_3var → G4_charge,resid_lin,stat+vitesse,0.7619941364820494
+roulements,G2_bruit_3var → G4_charge,resid_lin,stat+vitesse+T_amb,0.9468745772130829
+roulements,G2_bruit_3var → G4_charge,resid_lin,vitesse,0.7396581501867077
+roulements,G2_bruit_3var → G4_charge,resid_lin,vitesse+T_amb,0.9423868981354804
+roulements,G2_bruit_3var → G4_charge,resid_quad,T_amb,0.32884877898381043
+roulements,G2_bruit_3var → G4_charge,resid_quad,dyn,0.7145506091685165
+roulements,G2_bruit_3var → G4_charge,resid_quad,dyn+T_amb,0.29922980116813047
+roulements,G2_bruit_3var → G4_charge,resid_quad,dyn+stat,0.6188754365313166
+roulements,G2_bruit_3var → G4_charge,resid_quad,dyn+stat+T_amb,0.049891865030340134
+roulements,G2_bruit_3var → G4_charge,resid_quad,dyn+stat+vitesse,0.6198693439973468
+roulements,G2_bruit_3var → G4_charge,resid_quad,dyn+stat+vitesse+T_amb,0.2838197350206826
+roulements,G2_bruit_3var → G4_charge,resid_quad,dyn+vitesse,0.7158651594861714
+roulements,G2_bruit_3var → G4_charge,resid_quad,dyn+vitesse+T_amb,0.2772609725159469
+roulements,G2_bruit_3var → G4_charge,resid_quad,stat,0.6738231061984601
+roulements,G2_bruit_3var → G4_charge,resid_quad,stat+T_amb,0.07784496013116532
+roulements,G2_bruit_3var → G4_charge,resid_quad,stat+vitesse,0.5963071141316911
+roulements,G2_bruit_3var → G4_charge,resid_quad,stat+vitesse+T_amb,0.1390124649889264
+roulements,G2_bruit_3var → G4_charge,resid_quad,vitesse,0.7218138575827233
+roulements,G2_bruit_3var → G4_charge,resid_quad,vitesse+T_amb,0.3214125253956087
+roulements,G2_bruit_3var → G4_charge,span_W,T_amb,0.8292703103722543
+roulements,G2_bruit_3var → G4_charge,span_W,dyn,0.8261540696104277
+roulements,G2_bruit_3var → G4_charge,span_W,dyn+T_amb,0.8287325276534441
+roulements,G2_bruit_3var → G4_charge,span_W,dyn+stat,0.8405246883546105
+roulements,G2_bruit_3var → G4_charge,span_W,dyn+stat+T_amb,0.8279645652384748
+roulements,G2_bruit_3var → G4_charge,span_W,dyn+stat+vitesse,0.8373410513280803
+roulements,G2_bruit_3var → G4_charge,span_W,dyn+stat+vitesse+T_amb,0.3763041633068823
+roulements,G2_bruit_3var → G4_charge,span_W,dyn+vitesse,0.8396754201606348
+roulements,G2_bruit_3var → G4_charge,span_W,dyn+vitesse+T_amb,0.5588254978313916
+roulements,G2_bruit_3var → G4_charge,span_W,stat,0.8189650041151757
+roulements,G2_bruit_3var → G4_charge,span_W,stat+T_amb,0.8269922945560828
+roulements,G2_bruit_3var → G4_charge,span_W,stat+vitesse,0.824246115199301
+roulements,G2_bruit_3var → G4_charge,span_W,stat+vitesse+T_amb,0.40503771434836155
+roulements,G2_bruit_3var → G4_charge,span_W,vitesse,0.8409275246934398
+roulements,G2_bruit_3var → G4_charge,span_W,vitesse+T_amb,0.6378004079550113
+roulements,G3_vitesse → G1_sinus,resid_lin,T_amb,0.7237674638012256
+roulements,G3_vitesse → G1_sinus,resid_lin,dyn+T_amb,0.7237674638012256
+roulements,G3_vitesse → G1_sinus,resid_lin,dyn+stat+T_amb,0.7237674638012256
+roulements,G3_vitesse → G1_sinus,resid_lin,dyn+stat+vitesse,0.7934753847092373
+roulements,G3_vitesse → G1_sinus,resid_lin,dyn+stat+vitesse+T_amb,0.6992515597739495
+roulements,G3_vitesse → G1_sinus,resid_lin,dyn+vitesse,0.7934753847092373
+roulements,G3_vitesse → G1_sinus,resid_lin,dyn+vitesse+T_amb,0.6992515597739495
+roulements,G3_vitesse → G1_sinus,resid_lin,stat+T_amb,0.7237674638012256
+roulements,G3_vitesse → G1_sinus,resid_lin,stat+vitesse,0.7934753847092373
+roulements,G3_vitesse → G1_sinus,resid_lin,stat+vitesse+T_amb,0.6992515597739495
+roulements,G3_vitesse → G1_sinus,resid_lin,vitesse,0.7934753847092373
+roulements,G3_vitesse → G1_sinus,resid_lin,vitesse+T_amb,0.6992515597739495
+roulements,G3_vitesse → G1_sinus,resid_quad,T_amb,0.7111778252628591
+roulements,G3_vitesse → G1_sinus,resid_quad,dyn+T_amb,0.7111778252628591
+roulements,G3_vitesse → G1_sinus,resid_quad,dyn+stat+T_amb,0.7111778252628591
+roulements,G3_vitesse → G1_sinus,resid_quad,dyn+stat+vitesse,0.7944861595586894
+roulements,G3_vitesse → G1_sinus,resid_quad,dyn+stat+vitesse+T_amb,0.695621740545917
+roulements,G3_vitesse → G1_sinus,resid_quad,dyn+vitesse,0.7944861595586894
+roulements,G3_vitesse → G1_sinus,resid_quad,dyn+vitesse+T_amb,0.695621740545917
+roulements,G3_vitesse → G1_sinus,resid_quad,stat+T_amb,0.7111778252628591
+roulements,G3_vitesse → G1_sinus,resid_quad,stat+vitesse,0.7944861595586894
+roulements,G3_vitesse → G1_sinus,resid_quad,stat+vitesse+T_amb,0.695621740545917
+roulements,G3_vitesse → G1_sinus,resid_quad,vitesse,0.7944861595586894
+roulements,G3_vitesse → G1_sinus,resid_quad,vitesse+T_amb,0.695621740545917
+roulements,G3_vitesse → G1_sinus,span_W,T_amb,0.788822074899373
+roulements,G3_vitesse → G1_sinus,span_W,dyn+T_amb,0.788822074899373
+roulements,G3_vitesse → G1_sinus,span_W,dyn+stat+T_amb,0.788822074899373
+roulements,G3_vitesse → G1_sinus,span_W,dyn+stat+vitesse,0.7890146471954843
+roulements,G3_vitesse → G1_sinus,span_W,dyn+stat+vitesse+T_amb,0.7764748968657421
+roulements,G3_vitesse → G1_sinus,span_W,dyn+vitesse,0.7890146471954843
+roulements,G3_vitesse → G1_sinus,span_W,dyn+vitesse+T_amb,0.7764748968657421
+roulements,G3_vitesse → G1_sinus,span_W,stat+T_amb,0.788822074899373
+roulements,G3_vitesse → G1_sinus,span_W,stat+vitesse,0.7890146471954843
+roulements,G3_vitesse → G1_sinus,span_W,stat+vitesse+T_amb,0.7764748968657421
+roulements,G3_vitesse → G1_sinus,span_W,vitesse,0.7890146471954843
+roulements,G3_vitesse → G1_sinus,span_W,vitesse+T_amb,0.7764748968657421
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,T_amb,0.043174946389710755
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,dyn+T_amb,0.043174946389710755
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,dyn+stat+T_amb,0.043174946389710755
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,dyn+stat+vitesse,0.845498919883134
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,dyn+stat+vitesse+T_amb,0.04836430881518694
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,dyn+vitesse,0.845498919883134
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,dyn+vitesse+T_amb,0.04836430881518694
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,stat+T_amb,0.043174946389710755
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,stat+vitesse,0.845498919883134
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,stat+vitesse+T_amb,0.04836430881518694
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,vitesse,0.845498919883134
+roulements,G3_vitesse → G2_bruit_3var,resid_lin,vitesse+T_amb,0.04836430881518694
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,T_amb,0.37883260224090354
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,dyn+T_amb,0.37883260224090354
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,dyn+stat+T_amb,0.37883260224090354
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,dyn+stat+vitesse,0.8457473088470546
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,dyn+stat+vitesse+T_amb,0.12077941525968691
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,dyn+vitesse,0.8457473088470546
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,dyn+vitesse+T_amb,0.12077941525968691
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,stat+T_amb,0.37883260224090354
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,stat+vitesse,0.8457473088470546
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,stat+vitesse+T_amb,0.12077941525968691
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,vitesse,0.8457473088470546
+roulements,G3_vitesse → G2_bruit_3var,resid_quad,vitesse+T_amb,0.12077941525968691
+roulements,G3_vitesse → G2_bruit_3var,span_W,T_amb,0.8411518009673722
+roulements,G3_vitesse → G2_bruit_3var,span_W,dyn+T_amb,0.8411518009673722
+roulements,G3_vitesse → G2_bruit_3var,span_W,dyn+stat+T_amb,0.8411518009673722
+roulements,G3_vitesse → G2_bruit_3var,span_W,dyn+stat+vitesse,0.8407905622602264
+roulements,G3_vitesse → G2_bruit_3var,span_W,dyn+stat+vitesse+T_amb,0.8422532548891943
+roulements,G3_vitesse → G2_bruit_3var,span_W,dyn+vitesse,0.8407905622602264
+roulements,G3_vitesse → G2_bruit_3var,span_W,dyn+vitesse+T_amb,0.8422532548891943
+roulements,G3_vitesse → G2_bruit_3var,span_W,stat+T_amb,0.8411518009673722
+roulements,G3_vitesse → G2_bruit_3var,span_W,stat+vitesse,0.8407905622602264
+roulements,G3_vitesse → G2_bruit_3var,span_W,stat+vitesse+T_amb,0.8422532548891943
+roulements,G3_vitesse → G2_bruit_3var,span_W,vitesse,0.8407905622602264
+roulements,G3_vitesse → G2_bruit_3var,span_W,vitesse+T_amb,0.8422532548891943
+roulements,G3_vitesse → G4_charge,resid_lin,T_amb,0.6984226243332144
+roulements,G3_vitesse → G4_charge,resid_lin,dyn+T_amb,0.6984226243332144
+roulements,G3_vitesse → G4_charge,resid_lin,dyn+stat+T_amb,0.6984226243332144
+roulements,G3_vitesse → G4_charge,resid_lin,dyn+stat+vitesse,0.8910302125117288
+roulements,G3_vitesse → G4_charge,resid_lin,dyn+stat+vitesse+T_amb,0.7309713604301774
+roulements,G3_vitesse → G4_charge,resid_lin,dyn+vitesse,0.8910302125117288
+roulements,G3_vitesse → G4_charge,resid_lin,dyn+vitesse+T_amb,0.7309713604301774
+roulements,G3_vitesse → G4_charge,resid_lin,stat+T_amb,0.6984226243332144
+roulements,G3_vitesse → G4_charge,resid_lin,stat+vitesse,0.8910302125117288
+roulements,G3_vitesse → G4_charge,resid_lin,stat+vitesse+T_amb,0.7309713604301774
+roulements,G3_vitesse → G4_charge,resid_lin,vitesse,0.8910302125117288
+roulements,G3_vitesse → G4_charge,resid_lin,vitesse+T_amb,0.7309713604301774
+roulements,G3_vitesse → G4_charge,resid_quad,T_amb,0.6495327135322857
+roulements,G3_vitesse → G4_charge,resid_quad,dyn+T_amb,0.6495327135322857
+roulements,G3_vitesse → G4_charge,resid_quad,dyn+stat+T_amb,0.6495327135322857
+roulements,G3_vitesse → G4_charge,resid_quad,dyn+stat+vitesse,0.8912229922108843
+roulements,G3_vitesse → G4_charge,resid_quad,dyn+stat+vitesse+T_amb,0.6964360205438267
+roulements,G3_vitesse → G4_charge,resid_quad,dyn+vitesse,0.8912229922108843
+roulements,G3_vitesse → G4_charge,resid_quad,dyn+vitesse+T_amb,0.6964360205438267
+roulements,G3_vitesse → G4_charge,resid_quad,stat+T_amb,0.6495327135322857
+roulements,G3_vitesse → G4_charge,resid_quad,stat+vitesse,0.8912229922108843
+roulements,G3_vitesse → G4_charge,resid_quad,stat+vitesse+T_amb,0.6964360205438267
+roulements,G3_vitesse → G4_charge,resid_quad,vitesse,0.8912229922108843
+roulements,G3_vitesse → G4_charge,resid_quad,vitesse+T_amb,0.6964360205438267
+roulements,G3_vitesse → G4_charge,span_W,T_amb,0.8960761933432204
+roulements,G3_vitesse → G4_charge,span_W,dyn+T_amb,0.8960761933432204
+roulements,G3_vitesse → G4_charge,span_W,dyn+stat+T_amb,0.8960761933432204
+roulements,G3_vitesse → G4_charge,span_W,dyn+stat+vitesse,0.8819367369622153
+roulements,G3_vitesse → G4_charge,span_W,dyn+stat+vitesse+T_amb,0.8739397333909573
+roulements,G3_vitesse → G4_charge,span_W,dyn+vitesse,0.8819367369622153
+roulements,G3_vitesse → G4_charge,span_W,dyn+vitesse+T_amb,0.8739397333909573
+roulements,G3_vitesse → G4_charge,span_W,stat+T_amb,0.8960761933432204
+roulements,G3_vitesse → G4_charge,span_W,stat+vitesse,0.8819367369622153
+roulements,G3_vitesse → G4_charge,span_W,stat+vitesse+T_amb,0.8739397333909573
+roulements,G3_vitesse → G4_charge,span_W,vitesse,0.8819367369622153
+roulements,G3_vitesse → G4_charge,span_W,vitesse+T_amb,0.8739397333909573
+roulements,G4_charge → G1_sinus,resid_lin,T_amb,0.10854333962001611
+roulements,G4_charge → G1_sinus,resid_lin,dyn,-0.25173262588823936
+roulements,G4_charge → G1_sinus,resid_lin,dyn+T_amb,0.4376971939620682
+roulements,G4_charge → G1_sinus,resid_lin,dyn+stat,0.12281245902321608
+roulements,G4_charge → G1_sinus,resid_lin,dyn+stat+T_amb,-0.12694092988022504
+roulements,G4_charge → G1_sinus,resid_lin,dyn+stat+vitesse,0.12281245902321608
+roulements,G4_charge → G1_sinus,resid_lin,dyn+stat+vitesse+T_amb,-0.12694092988022504
+roulements,G4_charge → G1_sinus,resid_lin,dyn+vitesse,-0.25173262588823936
+roulements,G4_charge → G1_sinus,resid_lin,dyn+vitesse+T_amb,0.4376971939620682
+roulements,G4_charge → G1_sinus,resid_lin,stat,0.29960157555091266
+roulements,G4_charge → G1_sinus,resid_lin,stat+T_amb,0.11951694077208547
+roulements,G4_charge → G1_sinus,resid_lin,stat+vitesse,0.29960157555091266
+roulements,G4_charge → G1_sinus,resid_lin,stat+vitesse+T_amb,0.11951694077208547
+roulements,G4_charge → G1_sinus,resid_lin,vitesse+T_amb,0.10854333962001611
+roulements,G4_charge → G1_sinus,resid_quad,T_amb,0.5926316064056167
+roulements,G4_charge → G1_sinus,resid_quad,dyn,-0.2525273292085933
+roulements,G4_charge → G1_sinus,resid_quad,dyn+T_amb,0.42828690027100424
+roulements,G4_charge → G1_sinus,resid_quad,dyn+stat,-0.15191674622506837
+roulements,G4_charge → G1_sinus,resid_quad,dyn+stat+T_amb,0.23842141590471774
+roulements,G4_charge → G1_sinus,resid_quad,dyn+stat+vitesse,-0.15191674622506837
+roulements,G4_charge → G1_sinus,resid_quad,dyn+stat+vitesse+T_amb,0.23842141590471774
+roulements,G4_charge → G1_sinus,resid_quad,dyn+vitesse,-0.2525273292085933
+roulements,G4_charge → G1_sinus,resid_quad,dyn+vitesse+T_amb,0.42828690027100424
+roulements,G4_charge → G1_sinus,resid_quad,stat,0.5454877532973674
+roulements,G4_charge → G1_sinus,resid_quad,stat+T_amb,0.45693458081039473
+roulements,G4_charge → G1_sinus,resid_quad,stat+vitesse,0.5454877532973674
+roulements,G4_charge → G1_sinus,resid_quad,stat+vitesse+T_amb,0.45693458081039473
+roulements,G4_charge → G1_sinus,resid_quad,vitesse+T_amb,0.5926316064056167
+roulements,G4_charge → G1_sinus,span_W,T_amb,0.867970198482318
+roulements,G4_charge → G1_sinus,span_W,dyn,0.7887579909079654
+roulements,G4_charge → G1_sinus,span_W,dyn+T_amb,-0.14991946891578
+roulements,G4_charge → G1_sinus,span_W,dyn+stat,0.42842485152109433
+roulements,G4_charge → G1_sinus,span_W,dyn+stat+T_amb,-0.13364628814801058
+roulements,G4_charge → G1_sinus,span_W,dyn+stat+vitesse,0.42842485152109433
+roulements,G4_charge → G1_sinus,span_W,dyn+stat+vitesse+T_amb,-0.13364628814801058
+roulements,G4_charge → G1_sinus,span_W,dyn+vitesse,0.7887579909079654
+roulements,G4_charge → G1_sinus,span_W,dyn+vitesse+T_amb,-0.14991946891578
+roulements,G4_charge → G1_sinus,span_W,stat,0.41803140450640575
+roulements,G4_charge → G1_sinus,span_W,stat+T_amb,-0.1308171672945994
+roulements,G4_charge → G1_sinus,span_W,stat+vitesse,0.41803140450640575
+roulements,G4_charge → G1_sinus,span_W,stat+vitesse+T_amb,-0.1308171672945994
+roulements,G4_charge → G1_sinus,span_W,vitesse+T_amb,0.867970198482318
+roulements,G4_charge → G2_bruit_3var,resid_lin,T_amb,0.5248945677860614
+roulements,G4_charge → G2_bruit_3var,resid_lin,dyn,0.47050332340194934
+roulements,G4_charge → G2_bruit_3var,resid_lin,dyn+T_amb,-0.3468455852493605
+roulements,G4_charge → G2_bruit_3var,resid_lin,dyn+stat,0.7049573434537287
+roulements,G4_charge → G2_bruit_3var,resid_lin,dyn+stat+T_amb,-0.7680520557011444
+roulements,G4_charge → G2_bruit_3var,resid_lin,dyn+stat+vitesse,0.7049573434537287
+roulements,G4_charge → G2_bruit_3var,resid_lin,dyn+stat+vitesse+T_amb,-0.7680520557011444
+roulements,G4_charge → G2_bruit_3var,resid_lin,dyn+vitesse,0.47050332340194934
+roulements,G4_charge → G2_bruit_3var,resid_lin,dyn+vitesse+T_amb,-0.3468455852493605
+roulements,G4_charge → G2_bruit_3var,resid_lin,stat,0.3476685243357026
+roulements,G4_charge → G2_bruit_3var,resid_lin,stat+T_amb,-0.3147256918573598
+roulements,G4_charge → G2_bruit_3var,resid_lin,stat+vitesse,0.3476685243357026
+roulements,G4_charge → G2_bruit_3var,resid_lin,stat+vitesse+T_amb,-0.3147256918573598
+roulements,G4_charge → G2_bruit_3var,resid_lin,vitesse+T_amb,0.5248945677860614
+roulements,G4_charge → G2_bruit_3var,resid_quad,T_amb,0.5686149448834329
+roulements,G4_charge → G2_bruit_3var,resid_quad,dyn,0.4707531178417904
+roulements,G4_charge → G2_bruit_3var,resid_quad,dyn+T_amb,-0.3690604128372232
+roulements,G4_charge → G2_bruit_3var,resid_quad,dyn+stat,0.5962609998484223
+roulements,G4_charge → G2_bruit_3var,resid_quad,dyn+stat+T_amb,-0.4563833151005342
+roulements,G4_charge → G2_bruit_3var,resid_quad,dyn+stat+vitesse,0.5962609998484223
+roulements,G4_charge → G2_bruit_3var,resid_quad,dyn+stat+vitesse+T_amb,-0.4563833151005342
+roulements,G4_charge → G2_bruit_3var,resid_quad,dyn+vitesse,0.4707531178417904
+roulements,G4_charge → G2_bruit_3var,resid_quad,dyn+vitesse+T_amb,-0.3690604128372232
+roulements,G4_charge → G2_bruit_3var,resid_quad,stat,0.1888792058693638
+roulements,G4_charge → G2_bruit_3var,resid_quad,stat+T_amb,-0.5904124183128512
+roulements,G4_charge → G2_bruit_3var,resid_quad,stat+vitesse,0.1888792058693638
+roulements,G4_charge → G2_bruit_3var,resid_quad,stat+vitesse+T_amb,-0.5904124183128512
+roulements,G4_charge → G2_bruit_3var,resid_quad,vitesse+T_amb,0.5686149448834329
+roulements,G4_charge → G2_bruit_3var,span_W,T_amb,0.8183517971584596
+roulements,G4_charge → G2_bruit_3var,span_W,dyn,0.8523815796317292
+roulements,G4_charge → G2_bruit_3var,span_W,dyn+T_amb,0.42782773726660833
+roulements,G4_charge → G2_bruit_3var,span_W,dyn+stat,0.5971338418803196
+roulements,G4_charge → G2_bruit_3var,span_W,dyn+stat+T_amb,0.4718257083622881
+roulements,G4_charge → G2_bruit_3var,span_W,dyn+stat+vitesse,0.5971338418803196
+roulements,G4_charge → G2_bruit_3var,span_W,dyn+stat+vitesse+T_amb,0.4718257083622881
+roulements,G4_charge → G2_bruit_3var,span_W,dyn+vitesse,0.8523815796317292
+roulements,G4_charge → G2_bruit_3var,span_W,dyn+vitesse+T_amb,0.42782773726660833
+roulements,G4_charge → G2_bruit_3var,span_W,stat,0.5740607006044118
+roulements,G4_charge → G2_bruit_3var,span_W,stat+T_amb,0.47668617164363764
+roulements,G4_charge → G2_bruit_3var,span_W,stat+vitesse,0.5740607006044118
+roulements,G4_charge → G2_bruit_3var,span_W,stat+vitesse+T_amb,0.47668617164363764
+roulements,G4_charge → G2_bruit_3var,span_W,vitesse+T_amb,0.8183517971584596
+roulements,G4_charge → G3_vitesse,resid_lin,T_amb,0.6241929495932234
+roulements,G4_charge → G3_vitesse,resid_lin,dyn,0.8394728648105902
+roulements,G4_charge → G3_vitesse,resid_lin,dyn+T_amb,-0.4750092336967807
+roulements,G4_charge → G3_vitesse,resid_lin,dyn+stat,0.9061835405894592
+roulements,G4_charge → G3_vitesse,resid_lin,dyn+stat+T_amb,-0.8524238435129844
+roulements,G4_charge → G3_vitesse,resid_lin,dyn+stat+vitesse,0.9061835405894592
+roulements,G4_charge → G3_vitesse,resid_lin,dyn+stat+vitesse+T_amb,-0.8524238435129844
+roulements,G4_charge → G3_vitesse,resid_lin,dyn+vitesse,0.8394728648105902
+roulements,G4_charge → G3_vitesse,resid_lin,dyn+vitesse+T_amb,-0.4750092336967807
+roulements,G4_charge → G3_vitesse,resid_lin,stat,0.9463632807422575
+roulements,G4_charge → G3_vitesse,resid_lin,stat+T_amb,-0.8811133491549116
+roulements,G4_charge → G3_vitesse,resid_lin,stat+vitesse,0.9463632807422575
+roulements,G4_charge → G3_vitesse,resid_lin,stat+vitesse+T_amb,-0.8811133491549116
+roulements,G4_charge → G3_vitesse,resid_lin,vitesse+T_amb,0.6241929495932234
+roulements,G4_charge → G3_vitesse,resid_quad,T_amb,0.6662562390703747
+roulements,G4_charge → G3_vitesse,resid_quad,dyn,0.8394819810206532
+roulements,G4_charge → G3_vitesse,resid_quad,dyn+T_amb,-0.561547615450996
+roulements,G4_charge → G3_vitesse,resid_quad,dyn+stat,0.8550894578091296
+roulements,G4_charge → G3_vitesse,resid_quad,dyn+stat+T_amb,-0.6671573575117187
+roulements,G4_charge → G3_vitesse,resid_quad,dyn+stat+vitesse,0.8550894578091296
+roulements,G4_charge → G3_vitesse,resid_quad,dyn+stat+vitesse+T_amb,-0.6671573575117187
+roulements,G4_charge → G3_vitesse,resid_quad,dyn+vitesse,0.8394819810206532
+roulements,G4_charge → G3_vitesse,resid_quad,dyn+vitesse+T_amb,-0.561547615450996
+roulements,G4_charge → G3_vitesse,resid_quad,stat,0.952841186477108
+roulements,G4_charge → G3_vitesse,resid_quad,stat+T_amb,0.06661043157578887
+roulements,G4_charge → G3_vitesse,resid_quad,stat+vitesse,0.952841186477108
+roulements,G4_charge → G3_vitesse,resid_quad,stat+vitesse+T_amb,0.06661043157578887
+roulements,G4_charge → G3_vitesse,resid_quad,vitesse+T_amb,0.6662562390703747
+roulements,G4_charge → G3_vitesse,span_W,T_amb,0.9572478841307053
+roulements,G4_charge → G3_vitesse,span_W,dyn,0.9535974726766291
+roulements,G4_charge → G3_vitesse,span_W,dyn+T_amb,0.8739404157679976
+roulements,G4_charge → G3_vitesse,span_W,dyn+stat,0.9411767484249755
+roulements,G4_charge → G3_vitesse,span_W,dyn+stat+T_amb,0.8846614783107853
+roulements,G4_charge → G3_vitesse,span_W,dyn+stat+vitesse,0.9411767484249755
+roulements,G4_charge → G3_vitesse,span_W,dyn+stat+vitesse+T_amb,0.8846614783107853
+roulements,G4_charge → G3_vitesse,span_W,dyn+vitesse,0.9535974726766291
+roulements,G4_charge → G3_vitesse,span_W,dyn+vitesse+T_amb,0.8739404157679976
+roulements,G4_charge → G3_vitesse,span_W,stat,0.9393700457530325
+roulements,G4_charge → G3_vitesse,span_W,stat+T_amb,0.8852799049901147
+roulements,G4_charge → G3_vitesse,span_W,stat+vitesse,0.9393700457530325
+roulements,G4_charge → G3_vitesse,span_W,stat+vitesse+T_amb,0.8852799049901147
+roulements,G4_charge → G3_vitesse,span_W,vitesse+T_amb,0.9572478841307053

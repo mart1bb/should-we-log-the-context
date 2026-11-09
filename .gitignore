@@ -1,0 +1,7 @@
+data/
+hcde/
+experiments/cache/*
+!experiments/cache/.gitkeep
+__pycache__/
+*.pyc
+.DS_Store

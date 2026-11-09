@@ -1,0 +1,132 @@
+Tableau des événements (f = 1, médiane des méthodes ; IC, p de Holm)
+       jeu         cat           q    med     lo     hi     p  n  p_holm
+   C-MAPSS      mesure       degat -0.011 -0.015 -0.007 0.000 30   0.000
+   C-MAPSS      mesure g_detection -0.051 -0.399 -0.036 0.000 30   0.000
+   C-MAPSS      mesure      g_date -0.049 -0.403 -0.016 0.000 30   0.000
+   C-MAPSS      mesure       g_cat    NaN    NaN    NaN   NaN 30     NaN
+   C-MAPSS      mesure  g_capteurs -0.004 -0.013  0.004 0.109 30   1.000
+   C-MAPSS  production       degat -0.047 -0.195 -0.024 0.000 30   0.011
+   C-MAPSS  production g_detection -0.061 -0.345 -0.029 0.000 30   0.000
+   C-MAPSS  production      g_date -0.071 -0.262 -0.026 0.000 30   0.018
+   C-MAPSS  production       g_cat -0.030 -0.166  0.085 0.777 30   1.000
+   C-MAPSS  production  g_capteurs  0.098  0.030  0.209 0.000 30   0.007
+   C-MAPSS maintenance       degat -0.693 -0.733 -0.608 0.000 30   0.000
+   C-MAPSS maintenance g_detection -0.048 -0.080 -0.032 0.000 30   0.001
+   C-MAPSS maintenance      g_date  0.021  0.004  0.043 0.006 30   0.248
+   C-MAPSS maintenance       g_cat  0.001 -0.000  0.004 0.092 30   1.000
+   C-MAPSS maintenance  g_capteurs  0.057  0.039  0.078 0.000 30   0.000
+  N-CMAPSS      mesure       degat -0.127 -0.167 -0.075 0.000 12   0.022
+  N-CMAPSS      mesure g_detection -0.044 -0.112  0.029 0.110 12   1.000
+  N-CMAPSS      mesure      g_date  0.033 -0.028  0.078 0.519 12   1.000
+  N-CMAPSS      mesure       g_cat    NaN    NaN    NaN   NaN 12     NaN
+  N-CMAPSS      mesure  g_capteurs  0.058  0.030  0.152 0.003 12   0.140
+  N-CMAPSS  production       degat -0.232 -0.262 -0.202 0.000 12   0.022
+  N-CMAPSS  production g_detection -0.003 -0.091  0.092 0.970 12   1.000
+  N-CMAPSS  production      g_date -0.058 -0.149  0.042 0.129 12   1.000
+  N-CMAPSS  production       g_cat  0.020 -0.121  0.113 0.733 12   1.000
+  N-CMAPSS  production  g_capteurs  0.194  0.155  0.241 0.000 12   0.022
+  N-CMAPSS maintenance       degat -0.781 -0.803 -0.746 0.000 12   0.022
+  N-CMAPSS maintenance g_detection  0.067 -0.011  0.169 0.052 12   1.000
+  N-CMAPSS maintenance      g_date  0.339  0.216  0.349 0.000 12   0.022
+  N-CMAPSS maintenance       g_cat  0.054 -0.021  0.089 0.204 12   1.000
+  N-CMAPSS maintenance  g_capteurs  0.105  0.036  0.185 0.012 12   0.476
+ batteries      mesure       degat -0.044 -0.439  0.182 0.625  5   1.000
+ batteries      mesure g_detection  0.096 -0.090  0.397 0.188  5   1.000
+ batteries      mesure      g_date  0.120  0.007  0.558 0.062  5   1.000
+ batteries      mesure       g_cat    NaN    NaN    NaN   NaN  5     NaN
+ batteries      mesure  g_capteurs  0.140 -0.301  0.404 0.438  5   1.000
+ batteries  production       degat -0.043 -0.288  0.085 0.625  5   1.000
+ batteries  production g_detection  0.209 -0.066  0.220 0.188  5   1.000
+ batteries  production      g_date  0.008 -0.068  0.173 0.812  5   1.000
+ batteries  production       g_cat  0.140 -0.286  0.393 0.438  5   1.000
+ batteries  production  g_capteurs  0.067 -0.275  0.084 0.812  5   1.000
+ batteries maintenance       degat -0.273 -0.872 -0.076 0.062  5   1.000
+ batteries maintenance g_detection -0.056 -0.238  0.579 0.812  5   1.000
+ batteries maintenance      g_date  0.323  0.191  0.641 0.062  5   1.000
+ batteries maintenance       g_cat -0.010 -0.166  0.309 0.812  5   1.000
+ batteries maintenance  g_capteurs  0.203  0.095  0.291 0.062  5   1.000
+roulements      mesure       degat -0.012 -0.098  0.030 0.625  4   1.000
+roulements      mesure g_detection -0.230 -0.375 -0.093 0.125  4   1.000
+roulements      mesure      g_date  0.004 -0.164  0.120 1.000  4   1.000
+roulements      mesure       g_cat    NaN    NaN    NaN   NaN  4     NaN
+roulements      mesure  g_capteurs  0.014 -0.032  0.029 0.875  4   1.000
+roulements  production       degat  0.008 -0.156  0.039 0.875  4   1.000
+roulements  production g_detection -0.151 -0.260 -0.109 0.125  4   1.000
+roulements  production      g_date  0.025 -0.002  0.073 0.250  4   1.000
+roulements  production       g_cat  0.037 -0.037  0.124 0.375  4   1.000
+roulements  production  g_capteurs -0.002 -0.033  0.061 1.000  4   1.000
+roulements maintenance       degat -0.477 -0.769 -0.073 0.125  4   1.000
+roulements maintenance g_detection -0.018 -0.186  0.055 0.625  4   1.000
+roulements maintenance      g_date  0.209  0.054  0.291 0.125  4   1.000
+roulements maintenance       g_cat  0.096 -0.003  0.311 0.250  4   1.000
+roulements maintenance  g_capteurs  0.107  0.024  0.359 0.125  4   1.000
+
+figure degat production C-MAPSS : f=0.25 -0.00 [-0.01, -0.00] ; f=1 -0.05 [-0.19, -0.02] ; f=2 -0.10 [-0.56, -0.03]
+
+figure degat production N-CMAPSS : f=0.25 -0.10 [-0.12, -0.04] ; f=1 -0.23 [-0.26, -0.20] ; f=2 -0.27 [-0.30, -0.24]
+
+figure degat production batteries : f=0.25 -0.06 [-0.12, 0.15] ; f=1 -0.04 [-0.29, 0.09] ; f=2 -0.09 [-0.25, -0.03]
+
+figure degat production roulements : f=0.25 0.01 [-0.07, 0.05] ; f=1 0.01 [-0.16, 0.04] ; f=2 -0.05 [-0.24, 0.03]
+
+figure g_date production C-MAPSS : f=0.25 -0.06 [-0.45, -0.03] ; f=1 -0.07 [-0.26, -0.03] ; f=2 -0.04 [-0.08, -0.00]
+
+figure g_date production N-CMAPSS : f=0.25 -0.09 [-0.12, -0.03] ; f=1 -0.06 [-0.15, 0.04] ; f=2 -0.09 [-0.14, 0.03]
+
+figure g_date production batteries : f=0.25 -0.07 [-0.10, 0.08] ; f=1 0.01 [-0.07, 0.17] ; f=2 0.01 [-0.09, 0.04]
+
+figure g_date production roulements : f=0.25 -0.02 [-0.09, 0.03] ; f=1 0.02 [-0.00, 0.07] ; f=2 0.05 [0.02, 0.11]
+
+figure g_capteurs production C-MAPSS : f=0.25 -0.00 [-0.01, 0.00] ; f=1 0.10 [0.03, 0.21] ; f=2 0.19 [0.06, 0.55]
+
+figure g_capteurs production N-CMAPSS : f=0.25 0.06 [0.05, 0.09] ; f=1 0.19 [0.16, 0.24] ; f=2 0.22 [0.19, 0.29]
+
+figure g_capteurs production batteries : f=0.25 -0.01 [-0.26, 0.21] ; f=1 0.07 [-0.28, 0.08] ; f=2 0.12 [-0.28, 0.21]
+
+figure g_capteurs production roulements : f=0.25 0.03 [-0.10, 0.03] ; f=1 -0.00 [-0.03, 0.06] ; f=2 0.10 [0.01, 0.14]
+
+CARE ('sans_ctx', 'tout', 'tout') : A 0.625 [0.383, 0.833] n=22 ; B 0.833 [0.556, 1.000] n=15 ; C 0.791 [0.668, 0.896] n=58
+
+CARE ('sans_ctx', 'journal', 'tout') : A 0.600 [0.350, 0.825] n=22 ; B 0.907 [0.722, 1.000] n=15 ; C 0.861 [0.747, 0.941] n=58
+
+CARE ('sans_ctx', 'tout', 'journal') : A 0.360 [0.000, 0.780] n=15 ; B 0.815 [0.574, 1.000] n=15 ; C 0.707 [0.560, 0.845] n=58
+
+CARE ('ctx', 'tout', 'tout') : A 0.592 [0.333, 0.833] n=22 ; B 0.833 [0.611, 1.000] n=15 ; C 0.731 [0.597, 0.852] n=58
+
+CARE ('ctx', 'journal', 'tout') : A 0.608 [0.342, 0.833] n=22 ; B 0.778 [0.444, 1.000] n=15 ; C 0.793 [0.658, 0.904] n=58
+
+CARE ('ctx', 'tout', 'journal') : A 0.280 [0.000, 0.660] n=15 ; B 0.611 [0.296, 0.889] n=15 ; C 0.535 [0.382, 0.688] n=58
+
+Placebo vB62 (date seule, estimation sur la vie, médiane des méthodes puis des cas et tirages) : {'C-MAPSS': -0.085, 'N-CMAPSS': -0.096, 'batteries': -0.033, 'roulements': -0.039}
+
+Alarmes C-MAPSS (médianes)
+                               faux_par_unite  detection  part_expliquee  masquage
+categorie   ampleur condition                                                     
+-           0.00    propre              0.272      0.780           0.000     0.000
+maintenance 0.25    aucun               0.146      0.256           0.000     0.000
+                    reref               0.168      0.260             NaN       NaN
+                    tri                 0.146      0.256           0.119     0.000
+            1.00    aucun               0.232      0.254           0.000     0.000
+                    reref               0.224      0.248             NaN       NaN
+                    tri                 0.232      0.254           0.471     0.062
+            2.00    aucun               0.277      0.272           0.000     0.000
+                    reref               0.262      0.254             NaN       NaN
+                    tri                 0.277      0.272           0.569     0.100
+mesure      0.25    aucun               0.262      0.768           0.000     0.000
+                    reref               0.246      0.752             NaN       NaN
+                    tri                 0.262      0.768           0.124     0.085
+            1.00    aucun               0.263      0.741           0.000     0.000
+                    reref               0.243      0.736             NaN       NaN
+                    tri                 0.263      0.741           0.216     0.108
+            2.00    aucun               0.264      0.700           0.000     0.000
+                    reref               0.248      0.688             NaN       NaN
+                    tri                 0.264      0.700           0.279     0.131
+production  0.25    aucun               0.254      0.722           0.000     0.000
+                    reref               0.240      0.716             NaN       NaN
+                    tri                 0.254      0.722           0.121     0.080
+            1.00    aucun               0.238      0.677           0.000     0.000
+                    reref               0.223      0.639             NaN       NaN
+                    tri                 0.238      0.677           0.150     0.085
+            2.00    aucun               0.262      0.685           0.000     0.000
+                    reref               0.246      0.646             NaN       NaN
+                    tri                 0.262      0.685           0.157     0.088

@@ -1,0 +1,53 @@
+=== mesures par roulement (après rodage) ===
+groupe         unit
+G1_sinus       1         326
+               2        1065
+               3         614
+               4        1064
+               5         523
+               6       12915
+G2_bruit_3var  7        6288
+               8        1777
+               9        1763
+               10       3172
+G3_vitesse     11       1953
+               12        767
+               13      19417
+G4_charge      14      12317
+               15      22567
+               16       5891
+               17       2733
+
+         entr          test                      W  p_hors    D  lenteur  modele  span_W  choix  regret_regle
+     G1_sinus G2_bruit_3var dyn,stat,vitesse,T_amb    0.12 0.01     0.80   -0.24    0.86 modele          1.09
+     G1_sinus    G3_vitesse dyn,stat,vitesse,T_amb    0.12 0.01     0.04   -0.54    0.95 modele          1.50
+     G1_sinus     G4_charge dyn,stat,vitesse,T_amb    0.12 0.01     0.83    0.03    0.91 modele          0.88
+G2_bruit_3var      G1_sinus dyn,stat,vitesse,T_amb    0.13 0.13     0.73   -0.32    0.42 modele          1.05
+G2_bruit_3var    G3_vitesse dyn,stat,vitesse,T_amb    0.13 0.13     0.02    0.41   -0.09 modele          0.00
+G2_bruit_3var     G4_charge dyn,stat,vitesse,T_amb    0.13 0.13     0.82    0.28    0.38 modele          0.54
+   G3_vitesse      G1_sinus          vitesse,T_amb    0.23 0.06     0.79    0.70    0.78 modele          0.09
+   G3_vitesse G2_bruit_3var          vitesse,T_amb    0.23 0.06     0.84    0.12    0.84 modele          0.72
+   G3_vitesse     G4_charge          vitesse,T_amb    0.23 0.06     0.88    0.70    0.87 modele          0.19
+    G4_charge      G1_sinus         dyn,stat,T_amb    0.17 0.14     0.75    0.24   -0.13 modele          0.51
+    G4_charge G2_bruit_3var         dyn,stat,T_amb    0.17 0.14     0.85   -0.46    0.47 modele          1.31
+    G4_charge    G3_vitesse         dyn,stat,T_amb    0.17 0.14     0.95   -0.67    0.88 modele          1.62
+
+=== regret médian sur les 12 cas ===
+regret_regle      0.799
+regret_lenteur    0.000
+regret_modele     0.799
+regret_span_W     0.040
+
+règle validée sur ce jeu (DB-09) : NON
+
+cas à regret > 0,2 :
+         entr          test  p_hors    D  lenteur  modele  span_W  choix  regret_regle
+     G1_sinus G2_bruit_3var    0.12 0.01     0.80   -0.24    0.86 modele          1.09
+     G1_sinus    G3_vitesse    0.12 0.01     0.04   -0.54    0.95 modele          1.50
+     G1_sinus     G4_charge    0.12 0.01     0.83    0.03    0.91 modele          0.88
+G2_bruit_3var      G1_sinus    0.13 0.13     0.73   -0.32    0.42 modele          1.05
+G2_bruit_3var     G4_charge    0.13 0.13     0.82    0.28    0.38 modele          0.54
+   G3_vitesse G2_bruit_3var    0.23 0.06     0.84    0.12    0.84 modele          0.72
+    G4_charge      G1_sinus    0.17 0.14     0.75    0.24   -0.13 modele          0.51
+    G4_charge G2_bruit_3var    0.17 0.14     0.85   -0.46    0.47 modele          1.31
+    G4_charge    G3_vitesse    0.17 0.14     0.95   -0.67    0.88 modele          1.62

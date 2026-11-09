@@ -1,0 +1,121 @@
+
+=== corr_spearman, par vol ===
+methode            H-CDE  cond_lin_PC1  cond_lin_sfa  cond_lin_trend  oracle_dir (étiquettes)  sans_W_sfa  sans_W_trend
+DS   unite classe                                                                                                      
+DS01 8     Fc2      0.68          0.53          0.75            0.66                     0.94        0.99          0.76
+     9     Fc1      0.85          0.92          0.96            0.90                     0.95        0.98          0.91
+     10    Fc3      0.72          0.18          0.48            0.69                     0.92        0.98          0.76
+DS04 7     Fc2       NaN         -0.60         -0.95           -0.89                     0.47       -0.92         -0.86
+     10    Fc3       NaN          0.87          0.97            0.83                     0.85        0.96          0.77
+DS05 7     Fc2      0.47          0.22         -0.63            0.74                     0.74        0.97          0.80
+     9     Fc3      0.58          0.46          0.85            0.74                     0.09        0.92          0.76
+     10    Fc1      0.80          0.60          0.77            0.56                     0.43        0.95          0.70
+DS07 7     Fc2       NaN         -0.16          0.83            0.72                     0.92        0.94          0.77
+     9     Fc3       NaN          0.53          0.70            0.55                     0.88        0.93          0.64
+     10    Fc1       NaN          0.86          0.98            0.88                     0.95        0.99          0.80
+
+=== AUROC, par vol ===
+methode            H-CDE  cond_lin_PC1  cond_lin_sfa  cond_lin_trend  oracle_dir (étiquettes)  sans_W_sfa  sans_W_trend
+DS   unite classe                                                                                                      
+DS01 8     Fc2      0.70          0.73          0.81            0.69                     0.95        0.98          0.76
+     9     Fc1      0.92          0.95          0.95            0.91                     0.95        1.00          0.99
+     10    Fc3      0.75          0.64          0.70            0.73                     0.92        0.99          0.74
+DS04 7     Fc2       NaN          0.29          0.02            0.27                     0.77        0.06          0.33
+     10    Fc3       NaN          0.89          0.95            0.78                     0.85        0.91          0.62
+DS05 7     Fc2      0.69          0.53          0.38            0.81                     0.79        0.93          0.83
+     9     Fc3      0.73          0.69          0.83            0.80                     0.57        0.88          0.81
+     10    Fc1      0.89          0.70          0.84            0.67                     0.58        0.98          0.75
+DS07 7     Fc2       NaN          0.51          0.82            0.79                     0.90        0.93          0.82
+     9     Fc3       NaN          0.72          0.74            0.71                     0.84        0.90          0.73
+     10    Fc1       NaN          0.88          0.97            0.86                     0.93        1.00          0.81
+
+=== reponse_relative, par vol ===
+methode            H-CDE  cond_lin_PC1  cond_lin_sfa  cond_lin_trend  oracle_dir (étiquettes)  sans_W_sfa  sans_W_trend
+DS   unite classe                                                                                                      
+DS01 8     Fc2      0.28          2.81          1.93            1.01                     1.29        1.13          0.65
+     9     Fc1      1.00          1.00          1.00            1.00                     1.00        1.00          1.00
+     10    Fc3      0.40          1.96          1.20            1.41                     1.17        1.07          0.89
+DS04 7     Fc2       NaN         -0.52         -1.52           -1.35                     0.55       -0.65         -1.85
+     10    Fc3       NaN          1.00          1.00            1.00                     1.00        1.00          1.00
+DS05 7     Fc2      0.34          0.40         -0.24            2.78                    19.02        0.64          1.79
+     9     Fc3      0.63          9.90          2.49            2.81                    11.12        1.56          2.14
+     10    Fc1      1.00          1.00          1.00            1.00                     1.00        1.00          1.00
+DS07 7     Fc2       NaN          0.04          1.61            1.39                     0.77        1.18          1.66
+     9     Fc3       NaN          2.47          0.93            2.35                     1.11        1.84          1.13
+     10    Fc1       NaN          1.00          1.00            1.00                     1.00        1.00          1.00
+
+=== FA_classe, par vol ===
+methode            H-CDE  cond_lin_PC1  cond_lin_sfa  cond_lin_trend  oracle_dir (étiquettes)  sans_W_sfa  sans_W_trend
+DS   unite classe                                                                                                      
+DS01 8     Fc2      0.00          1.00          1.00            0.00                     1.00        0.04          0.00
+     9     Fc1      0.07          0.07          0.07            0.07                     0.07        0.07          0.07
+     10    Fc3      0.00          1.00          1.00            0.00                     1.00        0.06          0.00
+DS04 7     Fc2       NaN          0.29          0.00            0.00                     0.14        1.00          0.00
+     10    Fc3       NaN          0.09          0.09            0.09                     0.09        0.09          0.09
+DS05 7     Fc2      0.10          0.00          0.62            0.95                     1.00        0.00          1.00
+     9     Fc3      0.00          0.00          0.59            1.00                     1.00        0.24          1.00
+     10    Fc1      0.06          0.06          0.06            0.06                     0.06        0.06          0.06
+DS07 7     Fc2       NaN          0.00          1.00            0.76                     0.38        0.00          1.00
+     9     Fc3       NaN          0.00          1.00            0.71                     0.41        0.00          1.00
+     10    Fc1       NaN          0.06          0.06            0.06                     0.06        0.06          0.06
+
+=== rappel, par vol ===
+methode            H-CDE  cond_lin_PC1  cond_lin_sfa  cond_lin_trend  oracle_dir (étiquettes)  sans_W_sfa  sans_W_trend
+DS   unite classe                                                                                                      
+DS01 8     Fc2      0.39          1.00          1.00            0.25                     1.00        0.95          0.22
+     9     Fc1      0.74          0.74          0.78            0.70                     0.78        1.00          0.96
+     10    Fc3      0.23          1.00          1.00            0.09                     1.00        0.98          0.12
+DS04 7     Fc2       NaN          0.27          0.00            0.00                     0.26        0.14          0.12
+     10    Fc3       NaN          0.78          0.93            0.65                     0.70        0.84          0.41
+DS05 7     Fc2      0.35          0.05          0.52            0.94                     0.98        0.77          1.00
+     9     Fc3      0.21          0.02          0.94            1.00                     1.00        0.80          1.00
+     10    Fc1      0.67          0.46          0.70            0.43                     0.26        0.96          0.52
+DS07 7     Fc2       NaN          0.00          1.00            0.89                     0.91        0.75          1.00
+     9     Fc3       NaN          0.00          1.00            0.81                     0.88        0.49          1.00
+     10    Fc1       NaN          0.78          0.80            0.71                     0.86        1.00          0.59
+
+=== delai_frac, par vol ===
+methode            H-CDE  cond_lin_PC1  cond_lin_sfa  cond_lin_trend  oracle_dir (étiquettes)  sans_W_sfa  sans_W_trend
+DS   unite classe                                                                                                      
+DS01 8     Fc2      0.35          0.00          0.00            0.47                     0.00        0.04          0.49
+     9     Fc1      0.07          0.07          0.05            0.07                     0.05        0.04          0.03
+     10    Fc3      0.54          0.00          0.00            0.60                     0.00        0.03          0.74
+DS04 7     Fc2       NaN          0.00           NaN             NaN                     0.01        0.00          0.00
+     10    Fc3       NaN          0.00          0.00            0.00                     0.00        0.00          0.18
+DS05 7     Fc2      0.01           NaN          0.00            0.00                     0.00        0.01          0.00
+     9     Fc3      0.19           NaN          0.00            0.00                     0.00        0.03          0.00
+     10    Fc1      0.06          0.09          0.07            0.18                     0.35        0.04          0.17
+DS07 7     Fc2       NaN           NaN          0.00            0.01                     0.03        0.07          0.00
+     9     Fc3       NaN           NaN          0.00            0.00                     0.01        0.20          0.00
+     10    Fc1       NaN          0.03          0.05            0.07                     0.03        0.02          0.11
+
+=== non_detecte, par vol ===
+methode           H-CDE cond_lin_PC1 cond_lin_sfa cond_lin_trend oracle_dir (étiquettes) sans_W_sfa sans_W_trend
+DS   unite classe                                                                                               
+DS01 8     Fc2      0.0          0.0          0.0            0.0                     0.0        0.0          0.0
+     9     Fc1      0.0          0.0          0.0            0.0                     0.0        0.0          0.0
+     10    Fc3      0.0          0.0          0.0            0.0                     0.0        0.0          0.0
+DS04 7     Fc2      NaN          0.0          1.0            1.0                     0.0        0.0          0.0
+     10    Fc3      NaN          0.0          0.0            0.0                     0.0        0.0          0.0
+DS05 7     Fc2      0.0          1.0          0.0            0.0                     0.0        0.0          0.0
+     9     Fc3      0.5          1.0          0.0            0.0                     0.0        0.0          0.0
+     10    Fc1      0.0          0.0          0.0            0.0                     0.0        0.0          0.0
+DS07 7     Fc2      NaN          1.0          0.0            0.0                     0.0        0.0          0.0
+     9     Fc3      NaN          1.0          0.0            0.0                     0.0        0.0          0.0
+     10    Fc1      NaN          0.0          0.0            0.0                     0.0        0.0          0.0
+
+=== diagnostics : |cos(v, direction de la sonde)| et R² du score sur W, par unité ===
+             R2_score_W                                           cos_sonde                                       
+methode    cond_lin_sfa cond_lin_trend sans_W_sfa sans_W_trend cond_lin_sfa cond_lin_trend sans_W_sfa sans_W_trend
+DS   unite                                                                                                        
+DS01 8             0.21           0.38       0.02         0.25         0.65           0.17       0.84         0.66
+     9             0.19           0.21       0.19         0.21         0.65           0.17       0.84         0.66
+     10            0.61           0.66       0.14         0.50         0.65           0.17       0.84         0.66
+DS04 7             0.06           0.04       0.05         0.01         0.04           0.07       0.11         0.27
+     10            0.18           0.15       0.22         0.27         0.04           0.07       0.11         0.27
+DS05 7             0.08           0.31       0.04         0.19         0.33           0.10       0.11         0.64
+     9             0.08           0.38       0.11         0.21         0.33           0.10       0.11         0.64
+     10            0.13           0.31       0.10         0.18         0.33           0.10       0.11         0.64
+DS07 7             0.14           0.30       0.04         0.35         0.73           0.38       0.41         0.21
+     9             0.21           0.71       0.23         0.22         0.73           0.38       0.41         0.21
+     10            0.25           0.27       0.23         0.33         0.73           0.38       0.41         0.21

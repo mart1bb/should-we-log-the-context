@@ -1,0 +1,19 @@
+diff --git a/src/model/factory.py b/src/model/factory.py
+index 0e66a1e..caa729d 100644
+--- a/src/model/factory.py
++++ b/src/model/factory.py
+@@ -13,6 +13,14 @@ BASELINE_MODELS = {
+     'fnn': MLP,
+     'cde': NeuralCDE,
+     'hcde': HCDE,
++    # AJOUT (Renault, 11 sept. 2026) — absent du dépôt officiel.
++    # Les configs N-CMAPSS (`run/configs/ncmapss/hcde*.yaml`) déclarent `type: ls-ncde`, nom qui
++    # n'était pas enregistré ici : `create_model` levait un KeyError. Les configs `bridge` du même
++    # papier utilisent `type: hcde` avec les MÊMES hyperparamètres (latent_dim_1/2, path_dim,
++    # prodp_1/2, gamma, transform_path...), et la signature de HCDE correspond exactement aux
++    # arguments passés par la branche 'cde' ci-dessous. `ls-ncde` désigne donc bien HCDE : c'est
++    # un renommage fait dans les configs et non répercuté dans la factory.
++    'ls-ncde': HCDE,
+ }
+ 
+ 

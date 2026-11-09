@@ -1,0 +1,185 @@
+=== 1. Wilcoxon apparié par cas contre la meilleure du jeu, Holm (gras = p_holm ≥ 0,05) ===
+             jeu          methode  mediane     p  p_holm  gras  reference
+        N-CMAPSS           span_W    0.926   NaN     NaN  True       True
+        N-CMAPSS             DANN   -0.044 0.000   0.009 False      False
+        N-CMAPSS          acp_SPE    0.501 0.000   0.009 False      False
+        N-CMAPSS           acp_T2   -0.046 0.000   0.009 False      False
+        N-CMAPSS     autoencodeur    0.230 0.000   0.009 False      False
+        N-CMAPSS   bajarunas_corr    0.864 0.027   0.081  True      False
+        N-CMAPSS   bajarunas_mono    0.905 0.034   0.081  True      False
+        N-CMAPSS invariant_regime    0.820 0.001   0.009 False      False
+        N-CMAPSS          lenteur    0.925 0.791   0.791  True      False
+        N-CMAPSS      norm_regime    0.820 0.000   0.009 False      False
+        N-CMAPSS         resid_GP   -0.032 0.000   0.009 False      False
+        N-CMAPSS       resid_GP_z   -0.040 0.000   0.009 False      False
+        N-CMAPSS        resid_lin    0.555 0.000   0.009 False      False
+        N-CMAPSS       resid_quad    0.281 0.000   0.009 False      False
+        N-CMAPSS       residu_FNN    0.240 0.000   0.009 False      False
+        N-CMAPSS     tendance_moy    0.414 0.000   0.009 False      False
+        N-CMAPSS     tendance_reg    0.770 0.001   0.009 False      False
+        N-CMAPSS            H-CDE    0.536 0.000   0.009 False      False
+        N-CMAPSS            V-REx    0.840 0.000   0.009 False      False
+  C-MAPSS retenu   bajarunas_corr    0.877   NaN     NaN  True       True
+  C-MAPSS retenu             DANN    0.764 0.002   0.022 False      False
+  C-MAPSS retenu          acp_SPE   -0.256 0.000   0.000 False      False
+  C-MAPSS retenu           acp_T2    0.633 0.005   0.055  True      False
+  C-MAPSS retenu     autoencodeur   -0.181 0.000   0.000 False      False
+  C-MAPSS retenu   bajarunas_mono    0.852 0.000   0.002 False      False
+  C-MAPSS retenu invariant_regime    0.843 1.000   1.000  True      False
+  C-MAPSS retenu          lenteur    0.829 0.028   0.277  True      False
+  C-MAPSS retenu      norm_regime    0.830 0.919   1.000  True      False
+  C-MAPSS retenu         resid_GP    0.183 0.000   0.003 False      False
+  C-MAPSS retenu       resid_GP_z    0.188 0.000   0.002 False      False
+  C-MAPSS retenu        resid_lin    0.857 0.092   0.736  True      False
+  C-MAPSS retenu       resid_quad    0.860 0.490   1.000  True      False
+  C-MAPSS retenu       residu_FNN    0.843 0.135   0.943  True      False
+  C-MAPSS retenu           span_W    0.844 1.000   1.000  True      False
+  C-MAPSS retenu     tendance_moy    0.873 0.871   1.000  True      False
+  C-MAPSS retenu     tendance_reg    0.876 0.309   1.000  True      False
+  C-MAPSS retenu            V-REx    0.765 0.036   0.328  True      False
+C-MAPSS contrôle   bajarunas_corr    0.884   NaN     NaN  True       True
+C-MAPSS contrôle             DANN    0.837 0.000   0.000 False      False
+C-MAPSS contrôle          acp_SPE    0.770 0.000   0.000 False      False
+C-MAPSS contrôle           acp_T2    0.535 0.000   0.000 False      False
+C-MAPSS contrôle     autoencodeur    0.778 0.000   0.000 False      False
+C-MAPSS contrôle   bajarunas_mono    0.870 0.000   0.001 False      False
+C-MAPSS contrôle invariant_regime    0.850 0.000   0.002 False      False
+C-MAPSS contrôle          lenteur    0.834 0.000   0.000 False      False
+C-MAPSS contrôle      norm_regime    0.841 0.000   0.000 False      False
+C-MAPSS contrôle         resid_GP    0.790 0.000   0.000 False      False
+C-MAPSS contrôle       resid_GP_z    0.793 0.000   0.000 False      False
+C-MAPSS contrôle        resid_lin    0.858 0.013   0.026 False      False
+C-MAPSS contrôle       resid_quad    0.856 0.010   0.026 False      False
+C-MAPSS contrôle       residu_FNN    0.815 0.000   0.000 False      False
+C-MAPSS contrôle           span_W    0.850 0.000   0.002 False      False
+C-MAPSS contrôle     tendance_moy    0.876 0.009   0.026 False      False
+C-MAPSS contrôle     tendance_reg    0.868 0.000   0.001 False      False
+       batteries       resid_quad    0.897   NaN     NaN  True       True
+       batteries             DANN   -0.010 0.000   0.000 False      False
+       batteries          acp_SPE    0.165 0.000   0.002 False      False
+       batteries           acp_T2    0.431 0.000   0.000 False      False
+       batteries     autoencodeur    0.288 0.000   0.002 False      False
+       batteries   bajarunas_corr    0.350 0.000   0.002 False      False
+       batteries   bajarunas_mono   -0.025 0.000   0.001 False      False
+       batteries invariant_regime   -0.101 0.000   0.001 False      False
+       batteries          lenteur    0.317 0.001   0.006 False      False
+       batteries      norm_regime    0.664 0.027   0.133  True      False
+       batteries         resid_GP    0.692 0.027   0.133  True      False
+       batteries       resid_GP_z    0.669 0.033   0.133  True      False
+       batteries        resid_lin    0.886 0.622   0.622  True      False
+       batteries       residu_FNN    0.551 0.006   0.045 False      False
+       batteries           span_W    0.159 0.000   0.001 False      False
+       batteries     tendance_moy    0.606 0.058   0.133  True      False
+       batteries     tendance_reg    0.601 0.011   0.064  True      False
+       batteries            V-REx   -0.270 0.000   0.001 False      False
+      roulements          lenteur    0.814   NaN     NaN  True       True
+      roulements             DANN    0.161 0.001   0.023 False      False
+      roulements          acp_SPE    0.289 0.034   0.308  True      False
+      roulements           acp_T2    0.226 0.001   0.023 False      False
+      roulements     autoencodeur    0.302 0.092   0.738  True      False
+      roulements   bajarunas_corr    0.468 0.204   1.000  True      False
+      roulements   bajarunas_mono    0.557 0.204   1.000  True      False
+      roulements invariant_regime    0.589 0.204   1.000  True      False
+      roulements      norm_regime    0.283 0.001   0.023 False      False
+      roulements         resid_GP    0.404 0.021   0.231  True      False
+      roulements       resid_GP_z    0.405 0.021   0.231  True      False
+      roulements        resid_lin   -0.158 0.005   0.059  True      False
+      roulements       resid_quad    0.078 0.002   0.032 False      False
+      roulements       residu_FNN    0.405 0.092   0.738  True      False
+      roulements           span_W    0.809 0.233   1.000  True      False
+      roulements     tendance_moy    0.493 0.233   1.000  True      False
+      roulements     tendance_reg    0.552 0.204   1.000  True      False
+      roulements            V-REx    0.643 0.000   0.008 False      False
+             gaz     tendance_reg    0.693   NaN     NaN  True       True
+             gaz             DANN    0.033 0.000   0.008 False      False
+             gaz          acp_SPE    0.128 0.005   0.039 False      False
+             gaz           acp_T2   -0.063 0.001   0.013 False      False
+             gaz     autoencodeur    0.110 0.005   0.039 False      False
+             gaz   bajarunas_corr    0.583 0.622   0.622  True      False
+             gaz   bajarunas_mono    0.408 0.064   0.134  True      False
+             gaz invariant_regime    0.376 0.000   0.008 False      False
+             gaz          lenteur    0.470 0.027   0.134  True      False
+             gaz      norm_regime    0.235 0.000   0.008 False      False
+             gaz         resid_GP    0.072 0.001   0.013 False      False
+             gaz       resid_GP_z   -0.042 0.002   0.027 False      False
+             gaz        resid_lin    0.305 0.000   0.008 False      False
+             gaz       resid_quad    0.299 0.002   0.027 False      False
+             gaz       residu_FNN    0.356 0.002   0.027 False      False
+             gaz           span_W    0.325 0.009   0.056  True      False
+             gaz     tendance_moy    0.477 0.027   0.134  True      False
+             gaz            V-REx    0.346 0.042   0.134  True      False
+
+=== 2. Contrastes entre représentants fixés (médiane des écarts ; IC 95 % bootstrap cas → unités) ===
+             jeu                contraste  mediane  ic_bas  ic_haut
+        N-CMAPSS     lenteur − resid_quad    0.683   0.503    0.869
+        N-CMAPSS         lenteur − span_W    0.001  -0.003    0.008
+        N-CMAPSS lenteur − bajarunas_corr    0.053  -0.001    0.091
+  C-MAPSS retenu     lenteur − resid_quad   -0.006  -0.013   -0.000
+  C-MAPSS retenu         lenteur − span_W   -0.004  -0.014   -0.001
+  C-MAPSS retenu lenteur − bajarunas_corr   -0.046  -0.066   -0.015
+C-MAPSS contrôle     lenteur − resid_quad    0.003  -0.001    0.006
+C-MAPSS contrôle         lenteur − span_W    0.003  -0.003    0.007
+C-MAPSS contrôle lenteur − bajarunas_corr   -0.030  -0.040   -0.026
+       batteries     lenteur − resid_quad   -0.195  -0.847   -0.102
+       batteries         lenteur − span_W    0.058   0.009    0.116
+       batteries lenteur − bajarunas_corr    0.041  -0.278    0.207
+      roulements     lenteur − resid_quad    0.456   0.108    0.973
+      roulements         lenteur − span_W    0.038  -0.003    0.268
+      roulements lenteur − bajarunas_corr    0.194  -0.071    0.426
+             gaz     lenteur − resid_quad    0.028  -0.062    0.288
+             gaz         lenteur − span_W    0.034   0.010    0.113
+             gaz lenteur − bajarunas_corr   -0.131  -0.458    0.061
+           PVDAQ     lenteur − resid_quad   -0.115  -0.231   -0.004
+           PVDAQ         lenteur − span_W   -0.003  -0.017    0.001
+           PVDAQ lenteur − bajarunas_corr   -0.065  -0.172   -0.003
+
+=== 3. Différences critiques : 86 cas, Friedman χ² = 287.5, p = 4.27e-51, CD (Nemenyi, α = 0,05) = 2.84 ===
+tendance_reg         6.08
+bajarunas_corr       6.79
+tendance_moy         7.14
+lenteur              7.51
+resid_quad           7.64
+span_W               7.85
+resid_lin            7.97
+norm_regime          8.14
+bajarunas_mono       8.57
+invariant_regime     8.76
+V-REx                9.84
+residu_FNN           9.99
+resid_GP_z          11.58
+resid_GP            12.02
+autoencodeur        12.12
+acp_SPE             12.69
+acp_T2              13.08
+DANN                13.24
+
+rangs moyens, poids égal par jeu :
+tendance_reg         6.13
+bajarunas_corr       6.57
+lenteur              6.63
+span_W               7.48
+tendance_moy         7.81
+bajarunas_mono       7.94
+norm_regime          8.53
+invariant_regime     8.69
+resid_lin            8.76
+resid_quad           8.88
+V-REx                9.07
+residu_FNN          10.25
+autoencodeur        11.64
+resid_GP_z          11.78
+resid_GP            11.87
+acp_SPE             12.05
+acp_T2              13.39
+DANN                13.54
+
+=== méthodes ajoutées (R10, R12) : médiane par jeu ===
+                  acp_SPE  acp_T2  autoencodeur  resid_GP  resid_GP_z  H-CDE  V-REx
+jeu                                                                                
+N-CMAPSS             0.50   -0.05          0.23     -0.03       -0.04   0.54   0.84
+C-MAPSS retenu      -0.26    0.63         -0.18      0.18        0.19    NaN   0.77
+C-MAPSS contrôle     0.77    0.53          0.78      0.79        0.79    NaN    NaN
+batteries            0.16    0.43          0.29      0.69        0.67    NaN  -0.27
+roulements           0.29    0.23          0.30      0.40        0.40    NaN   0.64
+gaz                  0.13   -0.06          0.11      0.07       -0.04    NaN   0.35
+PVDAQ                0.05    0.04          0.18      0.21        0.04    NaN    NaN

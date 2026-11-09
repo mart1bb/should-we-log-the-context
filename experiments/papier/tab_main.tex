@@ -1,0 +1,32 @@
+% Généré par code/vB38_tables_papier.py (gras : tests) — ne pas éditer à la main.
+\begin{tabular}{@{}llrrrrrrr@{}}
+\toprule
+Family & Method & N-CMAPSS & \multicolumn{2}{c}{C-MAPSS} & Batteries & Bearings & Gas sensors & PV systems \\
+ & & & withheld & control & & & & \\
+ & & (12) & (30) & (30) & (20) & (12) & (12) & (8) \\
+\midrule
+\multirow{3}{*}{\shortstack[l]{Context-free,\\ temporal prior}} & slowness (SFA) & \textbf{0.92} & \textbf{0.83} & 0.83 & 0.32 & \textbf{0.81} & \textbf{0.47} & $-$0.13 \\
+ & trend, mean slope & 0.41 & \textbf{0.87} & 0.88 & \textbf{0.61} & \textbf{0.49} & \textbf{0.48} & $-$0.18 \\
+ & trend, regression on time & 0.77 & \textbf{0.88} & 0.87 & \textbf{0.60} & \textbf{0.55} & \textbf{0.69} & $-$0.23 \\
+\midrule
+\multirow{3}{*}{\shortstack[l]{Context-free,\\ no temporal prior}} & PCA, Hotelling $T^2$ & $-$0.05 & \textbf{0.63} & 0.53 & 0.43 & 0.23 & $-$0.06 & 0.04 \\
+ & PCA, residual (SPE) & 0.50 & $-$0.26 & 0.77 & 0.16 & \textbf{0.29} & 0.13 & 0.05 \\
+ & autoencoder & 0.23 & $-$0.18 & 0.78 & 0.29 & \textbf{0.30} & 0.11 & 0.18 \\
+\midrule
+\multirow{6}{*}{\shortstack[l]{Context removal}} & linear residual + SFA & 0.55 & \textbf{0.86} & 0.86 & \textbf{0.89} & \textbf{$-$0.16} & 0.31 & $-$0.02 \\
+ & quadratic residual + SFA & 0.28 & \textbf{0.86} & 0.86 & \textbf{0.90} & 0.08 & 0.30 & $-$0.01 \\
+ & neural residual (FNN) & 0.24 & \textbf{0.84} & 0.82 & 0.55 & \textbf{0.41} & 0.36 & 0.26 \\
+ & GP residual & $-$0.03 & 0.18 & 0.79 & \textbf{0.69} & \textbf{0.40} & 0.07 & 0.21 \\
+ & GP residual / predictive s.d. & $-$0.04 & 0.19 & 0.79 & \textbf{0.67} & \textbf{0.40} & $-$0.04 & 0.04 \\
+ & per-regime normalization + SFA & 0.82 & \textbf{0.83} & 0.84 & \textbf{0.66} & 0.28 & 0.24 & $-$0.02 \\
+\midrule
+\multirow{4}{*}{\shortstack[l]{Context invariance}} & span$_W$ & \textbf{0.93} & \textbf{0.84} & 0.85 & 0.16 & \textbf{0.81} & \textbf{0.32} & $-$0.06 \\
+ & regime-invariant SFA (linear) & 0.82 & \textbf{0.84} & 0.85 & $-$0.10 & \textbf{0.59} & 0.38 & $-$0.11 \\
+ & DANN (non-linear) & $-$0.04 & 0.76 & 0.84 & $-$0.01 & 0.16 & 0.03 & $-$0.18 \\
+ & V-REx with slowness & 0.84 & \textbf{0.77} & -- & $-$0.27 & 0.64 & \textbf{0.35} & -- \\
+\midrule
+\multirow{3}{*}{\shortstack[l]{Latent with context}} & Bajarunas et al., correlation & \textbf{0.86} & \textbf{0.88} & \textbf{0.88} & 0.35 & \textbf{0.47} & \textbf{0.58} & $-$0.05 \\
+ & Bajarunas et al., monotonicity & \textbf{0.91} & 0.85 & 0.87 & $-$0.02 & \textbf{0.56} & \textbf{0.41} & $-$0.09 \\
+ & H-CDE & 0.54 & -- & -- & -- & -- & -- & -- \\
+\bottomrule
+\end{tabular}

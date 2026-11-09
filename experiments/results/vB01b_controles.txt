@@ -1,0 +1,6 @@
+DS01 u9 : permutée — corr(cible perm., vraie) +0.15, corr(préd., vraie) +0.07, corr(préd., cible perm.) -0.24 | extrapolation — Spearman 0.999, pente préd./vraie 0.70, dégradation max vue 0.0014 contre 0.0187
+DS01 u8 : permutée — corr(cible perm., vraie) +0.06, corr(préd., vraie) +0.14, corr(préd., cible perm.) -0.23 | extrapolation — Spearman 1.000, pente préd./vraie 1.01, dégradation max vue 0.0025 contre 0.0185
+DS01 u10 : permutée — corr(cible perm., vraie) -0.05, corr(préd., vraie) -0.08, corr(préd., cible perm.) -0.14 | extrapolation — Spearman 1.000, pente préd./vraie 0.99, dégradation max vue 0.0025 contre 0.0181
+DS05 u10 : permutée — corr(cible perm., vraie) +0.15, corr(préd., vraie) +0.04, corr(préd., cible perm.) -0.16 | extrapolation — Spearman 0.999, pente préd./vraie 0.75, dégradation max vue 0.0029 contre 0.0333
+DS05 u7 : permutée — corr(cible perm., vraie) -0.14, corr(préd., vraie) -0.17, corr(préd., cible perm.) -0.33 | extrapolation — Spearman 0.998, pente préd./vraie 0.71, dégradation max vue 0.0040 contre 0.0785
+DS05 u9 : permutée — corr(cible perm., vraie) +0.04, corr(préd., vraie) -0.03, corr(préd., cible perm.) -0.28 | extrapolation — Spearman 0.998, pente préd./vraie 0.89, dégradation max vue 0.0031 contre 0.0274

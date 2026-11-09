@@ -1,0 +1,19 @@
+  DS        methode  unite    role classe     k  vols_sans_pairs   FA  rappel  delai  non_detecte
+DS01 sfa (A, citée)      9     ref    Fc1 -0.70                0 0.05    0.91   0.04        False
+DS01 sfa (A, citée)      8 non_vue    Fc2 -0.70                0 0.62    0.97   0.02        False
+DS01 sfa (A, citée)     10 non_vue    Fc3 -0.70                0 0.67    0.95   0.02        False
+DS01         span_W      9     ref    Fc1 -0.25                0 0.05    0.76   0.07        False
+DS01         span_W      8 non_vue    Fc2 -0.25                0 0.77    0.95   0.02        False
+DS01         span_W     10 non_vue    Fc3 -0.25                0 1.00    0.75   0.03        False
+DS05 sfa (A, citée)     10     ref    Fc1  1.26                0 0.09    0.70   0.05        False
+DS05 sfa (A, citée)      7 non_vue    Fc2  1.26                7 0.27    0.00   0.01        False
+DS05 sfa (A, citée)      9 non_vue    Fc3  1.26                0 0.43    0.25   0.14        False
+DS05         span_W     10     ref    Fc1  2.53                0 0.09    0.50   0.17        False
+DS05         span_W      7 non_vue    Fc2  2.53                7 0.09    0.04    NaN         True
+DS05         span_W      9 non_vue    Fc3  2.53                0 0.14    0.20   0.62        False
+DS07 sfa (A, citée)     10     ref    Fc1  1.60                3 0.09    0.17    NaN         True
+DS07 sfa (A, citée)      7 non_vue    Fc2  1.60                2 0.09    0.23   0.42        False
+DS07 sfa (A, citée)      9 non_vue    Fc3  1.60               13 0.71    0.23   0.01        False
+DS07         span_W     10     ref    Fc1  1.93                3 0.09    0.00    NaN         True
+DS07         span_W      7 non_vue    Fc2  1.93                2 0.36    0.25   0.01        False
+DS07         span_W      9 non_vue    Fc3  1.93               13 0.43    0.05   0.08        False

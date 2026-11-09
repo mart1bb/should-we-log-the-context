@@ -1,0 +1,27 @@
+      jeu                 cas  cos_min  p_hors    D  lenteur  modele  span_W   choix  regret_regle choix_v2  regret_v2
+ N-CMAPSS         DS01 aucune     1.00    0.90 0.01     0.99    0.12    0.96 lenteur          0.00  lenteur       0.00
+ N-CMAPSS DS01 montante_h0.30     0.69    0.76 0.30     0.78   -0.03    0.91  span_W          0.00   span_W       0.00
+ N-CMAPSS         DS05 aucune     1.00    0.59 0.01     0.95    0.43    0.94 lenteur          0.00  lenteur       0.00
+ N-CMAPSS DS05 montante_h0.30     0.59    0.62 0.18     0.81    0.00    0.79 lenteur          0.00  lenteur       0.00
+ N-CMAPSS         DS07 aucune     0.98    0.89 0.01     0.93    0.53    0.93 lenteur          0.00  lenteur       0.00
+ N-CMAPSS DS07 montante_h0.30     0.46    0.82 0.27     0.83   -0.16    0.83  span_W          0.00   modele       1.00
+  C-MAPSS         FD002 C0_42     0.20    0.68 0.00     0.82    0.81    0.81 lenteur          0.00   modele       0.00
+  C-MAPSS         FD002 C0_60     0.20    0.68 0.00     0.83    0.84    0.83 lenteur          0.01   modele       0.00
+  C-MAPSS         FD002 C0_20     0.20    0.68 0.00     0.84    0.84    0.83 lenteur          0.00   modele       0.00
+  C-MAPSS           FD002 R42     0.19    0.67 0.00     0.83    0.81    0.81 lenteur          0.00   modele       0.02
+  C-MAPSS           FD002 R60     0.58    0.92 0.00     0.82    0.83    0.82 lenteur          0.01  lenteur       0.01
+  C-MAPSS           FD002 R20     0.98    0.79 0.00    -0.08    0.83    0.78 lenteur          0.91  lenteur       0.91
+  C-MAPSS         FD004 C0_42     0.27    0.45 0.01     0.86    0.89    0.88 lenteur          0.03   modele       0.00
+  C-MAPSS         FD004 C0_60     0.27    0.45 0.01     0.82    0.86    0.85 lenteur          0.04   modele       0.00
+  C-MAPSS         FD004 C0_20     0.27    0.45 0.01     0.84    0.88    0.88 lenteur          0.04   modele       0.00
+  C-MAPSS           FD004 R42     0.26    0.47 0.00     0.88    0.90    0.90 lenteur          0.01   modele       0.00
+  C-MAPSS           FD004 R60     0.80    0.87 0.01     0.82    0.86    0.85 lenteur          0.04  lenteur       0.04
+  C-MAPSS           FD004 R20     0.98    0.62 0.00     0.87    0.88    0.87 lenteur          0.01  lenteur       0.01
+batteries   biaisee_basse_40C     0.92    0.21 0.21     0.08    0.86   -0.12  modele          0.00   modele       0.00
+batteries    biaisee_basse_TA     0.92    0.21 0.21    -0.25    0.94   -0.79  modele          0.00   modele       0.00
+batteries   biaisee_haute_40C     0.92    0.21 0.21    -0.48    0.65   -0.60  modele          0.00   modele       0.00
+batteries    biaisee_haute_TA     0.92    0.21 0.21    -0.08    0.91   -0.72  modele          0.00   modele       0.00
+
+lenteur en échec (regret > 0,2) : 5 cas ; AUROC(1 − cos_min) = 0.24
+règle v1 : regret médian 0.002, max 0.906
+règle v2 : regret médian 0.000, max 0.995

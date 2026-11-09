@@ -1,0 +1,1633 @@
+jeu,cas,mode,categorie,tirage,estimation,rappel,nb_capteurs,n_capteurs
+N-CMAPSS,DS01 ref u1,injecte,mesure,0,est_brut,0.3333333333333333,4.333333333333333,14
+N-CMAPSS,DS01 ref u1,injecte,mesure,0,est_ctx,0.5,5.25,14
+N-CMAPSS,DS01 ref u1,placebo,mesure,0,est_brut,0.3333333333333333,4.333333333333333,14
+N-CMAPSS,DS01 ref u1,placebo,mesure,0,est_ctx,0.4166666666666667,5.5,14
+N-CMAPSS,DS01 ref u1,injecte,mesure,1,est_brut,0.3333333333333333,1.0833333333333333,14
+N-CMAPSS,DS01 ref u1,injecte,mesure,1,est_ctx,0.0,0.16666666666666666,14
+N-CMAPSS,DS01 ref u1,placebo,mesure,1,est_brut,0.0,0.75,14
+N-CMAPSS,DS01 ref u1,placebo,mesure,1,est_ctx,0.0,0.16666666666666666,14
+N-CMAPSS,DS01 ref u1,injecte,maintenance,0,est_brut,0.20833333333333334,2.1666666666666665,14
+N-CMAPSS,DS01 ref u1,injecte,maintenance,0,est_ctx,0.16666666666666666,2.5833333333333335,14
+N-CMAPSS,DS01 ref u1,placebo,maintenance,0,est_brut,0.25,3.5,14
+N-CMAPSS,DS01 ref u1,placebo,maintenance,0,est_ctx,0.125,2.5833333333333335,14
+N-CMAPSS,DS01 ref u1,injecte,maintenance,1,est_brut,0.20833333333333334,1.0833333333333333,14
+N-CMAPSS,DS01 ref u1,injecte,maintenance,1,est_ctx,0.25,1.75,14
+N-CMAPSS,DS01 ref u1,placebo,maintenance,1,est_brut,0.08333333333333333,1.0,14
+N-CMAPSS,DS01 ref u1,placebo,maintenance,1,est_ctx,0.25,3.25,14
+N-CMAPSS,DS01 ref u1,injecte,production,0,est_brut,0.75,3.75,14
+N-CMAPSS,DS01 ref u1,injecte,production,0,est_ctx,0.7083333333333334,3.25,14
+N-CMAPSS,DS01 ref u1,placebo,production,0,est_brut,0.25,2.75,14
+N-CMAPSS,DS01 ref u1,placebo,production,0,est_ctx,0.16666666666666666,2.4166666666666665,14
+N-CMAPSS,DS01 ref u1,injecte,production,1,est_brut,0.75,3.9166666666666665,14
+N-CMAPSS,DS01 ref u1,injecte,production,1,est_ctx,0.7083333333333334,3.6666666666666665,14
+N-CMAPSS,DS01 ref u1,placebo,production,1,est_brut,0.25,2.9166666666666665,14
+N-CMAPSS,DS01 ref u1,placebo,production,1,est_ctx,0.20833333333333334,2.6666666666666665,14
+N-CMAPSS,DS01 ref u1,injecte,prod_quad,0,est_brut,0.875,4.25,14
+N-CMAPSS,DS01 ref u1,injecte,prod_quad,0,est_ctx,0.875,4.5,14
+N-CMAPSS,DS01 ref u1,injecte,prod_quad,1,est_brut,0.9166666666666666,3.0833333333333335,14
+N-CMAPSS,DS01 ref u1,injecte,prod_quad,1,est_ctx,0.9166666666666666,4.416666666666667,14
+N-CMAPSS,DS01 ref u1,injecte,prod_seuil,0,est_brut,0.5833333333333334,1.75,14
+N-CMAPSS,DS01 ref u1,injecte,prod_seuil,0,est_ctx,0.4583333333333333,2.5,14
+N-CMAPSS,DS01 ref u1,injecte,prod_seuil,1,est_brut,0.6666666666666666,2.5,14
+N-CMAPSS,DS01 ref u1,injecte,prod_seuil,1,est_ctx,0.4583333333333333,3.3333333333333335,14
+N-CMAPSS,DS01 ref u4,injecte,mesure,0,est_brut,0.3333333333333333,4.333333333333333,14
+N-CMAPSS,DS01 ref u4,injecte,mesure,0,est_ctx,0.3333333333333333,5.083333333333333,14
+N-CMAPSS,DS01 ref u4,placebo,mesure,0,est_brut,0.3333333333333333,4.333333333333333,14
+N-CMAPSS,DS01 ref u4,placebo,mesure,0,est_ctx,0.3333333333333333,5.333333333333333,14
+N-CMAPSS,DS01 ref u4,injecte,mesure,1,est_brut,0.3333333333333333,1.0833333333333333,14
+N-CMAPSS,DS01 ref u4,injecte,mesure,1,est_ctx,0.0,0.16666666666666666,14
+N-CMAPSS,DS01 ref u4,placebo,mesure,1,est_brut,0.0,0.75,14
+N-CMAPSS,DS01 ref u4,placebo,mesure,1,est_ctx,0.0,0.16666666666666666,14
+N-CMAPSS,DS01 ref u4,injecte,maintenance,0,est_brut,0.20833333333333334,2.1666666666666665,14
+N-CMAPSS,DS01 ref u4,injecte,maintenance,0,est_ctx,0.20833333333333334,1.8333333333333333,14
+N-CMAPSS,DS01 ref u4,placebo,maintenance,0,est_brut,0.25,3.5,14
+N-CMAPSS,DS01 ref u4,placebo,maintenance,0,est_ctx,0.125,2.25,14
+N-CMAPSS,DS01 ref u4,injecte,maintenance,1,est_brut,0.20833333333333334,1.0833333333333333,14
+N-CMAPSS,DS01 ref u4,injecte,maintenance,1,est_ctx,0.041666666666666664,0.3333333333333333,14
+N-CMAPSS,DS01 ref u4,placebo,maintenance,1,est_brut,0.08333333333333333,1.0,14
+N-CMAPSS,DS01 ref u4,placebo,maintenance,1,est_ctx,0.25,3.6666666666666665,14
+N-CMAPSS,DS01 ref u4,injecte,production,0,est_brut,0.7916666666666666,3.5833333333333335,14
+N-CMAPSS,DS01 ref u4,injecte,production,0,est_ctx,0.6666666666666666,3.5833333333333335,14
+N-CMAPSS,DS01 ref u4,placebo,production,0,est_brut,0.25,2.5,14
+N-CMAPSS,DS01 ref u4,placebo,production,0,est_ctx,0.08333333333333333,2.25,14
+N-CMAPSS,DS01 ref u4,injecte,production,1,est_brut,0.7916666666666666,3.8333333333333335,14
+N-CMAPSS,DS01 ref u4,injecte,production,1,est_ctx,0.75,3.5833333333333335,14
+N-CMAPSS,DS01 ref u4,placebo,production,1,est_brut,0.2916666666666667,2.8333333333333335,14
+N-CMAPSS,DS01 ref u4,placebo,production,1,est_ctx,0.125,1.75,14
+N-CMAPSS,DS01 ref u4,injecte,prod_quad,0,est_brut,0.9166666666666666,4.0,14
+N-CMAPSS,DS01 ref u4,injecte,prod_quad,0,est_ctx,0.875,4.416666666666667,14
+N-CMAPSS,DS01 ref u4,injecte,prod_quad,1,est_brut,0.9166666666666666,3.25,14
+N-CMAPSS,DS01 ref u4,injecte,prod_quad,1,est_ctx,0.9166666666666666,4.916666666666667,14
+N-CMAPSS,DS01 ref u4,injecte,prod_seuil,0,est_brut,0.5416666666666666,1.8333333333333333,14
+N-CMAPSS,DS01 ref u4,injecte,prod_seuil,0,est_ctx,0.4583333333333333,2.0833333333333335,14
+N-CMAPSS,DS01 ref u4,injecte,prod_seuil,1,est_brut,0.6666666666666666,2.5,14
+N-CMAPSS,DS01 ref u4,injecte,prod_seuil,1,est_ctx,0.5,3.6666666666666665,14
+N-CMAPSS,DS01 ref u7,injecte,mesure,0,est_brut,0.3333333333333333,4.333333333333333,14
+N-CMAPSS,DS01 ref u7,injecte,mesure,0,est_ctx,0.4166666666666667,4.25,14
+N-CMAPSS,DS01 ref u7,placebo,mesure,0,est_brut,0.3333333333333333,4.333333333333333,14
+N-CMAPSS,DS01 ref u7,placebo,mesure,0,est_ctx,0.3333333333333333,3.9166666666666665,14
+N-CMAPSS,DS01 ref u7,injecte,mesure,1,est_brut,0.3333333333333333,1.0833333333333333,14
+N-CMAPSS,DS01 ref u7,injecte,mesure,1,est_ctx,0.0,0.0,14
+N-CMAPSS,DS01 ref u7,placebo,mesure,1,est_brut,0.0,0.75,14
+N-CMAPSS,DS01 ref u7,placebo,mesure,1,est_ctx,0.0,0.08333333333333333,14
+N-CMAPSS,DS01 ref u7,injecte,maintenance,0,est_brut,0.20833333333333334,2.1666666666666665,14
+N-CMAPSS,DS01 ref u7,injecte,maintenance,0,est_ctx,0.20833333333333334,2.25,14
+N-CMAPSS,DS01 ref u7,placebo,maintenance,0,est_brut,0.25,3.5,14
+N-CMAPSS,DS01 ref u7,placebo,maintenance,0,est_ctx,0.20833333333333334,2.9166666666666665,14
+N-CMAPSS,DS01 ref u7,injecte,maintenance,1,est_brut,0.20833333333333334,1.0833333333333333,14
+N-CMAPSS,DS01 ref u7,injecte,maintenance,1,est_ctx,0.20833333333333334,2.0,14
+N-CMAPSS,DS01 ref u7,placebo,maintenance,1,est_brut,0.08333333333333333,1.0,14
+N-CMAPSS,DS01 ref u7,placebo,maintenance,1,est_ctx,0.2916666666666667,2.6666666666666665,14
+N-CMAPSS,DS01 ref u7,injecte,production,0,est_brut,0.7916666666666666,3.75,14
+N-CMAPSS,DS01 ref u7,injecte,production,0,est_ctx,0.6666666666666666,3.5833333333333335,14
+N-CMAPSS,DS01 ref u7,placebo,production,0,est_brut,0.25,2.6666666666666665,14
+N-CMAPSS,DS01 ref u7,placebo,production,0,est_ctx,0.125,1.9166666666666667,14
+N-CMAPSS,DS01 ref u7,injecte,production,1,est_brut,0.75,3.8333333333333335,14
+N-CMAPSS,DS01 ref u7,injecte,production,1,est_ctx,0.7083333333333334,4.5,14
+N-CMAPSS,DS01 ref u7,placebo,production,1,est_brut,0.2916666666666667,2.9166666666666665,14
+N-CMAPSS,DS01 ref u7,placebo,production,1,est_ctx,0.20833333333333334,3.25,14
+N-CMAPSS,DS01 ref u7,injecte,prod_quad,0,est_brut,0.875,4.166666666666667,14
+N-CMAPSS,DS01 ref u7,injecte,prod_quad,0,est_ctx,0.875,5.25,14
+N-CMAPSS,DS01 ref u7,injecte,prod_quad,1,est_brut,0.9166666666666666,3.25,14
+N-CMAPSS,DS01 ref u7,injecte,prod_quad,1,est_ctx,0.9166666666666666,3.75,14
+N-CMAPSS,DS01 ref u7,injecte,prod_seuil,0,est_brut,0.5833333333333334,1.8333333333333333,14
+N-CMAPSS,DS01 ref u7,injecte,prod_seuil,0,est_ctx,0.4166666666666667,1.9166666666666667,14
+N-CMAPSS,DS01 ref u7,injecte,prod_seuil,1,est_brut,0.6666666666666666,2.5,14
+N-CMAPSS,DS01 ref u7,injecte,prod_seuil,1,est_ctx,0.5416666666666666,3.0,14
+N-CMAPSS,DS01 ref u9,injecte,mesure,0,est_brut,0.3333333333333333,4.333333333333333,14
+N-CMAPSS,DS01 ref u9,injecte,mesure,0,est_ctx,0.5833333333333334,5.416666666666667,14
+N-CMAPSS,DS01 ref u9,placebo,mesure,0,est_brut,0.3333333333333333,4.333333333333333,14
+N-CMAPSS,DS01 ref u9,placebo,mesure,0,est_ctx,0.5,5.416666666666667,14
+N-CMAPSS,DS01 ref u9,injecte,mesure,1,est_brut,0.3333333333333333,1.0833333333333333,14
+N-CMAPSS,DS01 ref u9,injecte,mesure,1,est_ctx,0.08333333333333333,0.4166666666666667,14
+N-CMAPSS,DS01 ref u9,placebo,mesure,1,est_brut,0.0,0.75,14
+N-CMAPSS,DS01 ref u9,placebo,mesure,1,est_ctx,0.0,0.25,14
+N-CMAPSS,DS01 ref u9,injecte,maintenance,0,est_brut,0.25,2.25,14
+N-CMAPSS,DS01 ref u9,injecte,maintenance,0,est_ctx,0.16666666666666666,2.0,14
+N-CMAPSS,DS01 ref u9,placebo,maintenance,0,est_brut,0.25,3.5,14
+N-CMAPSS,DS01 ref u9,placebo,maintenance,0,est_ctx,0.125,2.75,14
+N-CMAPSS,DS01 ref u9,injecte,maintenance,1,est_brut,0.25,1.1666666666666667,14
+N-CMAPSS,DS01 ref u9,injecte,maintenance,1,est_ctx,0.16666666666666666,1.4166666666666667,14
+N-CMAPSS,DS01 ref u9,placebo,maintenance,1,est_brut,0.08333333333333333,1.0,14
+N-CMAPSS,DS01 ref u9,placebo,maintenance,1,est_ctx,0.20833333333333334,3.3333333333333335,14
+N-CMAPSS,DS01 ref u9,injecte,production,0,est_brut,0.875,3.9166666666666665,14
+N-CMAPSS,DS01 ref u9,injecte,production,0,est_ctx,0.7916666666666666,3.25,14
+N-CMAPSS,DS01 ref u9,placebo,production,0,est_brut,0.25,2.6666666666666665,14
+N-CMAPSS,DS01 ref u9,placebo,production,0,est_ctx,0.16666666666666666,2.3333333333333335,14
+N-CMAPSS,DS01 ref u9,injecte,production,1,est_brut,0.75,3.9166666666666665,14
+N-CMAPSS,DS01 ref u9,injecte,production,1,est_ctx,0.7083333333333334,3.8333333333333335,14
+N-CMAPSS,DS01 ref u9,placebo,production,1,est_brut,0.2916666666666667,3.0,14
+N-CMAPSS,DS01 ref u9,placebo,production,1,est_ctx,0.20833333333333334,2.4166666666666665,14
+N-CMAPSS,DS01 ref u9,injecte,prod_quad,0,est_brut,0.875,4.166666666666667,14
+N-CMAPSS,DS01 ref u9,injecte,prod_quad,0,est_ctx,0.875,4.833333333333333,14
+N-CMAPSS,DS01 ref u9,injecte,prod_quad,1,est_brut,0.9166666666666666,3.25,14
+N-CMAPSS,DS01 ref u9,injecte,prod_quad,1,est_ctx,0.9166666666666666,3.9166666666666665,14
+N-CMAPSS,DS01 ref u9,injecte,prod_seuil,0,est_brut,0.5416666666666666,1.75,14
+N-CMAPSS,DS01 ref u9,injecte,prod_seuil,0,est_ctx,0.4166666666666667,1.75,14
+N-CMAPSS,DS01 ref u9,injecte,prod_seuil,1,est_brut,0.6666666666666666,2.5,14
+N-CMAPSS,DS01 ref u9,injecte,prod_seuil,1,est_ctx,0.5416666666666666,3.1666666666666665,14
+N-CMAPSS,DS05 ref u4,injecte,mesure,0,est_brut,0.08333333333333333,0.5833333333333334,14
+N-CMAPSS,DS05 ref u4,injecte,mesure,0,est_ctx,0.0,1.3333333333333333,14
+N-CMAPSS,DS05 ref u4,placebo,mesure,0,est_brut,0.0,0.5,14
+N-CMAPSS,DS05 ref u4,placebo,mesure,0,est_ctx,0.16666666666666666,1.3333333333333333,14
+N-CMAPSS,DS05 ref u4,injecte,mesure,1,est_brut,0.5,4.416666666666667,14
+N-CMAPSS,DS05 ref u4,injecte,mesure,1,est_ctx,0.16666666666666666,3.25,14
+N-CMAPSS,DS05 ref u4,placebo,mesure,1,est_brut,0.25,4.166666666666667,14
+N-CMAPSS,DS05 ref u4,placebo,mesure,1,est_ctx,0.25,3.25,14
+N-CMAPSS,DS05 ref u4,injecte,maintenance,0,est_brut,0.125,0.5,14
+N-CMAPSS,DS05 ref u4,injecte,maintenance,0,est_ctx,0.16666666666666666,0.5833333333333334,14
+N-CMAPSS,DS05 ref u4,placebo,maintenance,0,est_brut,0.08333333333333333,0.8333333333333334,14
+N-CMAPSS,DS05 ref u4,placebo,maintenance,0,est_ctx,0.08333333333333333,0.9166666666666666,14
+N-CMAPSS,DS05 ref u4,injecte,maintenance,1,est_brut,0.16666666666666666,0.8333333333333334,14
+N-CMAPSS,DS05 ref u4,injecte,maintenance,1,est_ctx,0.20833333333333334,0.6666666666666666,14
+N-CMAPSS,DS05 ref u4,placebo,maintenance,1,est_brut,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS05 ref u4,placebo,maintenance,1,est_ctx,0.0,0.5,14
+N-CMAPSS,DS05 ref u4,injecte,production,0,est_brut,0.75,3.25,14
+N-CMAPSS,DS05 ref u4,injecte,production,0,est_ctx,0.7083333333333334,3.5833333333333335,14
+N-CMAPSS,DS05 ref u4,placebo,production,0,est_brut,0.20833333333333334,2.1666666666666665,14
+N-CMAPSS,DS05 ref u4,placebo,production,0,est_ctx,0.08333333333333333,1.9166666666666667,14
+N-CMAPSS,DS05 ref u4,injecte,production,1,est_brut,0.6666666666666666,3.4166666666666665,14
+N-CMAPSS,DS05 ref u4,injecte,production,1,est_ctx,0.6666666666666666,4.083333333333333,14
+N-CMAPSS,DS05 ref u4,placebo,production,1,est_brut,0.16666666666666666,2.4166666666666665,14
+N-CMAPSS,DS05 ref u4,placebo,production,1,est_ctx,0.16666666666666666,2.3333333333333335,14
+N-CMAPSS,DS05 ref u4,injecte,prod_quad,0,est_brut,0.9583333333333334,4.75,14
+N-CMAPSS,DS05 ref u4,injecte,prod_quad,0,est_ctx,0.9166666666666666,5.25,14
+N-CMAPSS,DS05 ref u4,injecte,prod_quad,1,est_brut,0.875,3.75,14
+N-CMAPSS,DS05 ref u4,injecte,prod_quad,1,est_ctx,0.875,3.3333333333333335,14
+N-CMAPSS,DS05 ref u4,injecte,prod_seuil,0,est_brut,0.5833333333333334,2.3333333333333335,14
+N-CMAPSS,DS05 ref u4,injecte,prod_seuil,0,est_ctx,0.7083333333333334,3.5,14
+N-CMAPSS,DS05 ref u4,injecte,prod_seuil,1,est_brut,0.7083333333333334,3.5833333333333335,14
+N-CMAPSS,DS05 ref u4,injecte,prod_seuil,1,est_ctx,0.625,3.5,14
+N-CMAPSS,DS05 ref u5,injecte,mesure,0,est_brut,0.0,0.5,14
+N-CMAPSS,DS05 ref u5,injecte,mesure,0,est_ctx,0.08333333333333333,2.0833333333333335,14
+N-CMAPSS,DS05 ref u5,placebo,mesure,0,est_brut,0.0,0.5,14
+N-CMAPSS,DS05 ref u5,placebo,mesure,0,est_ctx,0.08333333333333333,2.0,14
+N-CMAPSS,DS05 ref u5,injecte,mesure,1,est_brut,0.5,4.416666666666667,14
+N-CMAPSS,DS05 ref u5,injecte,mesure,1,est_ctx,0.16666666666666666,2.8333333333333335,14
+N-CMAPSS,DS05 ref u5,placebo,mesure,1,est_brut,0.25,4.166666666666667,14
+N-CMAPSS,DS05 ref u5,placebo,mesure,1,est_ctx,0.25,3.0833333333333335,14
+N-CMAPSS,DS05 ref u5,injecte,maintenance,0,est_brut,0.125,0.5,14
+N-CMAPSS,DS05 ref u5,injecte,maintenance,0,est_ctx,0.125,0.4166666666666667,14
+N-CMAPSS,DS05 ref u5,placebo,maintenance,0,est_brut,0.08333333333333333,0.8333333333333334,14
+N-CMAPSS,DS05 ref u5,placebo,maintenance,0,est_ctx,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS05 ref u5,injecte,maintenance,1,est_brut,0.16666666666666666,0.8333333333333334,14
+N-CMAPSS,DS05 ref u5,injecte,maintenance,1,est_ctx,0.08333333333333333,0.16666666666666666,14
+N-CMAPSS,DS05 ref u5,placebo,maintenance,1,est_brut,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS05 ref u5,placebo,maintenance,1,est_ctx,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS05 ref u5,injecte,production,0,est_brut,0.7916666666666666,3.3333333333333335,14
+N-CMAPSS,DS05 ref u5,injecte,production,0,est_ctx,0.75,4.0,14
+N-CMAPSS,DS05 ref u5,placebo,production,0,est_brut,0.20833333333333334,2.1666666666666665,14
+N-CMAPSS,DS05 ref u5,placebo,production,0,est_ctx,0.125,2.1666666666666665,14
+N-CMAPSS,DS05 ref u5,injecte,production,1,est_brut,0.7083333333333334,3.5,14
+N-CMAPSS,DS05 ref u5,injecte,production,1,est_ctx,0.6666666666666666,3.8333333333333335,14
+N-CMAPSS,DS05 ref u5,placebo,production,1,est_brut,0.16666666666666666,2.4166666666666665,14
+N-CMAPSS,DS05 ref u5,placebo,production,1,est_ctx,0.08333333333333333,2.3333333333333335,14
+N-CMAPSS,DS05 ref u5,injecte,prod_quad,0,est_brut,0.9583333333333334,4.833333333333333,14
+N-CMAPSS,DS05 ref u5,injecte,prod_quad,0,est_ctx,0.9166666666666666,4.666666666666667,14
+N-CMAPSS,DS05 ref u5,injecte,prod_quad,1,est_brut,0.875,3.75,14
+N-CMAPSS,DS05 ref u5,injecte,prod_quad,1,est_ctx,0.875,3.0,14
+N-CMAPSS,DS05 ref u5,injecte,prod_seuil,0,est_brut,0.5833333333333334,2.3333333333333335,14
+N-CMAPSS,DS05 ref u5,injecte,prod_seuil,0,est_ctx,0.5833333333333334,3.3333333333333335,14
+N-CMAPSS,DS05 ref u5,injecte,prod_seuil,1,est_brut,0.6666666666666666,3.5,14
+N-CMAPSS,DS05 ref u5,injecte,prod_seuil,1,est_ctx,0.5833333333333334,3.3333333333333335,14
+N-CMAPSS,DS05 ref u8,injecte,mesure,0,est_brut,0.08333333333333333,0.5833333333333334,14
+N-CMAPSS,DS05 ref u8,injecte,mesure,0,est_ctx,0.25,1.5833333333333333,14
+N-CMAPSS,DS05 ref u8,placebo,mesure,0,est_brut,0.0,0.5,14
+N-CMAPSS,DS05 ref u8,placebo,mesure,0,est_ctx,0.08333333333333333,1.4166666666666667,14
+N-CMAPSS,DS05 ref u8,injecte,mesure,1,est_brut,0.5,4.416666666666667,14
+N-CMAPSS,DS05 ref u8,injecte,mesure,1,est_ctx,0.3333333333333333,3.25,14
+N-CMAPSS,DS05 ref u8,placebo,mesure,1,est_brut,0.25,4.166666666666667,14
+N-CMAPSS,DS05 ref u8,placebo,mesure,1,est_ctx,0.25,3.5,14
+N-CMAPSS,DS05 ref u8,injecte,maintenance,0,est_brut,0.125,0.5,14
+N-CMAPSS,DS05 ref u8,injecte,maintenance,0,est_ctx,0.125,0.75,14
+N-CMAPSS,DS05 ref u8,placebo,maintenance,0,est_brut,0.08333333333333333,0.8333333333333334,14
+N-CMAPSS,DS05 ref u8,placebo,maintenance,0,est_ctx,0.125,1.1666666666666667,14
+N-CMAPSS,DS05 ref u8,injecte,maintenance,1,est_brut,0.20833333333333334,0.9166666666666666,14
+N-CMAPSS,DS05 ref u8,injecte,maintenance,1,est_ctx,0.041666666666666664,0.25,14
+N-CMAPSS,DS05 ref u8,placebo,maintenance,1,est_brut,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS05 ref u8,placebo,maintenance,1,est_ctx,0.041666666666666664,1.1666666666666667,14
+N-CMAPSS,DS05 ref u8,injecte,production,0,est_brut,0.75,3.4166666666666665,14
+N-CMAPSS,DS05 ref u8,injecte,production,0,est_ctx,0.7083333333333334,3.75,14
+N-CMAPSS,DS05 ref u8,placebo,production,0,est_brut,0.20833333333333334,2.3333333333333335,14
+N-CMAPSS,DS05 ref u8,placebo,production,0,est_ctx,0.25,2.5833333333333335,14
+N-CMAPSS,DS05 ref u8,injecte,production,1,est_brut,0.6666666666666666,3.5,14
+N-CMAPSS,DS05 ref u8,injecte,production,1,est_ctx,0.6666666666666666,3.75,14
+N-CMAPSS,DS05 ref u8,placebo,production,1,est_brut,0.16666666666666666,2.5,14
+N-CMAPSS,DS05 ref u8,placebo,production,1,est_ctx,0.20833333333333334,2.75,14
+N-CMAPSS,DS05 ref u8,injecte,prod_quad,0,est_brut,0.9583333333333334,4.916666666666667,14
+N-CMAPSS,DS05 ref u8,injecte,prod_quad,0,est_ctx,0.9583333333333334,5.333333333333333,14
+N-CMAPSS,DS05 ref u8,injecte,prod_quad,1,est_brut,0.875,3.75,14
+N-CMAPSS,DS05 ref u8,injecte,prod_quad,1,est_ctx,0.875,4.0,14
+N-CMAPSS,DS05 ref u8,injecte,prod_seuil,0,est_brut,0.5416666666666666,2.25,14
+N-CMAPSS,DS05 ref u8,injecte,prod_seuil,0,est_ctx,0.5416666666666666,2.8333333333333335,14
+N-CMAPSS,DS05 ref u8,injecte,prod_seuil,1,est_brut,0.6666666666666666,3.75,14
+N-CMAPSS,DS05 ref u8,injecte,prod_seuil,1,est_ctx,0.625,3.3333333333333335,14
+N-CMAPSS,DS05 ref u10,injecte,mesure,0,est_brut,0.0,0.5,14
+N-CMAPSS,DS05 ref u10,injecte,mesure,0,est_ctx,0.16666666666666666,1.5,14
+N-CMAPSS,DS05 ref u10,placebo,mesure,0,est_brut,0.0,0.5,14
+N-CMAPSS,DS05 ref u10,placebo,mesure,0,est_ctx,0.08333333333333333,1.25,14
+N-CMAPSS,DS05 ref u10,injecte,mesure,1,est_brut,0.5,4.416666666666667,14
+N-CMAPSS,DS05 ref u10,injecte,mesure,1,est_ctx,0.16666666666666666,3.5833333333333335,14
+N-CMAPSS,DS05 ref u10,placebo,mesure,1,est_brut,0.25,4.166666666666667,14
+N-CMAPSS,DS05 ref u10,placebo,mesure,1,est_ctx,0.3333333333333333,4.0,14
+N-CMAPSS,DS05 ref u10,injecte,maintenance,0,est_brut,0.125,0.5,14
+N-CMAPSS,DS05 ref u10,injecte,maintenance,0,est_ctx,0.041666666666666664,0.25,14
+N-CMAPSS,DS05 ref u10,placebo,maintenance,0,est_brut,0.08333333333333333,0.8333333333333334,14
+N-CMAPSS,DS05 ref u10,placebo,maintenance,0,est_ctx,0.08333333333333333,0.5,14
+N-CMAPSS,DS05 ref u10,injecte,maintenance,1,est_brut,0.16666666666666666,0.8333333333333334,14
+N-CMAPSS,DS05 ref u10,injecte,maintenance,1,est_ctx,0.08333333333333333,0.4166666666666667,14
+N-CMAPSS,DS05 ref u10,placebo,maintenance,1,est_brut,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS05 ref u10,placebo,maintenance,1,est_ctx,0.0,0.5,14
+N-CMAPSS,DS05 ref u10,injecte,production,0,est_brut,0.7916666666666666,3.3333333333333335,14
+N-CMAPSS,DS05 ref u10,injecte,production,0,est_ctx,0.6666666666666666,3.8333333333333335,14
+N-CMAPSS,DS05 ref u10,placebo,production,0,est_brut,0.20833333333333334,2.1666666666666665,14
+N-CMAPSS,DS05 ref u10,placebo,production,0,est_ctx,0.20833333333333334,2.5833333333333335,14
+N-CMAPSS,DS05 ref u10,injecte,production,1,est_brut,0.6666666666666666,3.4166666666666665,14
+N-CMAPSS,DS05 ref u10,injecte,production,1,est_ctx,0.6666666666666666,3.6666666666666665,14
+N-CMAPSS,DS05 ref u10,placebo,production,1,est_brut,0.16666666666666666,2.4166666666666665,14
+N-CMAPSS,DS05 ref u10,placebo,production,1,est_ctx,0.16666666666666666,2.5,14
+N-CMAPSS,DS05 ref u10,injecte,prod_quad,0,est_brut,0.9583333333333334,4.75,14
+N-CMAPSS,DS05 ref u10,injecte,prod_quad,0,est_ctx,0.9166666666666666,5.0,14
+N-CMAPSS,DS05 ref u10,injecte,prod_quad,1,est_brut,0.875,3.75,14
+N-CMAPSS,DS05 ref u10,injecte,prod_quad,1,est_ctx,0.875,2.8333333333333335,14
+N-CMAPSS,DS05 ref u10,injecte,prod_seuil,0,est_brut,0.5833333333333334,2.3333333333333335,14
+N-CMAPSS,DS05 ref u10,injecte,prod_seuil,0,est_ctx,0.625,4.0,14
+N-CMAPSS,DS05 ref u10,injecte,prod_seuil,1,est_brut,0.625,3.4166666666666665,14
+N-CMAPSS,DS05 ref u10,injecte,prod_seuil,1,est_ctx,0.625,4.166666666666667,14
+N-CMAPSS,DS07 ref u4,injecte,mesure,0,est_brut,0.16666666666666666,1.6666666666666667,14
+N-CMAPSS,DS07 ref u4,injecte,mesure,0,est_ctx,0.08333333333333333,1.6666666666666667,14
+N-CMAPSS,DS07 ref u4,placebo,mesure,0,est_brut,0.08333333333333333,1.5833333333333333,14
+N-CMAPSS,DS07 ref u4,placebo,mesure,0,est_ctx,0.08333333333333333,1.8333333333333333,14
+N-CMAPSS,DS07 ref u4,injecte,mesure,1,est_brut,0.25,3.3333333333333335,14
+N-CMAPSS,DS07 ref u4,injecte,mesure,1,est_ctx,0.16666666666666666,2.25,14
+N-CMAPSS,DS07 ref u4,placebo,mesure,1,est_brut,0.25,3.3333333333333335,14
+N-CMAPSS,DS07 ref u4,placebo,mesure,1,est_ctx,0.08333333333333333,2.25,14
+N-CMAPSS,DS07 ref u4,injecte,maintenance,0,est_brut,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS07 ref u4,injecte,maintenance,0,est_ctx,0.041666666666666664,0.3333333333333333,14
+N-CMAPSS,DS07 ref u4,placebo,maintenance,0,est_brut,0.041666666666666664,0.5,14
+N-CMAPSS,DS07 ref u4,placebo,maintenance,0,est_ctx,0.125,1.0,14
+N-CMAPSS,DS07 ref u4,injecte,maintenance,1,est_brut,0.16666666666666666,2.3333333333333335,14
+N-CMAPSS,DS07 ref u4,injecte,maintenance,1,est_ctx,0.16666666666666666,1.3333333333333333,14
+N-CMAPSS,DS07 ref u4,placebo,maintenance,1,est_brut,0.125,2.25,14
+N-CMAPSS,DS07 ref u4,placebo,maintenance,1,est_ctx,0.25,1.8333333333333333,14
+N-CMAPSS,DS07 ref u4,injecte,production,0,est_brut,0.75,2.5833333333333335,14
+N-CMAPSS,DS07 ref u4,injecte,production,0,est_ctx,0.75,3.5833333333333335,14
+N-CMAPSS,DS07 ref u4,placebo,production,0,est_brut,0.16666666666666666,1.4166666666666667,14
+N-CMAPSS,DS07 ref u4,placebo,production,0,est_ctx,0.25,3.0,14
+N-CMAPSS,DS07 ref u4,injecte,production,1,est_brut,0.7083333333333334,2.6666666666666665,14
+N-CMAPSS,DS07 ref u4,injecte,production,1,est_ctx,0.6666666666666666,3.0,14
+N-CMAPSS,DS07 ref u4,placebo,production,1,est_brut,0.041666666666666664,1.3333333333333333,14
+N-CMAPSS,DS07 ref u4,placebo,production,1,est_ctx,0.041666666666666664,1.4166666666666667,14
+N-CMAPSS,DS07 ref u4,injecte,prod_quad,0,est_brut,0.9583333333333334,4.666666666666667,14
+N-CMAPSS,DS07 ref u4,injecte,prod_quad,0,est_ctx,0.9583333333333334,6.083333333333333,14
+N-CMAPSS,DS07 ref u4,injecte,prod_quad,1,est_brut,0.8333333333333334,3.9166666666666665,14
+N-CMAPSS,DS07 ref u4,injecte,prod_quad,1,est_ctx,0.8333333333333334,3.5833333333333335,14
+N-CMAPSS,DS07 ref u4,injecte,prod_seuil,0,est_brut,0.5833333333333334,1.9166666666666667,14
+N-CMAPSS,DS07 ref u4,injecte,prod_seuil,0,est_ctx,0.5833333333333334,2.8333333333333335,14
+N-CMAPSS,DS07 ref u4,injecte,prod_seuil,1,est_brut,0.625,3.6666666666666665,14
+N-CMAPSS,DS07 ref u4,injecte,prod_seuil,1,est_ctx,0.5833333333333334,3.25,14
+N-CMAPSS,DS07 ref u5,injecte,mesure,0,est_brut,0.16666666666666666,1.6666666666666667,14
+N-CMAPSS,DS07 ref u5,injecte,mesure,0,est_ctx,0.08333333333333333,1.5,14
+N-CMAPSS,DS07 ref u5,placebo,mesure,0,est_brut,0.08333333333333333,1.5833333333333333,14
+N-CMAPSS,DS07 ref u5,placebo,mesure,0,est_ctx,0.08333333333333333,1.6666666666666667,14
+N-CMAPSS,DS07 ref u5,injecte,mesure,1,est_brut,0.25,3.3333333333333335,14
+N-CMAPSS,DS07 ref u5,injecte,mesure,1,est_ctx,0.16666666666666666,1.6666666666666667,14
+N-CMAPSS,DS07 ref u5,placebo,mesure,1,est_brut,0.25,3.3333333333333335,14
+N-CMAPSS,DS07 ref u5,placebo,mesure,1,est_ctx,0.08333333333333333,1.5,14
+N-CMAPSS,DS07 ref u5,injecte,maintenance,0,est_brut,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS07 ref u5,injecte,maintenance,0,est_ctx,0.0,0.5,14
+N-CMAPSS,DS07 ref u5,placebo,maintenance,0,est_brut,0.041666666666666664,0.5,14
+N-CMAPSS,DS07 ref u5,placebo,maintenance,0,est_ctx,0.041666666666666664,1.3333333333333333,14
+N-CMAPSS,DS07 ref u5,injecte,maintenance,1,est_brut,0.16666666666666666,2.3333333333333335,14
+N-CMAPSS,DS07 ref u5,injecte,maintenance,1,est_ctx,0.16666666666666666,1.5,14
+N-CMAPSS,DS07 ref u5,placebo,maintenance,1,est_brut,0.125,2.25,14
+N-CMAPSS,DS07 ref u5,placebo,maintenance,1,est_ctx,0.25,2.25,14
+N-CMAPSS,DS07 ref u5,injecte,production,0,est_brut,0.75,2.6666666666666665,14
+N-CMAPSS,DS07 ref u5,injecte,production,0,est_ctx,0.75,4.0,14
+N-CMAPSS,DS07 ref u5,placebo,production,0,est_brut,0.16666666666666666,1.5,14
+N-CMAPSS,DS07 ref u5,placebo,production,0,est_ctx,0.25,3.1666666666666665,14
+N-CMAPSS,DS07 ref u5,injecte,production,1,est_brut,0.6666666666666666,2.5833333333333335,14
+N-CMAPSS,DS07 ref u5,injecte,production,1,est_ctx,0.625,2.5,14
+N-CMAPSS,DS07 ref u5,placebo,production,1,est_brut,0.041666666666666664,1.3333333333333333,14
+N-CMAPSS,DS07 ref u5,placebo,production,1,est_ctx,0.08333333333333333,1.6666666666666667,14
+N-CMAPSS,DS07 ref u5,injecte,prod_quad,0,est_brut,0.9583333333333334,4.666666666666667,14
+N-CMAPSS,DS07 ref u5,injecte,prod_quad,0,est_ctx,0.9166666666666666,4.916666666666667,14
+N-CMAPSS,DS07 ref u5,injecte,prod_quad,1,est_brut,0.8333333333333334,3.75,14
+N-CMAPSS,DS07 ref u5,injecte,prod_quad,1,est_ctx,0.8333333333333334,3.0833333333333335,14
+N-CMAPSS,DS07 ref u5,injecte,prod_seuil,0,est_brut,0.625,2.0,14
+N-CMAPSS,DS07 ref u5,injecte,prod_seuil,0,est_ctx,0.5416666666666666,3.3333333333333335,14
+N-CMAPSS,DS07 ref u5,injecte,prod_seuil,1,est_brut,0.625,3.6666666666666665,14
+N-CMAPSS,DS07 ref u5,injecte,prod_seuil,1,est_ctx,0.5416666666666666,3.0833333333333335,14
+N-CMAPSS,DS07 ref u8,injecte,mesure,0,est_brut,0.16666666666666666,1.6666666666666667,14
+N-CMAPSS,DS07 ref u8,injecte,mesure,0,est_ctx,0.16666666666666666,1.75,14
+N-CMAPSS,DS07 ref u8,placebo,mesure,0,est_brut,0.08333333333333333,1.5833333333333333,14
+N-CMAPSS,DS07 ref u8,placebo,mesure,0,est_ctx,0.08333333333333333,1.6666666666666667,14
+N-CMAPSS,DS07 ref u8,injecte,mesure,1,est_brut,0.25,3.3333333333333335,14
+N-CMAPSS,DS07 ref u8,injecte,mesure,1,est_ctx,0.25,2.5,14
+N-CMAPSS,DS07 ref u8,placebo,mesure,1,est_brut,0.25,3.3333333333333335,14
+N-CMAPSS,DS07 ref u8,placebo,mesure,1,est_ctx,0.25,2.75,14
+N-CMAPSS,DS07 ref u8,injecte,maintenance,0,est_brut,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS07 ref u8,injecte,maintenance,0,est_ctx,0.0,0.3333333333333333,14
+N-CMAPSS,DS07 ref u8,placebo,maintenance,0,est_brut,0.041666666666666664,0.5,14
+N-CMAPSS,DS07 ref u8,placebo,maintenance,0,est_ctx,0.041666666666666664,0.8333333333333334,14
+N-CMAPSS,DS07 ref u8,injecte,maintenance,1,est_brut,0.16666666666666666,2.3333333333333335,14
+N-CMAPSS,DS07 ref u8,injecte,maintenance,1,est_ctx,0.08333333333333333,0.6666666666666666,14
+N-CMAPSS,DS07 ref u8,placebo,maintenance,1,est_brut,0.125,2.25,14
+N-CMAPSS,DS07 ref u8,placebo,maintenance,1,est_ctx,0.25,2.0,14
+N-CMAPSS,DS07 ref u8,injecte,production,0,est_brut,0.7916666666666666,2.6666666666666665,14
+N-CMAPSS,DS07 ref u8,injecte,production,0,est_ctx,0.7916666666666666,3.6666666666666665,14
+N-CMAPSS,DS07 ref u8,placebo,production,0,est_brut,0.16666666666666666,1.4166666666666667,14
+N-CMAPSS,DS07 ref u8,placebo,production,0,est_ctx,0.041666666666666664,2.5,14
+N-CMAPSS,DS07 ref u8,injecte,production,1,est_brut,0.7083333333333334,2.75,14
+N-CMAPSS,DS07 ref u8,injecte,production,1,est_ctx,0.7083333333333334,2.3333333333333335,14
+N-CMAPSS,DS07 ref u8,placebo,production,1,est_brut,0.041666666666666664,1.4166666666666667,14
+N-CMAPSS,DS07 ref u8,placebo,production,1,est_ctx,0.041666666666666664,1.0,14
+N-CMAPSS,DS07 ref u8,injecte,prod_quad,0,est_brut,0.9583333333333334,4.833333333333333,14
+N-CMAPSS,DS07 ref u8,injecte,prod_quad,0,est_ctx,0.9583333333333334,5.666666666666667,14
+N-CMAPSS,DS07 ref u8,injecte,prod_quad,1,est_brut,0.8333333333333334,4.25,14
+N-CMAPSS,DS07 ref u8,injecte,prod_quad,1,est_ctx,0.8333333333333334,3.0833333333333335,14
+N-CMAPSS,DS07 ref u8,injecte,prod_seuil,0,est_brut,0.5833333333333334,1.9166666666666667,14
+N-CMAPSS,DS07 ref u8,injecte,prod_seuil,0,est_ctx,0.5833333333333334,2.8333333333333335,14
+N-CMAPSS,DS07 ref u8,injecte,prod_seuil,1,est_brut,0.75,3.9166666666666665,14
+N-CMAPSS,DS07 ref u8,injecte,prod_seuil,1,est_ctx,0.625,3.25,14
+N-CMAPSS,DS07 ref u10,injecte,mesure,0,est_brut,0.16666666666666666,1.6666666666666667,14
+N-CMAPSS,DS07 ref u10,injecte,mesure,0,est_ctx,0.08333333333333333,1.4166666666666667,14
+N-CMAPSS,DS07 ref u10,placebo,mesure,0,est_brut,0.08333333333333333,1.5833333333333333,14
+N-CMAPSS,DS07 ref u10,placebo,mesure,0,est_ctx,0.0,1.0,14
+N-CMAPSS,DS07 ref u10,injecte,mesure,1,est_brut,0.25,3.3333333333333335,14
+N-CMAPSS,DS07 ref u10,injecte,mesure,1,est_ctx,0.08333333333333333,1.6666666666666667,14
+N-CMAPSS,DS07 ref u10,placebo,mesure,1,est_brut,0.25,3.3333333333333335,14
+N-CMAPSS,DS07 ref u10,placebo,mesure,1,est_ctx,0.08333333333333333,1.6666666666666667,14
+N-CMAPSS,DS07 ref u10,injecte,maintenance,0,est_brut,0.041666666666666664,0.4166666666666667,14
+N-CMAPSS,DS07 ref u10,injecte,maintenance,0,est_ctx,0.08333333333333333,0.5,14
+N-CMAPSS,DS07 ref u10,placebo,maintenance,0,est_brut,0.041666666666666664,0.5,14
+N-CMAPSS,DS07 ref u10,placebo,maintenance,0,est_ctx,0.0,0.9166666666666666,14
+N-CMAPSS,DS07 ref u10,injecte,maintenance,1,est_brut,0.16666666666666666,2.3333333333333335,14
+N-CMAPSS,DS07 ref u10,injecte,maintenance,1,est_ctx,0.08333333333333333,1.0,14
+N-CMAPSS,DS07 ref u10,placebo,maintenance,1,est_brut,0.125,2.25,14
+N-CMAPSS,DS07 ref u10,placebo,maintenance,1,est_ctx,0.125,1.5,14
+N-CMAPSS,DS07 ref u10,injecte,production,0,est_brut,0.7916666666666666,2.6666666666666665,14
+N-CMAPSS,DS07 ref u10,injecte,production,0,est_ctx,0.7083333333333334,4.166666666666667,14
+N-CMAPSS,DS07 ref u10,placebo,production,0,est_brut,0.16666666666666666,1.4166666666666667,14
+N-CMAPSS,DS07 ref u10,placebo,production,0,est_ctx,0.20833333333333334,3.4166666666666665,14
+N-CMAPSS,DS07 ref u10,injecte,production,1,est_brut,0.7083333333333334,2.6666666666666665,14
+N-CMAPSS,DS07 ref u10,injecte,production,1,est_ctx,0.6666666666666666,3.5,14
+N-CMAPSS,DS07 ref u10,placebo,production,1,est_brut,0.08333333333333333,1.4166666666666667,14
+N-CMAPSS,DS07 ref u10,placebo,production,1,est_ctx,0.125,1.8333333333333333,14
+N-CMAPSS,DS07 ref u10,injecte,prod_quad,0,est_brut,0.9583333333333334,4.666666666666667,14
+N-CMAPSS,DS07 ref u10,injecte,prod_quad,0,est_ctx,0.9583333333333334,4.75,14
+N-CMAPSS,DS07 ref u10,injecte,prod_quad,1,est_brut,0.8333333333333334,3.75,14
+N-CMAPSS,DS07 ref u10,injecte,prod_quad,1,est_ctx,0.8333333333333334,3.0833333333333335,14
+N-CMAPSS,DS07 ref u10,injecte,prod_seuil,0,est_brut,0.5416666666666666,1.8333333333333333,14
+N-CMAPSS,DS07 ref u10,injecte,prod_seuil,0,est_ctx,0.5416666666666666,2.25,14
+N-CMAPSS,DS07 ref u10,injecte,prod_seuil,1,est_brut,0.6666666666666666,3.8333333333333335,14
+N-CMAPSS,DS07 ref u10,injecte,prod_seuil,1,est_ctx,0.625,3.8333333333333335,14
+roulements,entr. G1_sinus,injecte,mesure,0,est_brut,0.5454545454545454,3.272727272727273,22
+roulements,entr. G1_sinus,injecte,mesure,0,est_ctx,0.5909090909090909,3.5,22
+roulements,entr. G1_sinus,placebo,mesure,0,est_brut,0.09090909090909091,2.8181818181818183,22
+roulements,entr. G1_sinus,placebo,mesure,0,est_ctx,0.09090909090909091,2.8636363636363638,22
+roulements,entr. G1_sinus,injecte,mesure,1,est_brut,0.5454545454545454,2.5454545454545454,22
+roulements,entr. G1_sinus,injecte,mesure,1,est_ctx,0.5909090909090909,2.227272727272727,22
+roulements,entr. G1_sinus,placebo,mesure,1,est_brut,0.045454545454545456,2.0454545454545454,22
+roulements,entr. G1_sinus,placebo,mesure,1,est_ctx,0.045454545454545456,1.6363636363636365,22
+roulements,entr. G1_sinus,injecte,maintenance,0,est_brut,0.8863636363636364,9.5,22
+roulements,entr. G1_sinus,injecte,maintenance,0,est_ctx,0.7954545454545454,10.045454545454545,22
+roulements,entr. G1_sinus,placebo,maintenance,0,est_brut,0.11363636363636363,2.727272727272727,22
+roulements,entr. G1_sinus,placebo,maintenance,0,est_ctx,0.11363636363636363,2.590909090909091,22
+roulements,entr. G1_sinus,injecte,maintenance,1,est_brut,0.8181818181818182,9.954545454545455,22
+roulements,entr. G1_sinus,injecte,maintenance,1,est_ctx,0.8409090909090909,11.136363636363637,22
+roulements,entr. G1_sinus,placebo,maintenance,1,est_brut,0.1590909090909091,4.181818181818182,22
+roulements,entr. G1_sinus,placebo,maintenance,1,est_ctx,0.13636363636363635,3.5,22
+roulements,entr. G1_sinus,injecte,production,0,est_brut,0.5227272727272727,4.818181818181818,22
+roulements,entr. G1_sinus,injecte,production,0,est_ctx,0.4772727272727273,4.590909090909091,22
+roulements,entr. G1_sinus,placebo,production,0,est_brut,0.18181818181818182,4.136363636363637,22
+roulements,entr. G1_sinus,placebo,production,0,est_ctx,0.18181818181818182,3.9545454545454546,22
+roulements,entr. G1_sinus,injecte,production,1,est_brut,0.5227272727272727,6.454545454545454,22
+roulements,entr. G1_sinus,injecte,production,1,est_ctx,0.5227272727272727,5.818181818181818,22
+roulements,entr. G1_sinus,placebo,production,1,est_brut,0.29545454545454547,6.0,22
+roulements,entr. G1_sinus,placebo,production,1,est_ctx,0.29545454545454547,5.590909090909091,22
+roulements,entr. G1_sinus,injecte,prod_quad,0,est_brut,0.5,4.090909090909091,22
+roulements,entr. G1_sinus,injecte,prod_quad,0,est_ctx,0.5227272727272727,4.2272727272727275,22
+roulements,entr. G1_sinus,injecte,prod_quad,1,est_brut,0.7727272727272727,9.772727272727273,22
+roulements,entr. G1_sinus,injecte,prod_quad,1,est_ctx,0.7272727272727273,9.681818181818182,22
+roulements,entr. G1_sinus,injecte,prod_seuil,0,est_brut,0.38636363636363635,4.2272727272727275,22
+roulements,entr. G1_sinus,injecte,prod_seuil,0,est_ctx,0.38636363636363635,4.090909090909091,22
+roulements,entr. G1_sinus,injecte,prod_seuil,1,est_brut,0.4090909090909091,5.909090909090909,22
+roulements,entr. G1_sinus,injecte,prod_seuil,1,est_ctx,0.4090909090909091,5.954545454545454,22
+roulements,entr. G2_bruit_3var,injecte,mesure,0,est_brut,0.7727272727272727,3.8181818181818183,22
+roulements,entr. G2_bruit_3var,injecte,mesure,0,est_ctx,0.6818181818181818,3.1363636363636362,22
+roulements,entr. G2_bruit_3var,placebo,mesure,0,est_brut,0.13636363636363635,3.1818181818181817,22
+roulements,entr. G2_bruit_3var,placebo,mesure,0,est_ctx,0.13636363636363635,2.727272727272727,22
+roulements,entr. G2_bruit_3var,injecte,mesure,1,est_brut,0.7272727272727273,2.590909090909091,22
+roulements,entr. G2_bruit_3var,injecte,mesure,1,est_ctx,0.7727272727272727,2.8636363636363638,22
+roulements,entr. G2_bruit_3var,placebo,mesure,1,est_brut,0.09090909090909091,1.9545454545454546,22
+roulements,entr. G2_bruit_3var,placebo,mesure,1,est_ctx,0.09090909090909091,2.3181818181818183,22
+roulements,entr. G2_bruit_3var,injecte,maintenance,0,est_brut,0.8409090909090909,7.863636363636363,22
+roulements,entr. G2_bruit_3var,injecte,maintenance,0,est_ctx,0.8409090909090909,9.181818181818182,22
+roulements,entr. G2_bruit_3var,placebo,maintenance,0,est_brut,0.20454545454545456,3.8181818181818183,22
+roulements,entr. G2_bruit_3var,placebo,maintenance,0,est_ctx,0.13636363636363635,3.3636363636363638,22
+roulements,entr. G2_bruit_3var,injecte,maintenance,1,est_brut,0.7954545454545454,10.818181818181818,22
+roulements,entr. G2_bruit_3var,injecte,maintenance,1,est_ctx,0.7727272727272727,13.090909090909092,22
+roulements,entr. G2_bruit_3var,placebo,maintenance,1,est_brut,0.11363636363636363,3.5,22
+roulements,entr. G2_bruit_3var,placebo,maintenance,1,est_ctx,0.09090909090909091,2.5,22
+roulements,entr. G2_bruit_3var,injecte,production,0,est_brut,0.6363636363636364,3.772727272727273,22
+roulements,entr. G2_bruit_3var,injecte,production,0,est_ctx,0.5909090909090909,4.5,22
+roulements,entr. G2_bruit_3var,placebo,production,0,est_brut,0.1590909090909091,2.8181818181818183,22
+roulements,entr. G2_bruit_3var,placebo,production,0,est_ctx,0.1590909090909091,3.5454545454545454,22
+roulements,entr. G2_bruit_3var,injecte,production,1,est_brut,0.5227272727272727,2.8181818181818183,22
+roulements,entr. G2_bruit_3var,injecte,production,1,est_ctx,0.4318181818181818,3.3181818181818183,22
+roulements,entr. G2_bruit_3var,placebo,production,1,est_brut,0.09090909090909091,1.9545454545454546,22
+roulements,entr. G2_bruit_3var,placebo,production,1,est_ctx,0.11363636363636363,2.909090909090909,22
+roulements,entr. G2_bruit_3var,injecte,prod_quad,0,est_brut,0.4318181818181818,2.5454545454545454,22
+roulements,entr. G2_bruit_3var,injecte,prod_quad,0,est_ctx,0.4318181818181818,3.3181818181818183,22
+roulements,entr. G2_bruit_3var,injecte,prod_quad,1,est_brut,0.38636363636363635,3.1363636363636362,22
+roulements,entr. G2_bruit_3var,injecte,prod_quad,1,est_ctx,0.4318181818181818,3.6818181818181817,22
+roulements,entr. G2_bruit_3var,injecte,prod_seuil,0,est_brut,0.4090909090909091,3.4545454545454546,22
+roulements,entr. G2_bruit_3var,injecte,prod_seuil,0,est_ctx,0.4318181818181818,4.045454545454546,22
+roulements,entr. G2_bruit_3var,injecte,prod_seuil,1,est_brut,0.45454545454545453,4.5,22
+roulements,entr. G2_bruit_3var,injecte,prod_seuil,1,est_ctx,0.4772727272727273,4.409090909090909,22
+roulements,entr. G3_vitesse,injecte,mesure,0,est_brut,0.5833333333333334,6.125,22
+roulements,entr. G3_vitesse,injecte,mesure,0,est_ctx,0.5833333333333334,7.25,22
+roulements,entr. G3_vitesse,placebo,mesure,0,est_brut,0.25,5.791666666666667,22
+roulements,entr. G3_vitesse,placebo,mesure,0,est_ctx,0.2916666666666667,6.958333333333333,22
+roulements,entr. G3_vitesse,injecte,mesure,1,est_brut,0.5416666666666666,3.25,22
+roulements,entr. G3_vitesse,injecte,mesure,1,est_ctx,0.2916666666666667,1.9166666666666667,22
+roulements,entr. G3_vitesse,placebo,mesure,1,est_brut,0.125,2.8333333333333335,22
+roulements,entr. G3_vitesse,placebo,mesure,1,est_ctx,0.041666666666666664,1.6666666666666667,22
+roulements,entr. G3_vitesse,injecte,maintenance,0,est_brut,0.8125,7.458333333333333,22
+roulements,entr. G3_vitesse,injecte,maintenance,0,est_ctx,0.75,8.916666666666666,22
+roulements,entr. G3_vitesse,placebo,maintenance,0,est_brut,0.0625,1.1666666666666667,22
+roulements,entr. G3_vitesse,placebo,maintenance,0,est_ctx,0.0,0.041666666666666664,22
+roulements,entr. G3_vitesse,injecte,maintenance,1,est_brut,0.9166666666666666,11.333333333333334,22
+roulements,entr. G3_vitesse,injecte,maintenance,1,est_ctx,0.8958333333333334,13.666666666666666,22
+roulements,entr. G3_vitesse,placebo,maintenance,1,est_brut,0.125,2.8333333333333335,22
+roulements,entr. G3_vitesse,placebo,maintenance,1,est_ctx,0.22916666666666666,5.458333333333333,22
+roulements,entr. G3_vitesse,injecte,production,0,est_brut,0.6041666666666666,2.2916666666666665,22
+roulements,entr. G3_vitesse,injecte,production,0,est_ctx,0.625,3.0,22
+roulements,entr. G3_vitesse,placebo,production,0,est_brut,0.020833333333333332,1.125,22
+roulements,entr. G3_vitesse,placebo,production,0,est_ctx,0.08333333333333333,2.0,22
+roulements,entr. G3_vitesse,injecte,production,1,est_brut,0.5833333333333334,2.2916666666666665,22
+roulements,entr. G3_vitesse,injecte,production,1,est_ctx,0.6041666666666666,3.5833333333333335,22
+roulements,entr. G3_vitesse,placebo,production,1,est_brut,0.08333333333333333,1.2916666666666667,22
+roulements,entr. G3_vitesse,placebo,production,1,est_ctx,0.14583333333333334,2.5833333333333335,22
+roulements,entr. G3_vitesse,injecte,prod_quad,0,est_brut,0.5625,4.916666666666667,22
+roulements,entr. G3_vitesse,injecte,prod_quad,0,est_ctx,0.5,4.0,22
+roulements,entr. G3_vitesse,injecte,prod_quad,1,est_brut,0.5625,6.041666666666667,22
+roulements,entr. G3_vitesse,injecte,prod_quad,1,est_ctx,0.5833333333333334,6.166666666666667,22
+roulements,entr. G3_vitesse,injecte,prod_seuil,0,est_brut,0.5625,4.333333333333333,22
+roulements,entr. G3_vitesse,injecte,prod_seuil,0,est_ctx,0.5208333333333334,4.083333333333333,22
+roulements,entr. G3_vitesse,injecte,prod_seuil,1,est_brut,0.4583333333333333,2.0833333333333335,22
+roulements,entr. G3_vitesse,injecte,prod_seuil,1,est_ctx,0.5208333333333334,2.1666666666666665,22
+roulements,entr. G4_charge,injecte,mesure,0,est_brut,0.2727272727272727,3.5454545454545454,22
+roulements,entr. G4_charge,injecte,mesure,0,est_ctx,0.18181818181818182,4.2272727272727275,22
+roulements,entr. G4_charge,placebo,mesure,0,est_brut,0.13636363636363635,3.409090909090909,22
+roulements,entr. G4_charge,placebo,mesure,0,est_ctx,0.18181818181818182,4.2272727272727275,22
+roulements,entr. G4_charge,injecte,mesure,1,est_brut,0.36363636363636365,2.272727272727273,22
+roulements,entr. G4_charge,injecte,mesure,1,est_ctx,0.22727272727272727,3.272727272727273,22
+roulements,entr. G4_charge,placebo,mesure,1,est_brut,0.045454545454545456,1.9545454545454546,22
+roulements,entr. G4_charge,placebo,mesure,1,est_ctx,0.13636363636363635,3.3181818181818183,22
+roulements,entr. G4_charge,injecte,maintenance,0,est_brut,0.5909090909090909,7.863636363636363,22
+roulements,entr. G4_charge,injecte,maintenance,0,est_ctx,0.5909090909090909,9.0,22
+roulements,entr. G4_charge,placebo,maintenance,0,est_brut,0.29545454545454547,5.409090909090909,22
+roulements,entr. G4_charge,placebo,maintenance,0,est_ctx,0.3181818181818182,6.590909090909091,22
+roulements,entr. G4_charge,injecte,maintenance,1,est_brut,0.7954545454545454,10.272727272727273,22
+roulements,entr. G4_charge,injecte,maintenance,1,est_ctx,0.6818181818181818,12.318181818181818,22
+roulements,entr. G4_charge,placebo,maintenance,1,est_brut,0.06818181818181818,1.3636363636363635,22
+roulements,entr. G4_charge,placebo,maintenance,1,est_ctx,0.1590909090909091,3.6363636363636362,22
+roulements,entr. G4_charge,injecte,production,0,est_brut,0.4772727272727273,4.681818181818182,22
+roulements,entr. G4_charge,injecte,production,0,est_ctx,0.5,5.090909090909091,22
+roulements,entr. G4_charge,placebo,production,0,est_brut,0.20454545454545456,4.136363636363637,22
+roulements,entr. G4_charge,placebo,production,0,est_ctx,0.2727272727272727,4.590909090909091,22
+roulements,entr. G4_charge,injecte,production,1,est_brut,0.6136363636363636,3.1363636363636362,22
+roulements,entr. G4_charge,injecte,production,1,est_ctx,0.5909090909090909,3.909090909090909,22
+roulements,entr. G4_charge,placebo,production,1,est_brut,0.06818181818181818,2.0454545454545454,22
+roulements,entr. G4_charge,placebo,production,1,est_ctx,0.09090909090909091,2.8181818181818183,22
+roulements,entr. G4_charge,injecte,prod_quad,0,est_brut,0.5,3.409090909090909,22
+roulements,entr. G4_charge,injecte,prod_quad,0,est_ctx,0.5,3.1363636363636362,22
+roulements,entr. G4_charge,injecte,prod_quad,1,est_brut,0.5681818181818182,3.8636363636363638,22
+roulements,entr. G4_charge,injecte,prod_quad,1,est_ctx,0.5454545454545454,3.1818181818181817,22
+roulements,entr. G4_charge,injecte,prod_seuil,0,est_brut,0.5227272727272727,5.818181818181818,22
+roulements,entr. G4_charge,injecte,prod_seuil,0,est_ctx,0.4772727272727273,5.909090909090909,22
+roulements,entr. G4_charge,injecte,prod_seuil,1,est_brut,0.3409090909090909,3.3181818181818183,22
+roulements,entr. G4_charge,injecte,prod_seuil,1,est_ctx,0.25,2.1363636363636362,22
+C-MAPSS,FD002 R42 tirage 0,injecte,mesure,0,est_brut,0.11538461538461539,2.026923076923077,21
+C-MAPSS,FD002 R42 tirage 0,injecte,mesure,0,est_ctx,0.4269230769230769,3.3076923076923075,21
+C-MAPSS,FD002 R42 tirage 0,placebo,mesure,0,est_brut,0.08076923076923077,1.9923076923076923,21
+C-MAPSS,FD002 R42 tirage 0,placebo,mesure,0,est_ctx,0.15,2.9692307692307693,21
+C-MAPSS,FD002 R42 tirage 0,injecte,mesure,1,est_brut,0.17307692307692307,3.25,21
+C-MAPSS,FD002 R42 tirage 0,injecte,mesure,1,est_ctx,0.3730769230769231,2.7,21
+C-MAPSS,FD002 R42 tirage 0,placebo,mesure,1,est_brut,0.16538461538461538,3.2423076923076923,21
+C-MAPSS,FD002 R42 tirage 0,placebo,mesure,1,est_ctx,0.11153846153846154,2.353846153846154,21
+C-MAPSS,FD002 R42 tirage 0,injecte,maintenance,0,est_brut,0.1,1.823076923076923,21
+C-MAPSS,FD002 R42 tirage 0,injecte,maintenance,0,est_ctx,0.37115384615384617,3.15,21
+C-MAPSS,FD002 R42 tirage 0,placebo,maintenance,0,est_brut,0.11153846153846154,2.4923076923076923,21
+C-MAPSS,FD002 R42 tirage 0,placebo,maintenance,0,est_ctx,0.18269230769230768,3.996153846153846,21
+C-MAPSS,FD002 R42 tirage 0,injecte,maintenance,1,est_brut,0.13653846153846153,2.5153846153846153,21
+C-MAPSS,FD002 R42 tirage 0,injecte,maintenance,1,est_ctx,0.4346153846153846,3.8615384615384616,21
+C-MAPSS,FD002 R42 tirage 0,placebo,maintenance,1,est_brut,0.1673076923076923,3.3807692307692307,21
+C-MAPSS,FD002 R42 tirage 0,placebo,maintenance,1,est_ctx,0.1576923076923077,3.3,21
+C-MAPSS,FD002 R42 tirage 0,injecte,production,0,est_brut,0.4596153846153846,3.976923076923077,21
+C-MAPSS,FD002 R42 tirage 0,injecte,production,0,est_ctx,0.5288461538461539,4.35,21
+C-MAPSS,FD002 R42 tirage 0,placebo,production,0,est_brut,0.16153846153846155,3.3807692307692307,21
+C-MAPSS,FD002 R42 tirage 0,placebo,production,0,est_ctx,0.17692307692307693,3.6192307692307693,21
+C-MAPSS,FD002 R42 tirage 0,injecte,production,1,est_brut,0.5192307692307693,5.45,21
+C-MAPSS,FD002 R42 tirage 0,injecte,production,1,est_ctx,0.5961538461538461,5.676923076923077,21
+C-MAPSS,FD002 R42 tirage 0,placebo,production,1,est_brut,0.22884615384615384,4.857692307692307,21
+C-MAPSS,FD002 R42 tirage 0,placebo,production,1,est_ctx,0.23076923076923078,4.888461538461539,21
+C-MAPSS,FD002 R42 tirage 0,injecte,prod_quad,0,est_brut,0.4153846153846154,4.484615384615385,21
+C-MAPSS,FD002 R42 tirage 0,injecte,prod_quad,0,est_ctx,0.4846153846153846,5.015384615384615,21
+C-MAPSS,FD002 R42 tirage 0,injecte,prod_quad,1,est_brut,0.38269230769230766,4.346153846153846,21
+C-MAPSS,FD002 R42 tirage 0,injecte,prod_quad,1,est_ctx,0.4230769230769231,4.046153846153846,21
+C-MAPSS,FD002 R42 tirage 0,injecte,prod_seuil,0,est_brut,0.4576923076923077,4.084615384615384,21
+C-MAPSS,FD002 R42 tirage 0,injecte,prod_seuil,0,est_ctx,0.5115384615384615,4.376923076923077,21
+C-MAPSS,FD002 R42 tirage 0,injecte,prod_seuil,1,est_brut,0.4326923076923077,3.542307692307692,21
+C-MAPSS,FD002 R42 tirage 0,injecte,prod_seuil,1,est_ctx,0.45384615384615384,3.6846153846153844,21
+C-MAPSS,FD002 R42 tirage 1,injecte,mesure,0,est_brut,0.13846153846153847,2.6307692307692307,21
+C-MAPSS,FD002 R42 tirage 1,injecte,mesure,0,est_ctx,0.4153846153846154,3.230769230769231,21
+C-MAPSS,FD002 R42 tirage 1,placebo,mesure,0,est_brut,0.13076923076923078,2.623076923076923,21
+C-MAPSS,FD002 R42 tirage 1,placebo,mesure,0,est_ctx,0.14615384615384616,2.9153846153846152,21
+C-MAPSS,FD002 R42 tirage 1,injecte,mesure,1,est_brut,0.16923076923076924,3.05,21
+C-MAPSS,FD002 R42 tirage 1,injecte,mesure,1,est_ctx,0.38846153846153847,2.9076923076923076,21
+C-MAPSS,FD002 R42 tirage 1,placebo,mesure,1,est_brut,0.16923076923076924,3.05,21
+C-MAPSS,FD002 R42 tirage 1,placebo,mesure,1,est_ctx,0.12692307692307692,2.7576923076923077,21
+C-MAPSS,FD002 R42 tirage 1,injecte,maintenance,0,est_brut,0.14038461538461539,2.792307692307692,21
+C-MAPSS,FD002 R42 tirage 1,injecte,maintenance,0,est_ctx,0.46153846153846156,3.0884615384615386,21
+C-MAPSS,FD002 R42 tirage 1,placebo,maintenance,0,est_brut,0.09423076923076923,2.5,21
+C-MAPSS,FD002 R42 tirage 1,placebo,maintenance,0,est_ctx,0.13076923076923078,2.9384615384615387,21
+C-MAPSS,FD002 R42 tirage 1,injecte,maintenance,1,est_brut,0.15576923076923077,2.8576923076923078,21
+C-MAPSS,FD002 R42 tirage 1,injecte,maintenance,1,est_ctx,0.3730769230769231,3.5961538461538463,21
+C-MAPSS,FD002 R42 tirage 1,placebo,maintenance,1,est_brut,0.1326923076923077,3.0153846153846153,21
+C-MAPSS,FD002 R42 tirage 1,placebo,maintenance,1,est_ctx,0.11730769230769231,2.75,21
+C-MAPSS,FD002 R42 tirage 1,injecte,production,0,est_brut,0.47115384615384615,4.042307692307692,21
+C-MAPSS,FD002 R42 tirage 1,injecte,production,0,est_ctx,0.5230769230769231,4.265384615384615,21
+C-MAPSS,FD002 R42 tirage 1,placebo,production,0,est_brut,0.175,3.4423076923076925,21
+C-MAPSS,FD002 R42 tirage 1,placebo,production,0,est_ctx,0.15384615384615385,3.526923076923077,21
+C-MAPSS,FD002 R42 tirage 1,injecte,production,1,est_brut,0.4846153846153846,4.642307692307693,21
+C-MAPSS,FD002 R42 tirage 1,injecte,production,1,est_ctx,0.5576923076923077,5.384615384615385,21
+C-MAPSS,FD002 R42 tirage 1,placebo,production,1,est_brut,0.20576923076923076,4.076923076923077,21
+C-MAPSS,FD002 R42 tirage 1,placebo,production,1,est_ctx,0.23076923076923078,4.65,21
+C-MAPSS,FD002 R42 tirage 1,injecte,prod_quad,0,est_brut,0.40192307692307694,4.165384615384616,21
+C-MAPSS,FD002 R42 tirage 1,injecte,prod_quad,0,est_ctx,0.4673076923076923,4.226923076923077,21
+C-MAPSS,FD002 R42 tirage 1,injecte,prod_quad,1,est_brut,0.3423076923076923,3.480769230769231,21
+C-MAPSS,FD002 R42 tirage 1,injecte,prod_quad,1,est_ctx,0.4288461538461538,3.6153846153846154,21
+C-MAPSS,FD002 R42 tirage 1,injecte,prod_seuil,0,est_brut,0.4307692307692308,3.9153846153846152,21
+C-MAPSS,FD002 R42 tirage 1,injecte,prod_seuil,0,est_ctx,0.47692307692307695,3.55,21
+C-MAPSS,FD002 R42 tirage 1,injecte,prod_seuil,1,est_brut,0.4096153846153846,3.476923076923077,21
+C-MAPSS,FD002 R42 tirage 1,injecte,prod_seuil,1,est_ctx,0.47115384615384615,3.8076923076923075,21
+C-MAPSS,FD002 R42 tirage 2,injecte,mesure,0,est_brut,0.1423076923076923,2.4384615384615387,21
+C-MAPSS,FD002 R42 tirage 2,injecte,mesure,0,est_ctx,0.46153846153846156,3.4692307692307693,21
+C-MAPSS,FD002 R42 tirage 2,placebo,mesure,0,est_brut,0.13076923076923078,2.4269230769230767,21
+C-MAPSS,FD002 R42 tirage 2,placebo,mesure,0,est_ctx,0.18076923076923077,3.0923076923076924,21
+C-MAPSS,FD002 R42 tirage 2,injecte,mesure,1,est_brut,0.15384615384615385,2.5692307692307694,21
+C-MAPSS,FD002 R42 tirage 2,injecte,mesure,1,est_ctx,0.4153846153846154,2.792307692307692,21
+C-MAPSS,FD002 R42 tirage 2,placebo,mesure,1,est_brut,0.1346153846153846,2.55,21
+C-MAPSS,FD002 R42 tirage 2,placebo,mesure,1,est_ctx,0.11153846153846154,2.4307692307692306,21
+C-MAPSS,FD002 R42 tirage 2,injecte,maintenance,0,est_brut,0.1673076923076923,2.9269230769230767,21
+C-MAPSS,FD002 R42 tirage 2,injecte,maintenance,0,est_ctx,0.4346153846153846,3.042307692307692,21
+C-MAPSS,FD002 R42 tirage 2,placebo,maintenance,0,est_brut,0.15384615384615385,3.0846153846153848,21
+C-MAPSS,FD002 R42 tirage 2,placebo,maintenance,0,est_ctx,0.1519230769230769,3.1653846153846152,21
+C-MAPSS,FD002 R42 tirage 2,injecte,maintenance,1,est_brut,0.1076923076923077,2.1153846153846154,21
+C-MAPSS,FD002 R42 tirage 2,injecte,maintenance,1,est_ctx,0.36730769230769234,2.373076923076923,21
+C-MAPSS,FD002 R42 tirage 2,placebo,maintenance,1,est_brut,0.14038461538461539,2.5153846153846153,21
+C-MAPSS,FD002 R42 tirage 2,placebo,maintenance,1,est_ctx,0.13076923076923078,2.7115384615384617,21
+C-MAPSS,FD002 R42 tirage 2,injecte,production,0,est_brut,0.4846153846153846,4.223076923076923,21
+C-MAPSS,FD002 R42 tirage 2,injecte,production,0,est_ctx,0.5115384615384615,4.030769230769231,21
+C-MAPSS,FD002 R42 tirage 2,placebo,production,0,est_brut,0.19423076923076923,3.6307692307692307,21
+C-MAPSS,FD002 R42 tirage 2,placebo,production,0,est_ctx,0.18076923076923077,3.423076923076923,21
+C-MAPSS,FD002 R42 tirage 2,injecte,production,1,est_brut,0.49423076923076925,5.188461538461539,21
+C-MAPSS,FD002 R42 tirage 2,injecte,production,1,est_ctx,0.5230769230769231,5.138461538461539,21
+C-MAPSS,FD002 R42 tirage 2,placebo,production,1,est_brut,0.2230769230769231,4.638461538461539,21
+C-MAPSS,FD002 R42 tirage 2,placebo,production,1,est_ctx,0.2173076923076923,4.538461538461538,21
+C-MAPSS,FD002 R42 tirage 2,injecte,prod_quad,0,est_brut,0.40384615384615385,3.9115384615384614,21
+C-MAPSS,FD002 R42 tirage 2,injecte,prod_quad,0,est_ctx,0.4346153846153846,4.415384615384616,21
+C-MAPSS,FD002 R42 tirage 2,injecte,prod_quad,1,est_brut,0.31346153846153846,3.1653846153846152,21
+C-MAPSS,FD002 R42 tirage 2,injecte,prod_quad,1,est_ctx,0.37115384615384617,3.2423076923076923,21
+C-MAPSS,FD002 R42 tirage 2,injecte,prod_seuil,0,est_brut,0.47884615384615387,4.688461538461539,21
+C-MAPSS,FD002 R42 tirage 2,injecte,prod_seuil,0,est_ctx,0.49230769230769234,4.142307692307693,21
+C-MAPSS,FD002 R42 tirage 2,injecte,prod_seuil,1,est_brut,0.3942307692307692,3.2576923076923077,21
+C-MAPSS,FD002 R42 tirage 2,injecte,prod_seuil,1,est_ctx,0.4461538461538462,3.1538461538461537,21
+C-MAPSS,FD002 R42 tirage 3,injecte,mesure,0,est_brut,0.12692307692307692,2.3,21
+C-MAPSS,FD002 R42 tirage 3,injecte,mesure,0,est_ctx,0.3346153846153846,3.4,21
+C-MAPSS,FD002 R42 tirage 3,placebo,mesure,0,est_brut,0.13846153846153847,2.3115384615384613,21
+C-MAPSS,FD002 R42 tirage 3,placebo,mesure,0,est_ctx,0.16153846153846155,3.203846153846154,21
+C-MAPSS,FD002 R42 tirage 3,injecte,mesure,1,est_brut,0.15384615384615385,2.8192307692307694,21
+C-MAPSS,FD002 R42 tirage 3,injecte,mesure,1,est_ctx,0.3730769230769231,3.55,21
+C-MAPSS,FD002 R42 tirage 3,placebo,mesure,1,est_brut,0.1423076923076923,2.8076923076923075,21
+C-MAPSS,FD002 R42 tirage 3,placebo,mesure,1,est_ctx,0.16538461538461538,3.3807692307692307,21
+C-MAPSS,FD002 R42 tirage 3,injecte,maintenance,0,est_brut,0.12115384615384615,2.146153846153846,21
+C-MAPSS,FD002 R42 tirage 3,injecte,maintenance,0,est_ctx,0.36346153846153845,3.646153846153846,21
+C-MAPSS,FD002 R42 tirage 3,placebo,maintenance,0,est_brut,0.12884615384615383,2.796153846153846,21
+C-MAPSS,FD002 R42 tirage 3,placebo,maintenance,0,est_ctx,0.14038461538461539,2.9115384615384614,21
+C-MAPSS,FD002 R42 tirage 3,injecte,maintenance,1,est_brut,0.1326923076923077,2.4923076923076923,21
+C-MAPSS,FD002 R42 tirage 3,injecte,maintenance,1,est_ctx,0.49038461538461536,3.5346153846153845,21
+C-MAPSS,FD002 R42 tirage 3,placebo,maintenance,1,est_brut,0.12115384615384615,2.55,21
+C-MAPSS,FD002 R42 tirage 3,placebo,maintenance,1,est_ctx,0.12884615384615383,2.623076923076923,21
+C-MAPSS,FD002 R42 tirage 3,injecte,production,0,est_brut,0.4519230769230769,4.2846153846153845,21
+C-MAPSS,FD002 R42 tirage 3,injecte,production,0,est_ctx,0.46153846153846156,4.4,21
+C-MAPSS,FD002 R42 tirage 3,placebo,production,0,est_brut,0.19038461538461537,3.7576923076923077,21
+C-MAPSS,FD002 R42 tirage 3,placebo,production,0,est_ctx,0.19038461538461537,3.8115384615384613,21
+C-MAPSS,FD002 R42 tirage 3,injecte,production,1,est_brut,0.47884615384615387,4.815384615384615,21
+C-MAPSS,FD002 R42 tirage 3,injecte,production,1,est_ctx,0.48653846153846153,4.8307692307692305,21
+C-MAPSS,FD002 R42 tirage 3,placebo,production,1,est_brut,0.22115384615384615,4.292307692307692,21
+C-MAPSS,FD002 R42 tirage 3,placebo,production,1,est_ctx,0.19615384615384615,4.2615384615384615,21
+C-MAPSS,FD002 R42 tirage 3,injecte,prod_quad,0,est_brut,0.4480769230769231,5.0807692307692305,21
+C-MAPSS,FD002 R42 tirage 3,injecte,prod_quad,0,est_ctx,0.4269230769230769,4.742307692307692,21
+C-MAPSS,FD002 R42 tirage 3,injecte,prod_quad,1,est_brut,0.35384615384615387,3.4423076923076925,21
+C-MAPSS,FD002 R42 tirage 3,injecte,prod_quad,1,est_ctx,0.3192307692307692,3.1538461538461537,21
+C-MAPSS,FD002 R42 tirage 3,injecte,prod_seuil,0,est_brut,0.475,4.203846153846154,21
+C-MAPSS,FD002 R42 tirage 3,injecte,prod_seuil,0,est_ctx,0.45,4.0115384615384615,21
+C-MAPSS,FD002 R42 tirage 3,injecte,prod_seuil,1,est_brut,0.41346153846153844,3.376923076923077,21
+C-MAPSS,FD002 R42 tirage 3,injecte,prod_seuil,1,est_ctx,0.43846153846153846,3.4923076923076923,21
+C-MAPSS,FD002 R42 tirage 4,injecte,mesure,0,est_brut,0.13076923076923078,2.173076923076923,21
+C-MAPSS,FD002 R42 tirage 4,injecte,mesure,0,est_ctx,0.45,2.976923076923077,21
+C-MAPSS,FD002 R42 tirage 4,placebo,mesure,0,est_brut,0.1076923076923077,2.15,21
+C-MAPSS,FD002 R42 tirage 4,placebo,mesure,0,est_ctx,0.1346153846153846,2.6576923076923076,21
+C-MAPSS,FD002 R42 tirage 4,injecte,mesure,1,est_brut,0.15384615384615385,2.7423076923076923,21
+C-MAPSS,FD002 R42 tirage 4,injecte,mesure,1,est_ctx,0.3923076923076923,2.526923076923077,21
+C-MAPSS,FD002 R42 tirage 4,placebo,mesure,1,est_brut,0.13846153846153847,2.726923076923077,21
+C-MAPSS,FD002 R42 tirage 4,placebo,mesure,1,est_ctx,0.1,2.3076923076923075,21
+C-MAPSS,FD002 R42 tirage 4,injecte,maintenance,0,est_brut,0.11923076923076924,2.1,21
+C-MAPSS,FD002 R42 tirage 4,injecte,maintenance,0,est_ctx,0.41923076923076924,3.292307692307692,21
+C-MAPSS,FD002 R42 tirage 4,placebo,maintenance,0,est_brut,0.15,3.2846153846153845,21
+C-MAPSS,FD002 R42 tirage 4,placebo,maintenance,0,est_ctx,0.125,2.546153846153846,21
+C-MAPSS,FD002 R42 tirage 4,injecte,maintenance,1,est_brut,0.13076923076923078,2.1,21
+C-MAPSS,FD002 R42 tirage 4,injecte,maintenance,1,est_ctx,0.4846153846153846,3.9153846153846152,21
+C-MAPSS,FD002 R42 tirage 4,placebo,maintenance,1,est_brut,0.12692307692307692,3.0,21
+C-MAPSS,FD002 R42 tirage 4,placebo,maintenance,1,est_ctx,0.15384615384615385,3.2884615384615383,21
+C-MAPSS,FD002 R42 tirage 4,injecte,production,0,est_brut,0.4519230769230769,3.923076923076923,21
+C-MAPSS,FD002 R42 tirage 4,injecte,production,0,est_ctx,0.5442307692307692,4.607692307692307,21
+C-MAPSS,FD002 R42 tirage 4,placebo,production,0,est_brut,0.1596153846153846,3.3384615384615386,21
+C-MAPSS,FD002 R42 tirage 4,placebo,production,0,est_ctx,0.18846153846153846,3.8692307692307693,21
+C-MAPSS,FD002 R42 tirage 4,injecte,production,1,est_brut,0.4846153846153846,4.857692307692307,21
+C-MAPSS,FD002 R42 tirage 4,injecte,production,1,est_ctx,0.5846153846153846,5.0576923076923075,21
+C-MAPSS,FD002 R42 tirage 4,placebo,production,1,est_brut,0.2076923076923077,4.296153846153846,21
+C-MAPSS,FD002 R42 tirage 4,placebo,production,1,est_ctx,0.2153846153846154,4.373076923076923,21
+C-MAPSS,FD002 R42 tirage 4,injecte,prod_quad,0,est_brut,0.4269230769230769,4.55,21
+C-MAPSS,FD002 R42 tirage 4,injecte,prod_quad,0,est_ctx,0.49615384615384617,4.6461538461538465,21
+C-MAPSS,FD002 R42 tirage 4,injecte,prod_quad,1,est_brut,0.375,3.4846153846153847,21
+C-MAPSS,FD002 R42 tirage 4,injecte,prod_quad,1,est_ctx,0.4576923076923077,3.9269230769230767,21
+C-MAPSS,FD002 R42 tirage 4,injecte,prod_seuil,0,est_brut,0.4576923076923077,4.173076923076923,21
+C-MAPSS,FD002 R42 tirage 4,injecte,prod_seuil,0,est_ctx,0.5480769230769231,4.592307692307692,21
+C-MAPSS,FD002 R42 tirage 4,injecte,prod_seuil,1,est_brut,0.4096153846153846,3.519230769230769,21
+C-MAPSS,FD002 R42 tirage 4,injecte,prod_seuil,1,est_ctx,0.47692307692307695,3.5153846153846153,21
+C-MAPSS,FD002 R60 tirage 0,injecte,mesure,0,est_brut,0.15,2.7153846153846155,20
+C-MAPSS,FD002 R60 tirage 0,injecte,mesure,0,est_ctx,0.17692307692307693,2.6192307692307693,20
+C-MAPSS,FD002 R60 tirage 0,placebo,mesure,0,est_brut,0.1423076923076923,2.707692307692308,20
+C-MAPSS,FD002 R60 tirage 0,placebo,mesure,0,est_ctx,0.12692307692307692,2.5692307692307694,20
+C-MAPSS,FD002 R60 tirage 0,injecte,mesure,1,est_brut,0.15384615384615385,3.2153846153846155,20
+C-MAPSS,FD002 R60 tirage 0,injecte,mesure,1,est_ctx,0.17692307692307693,2.6769230769230767,20
+C-MAPSS,FD002 R60 tirage 0,placebo,mesure,1,est_brut,0.15384615384615385,3.2153846153846155,20
+C-MAPSS,FD002 R60 tirage 0,placebo,mesure,1,est_ctx,0.13846153846153847,2.6346153846153846,20
+C-MAPSS,FD002 R60 tirage 0,injecte,maintenance,0,est_brut,0.1346153846153846,2.1,20
+C-MAPSS,FD002 R60 tirage 0,injecte,maintenance,0,est_ctx,0.2,2.4384615384615387,20
+C-MAPSS,FD002 R60 tirage 0,placebo,maintenance,0,est_brut,0.16153846153846155,3.103846153846154,20
+C-MAPSS,FD002 R60 tirage 0,placebo,maintenance,0,est_ctx,0.1423076923076923,2.826923076923077,20
+C-MAPSS,FD002 R60 tirage 0,injecte,maintenance,1,est_brut,0.13846153846153847,2.4,20
+C-MAPSS,FD002 R60 tirage 0,injecte,maintenance,1,est_ctx,0.1576923076923077,2.3038461538461537,20
+C-MAPSS,FD002 R60 tirage 0,placebo,maintenance,1,est_brut,0.11730769230769231,2.6153846153846154,20
+C-MAPSS,FD002 R60 tirage 0,placebo,maintenance,1,est_ctx,0.1346153846153846,2.580769230769231,20
+C-MAPSS,FD002 R60 tirage 0,injecte,production,0,est_brut,0.19807692307692307,3.2346153846153847,20
+C-MAPSS,FD002 R60 tirage 0,injecte,production,0,est_ctx,0.24615384615384617,3.453846153846154,20
+C-MAPSS,FD002 R60 tirage 0,placebo,production,0,est_brut,0.1576923076923077,3.1538461538461537,20
+C-MAPSS,FD002 R60 tirage 0,placebo,production,0,est_ctx,0.16538461538461538,3.292307692307692,20
+C-MAPSS,FD002 R60 tirage 0,injecte,production,1,est_brut,0.25,4.026923076923077,20
+C-MAPSS,FD002 R60 tirage 0,injecte,production,1,est_ctx,0.275,3.980769230769231,20
+C-MAPSS,FD002 R60 tirage 0,placebo,production,1,est_brut,0.2076923076923077,3.9423076923076925,20
+C-MAPSS,FD002 R60 tirage 0,placebo,production,1,est_ctx,0.18269230769230768,3.796153846153846,20
+C-MAPSS,FD002 R60 tirage 0,injecte,prod_quad,0,est_brut,0.15576923076923077,2.85,20
+C-MAPSS,FD002 R60 tirage 0,injecte,prod_quad,0,est_ctx,0.1673076923076923,2.6615384615384614,20
+C-MAPSS,FD002 R60 tirage 0,injecte,prod_quad,1,est_brut,0.15576923076923077,2.796153846153846,20
+C-MAPSS,FD002 R60 tirage 0,injecte,prod_quad,1,est_ctx,0.1596153846153846,2.8346153846153848,20
+C-MAPSS,FD002 R60 tirage 0,injecte,prod_seuil,0,est_brut,0.18653846153846154,3.076923076923077,20
+C-MAPSS,FD002 R60 tirage 0,injecte,prod_seuil,0,est_ctx,0.22115384615384615,3.2346153846153847,20
+C-MAPSS,FD002 R60 tirage 0,injecte,prod_seuil,1,est_brut,0.17692307692307693,3.2346153846153847,20
+C-MAPSS,FD002 R60 tirage 0,injecte,prod_seuil,1,est_ctx,0.21153846153846154,3.292307692307692,20
+C-MAPSS,FD002 R60 tirage 1,injecte,mesure,0,est_brut,0.1576923076923077,2.4884615384615385,20
+C-MAPSS,FD002 R60 tirage 1,injecte,mesure,0,est_ctx,0.17692307692307693,2.5961538461538463,20
+C-MAPSS,FD002 R60 tirage 1,placebo,mesure,0,est_brut,0.11538461538461539,2.4461538461538463,20
+C-MAPSS,FD002 R60 tirage 1,placebo,mesure,0,est_ctx,0.11923076923076924,2.5384615384615383,20
+C-MAPSS,FD002 R60 tirage 1,injecte,mesure,1,est_brut,0.19615384615384615,3.226923076923077,20
+C-MAPSS,FD002 R60 tirage 1,injecte,mesure,1,est_ctx,0.15,2.1576923076923076,20
+C-MAPSS,FD002 R60 tirage 1,placebo,mesure,1,est_brut,0.17307692307692307,3.203846153846154,20
+C-MAPSS,FD002 R60 tirage 1,placebo,mesure,1,est_ctx,0.11153846153846154,2.1153846153846154,20
+C-MAPSS,FD002 R60 tirage 1,injecte,maintenance,0,est_brut,0.11923076923076924,2.1076923076923078,20
+C-MAPSS,FD002 R60 tirage 1,injecte,maintenance,0,est_ctx,0.19230769230769232,2.7115384615384617,20
+C-MAPSS,FD002 R60 tirage 1,placebo,maintenance,0,est_brut,0.12307692307692308,2.4115384615384614,20
+C-MAPSS,FD002 R60 tirage 1,placebo,maintenance,0,est_ctx,0.09230769230769231,1.9038461538461537,20
+C-MAPSS,FD002 R60 tirage 1,injecte,maintenance,1,est_brut,0.17115384615384616,2.8192307692307694,20
+C-MAPSS,FD002 R60 tirage 1,injecte,maintenance,1,est_ctx,0.2076923076923077,2.953846153846154,20
+C-MAPSS,FD002 R60 tirage 1,placebo,maintenance,1,est_brut,0.17115384615384616,3.230769230769231,20
+C-MAPSS,FD002 R60 tirage 1,placebo,maintenance,1,est_ctx,0.14615384615384616,2.7884615384615383,20
+C-MAPSS,FD002 R60 tirage 1,injecte,production,0,est_brut,0.2673076923076923,3.6307692307692307,20
+C-MAPSS,FD002 R60 tirage 1,injecte,production,0,est_ctx,0.27692307692307694,3.673076923076923,20
+C-MAPSS,FD002 R60 tirage 1,placebo,production,0,est_brut,0.18846153846153846,3.473076923076923,20
+C-MAPSS,FD002 R60 tirage 1,placebo,production,0,est_ctx,0.17307692307692307,3.4615384615384617,20
+C-MAPSS,FD002 R60 tirage 1,injecte,production,1,est_brut,0.23076923076923078,3.1423076923076922,20
+C-MAPSS,FD002 R60 tirage 1,injecte,production,1,est_ctx,0.2692307692307692,3.3692307692307693,20
+C-MAPSS,FD002 R60 tirage 1,placebo,production,1,est_brut,0.1576923076923077,2.996153846153846,20
+C-MAPSS,FD002 R60 tirage 1,placebo,production,1,est_ctx,0.1596153846153846,3.1538461538461537,20
+C-MAPSS,FD002 R60 tirage 1,injecte,prod_quad,0,est_brut,0.19230769230769232,3.4038461538461537,20
+C-MAPSS,FD002 R60 tirage 1,injecte,prod_quad,0,est_ctx,0.17115384615384616,2.8846153846153846,20
+C-MAPSS,FD002 R60 tirage 1,injecte,prod_quad,1,est_brut,0.1576923076923077,2.8192307692307694,20
+C-MAPSS,FD002 R60 tirage 1,injecte,prod_quad,1,est_ctx,0.16346153846153846,2.8115384615384613,20
+C-MAPSS,FD002 R60 tirage 1,injecte,prod_seuil,0,est_brut,0.16923076923076924,2.6,20
+C-MAPSS,FD002 R60 tirage 1,injecte,prod_seuil,0,est_ctx,0.18269230769230768,2.203846153846154,20
+C-MAPSS,FD002 R60 tirage 1,injecte,prod_seuil,1,est_brut,0.18653846153846154,2.7,20
+C-MAPSS,FD002 R60 tirage 1,injecte,prod_seuil,1,est_ctx,0.20576923076923076,2.6961538461538463,20
+C-MAPSS,FD002 R60 tirage 2,injecte,mesure,0,est_brut,0.17307692307692307,2.923076923076923,20
+C-MAPSS,FD002 R60 tirage 2,injecte,mesure,0,est_ctx,0.18076923076923077,3.0576923076923075,20
+C-MAPSS,FD002 R60 tirage 2,placebo,mesure,0,est_brut,0.16538461538461538,2.9153846153846152,20
+C-MAPSS,FD002 R60 tirage 2,placebo,mesure,0,est_ctx,0.15,3.026923076923077,20
+C-MAPSS,FD002 R60 tirage 2,injecte,mesure,1,est_brut,0.12692307692307692,2.6769230769230767,20
+C-MAPSS,FD002 R60 tirage 2,injecte,mesure,1,est_ctx,0.17692307692307693,2.253846153846154,20
+C-MAPSS,FD002 R60 tirage 2,placebo,mesure,1,est_brut,0.11923076923076924,2.669230769230769,20
+C-MAPSS,FD002 R60 tirage 2,placebo,mesure,1,est_ctx,0.12307692307692308,2.2,20
+C-MAPSS,FD002 R60 tirage 2,injecte,maintenance,0,est_brut,0.12307692307692308,2.05,20
+C-MAPSS,FD002 R60 tirage 2,injecte,maintenance,0,est_ctx,0.18269230769230768,1.9230769230769231,20
+C-MAPSS,FD002 R60 tirage 2,placebo,maintenance,0,est_brut,0.10576923076923077,2.4423076923076925,20
+C-MAPSS,FD002 R60 tirage 2,placebo,maintenance,0,est_ctx,0.11538461538461539,2.4884615384615385,20
+C-MAPSS,FD002 R60 tirage 2,injecte,maintenance,1,est_brut,0.1346153846153846,2.1346153846153846,20
+C-MAPSS,FD002 R60 tirage 2,injecte,maintenance,1,est_ctx,0.18461538461538463,3.0692307692307694,20
+C-MAPSS,FD002 R60 tirage 2,placebo,maintenance,1,est_brut,0.12307692307692308,2.3576923076923078,20
+C-MAPSS,FD002 R60 tirage 2,placebo,maintenance,1,est_ctx,0.09230769230769231,1.853846153846154,20
+C-MAPSS,FD002 R60 tirage 2,injecte,production,0,est_brut,0.24615384615384617,3.8192307692307694,20
+C-MAPSS,FD002 R60 tirage 2,injecte,production,0,est_ctx,0.28076923076923077,3.8923076923076922,20
+C-MAPSS,FD002 R60 tirage 2,placebo,production,0,est_brut,0.19615384615384615,3.7192307692307693,20
+C-MAPSS,FD002 R60 tirage 2,placebo,production,0,est_ctx,0.19807692307692307,3.726923076923077,20
+C-MAPSS,FD002 R60 tirage 2,injecte,production,1,est_brut,0.22115384615384615,3.473076923076923,20
+C-MAPSS,FD002 R60 tirage 2,injecte,production,1,est_ctx,0.25769230769230766,3.7153846153846155,20
+C-MAPSS,FD002 R60 tirage 2,placebo,production,1,est_brut,0.1576923076923077,3.3461538461538463,20
+C-MAPSS,FD002 R60 tirage 2,placebo,production,1,est_ctx,0.16538461538461538,3.526923076923077,20
+C-MAPSS,FD002 R60 tirage 2,injecte,prod_quad,0,est_brut,0.175,2.8346153846153848,20
+C-MAPSS,FD002 R60 tirage 2,injecte,prod_quad,0,est_ctx,0.1673076923076923,2.792307692307692,20
+C-MAPSS,FD002 R60 tirage 2,injecte,prod_quad,1,est_brut,0.15384615384615385,2.923076923076923,20
+C-MAPSS,FD002 R60 tirage 2,injecte,prod_quad,1,est_ctx,0.1519230769230769,2.873076923076923,20
+C-MAPSS,FD002 R60 tirage 2,injecte,prod_seuil,0,est_brut,0.16346153846153846,2.8576923076923078,20
+C-MAPSS,FD002 R60 tirage 2,injecte,prod_seuil,0,est_ctx,0.2173076923076923,2.8653846153846154,20
+C-MAPSS,FD002 R60 tirage 2,injecte,prod_seuil,1,est_brut,0.19807692307692307,3.376923076923077,20
+C-MAPSS,FD002 R60 tirage 2,injecte,prod_seuil,1,est_ctx,0.23846153846153847,3.3153846153846156,20
+C-MAPSS,FD002 R60 tirage 3,injecte,mesure,0,est_brut,0.17307692307692307,2.703846153846154,20
+C-MAPSS,FD002 R60 tirage 3,injecte,mesure,0,est_ctx,0.1576923076923077,2.253846153846154,20
+C-MAPSS,FD002 R60 tirage 3,placebo,mesure,0,est_brut,0.16153846153846155,2.6923076923076925,20
+C-MAPSS,FD002 R60 tirage 3,placebo,mesure,0,est_ctx,0.11153846153846154,2.207692307692308,20
+C-MAPSS,FD002 R60 tirage 3,injecte,mesure,1,est_brut,0.13076923076923078,2.523076923076923,20
+C-MAPSS,FD002 R60 tirage 3,injecte,mesure,1,est_ctx,0.12307692307692308,1.8846153846153846,20
+C-MAPSS,FD002 R60 tirage 3,placebo,mesure,1,est_brut,0.11153846153846154,2.503846153846154,20
+C-MAPSS,FD002 R60 tirage 3,placebo,mesure,1,est_ctx,0.08846153846153847,1.8461538461538463,20
+C-MAPSS,FD002 R60 tirage 3,injecte,maintenance,0,est_brut,0.11538461538461539,1.8576923076923078,20
+C-MAPSS,FD002 R60 tirage 3,injecte,maintenance,0,est_ctx,0.16538461538461538,1.9384615384615385,20
+C-MAPSS,FD002 R60 tirage 3,placebo,maintenance,0,est_brut,0.12884615384615383,2.55,20
+C-MAPSS,FD002 R60 tirage 3,placebo,maintenance,0,est_ctx,0.10576923076923077,2.273076923076923,20
+C-MAPSS,FD002 R60 tirage 3,injecte,maintenance,1,est_brut,0.1326923076923077,2.273076923076923,20
+C-MAPSS,FD002 R60 tirage 3,injecte,maintenance,1,est_ctx,0.18269230769230768,2.419230769230769,20
+C-MAPSS,FD002 R60 tirage 3,placebo,maintenance,1,est_brut,0.13076923076923078,2.6153846153846154,20
+C-MAPSS,FD002 R60 tirage 3,placebo,maintenance,1,est_ctx,0.1346153846153846,2.7192307692307693,20
+C-MAPSS,FD002 R60 tirage 3,injecte,production,0,est_brut,0.23846153846153847,3.4884615384615385,20
+C-MAPSS,FD002 R60 tirage 3,injecte,production,0,est_ctx,0.2403846153846154,3.3423076923076924,20
+C-MAPSS,FD002 R60 tirage 3,placebo,production,0,est_brut,0.175,3.3615384615384616,20
+C-MAPSS,FD002 R60 tirage 3,placebo,production,0,est_ctx,0.16346153846153846,3.1807692307692306,20
+C-MAPSS,FD002 R60 tirage 3,injecte,production,1,est_brut,0.23846153846153847,3.8038461538461537,20
+C-MAPSS,FD002 R60 tirage 3,injecte,production,1,est_ctx,0.2692307692307692,3.673076923076923,20
+C-MAPSS,FD002 R60 tirage 3,placebo,production,1,est_brut,0.17884615384615385,3.6846153846153844,20
+C-MAPSS,FD002 R60 tirage 3,placebo,production,1,est_ctx,0.16538461538461538,3.4653846153846155,20
+C-MAPSS,FD002 R60 tirage 3,injecte,prod_quad,0,est_brut,0.14615384615384616,2.546153846153846,20
+C-MAPSS,FD002 R60 tirage 3,injecte,prod_quad,0,est_ctx,0.16923076923076924,2.776923076923077,20
+C-MAPSS,FD002 R60 tirage 3,injecte,prod_quad,1,est_brut,0.15576923076923077,2.853846153846154,20
+C-MAPSS,FD002 R60 tirage 3,injecte,prod_quad,1,est_ctx,0.1423076923076923,2.6192307692307693,20
+C-MAPSS,FD002 R60 tirage 3,injecte,prod_seuil,0,est_brut,0.18269230769230768,2.8,20
+C-MAPSS,FD002 R60 tirage 3,injecte,prod_seuil,0,est_ctx,0.20384615384615384,2.753846153846154,20
+C-MAPSS,FD002 R60 tirage 3,injecte,prod_seuil,1,est_brut,0.18269230769230768,2.9,20
+C-MAPSS,FD002 R60 tirage 3,injecte,prod_seuil,1,est_ctx,0.19038461538461537,2.503846153846154,20
+C-MAPSS,FD002 R60 tirage 4,injecte,mesure,0,est_brut,0.13846153846153847,2.1846153846153844,20
+C-MAPSS,FD002 R60 tirage 4,injecte,mesure,0,est_ctx,0.1576923076923077,2.5730769230769233,20
+C-MAPSS,FD002 R60 tirage 4,placebo,mesure,0,est_brut,0.11538461538461539,2.1615384615384614,20
+C-MAPSS,FD002 R60 tirage 4,placebo,mesure,0,est_ctx,0.11153846153846154,2.526923076923077,20
+C-MAPSS,FD002 R60 tirage 4,injecte,mesure,1,est_brut,0.11538461538461539,2.230769230769231,20
+C-MAPSS,FD002 R60 tirage 4,injecte,mesure,1,est_ctx,0.16538461538461538,1.7807692307692307,20
+C-MAPSS,FD002 R60 tirage 4,placebo,mesure,1,est_brut,0.11538461538461539,2.230769230769231,20
+C-MAPSS,FD002 R60 tirage 4,placebo,mesure,1,est_ctx,0.07692307692307693,1.6923076923076923,20
+C-MAPSS,FD002 R60 tirage 4,injecte,maintenance,0,est_brut,0.10384615384615385,1.8884615384615384,20
+C-MAPSS,FD002 R60 tirage 4,injecte,maintenance,0,est_ctx,0.14807692307692308,1.8576923076923078,20
+C-MAPSS,FD002 R60 tirage 4,placebo,maintenance,0,est_brut,0.14423076923076922,2.9461538461538463,20
+C-MAPSS,FD002 R60 tirage 4,placebo,maintenance,0,est_ctx,0.11730769230769231,2.330769230769231,20
+C-MAPSS,FD002 R60 tirage 4,injecte,maintenance,1,est_brut,0.15384615384615385,2.623076923076923,20
+C-MAPSS,FD002 R60 tirage 4,injecte,maintenance,1,est_ctx,0.16153846153846155,2.2115384615384617,20
+C-MAPSS,FD002 R60 tirage 4,placebo,maintenance,1,est_brut,0.13653846153846153,2.9884615384615385,20
+C-MAPSS,FD002 R60 tirage 4,placebo,maintenance,1,est_ctx,0.16346153846153846,3.1346153846153846,20
+C-MAPSS,FD002 R60 tirage 4,injecte,production,0,est_brut,0.22115384615384615,3.776923076923077,20
+C-MAPSS,FD002 R60 tirage 4,injecte,production,0,est_ctx,0.2673076923076923,4.0576923076923075,20
+C-MAPSS,FD002 R60 tirage 4,placebo,production,0,est_brut,0.175,3.6846153846153844,20
+C-MAPSS,FD002 R60 tirage 4,placebo,production,0,est_ctx,0.19423076923076923,3.9153846153846152,20
+C-MAPSS,FD002 R60 tirage 4,injecte,production,1,est_brut,0.2153846153846154,3.269230769230769,20
+C-MAPSS,FD002 R60 tirage 4,injecte,production,1,est_ctx,0.23846153846153847,3.376923076923077,20
+C-MAPSS,FD002 R60 tirage 4,placebo,production,1,est_brut,0.1596153846153846,3.1576923076923076,20
+C-MAPSS,FD002 R60 tirage 4,placebo,production,1,est_ctx,0.1576923076923077,3.2153846153846155,20
+C-MAPSS,FD002 R60 tirage 4,injecte,prod_quad,0,est_brut,0.1576923076923077,2.753846153846154,20
+C-MAPSS,FD002 R60 tirage 4,injecte,prod_quad,0,est_ctx,0.16346153846153846,2.6846153846153844,20
+C-MAPSS,FD002 R60 tirage 4,injecte,prod_quad,1,est_brut,0.18269230769230768,3.230769230769231,20
+C-MAPSS,FD002 R60 tirage 4,injecte,prod_quad,1,est_ctx,0.16923076923076924,2.957692307692308,20
+C-MAPSS,FD002 R60 tirage 4,injecte,prod_seuil,0,est_brut,0.2173076923076923,3.55,20
+C-MAPSS,FD002 R60 tirage 4,injecte,prod_seuil,0,est_ctx,0.2326923076923077,3.4615384615384617,20
+C-MAPSS,FD002 R60 tirage 4,injecte,prod_seuil,1,est_brut,0.2153846153846154,3.5307692307692307,20
+C-MAPSS,FD002 R60 tirage 4,injecte,prod_seuil,1,est_ctx,0.21923076923076923,3.376923076923077,20
+C-MAPSS,FD002 R20 tirage 0,injecte,mesure,0,est_brut,0.09615384615384616,2.0076923076923077,21
+C-MAPSS,FD002 R20 tirage 0,injecte,mesure,0,est_ctx,0.4461538461538462,3.1884615384615387,21
+C-MAPSS,FD002 R20 tirage 0,placebo,mesure,0,est_brut,0.08076923076923077,1.9923076923076923,21
+C-MAPSS,FD002 R20 tirage 0,placebo,mesure,0,est_ctx,0.13846153846153847,2.8384615384615386,21
+C-MAPSS,FD002 R20 tirage 0,injecte,mesure,1,est_brut,0.17307692307692307,3.25,21
+C-MAPSS,FD002 R20 tirage 0,injecte,mesure,1,est_ctx,0.43846153846153846,2.980769230769231,21
+C-MAPSS,FD002 R20 tirage 0,placebo,mesure,1,est_brut,0.16538461538461538,3.2423076923076923,21
+C-MAPSS,FD002 R20 tirage 0,placebo,mesure,1,est_ctx,0.1423076923076923,2.703846153846154,21
+C-MAPSS,FD002 R20 tirage 0,injecte,maintenance,0,est_brut,0.09038461538461538,1.8038461538461539,21
+C-MAPSS,FD002 R20 tirage 0,injecte,maintenance,0,est_ctx,0.43653846153846154,3.35,21
+C-MAPSS,FD002 R20 tirage 0,placebo,maintenance,0,est_brut,0.11153846153846154,2.4923076923076923,21
+C-MAPSS,FD002 R20 tirage 0,placebo,maintenance,0,est_ctx,0.18461538461538463,3.419230769230769,21
+C-MAPSS,FD002 R20 tirage 0,injecte,maintenance,1,est_brut,0.1326923076923077,2.5076923076923077,21
+C-MAPSS,FD002 R20 tirage 0,injecte,maintenance,1,est_ctx,0.425,2.7615384615384615,21
+C-MAPSS,FD002 R20 tirage 0,placebo,maintenance,1,est_brut,0.1673076923076923,3.3807692307692307,21
+C-MAPSS,FD002 R20 tirage 0,placebo,maintenance,1,est_ctx,0.1346153846153846,2.776923076923077,21
+C-MAPSS,FD002 R20 tirage 0,injecte,production,0,est_brut,0.4115384615384615,3.9846153846153847,21
+C-MAPSS,FD002 R20 tirage 0,injecte,production,0,est_ctx,0.5115384615384615,4.15,21
+C-MAPSS,FD002 R20 tirage 0,placebo,production,0,est_brut,0.175,3.5076923076923077,21
+C-MAPSS,FD002 R20 tirage 0,placebo,production,0,est_ctx,0.17692307692307693,3.526923076923077,21
+C-MAPSS,FD002 R20 tirage 0,injecte,production,1,est_brut,0.45576923076923076,5.207692307692308,21
+C-MAPSS,FD002 R20 tirage 0,injecte,production,1,est_ctx,0.5634615384615385,5.311538461538461,21
+C-MAPSS,FD002 R20 tirage 0,placebo,production,1,est_brut,0.21923076923076923,4.719230769230769,21
+C-MAPSS,FD002 R20 tirage 0,placebo,production,1,est_ctx,0.22692307692307692,4.576923076923077,21
+C-MAPSS,FD002 R20 tirage 0,injecte,prod_quad,0,est_brut,0.36923076923076925,4.334615384615384,21
+C-MAPSS,FD002 R20 tirage 0,injecte,prod_quad,0,est_ctx,0.4807692307692308,4.957692307692308,21
+C-MAPSS,FD002 R20 tirage 0,injecte,prod_quad,1,est_brut,0.34615384615384615,4.25,21
+C-MAPSS,FD002 R20 tirage 0,injecte,prod_quad,1,est_ctx,0.4115384615384615,4.084615384615384,21
+C-MAPSS,FD002 R20 tirage 0,injecte,prod_seuil,0,est_brut,0.42115384615384616,4.1692307692307695,21
+C-MAPSS,FD002 R20 tirage 0,injecte,prod_seuil,0,est_ctx,0.5173076923076924,4.4192307692307695,21
+C-MAPSS,FD002 R20 tirage 0,injecte,prod_seuil,1,est_brut,0.4115384615384615,3.6384615384615384,21
+C-MAPSS,FD002 R20 tirage 0,injecte,prod_seuil,1,est_ctx,0.475,3.6769230769230767,21
+C-MAPSS,FD002 R20 tirage 1,injecte,mesure,0,est_brut,0.13076923076923078,2.623076923076923,21
+C-MAPSS,FD002 R20 tirage 1,injecte,mesure,0,est_ctx,0.45384615384615384,3.4615384615384617,21
+C-MAPSS,FD002 R20 tirage 1,placebo,mesure,0,est_brut,0.13076923076923078,2.623076923076923,21
+C-MAPSS,FD002 R20 tirage 1,placebo,mesure,0,est_ctx,0.1576923076923077,3.080769230769231,21
+C-MAPSS,FD002 R20 tirage 1,injecte,mesure,1,est_brut,0.16923076923076924,3.05,21
+C-MAPSS,FD002 R20 tirage 1,injecte,mesure,1,est_ctx,0.4461538461538462,3.0115384615384615,21
+C-MAPSS,FD002 R20 tirage 1,placebo,mesure,1,est_brut,0.16923076923076924,3.05,21
+C-MAPSS,FD002 R20 tirage 1,placebo,mesure,1,est_ctx,0.13076923076923078,2.723076923076923,21
+C-MAPSS,FD002 R20 tirage 1,injecte,maintenance,0,est_brut,0.1326923076923077,2.776923076923077,21
+C-MAPSS,FD002 R20 tirage 1,injecte,maintenance,0,est_ctx,0.3923076923076923,2.4884615384615385,21
+C-MAPSS,FD002 R20 tirage 1,placebo,maintenance,0,est_brut,0.09423076923076923,2.5,21
+C-MAPSS,FD002 R20 tirage 1,placebo,maintenance,0,est_ctx,0.15,3.1576923076923076,21
+C-MAPSS,FD002 R20 tirage 1,injecte,maintenance,1,est_brut,0.15384615384615385,2.853846153846154,21
+C-MAPSS,FD002 R20 tirage 1,injecte,maintenance,1,est_ctx,0.5076923076923077,3.376923076923077,21
+C-MAPSS,FD002 R20 tirage 1,placebo,maintenance,1,est_brut,0.1326923076923077,3.0153846153846153,21
+C-MAPSS,FD002 R20 tirage 1,placebo,maintenance,1,est_ctx,0.1326923076923077,2.7153846153846155,21
+C-MAPSS,FD002 R20 tirage 1,injecte,production,0,est_brut,0.4269230769230769,4.111538461538461,21
+C-MAPSS,FD002 R20 tirage 1,injecte,production,0,est_ctx,0.5211538461538462,4.6461538461538465,21
+C-MAPSS,FD002 R20 tirage 1,placebo,production,0,est_brut,0.20384615384615384,3.6576923076923076,21
+C-MAPSS,FD002 R20 tirage 1,placebo,production,0,est_ctx,0.19807692307692307,3.8384615384615386,21
+C-MAPSS,FD002 R20 tirage 1,injecte,production,1,est_brut,0.41346153846153844,4.315384615384615,21
+C-MAPSS,FD002 R20 tirage 1,injecte,production,1,est_ctx,0.5288461538461539,5.130769230769231,21
+C-MAPSS,FD002 R20 tirage 1,placebo,production,1,est_brut,0.17884615384615385,3.830769230769231,21
+C-MAPSS,FD002 R20 tirage 1,placebo,production,1,est_ctx,0.20384615384615384,4.3307692307692305,21
+C-MAPSS,FD002 R20 tirage 1,injecte,prod_quad,0,est_brut,0.34615384615384615,3.8384615384615386,21
+C-MAPSS,FD002 R20 tirage 1,injecte,prod_quad,0,est_ctx,0.46153846153846156,4.1461538461538465,21
+C-MAPSS,FD002 R20 tirage 1,injecte,prod_quad,1,est_brut,0.3173076923076923,3.5846153846153848,21
+C-MAPSS,FD002 R20 tirage 1,injecte,prod_quad,1,est_ctx,0.3769230769230769,3.3884615384615384,21
+C-MAPSS,FD002 R20 tirage 1,injecte,prod_seuil,0,est_brut,0.36346153846153845,3.55,21
+C-MAPSS,FD002 R20 tirage 1,injecte,prod_seuil,0,est_ctx,0.49615384615384617,3.4076923076923076,21
+C-MAPSS,FD002 R20 tirage 1,injecte,prod_seuil,1,est_brut,0.3769230769230769,3.496153846153846,21
+C-MAPSS,FD002 R20 tirage 1,injecte,prod_seuil,1,est_ctx,0.5038461538461538,3.7423076923076923,21
+C-MAPSS,FD002 R20 tirage 2,injecte,mesure,0,est_brut,0.13076923076923078,2.4269230769230767,21
+C-MAPSS,FD002 R20 tirage 2,injecte,mesure,0,est_ctx,0.46153846153846156,3.276923076923077,21
+C-MAPSS,FD002 R20 tirage 2,placebo,mesure,0,est_brut,0.13076923076923078,2.4269230769230767,21
+C-MAPSS,FD002 R20 tirage 2,placebo,mesure,0,est_ctx,0.14615384615384616,2.919230769230769,21
+C-MAPSS,FD002 R20 tirage 2,injecte,mesure,1,est_brut,0.1346153846153846,2.55,21
+C-MAPSS,FD002 R20 tirage 2,injecte,mesure,1,est_ctx,0.47692307692307695,2.6576923076923076,21
+C-MAPSS,FD002 R20 tirage 2,placebo,mesure,1,est_brut,0.1346153846153846,2.55,21
+C-MAPSS,FD002 R20 tirage 2,placebo,mesure,1,est_ctx,0.12307692307692308,2.2423076923076923,21
+C-MAPSS,FD002 R20 tirage 2,injecte,maintenance,0,est_brut,0.1519230769230769,2.896153846153846,21
+C-MAPSS,FD002 R20 tirage 2,injecte,maintenance,0,est_ctx,0.46923076923076923,3.480769230769231,21
+C-MAPSS,FD002 R20 tirage 2,placebo,maintenance,0,est_brut,0.15384615384615385,3.0846153846153848,21
+C-MAPSS,FD002 R20 tirage 2,placebo,maintenance,0,est_ctx,0.15,3.023076923076923,21
+C-MAPSS,FD002 R20 tirage 2,injecte,maintenance,1,est_brut,0.10384615384615385,2.1076923076923078,21
+C-MAPSS,FD002 R20 tirage 2,injecte,maintenance,1,est_ctx,0.4653846153846154,3.707692307692308,21
+C-MAPSS,FD002 R20 tirage 2,placebo,maintenance,1,est_brut,0.14038461538461539,2.5153846153846153,21
+C-MAPSS,FD002 R20 tirage 2,placebo,maintenance,1,est_ctx,0.1423076923076923,2.9884615384615385,21
+C-MAPSS,FD002 R20 tirage 2,injecte,production,0,est_brut,0.4096153846153846,3.8346153846153848,21
+C-MAPSS,FD002 R20 tirage 2,injecte,production,0,est_ctx,0.5173076923076924,3.8076923076923075,21
+C-MAPSS,FD002 R20 tirage 2,placebo,production,0,est_brut,0.17884615384615385,3.3692307692307693,21
+C-MAPSS,FD002 R20 tirage 2,placebo,production,0,est_ctx,0.14615384615384616,3.1423076923076922,21
+C-MAPSS,FD002 R20 tirage 2,injecte,production,1,est_brut,0.4519230769230769,4.9192307692307695,21
+C-MAPSS,FD002 R20 tirage 2,injecte,production,1,est_ctx,0.573076923076923,5.130769230769231,21
+C-MAPSS,FD002 R20 tirage 2,placebo,production,1,est_brut,0.20961538461538462,4.430769230769231,21
+C-MAPSS,FD002 R20 tirage 2,placebo,production,1,est_ctx,0.20576923076923076,4.280769230769231,21
+C-MAPSS,FD002 R20 tirage 2,injecte,prod_quad,0,est_brut,0.36153846153846153,4.042307692307692,21
+C-MAPSS,FD002 R20 tirage 2,injecte,prod_quad,0,est_ctx,0.49423076923076925,4.746153846153846,21
+C-MAPSS,FD002 R20 tirage 2,injecte,prod_quad,1,est_brut,0.27884615384615385,3.203846153846154,21
+C-MAPSS,FD002 R20 tirage 2,injecte,prod_quad,1,est_ctx,0.38653846153846155,3.6153846153846154,21
+C-MAPSS,FD002 R20 tirage 2,injecte,prod_seuil,0,est_brut,0.40384615384615385,4.2846153846153845,21
+C-MAPSS,FD002 R20 tirage 2,injecte,prod_seuil,0,est_ctx,0.5288461538461539,4.519230769230769,21
+C-MAPSS,FD002 R20 tirage 2,injecte,prod_seuil,1,est_brut,0.35,3.076923076923077,21
+C-MAPSS,FD002 R20 tirage 2,injecte,prod_seuil,1,est_ctx,0.4423076923076923,3.3192307692307694,21
+C-MAPSS,FD002 R20 tirage 3,injecte,mesure,0,est_brut,0.11538461538461539,2.2884615384615383,21
+C-MAPSS,FD002 R20 tirage 3,injecte,mesure,0,est_ctx,0.4230769230769231,2.953846153846154,21
+C-MAPSS,FD002 R20 tirage 3,placebo,mesure,0,est_brut,0.13846153846153847,2.3115384615384613,21
+C-MAPSS,FD002 R20 tirage 3,placebo,mesure,0,est_ctx,0.09615384615384616,2.6384615384615384,21
+C-MAPSS,FD002 R20 tirage 3,injecte,mesure,1,est_brut,0.15384615384615385,2.8192307692307694,21
+C-MAPSS,FD002 R20 tirage 3,injecte,mesure,1,est_ctx,0.3769230769230769,2.8692307692307693,21
+C-MAPSS,FD002 R20 tirage 3,placebo,mesure,1,est_brut,0.1423076923076923,2.8076923076923075,21
+C-MAPSS,FD002 R20 tirage 3,placebo,mesure,1,est_ctx,0.11538461538461539,2.6576923076923076,21
+C-MAPSS,FD002 R20 tirage 3,injecte,maintenance,0,est_brut,0.11153846153846154,2.126923076923077,21
+C-MAPSS,FD002 R20 tirage 3,injecte,maintenance,0,est_ctx,0.4153846153846154,3.2192307692307693,21
+C-MAPSS,FD002 R20 tirage 3,placebo,maintenance,0,est_brut,0.12884615384615383,2.796153846153846,21
+C-MAPSS,FD002 R20 tirage 3,placebo,maintenance,0,est_ctx,0.1346153846153846,2.7346153846153847,21
+C-MAPSS,FD002 R20 tirage 3,injecte,maintenance,1,est_brut,0.1326923076923077,2.4923076923076923,21
+C-MAPSS,FD002 R20 tirage 3,injecte,maintenance,1,est_ctx,0.3192307692307692,2.6115384615384616,21
+C-MAPSS,FD002 R20 tirage 3,placebo,maintenance,1,est_brut,0.12115384615384615,2.55,21
+C-MAPSS,FD002 R20 tirage 3,placebo,maintenance,1,est_ctx,0.16538461538461538,3.4346153846153844,21
+C-MAPSS,FD002 R20 tirage 3,injecte,production,0,est_brut,0.425,4.492307692307692,21
+C-MAPSS,FD002 R20 tirage 3,injecte,production,0,est_ctx,0.49038461538461536,4.461538461538462,21
+C-MAPSS,FD002 R20 tirage 3,placebo,production,0,est_brut,0.2076923076923077,4.053846153846154,21
+C-MAPSS,FD002 R20 tirage 3,placebo,production,0,est_ctx,0.18076923076923077,3.7884615384615383,21
+C-MAPSS,FD002 R20 tirage 3,injecte,production,1,est_brut,0.425,4.757692307692308,21
+C-MAPSS,FD002 R20 tirage 3,injecte,production,1,est_ctx,0.5057692307692307,4.957692307692308,21
+C-MAPSS,FD002 R20 tirage 3,placebo,production,1,est_brut,0.20576923076923076,4.3076923076923075,21
+C-MAPSS,FD002 R20 tirage 3,placebo,production,1,est_ctx,0.2153846153846154,4.411538461538462,21
+C-MAPSS,FD002 R20 tirage 3,injecte,prod_quad,0,est_brut,0.3942307692307692,4.661538461538462,21
+C-MAPSS,FD002 R20 tirage 3,injecte,prod_quad,0,est_ctx,0.4980769230769231,4.7153846153846155,21
+C-MAPSS,FD002 R20 tirage 3,injecte,prod_quad,1,est_brut,0.32884615384615384,3.3846153846153846,21
+C-MAPSS,FD002 R20 tirage 3,injecte,prod_quad,1,est_ctx,0.3903846153846154,3.4038461538461537,21
+C-MAPSS,FD002 R20 tirage 3,injecte,prod_seuil,0,est_brut,0.40384615384615385,4.142307692307693,21
+C-MAPSS,FD002 R20 tirage 3,injecte,prod_seuil,0,est_ctx,0.4576923076923077,4.015384615384615,21
+C-MAPSS,FD002 R20 tirage 3,injecte,prod_seuil,1,est_brut,0.3730769230769231,3.3653846153846154,21
+C-MAPSS,FD002 R20 tirage 3,injecte,prod_seuil,1,est_ctx,0.4326923076923077,3.3846153846153846,21
+C-MAPSS,FD002 R20 tirage 4,injecte,mesure,0,est_brut,0.13076923076923078,2.173076923076923,21
+C-MAPSS,FD002 R20 tirage 4,injecte,mesure,0,est_ctx,0.4269230769230769,3.023076923076923,21
+C-MAPSS,FD002 R20 tirage 4,placebo,mesure,0,est_brut,0.1076923076923077,2.15,21
+C-MAPSS,FD002 R20 tirage 4,placebo,mesure,0,est_ctx,0.11153846153846154,2.6846153846153844,21
+C-MAPSS,FD002 R20 tirage 4,injecte,mesure,1,est_brut,0.15384615384615385,2.7423076923076923,21
+C-MAPSS,FD002 R20 tirage 4,injecte,mesure,1,est_ctx,0.41923076923076924,3.1653846153846152,21
+C-MAPSS,FD002 R20 tirage 4,placebo,mesure,1,est_brut,0.13846153846153847,2.726923076923077,21
+C-MAPSS,FD002 R20 tirage 4,placebo,mesure,1,est_ctx,0.13846153846153847,2.8423076923076924,21
+C-MAPSS,FD002 R20 tirage 4,injecte,maintenance,0,est_brut,0.11153846153846154,2.0846153846153848,21
+C-MAPSS,FD002 R20 tirage 4,injecte,maintenance,0,est_ctx,0.375,3.1,21
+C-MAPSS,FD002 R20 tirage 4,placebo,maintenance,0,est_brut,0.15,3.2846153846153845,21
+C-MAPSS,FD002 R20 tirage 4,placebo,maintenance,0,est_ctx,0.10961538461538461,2.4384615384615387,21
+C-MAPSS,FD002 R20 tirage 4,injecte,maintenance,1,est_brut,0.12115384615384615,2.080769230769231,21
+C-MAPSS,FD002 R20 tirage 4,injecte,maintenance,1,est_ctx,0.38269230769230766,3.2423076923076923,21
+C-MAPSS,FD002 R20 tirage 4,placebo,maintenance,1,est_brut,0.12692307692307692,3.0,21
+C-MAPSS,FD002 R20 tirage 4,placebo,maintenance,1,est_ctx,0.14038461538461539,2.95,21
+C-MAPSS,FD002 R20 tirage 4,injecte,production,0,est_brut,0.3923076923076923,3.792307692307692,21
+C-MAPSS,FD002 R20 tirage 4,injecte,production,0,est_ctx,0.45,4.2,21
+C-MAPSS,FD002 R20 tirage 4,placebo,production,0,est_brut,0.15,3.3076923076923075,21
+C-MAPSS,FD002 R20 tirage 4,placebo,production,0,est_ctx,0.17307692307692307,3.669230769230769,21
+C-MAPSS,FD002 R20 tirage 4,injecte,production,1,est_brut,0.4403846153846154,4.461538461538462,21
+C-MAPSS,FD002 R20 tirage 4,injecte,production,1,est_ctx,0.5,4.507692307692308,21
+C-MAPSS,FD002 R20 tirage 4,placebo,production,1,est_brut,0.18653846153846154,3.953846153846154,21
+C-MAPSS,FD002 R20 tirage 4,placebo,production,1,est_ctx,0.20576923076923076,3.9307692307692306,21
+C-MAPSS,FD002 R20 tirage 4,injecte,prod_quad,0,est_brut,0.36153846153846153,4.211538461538462,21
+C-MAPSS,FD002 R20 tirage 4,injecte,prod_quad,0,est_ctx,0.4461538461538462,4.165384615384616,21
+C-MAPSS,FD002 R20 tirage 4,injecte,prod_quad,1,est_brut,0.3211538461538462,3.3846153846153846,21
+C-MAPSS,FD002 R20 tirage 4,injecte,prod_quad,1,est_ctx,0.3730769230769231,3.546153846153846,21
+C-MAPSS,FD002 R20 tirage 4,injecte,prod_seuil,0,est_brut,0.38461538461538464,3.876923076923077,21
+C-MAPSS,FD002 R20 tirage 4,injecte,prod_seuil,0,est_ctx,0.5038461538461538,4.288461538461538,21
+C-MAPSS,FD002 R20 tirage 4,injecte,prod_seuil,1,est_brut,0.3596153846153846,3.3,21
+C-MAPSS,FD002 R20 tirage 4,injecte,prod_seuil,1,est_ctx,0.4076923076923077,3.0730769230769233,21
+C-MAPSS,FD004 R42 tirage 0,injecte,mesure,0,est_brut,0.124,2.272,21
+C-MAPSS,FD004 R42 tirage 0,injecte,mesure,0,est_ctx,0.548,3.664,21
+C-MAPSS,FD004 R42 tirage 0,placebo,mesure,0,est_brut,0.076,2.224,21
+C-MAPSS,FD004 R42 tirage 0,placebo,mesure,0,est_ctx,0.152,3.248,21
+C-MAPSS,FD004 R42 tirage 0,injecte,mesure,1,est_brut,0.156,2.748,21
+C-MAPSS,FD004 R42 tirage 0,injecte,mesure,1,est_ctx,0.504,3.64,21
+C-MAPSS,FD004 R42 tirage 0,placebo,mesure,1,est_brut,0.164,2.756,21
+C-MAPSS,FD004 R42 tirage 0,placebo,mesure,1,est_ctx,0.16,3.268,21
+C-MAPSS,FD004 R42 tirage 0,injecte,maintenance,0,est_brut,0.15,2.656,21
+C-MAPSS,FD004 R42 tirage 0,injecte,maintenance,0,est_ctx,0.424,3.728,21
+C-MAPSS,FD004 R42 tirage 0,placebo,maintenance,0,est_brut,0.136,2.724,21
+C-MAPSS,FD004 R42 tirage 0,placebo,maintenance,0,est_ctx,0.128,2.796,21
+C-MAPSS,FD004 R42 tirage 0,injecte,maintenance,1,est_brut,0.154,2.628,21
+C-MAPSS,FD004 R42 tirage 0,injecte,maintenance,1,est_ctx,0.56,4.916,21
+C-MAPSS,FD004 R42 tirage 0,placebo,maintenance,1,est_brut,0.158,2.98,21
+C-MAPSS,FD004 R42 tirage 0,placebo,maintenance,1,est_ctx,0.186,3.852,21
+C-MAPSS,FD004 R42 tirage 0,injecte,production,0,est_brut,0.518,4.392,21
+C-MAPSS,FD004 R42 tirage 0,injecte,production,0,est_ctx,0.592,4.5,21
+C-MAPSS,FD004 R42 tirage 0,placebo,production,0,est_brut,0.18,3.712,21
+C-MAPSS,FD004 R42 tirage 0,placebo,production,0,est_ctx,0.184,3.668,21
+C-MAPSS,FD004 R42 tirage 0,injecte,production,1,est_brut,0.588,5.472,21
+C-MAPSS,FD004 R42 tirage 0,injecte,production,1,est_ctx,0.658,5.744,21
+C-MAPSS,FD004 R42 tirage 0,placebo,production,1,est_brut,0.242,4.772,21
+C-MAPSS,FD004 R42 tirage 0,placebo,production,1,est_ctx,0.246,4.932,21
+C-MAPSS,FD004 R42 tirage 0,injecte,prod_quad,0,est_brut,0.462,4.3,21
+C-MAPSS,FD004 R42 tirage 0,injecte,prod_quad,0,est_ctx,0.528,4.844,21
+C-MAPSS,FD004 R42 tirage 0,injecte,prod_quad,1,est_brut,0.432,3.908,21
+C-MAPSS,FD004 R42 tirage 0,injecte,prod_quad,1,est_ctx,0.506,3.792,21
+C-MAPSS,FD004 R42 tirage 0,injecte,prod_seuil,0,est_brut,0.488,4.264,21
+C-MAPSS,FD004 R42 tirage 0,injecte,prod_seuil,0,est_ctx,0.608,4.6,21
+C-MAPSS,FD004 R42 tirage 0,injecte,prod_seuil,1,est_brut,0.486,3.792,21
+C-MAPSS,FD004 R42 tirage 0,injecte,prod_seuil,1,est_ctx,0.588,3.86,21
+C-MAPSS,FD004 R42 tirage 1,injecte,mesure,0,est_brut,0.148,2.376,21
+C-MAPSS,FD004 R42 tirage 1,injecte,mesure,0,est_ctx,0.496,3.408,21
+C-MAPSS,FD004 R42 tirage 1,placebo,mesure,0,est_brut,0.112,2.34,21
+C-MAPSS,FD004 R42 tirage 1,placebo,mesure,0,est_ctx,0.152,3.036,21
+C-MAPSS,FD004 R42 tirage 1,injecte,mesure,1,est_brut,0.16,2.492,21
+C-MAPSS,FD004 R42 tirage 1,injecte,mesure,1,est_ctx,0.552,2.916,21
+C-MAPSS,FD004 R42 tirage 1,placebo,mesure,1,est_brut,0.132,2.464,21
+C-MAPSS,FD004 R42 tirage 1,placebo,mesure,1,est_ctx,0.112,2.472,21
+C-MAPSS,FD004 R42 tirage 1,injecte,maintenance,0,est_brut,0.116,1.948,21
+C-MAPSS,FD004 R42 tirage 1,injecte,maintenance,0,est_ctx,0.48,3.532,21
+C-MAPSS,FD004 R42 tirage 1,placebo,maintenance,0,est_brut,0.154,3.384,21
+C-MAPSS,FD004 R42 tirage 1,placebo,maintenance,0,est_ctx,0.134,2.596,21
+C-MAPSS,FD004 R42 tirage 1,injecte,maintenance,1,est_brut,0.184,3.256,21
+C-MAPSS,FD004 R42 tirage 1,injecte,maintenance,1,est_ctx,0.552,4.128,21
+C-MAPSS,FD004 R42 tirage 1,placebo,maintenance,1,est_brut,0.148,2.872,21
+C-MAPSS,FD004 R42 tirage 1,placebo,maintenance,1,est_ctx,0.142,3.156,21
+C-MAPSS,FD004 R42 tirage 1,injecte,production,0,est_brut,0.462,3.628,21
+C-MAPSS,FD004 R42 tirage 1,injecte,production,0,est_ctx,0.566,4.1,21
+C-MAPSS,FD004 R42 tirage 1,placebo,production,0,est_brut,0.146,2.98,21
+C-MAPSS,FD004 R42 tirage 1,placebo,production,0,est_ctx,0.164,3.292,21
+C-MAPSS,FD004 R42 tirage 1,injecte,production,1,est_brut,0.554,4.824,21
+C-MAPSS,FD004 R42 tirage 1,injecte,production,1,est_ctx,0.606,4.908,21
+C-MAPSS,FD004 R42 tirage 1,placebo,production,1,est_brut,0.182,4.08,21
+C-MAPSS,FD004 R42 tirage 1,placebo,production,1,est_ctx,0.21,4.044,21
+C-MAPSS,FD004 R42 tirage 1,injecte,prod_quad,0,est_brut,0.468,4.868,21
+C-MAPSS,FD004 R42 tirage 1,injecte,prod_quad,0,est_ctx,0.58,5.244,21
+C-MAPSS,FD004 R42 tirage 1,injecte,prod_quad,1,est_brut,0.386,3.168,21
+C-MAPSS,FD004 R42 tirage 1,injecte,prod_quad,1,est_ctx,0.508,3.58,21
+C-MAPSS,FD004 R42 tirage 1,injecte,prod_seuil,0,est_brut,0.522,4.76,21
+C-MAPSS,FD004 R42 tirage 1,injecte,prod_seuil,0,est_ctx,0.586,4.676,21
+C-MAPSS,FD004 R42 tirage 1,injecte,prod_seuil,1,est_brut,0.502,3.46,21
+C-MAPSS,FD004 R42 tirage 1,injecte,prod_seuil,1,est_ctx,0.596,3.692,21
+C-MAPSS,FD004 R42 tirage 2,injecte,mesure,0,est_brut,0.132,2.468,21
+C-MAPSS,FD004 R42 tirage 2,injecte,mesure,0,est_ctx,0.436,3.12,21
+C-MAPSS,FD004 R42 tirage 2,placebo,mesure,0,est_brut,0.108,2.444,21
+C-MAPSS,FD004 R42 tirage 2,placebo,mesure,0,est_ctx,0.12,2.704,21
+C-MAPSS,FD004 R42 tirage 2,injecte,mesure,1,est_brut,0.196,2.84,21
+C-MAPSS,FD004 R42 tirage 2,injecte,mesure,1,est_ctx,0.372,2.684,21
+C-MAPSS,FD004 R42 tirage 2,placebo,mesure,1,est_brut,0.16,2.804,21
+C-MAPSS,FD004 R42 tirage 2,placebo,mesure,1,est_ctx,0.116,2.432,21
+C-MAPSS,FD004 R42 tirage 2,injecte,maintenance,0,est_brut,0.144,2.664,21
+C-MAPSS,FD004 R42 tirage 2,injecte,maintenance,0,est_ctx,0.494,3.536,21
+C-MAPSS,FD004 R42 tirage 2,placebo,maintenance,0,est_brut,0.142,3.18,21
+C-MAPSS,FD004 R42 tirage 2,placebo,maintenance,0,est_ctx,0.15,3.316,21
+C-MAPSS,FD004 R42 tirage 2,injecte,maintenance,1,est_brut,0.168,2.672,21
+C-MAPSS,FD004 R42 tirage 2,injecte,maintenance,1,est_ctx,0.5,3.688,21
+C-MAPSS,FD004 R42 tirage 2,placebo,maintenance,1,est_brut,0.17,3.38,21
+C-MAPSS,FD004 R42 tirage 2,placebo,maintenance,1,est_ctx,0.148,3.164,21
+C-MAPSS,FD004 R42 tirage 2,injecte,production,0,est_brut,0.476,3.844,21
+C-MAPSS,FD004 R42 tirage 2,injecte,production,0,est_ctx,0.544,4.1,21
+C-MAPSS,FD004 R42 tirage 2,placebo,production,0,est_brut,0.146,3.176,21
+C-MAPSS,FD004 R42 tirage 2,placebo,production,0,est_ctx,0.168,3.372,21
+C-MAPSS,FD004 R42 tirage 2,injecte,production,1,est_brut,0.54,4.948,21
+C-MAPSS,FD004 R42 tirage 2,injecte,production,1,est_ctx,0.546,4.536,21
+C-MAPSS,FD004 R42 tirage 2,placebo,production,1,est_brut,0.204,4.272,21
+C-MAPSS,FD004 R42 tirage 2,placebo,production,1,est_ctx,0.188,3.776,21
+C-MAPSS,FD004 R42 tirage 2,injecte,prod_quad,0,est_brut,0.484,4.92,21
+C-MAPSS,FD004 R42 tirage 2,injecte,prod_quad,0,est_ctx,0.552,5.592,21
+C-MAPSS,FD004 R42 tirage 2,injecte,prod_quad,1,est_brut,0.368,2.756,21
+C-MAPSS,FD004 R42 tirage 2,injecte,prod_quad,1,est_ctx,0.402,2.792,21
+C-MAPSS,FD004 R42 tirage 2,injecte,prod_seuil,0,est_brut,0.5,4.612,21
+C-MAPSS,FD004 R42 tirage 2,injecte,prod_seuil,0,est_ctx,0.558,4.296,21
+C-MAPSS,FD004 R42 tirage 2,injecte,prod_seuil,1,est_brut,0.486,3.4,21
+C-MAPSS,FD004 R42 tirage 2,injecte,prod_seuil,1,est_ctx,0.582,4.1,21
+C-MAPSS,FD004 R42 tirage 3,injecte,mesure,0,est_brut,0.16,2.672,21
+C-MAPSS,FD004 R42 tirage 3,injecte,mesure,0,est_ctx,0.552,3.512,21
+C-MAPSS,FD004 R42 tirage 3,placebo,mesure,0,est_brut,0.132,2.644,21
+C-MAPSS,FD004 R42 tirage 3,placebo,mesure,0,est_ctx,0.16,3.156,21
+C-MAPSS,FD004 R42 tirage 3,injecte,mesure,1,est_brut,0.172,2.66,21
+C-MAPSS,FD004 R42 tirage 3,injecte,mesure,1,est_ctx,0.5,3.016,21
+C-MAPSS,FD004 R42 tirage 3,placebo,mesure,1,est_brut,0.128,2.616,21
+C-MAPSS,FD004 R42 tirage 3,placebo,mesure,1,est_ctx,0.14,2.708,21
+C-MAPSS,FD004 R42 tirage 3,injecte,maintenance,0,est_brut,0.12,1.828,21
+C-MAPSS,FD004 R42 tirage 3,injecte,maintenance,0,est_ctx,0.54,3.776,21
+C-MAPSS,FD004 R42 tirage 3,placebo,maintenance,0,est_brut,0.118,2.484,21
+C-MAPSS,FD004 R42 tirage 3,placebo,maintenance,0,est_ctx,0.16,2.908,21
+C-MAPSS,FD004 R42 tirage 3,injecte,maintenance,1,est_brut,0.152,2.752,21
+C-MAPSS,FD004 R42 tirage 3,injecte,maintenance,1,est_ctx,0.508,4.364,21
+C-MAPSS,FD004 R42 tirage 3,placebo,maintenance,1,est_brut,0.154,3.204,21
+C-MAPSS,FD004 R42 tirage 3,placebo,maintenance,1,est_ctx,0.148,2.948,21
+C-MAPSS,FD004 R42 tirage 3,injecte,production,0,est_brut,0.508,4.248,21
+C-MAPSS,FD004 R42 tirage 3,injecte,production,0,est_ctx,0.562,4.264,21
+C-MAPSS,FD004 R42 tirage 3,placebo,production,0,est_brut,0.178,3.588,21
+C-MAPSS,FD004 R42 tirage 3,placebo,production,0,est_ctx,0.172,3.528,21
+C-MAPSS,FD004 R42 tirage 3,injecte,production,1,est_brut,0.544,4.888,21
+C-MAPSS,FD004 R42 tirage 3,injecte,production,1,est_ctx,0.628,4.576,21
+C-MAPSS,FD004 R42 tirage 3,placebo,production,1,est_brut,0.214,4.224,21
+C-MAPSS,FD004 R42 tirage 3,placebo,production,1,est_ctx,0.178,3.76,21
+C-MAPSS,FD004 R42 tirage 3,injecte,prod_quad,0,est_brut,0.504,4.88,21
+C-MAPSS,FD004 R42 tirage 3,injecte,prod_quad,0,est_ctx,0.556,4.904,21
+C-MAPSS,FD004 R42 tirage 3,injecte,prod_quad,1,est_brut,0.394,3.196,21
+C-MAPSS,FD004 R42 tirage 3,injecte,prod_quad,1,est_ctx,0.478,3.636,21
+C-MAPSS,FD004 R42 tirage 3,injecte,prod_seuil,0,est_brut,0.488,4.148,21
+C-MAPSS,FD004 R42 tirage 3,injecte,prod_seuil,0,est_ctx,0.586,4.492,21
+C-MAPSS,FD004 R42 tirage 3,injecte,prod_seuil,1,est_brut,0.484,3.132,21
+C-MAPSS,FD004 R42 tirage 3,injecte,prod_seuil,1,est_ctx,0.59,3.572,21
+C-MAPSS,FD004 R42 tirage 4,injecte,mesure,0,est_brut,0.168,2.852,21
+C-MAPSS,FD004 R42 tirage 4,injecte,mesure,0,est_ctx,0.464,3.332,21
+C-MAPSS,FD004 R42 tirage 4,placebo,mesure,0,est_brut,0.136,2.82,21
+C-MAPSS,FD004 R42 tirage 4,placebo,mesure,0,est_ctx,0.152,3.016,21
+C-MAPSS,FD004 R42 tirage 4,injecte,mesure,1,est_brut,0.144,2.224,21
+C-MAPSS,FD004 R42 tirage 4,injecte,mesure,1,est_ctx,0.372,3.484,21
+C-MAPSS,FD004 R42 tirage 4,placebo,mesure,1,est_brut,0.116,2.196,21
+C-MAPSS,FD004 R42 tirage 4,placebo,mesure,1,est_ctx,0.136,3.204,21
+C-MAPSS,FD004 R42 tirage 4,injecte,maintenance,0,est_brut,0.158,2.516,21
+C-MAPSS,FD004 R42 tirage 4,injecte,maintenance,0,est_ctx,0.54,3.996,21
+C-MAPSS,FD004 R42 tirage 4,placebo,maintenance,0,est_brut,0.124,2.792,21
+C-MAPSS,FD004 R42 tirage 4,placebo,maintenance,0,est_ctx,0.164,3.244,21
+C-MAPSS,FD004 R42 tirage 4,injecte,maintenance,1,est_brut,0.138,2.164,21
+C-MAPSS,FD004 R42 tirage 4,injecte,maintenance,1,est_ctx,0.534,3.592,21
+C-MAPSS,FD004 R42 tirage 4,placebo,maintenance,1,est_brut,0.134,2.564,21
+C-MAPSS,FD004 R42 tirage 4,placebo,maintenance,1,est_ctx,0.168,3.356,21
+C-MAPSS,FD004 R42 tirage 4,injecte,production,0,est_brut,0.482,3.936,21
+C-MAPSS,FD004 R42 tirage 4,injecte,production,0,est_ctx,0.558,4.232,21
+C-MAPSS,FD004 R42 tirage 4,placebo,production,0,est_brut,0.162,3.292,21
+C-MAPSS,FD004 R42 tirage 4,placebo,production,0,est_ctx,0.166,3.432,21
+C-MAPSS,FD004 R42 tirage 4,injecte,production,1,est_brut,0.544,5.368,21
+C-MAPSS,FD004 R42 tirage 4,injecte,production,1,est_ctx,0.63,5.2,21
+C-MAPSS,FD004 R42 tirage 4,placebo,production,1,est_brut,0.212,4.704,21
+C-MAPSS,FD004 R42 tirage 4,placebo,production,1,est_ctx,0.202,4.276,21
+C-MAPSS,FD004 R42 tirage 4,injecte,prod_quad,0,est_brut,0.458,4.608,21
+C-MAPSS,FD004 R42 tirage 4,injecte,prod_quad,0,est_ctx,0.502,4.26,21
+C-MAPSS,FD004 R42 tirage 4,injecte,prod_quad,1,est_brut,0.394,2.924,21
+C-MAPSS,FD004 R42 tirage 4,injecte,prod_quad,1,est_ctx,0.426,2.808,21
+C-MAPSS,FD004 R42 tirage 4,injecte,prod_seuil,0,est_brut,0.49,4.268,21
+C-MAPSS,FD004 R42 tirage 4,injecte,prod_seuil,0,est_ctx,0.556,4.504,21
+C-MAPSS,FD004 R42 tirage 4,injecte,prod_seuil,1,est_brut,0.504,3.976,21
+C-MAPSS,FD004 R42 tirage 4,injecte,prod_seuil,1,est_ctx,0.584,3.828,21
+C-MAPSS,FD004 R60 tirage 0,injecte,mesure,0,est_brut,0.16,2.12,20
+C-MAPSS,FD004 R60 tirage 0,injecte,mesure,0,est_ctx,0.176,2.004,20
+C-MAPSS,FD004 R60 tirage 0,placebo,mesure,0,est_brut,0.116,2.076,20
+C-MAPSS,FD004 R60 tirage 0,placebo,mesure,0,est_ctx,0.108,1.932,20
+C-MAPSS,FD004 R60 tirage 0,injecte,mesure,1,est_brut,0.16,2.696,20
+C-MAPSS,FD004 R60 tirage 0,injecte,mesure,1,est_ctx,0.196,2.876,20
+C-MAPSS,FD004 R60 tirage 0,placebo,mesure,1,est_brut,0.144,2.68,20
+C-MAPSS,FD004 R60 tirage 0,placebo,mesure,1,est_ctx,0.148,2.824,20
+C-MAPSS,FD004 R60 tirage 0,injecte,maintenance,0,est_brut,0.162,2.352,20
+C-MAPSS,FD004 R60 tirage 0,injecte,maintenance,0,est_ctx,0.222,2.64,20
+C-MAPSS,FD004 R60 tirage 0,placebo,maintenance,0,est_brut,0.134,2.8,20
+C-MAPSS,FD004 R60 tirage 0,placebo,maintenance,0,est_ctx,0.12,2.248,20
+C-MAPSS,FD004 R60 tirage 0,injecte,maintenance,1,est_brut,0.16,2.428,20
+C-MAPSS,FD004 R60 tirage 0,injecte,maintenance,1,est_ctx,0.208,2.504,20
+C-MAPSS,FD004 R60 tirage 0,placebo,maintenance,1,est_brut,0.13,2.468,20
+C-MAPSS,FD004 R60 tirage 0,placebo,maintenance,1,est_ctx,0.106,2.184,20
+C-MAPSS,FD004 R60 tirage 0,injecte,production,0,est_brut,0.232,2.68,20
+C-MAPSS,FD004 R60 tirage 0,injecte,production,0,est_ctx,0.272,2.828,20
+C-MAPSS,FD004 R60 tirage 0,placebo,production,0,est_brut,0.12,2.456,20
+C-MAPSS,FD004 R60 tirage 0,placebo,production,0,est_ctx,0.12,2.524,20
+C-MAPSS,FD004 R60 tirage 0,injecte,production,1,est_brut,0.254,3.42,20
+C-MAPSS,FD004 R60 tirage 0,injecte,production,1,est_ctx,0.284,3.348,20
+C-MAPSS,FD004 R60 tirage 0,placebo,production,1,est_brut,0.154,3.216,20
+C-MAPSS,FD004 R60 tirage 0,placebo,production,1,est_ctx,0.15,3.076,20
+C-MAPSS,FD004 R60 tirage 0,injecte,prod_quad,0,est_brut,0.17,3.032,20
+C-MAPSS,FD004 R60 tirage 0,injecte,prod_quad,0,est_ctx,0.184,3.028,20
+C-MAPSS,FD004 R60 tirage 0,injecte,prod_quad,1,est_brut,0.17,3.052,20
+C-MAPSS,FD004 R60 tirage 0,injecte,prod_quad,1,est_ctx,0.18,2.96,20
+C-MAPSS,FD004 R60 tirage 0,injecte,prod_seuil,0,est_brut,0.204,2.432,20
+C-MAPSS,FD004 R60 tirage 0,injecte,prod_seuil,0,est_ctx,0.254,2.508,20
+C-MAPSS,FD004 R60 tirage 0,injecte,prod_seuil,1,est_brut,0.174,2.112,20
+C-MAPSS,FD004 R60 tirage 0,injecte,prod_seuil,1,est_ctx,0.21,2.268,20
+C-MAPSS,FD004 R60 tirage 1,injecte,mesure,0,est_brut,0.172,2.16,20
+C-MAPSS,FD004 R60 tirage 1,injecte,mesure,0,est_ctx,0.204,2.744,20
+C-MAPSS,FD004 R60 tirage 1,placebo,mesure,0,est_brut,0.132,2.12,20
+C-MAPSS,FD004 R60 tirage 1,placebo,mesure,0,est_ctx,0.132,2.668,20
+C-MAPSS,FD004 R60 tirage 1,injecte,mesure,1,est_brut,0.148,2.892,20
+C-MAPSS,FD004 R60 tirage 1,injecte,mesure,1,est_ctx,0.208,2.976,20
+C-MAPSS,FD004 R60 tirage 1,placebo,mesure,1,est_brut,0.128,2.872,20
+C-MAPSS,FD004 R60 tirage 1,placebo,mesure,1,est_ctx,0.148,2.916,20
+C-MAPSS,FD004 R60 tirage 1,injecte,maintenance,0,est_brut,0.154,2.652,20
+C-MAPSS,FD004 R60 tirage 1,injecte,maintenance,0,est_ctx,0.222,2.508,20
+C-MAPSS,FD004 R60 tirage 1,placebo,maintenance,0,est_brut,0.13,2.78,20
+C-MAPSS,FD004 R60 tirage 1,placebo,maintenance,0,est_ctx,0.106,2.288,20
+C-MAPSS,FD004 R60 tirage 1,injecte,maintenance,1,est_brut,0.166,2.484,20
+C-MAPSS,FD004 R60 tirage 1,injecte,maintenance,1,est_ctx,0.174,2.452,20
+C-MAPSS,FD004 R60 tirage 1,placebo,maintenance,1,est_brut,0.134,2.404,20
+C-MAPSS,FD004 R60 tirage 1,placebo,maintenance,1,est_ctx,0.138,2.748,20
+C-MAPSS,FD004 R60 tirage 1,injecte,production,0,est_brut,0.254,3.416,20
+C-MAPSS,FD004 R60 tirage 1,injecte,production,0,est_ctx,0.292,3.372,20
+C-MAPSS,FD004 R60 tirage 1,placebo,production,0,est_brut,0.15,3.208,20
+C-MAPSS,FD004 R60 tirage 1,placebo,production,0,est_ctx,0.152,3.092,20
+C-MAPSS,FD004 R60 tirage 1,injecte,production,1,est_brut,0.246,3.264,20
+C-MAPSS,FD004 R60 tirage 1,injecte,production,1,est_ctx,0.274,3.384,20
+C-MAPSS,FD004 R60 tirage 1,placebo,production,1,est_brut,0.162,3.096,20
+C-MAPSS,FD004 R60 tirage 1,placebo,production,1,est_ctx,0.144,3.12,20
+C-MAPSS,FD004 R60 tirage 1,injecte,prod_quad,0,est_brut,0.172,2.796,20
+C-MAPSS,FD004 R60 tirage 1,injecte,prod_quad,0,est_ctx,0.192,2.816,20
+C-MAPSS,FD004 R60 tirage 1,injecte,prod_quad,1,est_brut,0.192,3.616,20
+C-MAPSS,FD004 R60 tirage 1,injecte,prod_quad,1,est_ctx,0.206,3.484,20
+C-MAPSS,FD004 R60 tirage 1,injecte,prod_seuil,0,est_brut,0.244,2.976,20
+C-MAPSS,FD004 R60 tirage 1,injecte,prod_seuil,0,est_ctx,0.274,3.192,20
+C-MAPSS,FD004 R60 tirage 1,injecte,prod_seuil,1,est_brut,0.194,2.42,20
+C-MAPSS,FD004 R60 tirage 1,injecte,prod_seuil,1,est_ctx,0.234,2.528,20
+C-MAPSS,FD004 R60 tirage 2,injecte,mesure,0,est_brut,0.176,2.932,20
+C-MAPSS,FD004 R60 tirage 2,injecte,mesure,0,est_ctx,0.212,2.188,20
+C-MAPSS,FD004 R60 tirage 2,placebo,mesure,0,est_brut,0.14,2.896,20
+C-MAPSS,FD004 R60 tirage 2,placebo,mesure,0,est_ctx,0.1,2.076,20
+C-MAPSS,FD004 R60 tirage 2,injecte,mesure,1,est_brut,0.148,2.436,20
+C-MAPSS,FD004 R60 tirage 2,injecte,mesure,1,est_ctx,0.18,2.544,20
+C-MAPSS,FD004 R60 tirage 2,placebo,mesure,1,est_brut,0.128,2.416,20
+C-MAPSS,FD004 R60 tirage 2,placebo,mesure,1,est_ctx,0.132,2.496,20
+C-MAPSS,FD004 R60 tirage 2,injecte,maintenance,0,est_brut,0.154,2.476,20
+C-MAPSS,FD004 R60 tirage 2,injecte,maintenance,0,est_ctx,0.188,2.148,20
+C-MAPSS,FD004 R60 tirage 2,placebo,maintenance,0,est_brut,0.13,2.668,20
+C-MAPSS,FD004 R60 tirage 2,placebo,maintenance,0,est_ctx,0.118,2.468,20
+C-MAPSS,FD004 R60 tirage 2,injecte,maintenance,1,est_brut,0.15,2.36,20
+C-MAPSS,FD004 R60 tirage 2,injecte,maintenance,1,est_ctx,0.218,2.928,20
+C-MAPSS,FD004 R60 tirage 2,placebo,maintenance,1,est_brut,0.108,2.196,20
+C-MAPSS,FD004 R60 tirage 2,placebo,maintenance,1,est_ctx,0.116,2.46,20
+C-MAPSS,FD004 R60 tirage 2,injecte,production,0,est_brut,0.234,3.0,20
+C-MAPSS,FD004 R60 tirage 2,injecte,production,0,est_ctx,0.284,3.324,20
+C-MAPSS,FD004 R60 tirage 2,placebo,production,0,est_brut,0.152,2.836,20
+C-MAPSS,FD004 R60 tirage 2,placebo,production,0,est_ctx,0.158,3.08,20
+C-MAPSS,FD004 R60 tirage 2,injecte,production,1,est_brut,0.31,4.544,20
+C-MAPSS,FD004 R60 tirage 2,injecte,production,1,est_ctx,0.34,4.072,20
+C-MAPSS,FD004 R60 tirage 2,placebo,production,1,est_brut,0.216,4.356,20
+C-MAPSS,FD004 R60 tirage 2,placebo,production,1,est_ctx,0.188,3.768,20
+C-MAPSS,FD004 R60 tirage 2,injecte,prod_quad,0,est_brut,0.166,2.664,20
+C-MAPSS,FD004 R60 tirage 2,injecte,prod_quad,0,est_ctx,0.17,2.64,20
+C-MAPSS,FD004 R60 tirage 2,injecte,prod_quad,1,est_brut,0.18,3.308,20
+C-MAPSS,FD004 R60 tirage 2,injecte,prod_quad,1,est_ctx,0.218,3.596,20
+C-MAPSS,FD004 R60 tirage 2,injecte,prod_seuil,0,est_brut,0.214,2.848,20
+C-MAPSS,FD004 R60 tirage 2,injecte,prod_seuil,0,est_ctx,0.234,2.548,20
+C-MAPSS,FD004 R60 tirage 2,injecte,prod_seuil,1,est_brut,0.208,2.808,20
+C-MAPSS,FD004 R60 tirage 2,injecte,prod_seuil,1,est_ctx,0.24,2.8,20
+C-MAPSS,FD004 R60 tirage 3,injecte,mesure,0,est_brut,0.22,3.14,20
+C-MAPSS,FD004 R60 tirage 3,injecte,mesure,0,est_ctx,0.184,2.868,20
+C-MAPSS,FD004 R60 tirage 3,placebo,mesure,0,est_brut,0.164,3.084,20
+C-MAPSS,FD004 R60 tirage 3,placebo,mesure,0,est_ctx,0.136,2.82,20
+C-MAPSS,FD004 R60 tirage 3,injecte,mesure,1,est_brut,0.156,2.312,20
+C-MAPSS,FD004 R60 tirage 3,injecte,mesure,1,est_ctx,0.212,2.936,20
+C-MAPSS,FD004 R60 tirage 3,placebo,mesure,1,est_brut,0.116,2.272,20
+C-MAPSS,FD004 R60 tirage 3,placebo,mesure,1,est_ctx,0.14,2.864,20
+C-MAPSS,FD004 R60 tirage 3,injecte,maintenance,0,est_brut,0.166,2.336,20
+C-MAPSS,FD004 R60 tirage 3,injecte,maintenance,0,est_ctx,0.216,1.908,20
+C-MAPSS,FD004 R60 tirage 3,placebo,maintenance,0,est_brut,0.104,2.164,20
+C-MAPSS,FD004 R60 tirage 3,placebo,maintenance,0,est_ctx,0.122,2.476,20
+C-MAPSS,FD004 R60 tirage 3,injecte,maintenance,1,est_brut,0.172,2.768,20
+C-MAPSS,FD004 R60 tirage 3,injecte,maintenance,1,est_ctx,0.196,2.256,20
+C-MAPSS,FD004 R60 tirage 3,placebo,maintenance,1,est_brut,0.112,2.436,20
+C-MAPSS,FD004 R60 tirage 3,placebo,maintenance,1,est_ctx,0.162,3.192,20
+C-MAPSS,FD004 R60 tirage 3,injecte,production,0,est_brut,0.26,3.188,20
+C-MAPSS,FD004 R60 tirage 3,injecte,production,0,est_ctx,0.298,3.052,20
+C-MAPSS,FD004 R60 tirage 3,placebo,production,0,est_brut,0.136,2.94,20
+C-MAPSS,FD004 R60 tirage 3,placebo,production,0,est_ctx,0.134,2.728,20
+C-MAPSS,FD004 R60 tirage 3,injecte,production,1,est_brut,0.306,4.172,20
+C-MAPSS,FD004 R60 tirage 3,injecte,production,1,est_ctx,0.336,4.14,20
+C-MAPSS,FD004 R60 tirage 3,placebo,production,1,est_brut,0.206,3.972,20
+C-MAPSS,FD004 R60 tirage 3,placebo,production,1,est_ctx,0.188,3.844,20
+C-MAPSS,FD004 R60 tirage 3,injecte,prod_quad,0,est_brut,0.154,2.592,20
+C-MAPSS,FD004 R60 tirage 3,injecte,prod_quad,0,est_ctx,0.176,2.56,20
+C-MAPSS,FD004 R60 tirage 3,injecte,prod_quad,1,est_brut,0.16,2.912,20
+C-MAPSS,FD004 R60 tirage 3,injecte,prod_quad,1,est_ctx,0.186,2.82,20
+C-MAPSS,FD004 R60 tirage 3,injecte,prod_seuil,0,est_brut,0.236,3.164,20
+C-MAPSS,FD004 R60 tirage 3,injecte,prod_seuil,0,est_ctx,0.25,2.892,20
+C-MAPSS,FD004 R60 tirage 3,injecte,prod_seuil,1,est_brut,0.208,2.908,20
+C-MAPSS,FD004 R60 tirage 3,injecte,prod_seuil,1,est_ctx,0.276,3.112,20
+C-MAPSS,FD004 R60 tirage 4,injecte,mesure,0,est_brut,0.132,2.26,20
+C-MAPSS,FD004 R60 tirage 4,injecte,mesure,0,est_ctx,0.18,2.156,20
+C-MAPSS,FD004 R60 tirage 4,placebo,mesure,0,est_brut,0.096,2.224,20
+C-MAPSS,FD004 R60 tirage 4,placebo,mesure,0,est_ctx,0.1,2.076,20
+C-MAPSS,FD004 R60 tirage 4,injecte,mesure,1,est_brut,0.184,2.636,20
+C-MAPSS,FD004 R60 tirage 4,injecte,mesure,1,est_ctx,0.236,3.196,20
+C-MAPSS,FD004 R60 tirage 4,placebo,mesure,1,est_brut,0.148,2.6,20
+C-MAPSS,FD004 R60 tirage 4,placebo,mesure,1,est_ctx,0.16,3.12,20
+C-MAPSS,FD004 R60 tirage 4,injecte,maintenance,0,est_brut,0.146,2.236,20
+C-MAPSS,FD004 R60 tirage 4,injecte,maintenance,0,est_ctx,0.176,1.712,20
+C-MAPSS,FD004 R60 tirage 4,placebo,maintenance,0,est_brut,0.134,2.66,20
+C-MAPSS,FD004 R60 tirage 4,placebo,maintenance,0,est_ctx,0.12,2.38,20
+C-MAPSS,FD004 R60 tirage 4,injecte,maintenance,1,est_brut,0.174,2.732,20
+C-MAPSS,FD004 R60 tirage 4,injecte,maintenance,1,est_ctx,0.226,2.496,20
+C-MAPSS,FD004 R60 tirage 4,placebo,maintenance,1,est_brut,0.116,2.72,20
+C-MAPSS,FD004 R60 tirage 4,placebo,maintenance,1,est_ctx,0.116,2.568,20
+C-MAPSS,FD004 R60 tirage 4,injecte,production,0,est_brut,0.262,3.192,20
+C-MAPSS,FD004 R60 tirage 4,injecte,production,0,est_ctx,0.3,3.056,20
+C-MAPSS,FD004 R60 tirage 4,placebo,production,0,est_brut,0.148,2.964,20
+C-MAPSS,FD004 R60 tirage 4,placebo,production,0,est_ctx,0.15,2.752,20
+C-MAPSS,FD004 R60 tirage 4,injecte,production,1,est_brut,0.28,4.184,20
+C-MAPSS,FD004 R60 tirage 4,injecte,production,1,est_ctx,0.304,3.904,20
+C-MAPSS,FD004 R60 tirage 4,placebo,production,1,est_brut,0.192,4.008,20
+C-MAPSS,FD004 R60 tirage 4,placebo,production,1,est_ctx,0.17,3.636,20
+C-MAPSS,FD004 R60 tirage 4,injecte,prod_quad,0,est_brut,0.16,2.836,20
+C-MAPSS,FD004 R60 tirage 4,injecte,prod_quad,0,est_ctx,0.17,2.66,20
+C-MAPSS,FD004 R60 tirage 4,injecte,prod_quad,1,est_brut,0.19,3.304,20
+C-MAPSS,FD004 R60 tirage 4,injecte,prod_quad,1,est_ctx,0.25,3.648,20
+C-MAPSS,FD004 R60 tirage 4,injecte,prod_seuil,0,est_brut,0.234,2.696,20
+C-MAPSS,FD004 R60 tirage 4,injecte,prod_seuil,0,est_ctx,0.266,2.572,20
+C-MAPSS,FD004 R60 tirage 4,injecte,prod_seuil,1,est_brut,0.218,2.94,20
+C-MAPSS,FD004 R60 tirage 4,injecte,prod_seuil,1,est_ctx,0.256,2.772,20
+C-MAPSS,FD004 R20 tirage 0,injecte,mesure,0,est_brut,0.112,2.26,21
+C-MAPSS,FD004 R20 tirage 0,injecte,mesure,0,est_ctx,0.484,3.14,21
+C-MAPSS,FD004 R20 tirage 0,placebo,mesure,0,est_brut,0.076,2.224,21
+C-MAPSS,FD004 R20 tirage 0,placebo,mesure,0,est_ctx,0.12,2.736,21
+C-MAPSS,FD004 R20 tirage 0,injecte,mesure,1,est_brut,0.156,2.748,21
+C-MAPSS,FD004 R20 tirage 0,injecte,mesure,1,est_ctx,0.48,3.224,21
+C-MAPSS,FD004 R20 tirage 0,placebo,mesure,1,est_brut,0.164,2.756,21
+C-MAPSS,FD004 R20 tirage 0,placebo,mesure,1,est_ctx,0.144,2.948,21
+C-MAPSS,FD004 R20 tirage 0,injecte,maintenance,0,est_brut,0.154,2.664,21
+C-MAPSS,FD004 R20 tirage 0,injecte,maintenance,0,est_ctx,0.496,3.092,21
+C-MAPSS,FD004 R20 tirage 0,placebo,maintenance,0,est_brut,0.136,2.724,21
+C-MAPSS,FD004 R20 tirage 0,placebo,maintenance,0,est_ctx,0.128,2.712,21
+C-MAPSS,FD004 R20 tirage 0,injecte,maintenance,1,est_brut,0.144,2.608,21
+C-MAPSS,FD004 R20 tirage 0,injecte,maintenance,1,est_ctx,0.576,4.504,21
+C-MAPSS,FD004 R20 tirage 0,placebo,maintenance,1,est_brut,0.158,2.98,21
+C-MAPSS,FD004 R20 tirage 0,placebo,maintenance,1,est_ctx,0.142,3.092,21
+C-MAPSS,FD004 R20 tirage 0,injecte,production,0,est_brut,0.468,3.96,21
+C-MAPSS,FD004 R20 tirage 0,injecte,production,0,est_ctx,0.542,4.148,21
+C-MAPSS,FD004 R20 tirage 0,placebo,production,0,est_brut,0.176,3.372,21
+C-MAPSS,FD004 R20 tirage 0,placebo,production,0,est_ctx,0.164,3.364,21
+C-MAPSS,FD004 R20 tirage 0,injecte,production,1,est_brut,0.522,5.052,21
+C-MAPSS,FD004 R20 tirage 0,injecte,production,1,est_ctx,0.592,5.5,21
+C-MAPSS,FD004 R20 tirage 0,placebo,production,1,est_brut,0.208,4.416,21
+C-MAPSS,FD004 R20 tirage 0,placebo,production,1,est_ctx,0.252,4.816,21
+C-MAPSS,FD004 R20 tirage 0,injecte,prod_quad,0,est_brut,0.402,4.236,21
+C-MAPSS,FD004 R20 tirage 0,injecte,prod_quad,0,est_ctx,0.492,4.648,21
+C-MAPSS,FD004 R20 tirage 0,injecte,prod_quad,1,est_brut,0.384,3.784,21
+C-MAPSS,FD004 R20 tirage 0,injecte,prod_quad,1,est_ctx,0.45,3.476,21
+C-MAPSS,FD004 R20 tirage 0,injecte,prod_seuil,0,est_brut,0.448,3.832,21
+C-MAPSS,FD004 R20 tirage 0,injecte,prod_seuil,0,est_ctx,0.524,4.36,21
+C-MAPSS,FD004 R20 tirage 0,injecte,prod_seuil,1,est_brut,0.422,3.796,21
+C-MAPSS,FD004 R20 tirage 0,injecte,prod_seuil,1,est_ctx,0.504,3.804,21
+C-MAPSS,FD004 R20 tirage 1,injecte,mesure,0,est_brut,0.14,2.368,21
+C-MAPSS,FD004 R20 tirage 1,injecte,mesure,0,est_ctx,0.54,3.036,21
+C-MAPSS,FD004 R20 tirage 1,placebo,mesure,0,est_brut,0.112,2.34,21
+C-MAPSS,FD004 R20 tirage 1,placebo,mesure,0,est_ctx,0.136,2.636,21
+C-MAPSS,FD004 R20 tirage 1,injecte,mesure,1,est_brut,0.148,2.48,21
+C-MAPSS,FD004 R20 tirage 1,injecte,mesure,1,est_ctx,0.5,3.372,21
+C-MAPSS,FD004 R20 tirage 1,placebo,mesure,1,est_brut,0.132,2.464,21
+C-MAPSS,FD004 R20 tirage 1,placebo,mesure,1,est_ctx,0.132,3.04,21
+C-MAPSS,FD004 R20 tirage 1,injecte,maintenance,0,est_brut,0.114,1.944,21
+C-MAPSS,FD004 R20 tirage 1,injecte,maintenance,0,est_ctx,0.524,3.604,21
+C-MAPSS,FD004 R20 tirage 1,placebo,maintenance,0,est_brut,0.154,3.384,21
+C-MAPSS,FD004 R20 tirage 1,placebo,maintenance,0,est_ctx,0.16,3.208,21
+C-MAPSS,FD004 R20 tirage 1,injecte,maintenance,1,est_brut,0.178,3.244,21
+C-MAPSS,FD004 R20 tirage 1,injecte,maintenance,1,est_ctx,0.586,3.64,21
+C-MAPSS,FD004 R20 tirage 1,placebo,maintenance,1,est_brut,0.148,2.872,21
+C-MAPSS,FD004 R20 tirage 1,placebo,maintenance,1,est_ctx,0.098,2.224,21
+C-MAPSS,FD004 R20 tirage 1,injecte,production,0,est_brut,0.428,3.736,21
+C-MAPSS,FD004 R20 tirage 1,injecte,production,0,est_ctx,0.556,4.092,21
+C-MAPSS,FD004 R20 tirage 1,placebo,production,0,est_brut,0.158,3.188,21
+C-MAPSS,FD004 R20 tirage 1,placebo,production,0,est_ctx,0.158,3.324,21
+C-MAPSS,FD004 R20 tirage 1,injecte,production,1,est_brut,0.482,4.776,21
+C-MAPSS,FD004 R20 tirage 1,injecte,production,1,est_ctx,0.608,5.048,21
+C-MAPSS,FD004 R20 tirage 1,placebo,production,1,est_brut,0.19,4.184,21
+C-MAPSS,FD004 R20 tirage 1,placebo,production,1,est_ctx,0.184,4.136,21
+C-MAPSS,FD004 R20 tirage 1,injecte,prod_quad,0,est_brut,0.392,4.12,21
+C-MAPSS,FD004 R20 tirage 1,injecte,prod_quad,0,est_ctx,0.504,4.86,21
+C-MAPSS,FD004 R20 tirage 1,injecte,prod_quad,1,est_brut,0.346,2.896,21
+C-MAPSS,FD004 R20 tirage 1,injecte,prod_quad,1,est_ctx,0.44,3.512,21
+C-MAPSS,FD004 R20 tirage 1,injecte,prod_seuil,0,est_brut,0.48,4.508,21
+C-MAPSS,FD004 R20 tirage 1,injecte,prod_seuil,0,est_ctx,0.568,4.42,21
+C-MAPSS,FD004 R20 tirage 1,injecte,prod_seuil,1,est_brut,0.442,3.3,21
+C-MAPSS,FD004 R20 tirage 1,injecte,prod_seuil,1,est_ctx,0.578,3.852,21
+C-MAPSS,FD004 R20 tirage 2,injecte,mesure,0,est_brut,0.128,2.464,21
+C-MAPSS,FD004 R20 tirage 2,injecte,mesure,0,est_ctx,0.528,3.568,21
+C-MAPSS,FD004 R20 tirage 2,placebo,mesure,0,est_brut,0.108,2.444,21
+C-MAPSS,FD004 R20 tirage 2,placebo,mesure,0,est_ctx,0.136,3.076,21
+C-MAPSS,FD004 R20 tirage 2,injecte,mesure,1,est_brut,0.192,2.836,21
+C-MAPSS,FD004 R20 tirage 2,injecte,mesure,1,est_ctx,0.5,2.696,21
+C-MAPSS,FD004 R20 tirage 2,placebo,mesure,1,est_brut,0.16,2.804,21
+C-MAPSS,FD004 R20 tirage 2,placebo,mesure,1,est_ctx,0.12,2.312,21
+C-MAPSS,FD004 R20 tirage 2,injecte,maintenance,0,est_brut,0.14,2.656,21
+C-MAPSS,FD004 R20 tirage 2,injecte,maintenance,0,est_ctx,0.466,2.94,21
+C-MAPSS,FD004 R20 tirage 2,placebo,maintenance,0,est_brut,0.142,3.18,21
+C-MAPSS,FD004 R20 tirage 2,placebo,maintenance,0,est_ctx,0.128,2.548,21
+C-MAPSS,FD004 R20 tirage 2,injecte,maintenance,1,est_brut,0.164,2.664,21
+C-MAPSS,FD004 R20 tirage 2,injecte,maintenance,1,est_ctx,0.476,2.928,21
+C-MAPSS,FD004 R20 tirage 2,placebo,maintenance,1,est_brut,0.17,3.38,21
+C-MAPSS,FD004 R20 tirage 2,placebo,maintenance,1,est_ctx,0.15,3.352,21
+C-MAPSS,FD004 R20 tirage 2,injecte,production,0,est_brut,0.434,3.456,21
+C-MAPSS,FD004 R20 tirage 2,injecte,production,0,est_ctx,0.528,3.728,21
+C-MAPSS,FD004 R20 tirage 2,placebo,production,0,est_brut,0.142,2.868,21
+C-MAPSS,FD004 R20 tirage 2,placebo,production,0,est_ctx,0.136,3.108,21
+C-MAPSS,FD004 R20 tirage 2,injecte,production,1,est_brut,0.502,4.78,21
+C-MAPSS,FD004 R20 tirage 2,injecte,production,1,est_ctx,0.602,4.792,21
+C-MAPSS,FD004 R20 tirage 2,placebo,production,1,est_brut,0.204,4.18,21
+C-MAPSS,FD004 R20 tirage 2,placebo,production,1,est_ctx,0.22,4.072,21
+C-MAPSS,FD004 R20 tirage 2,injecte,prod_quad,0,est_brut,0.43,4.612,21
+C-MAPSS,FD004 R20 tirage 2,injecte,prod_quad,0,est_ctx,0.528,5.252,21
+C-MAPSS,FD004 R20 tirage 2,injecte,prod_quad,1,est_brut,0.346,2.852,21
+C-MAPSS,FD004 R20 tirage 2,injecte,prod_quad,1,est_ctx,0.43,2.94,21
+C-MAPSS,FD004 R20 tirage 2,injecte,prod_seuil,0,est_brut,0.448,4.468,21
+C-MAPSS,FD004 R20 tirage 2,injecte,prod_seuil,0,est_ctx,0.568,4.504,21
+C-MAPSS,FD004 R20 tirage 2,injecte,prod_seuil,1,est_brut,0.444,3.488,21
+C-MAPSS,FD004 R20 tirage 2,injecte,prod_seuil,1,est_ctx,0.58,4.12,21
+C-MAPSS,FD004 R20 tirage 3,injecte,mesure,0,est_brut,0.16,2.672,21
+C-MAPSS,FD004 R20 tirage 3,injecte,mesure,0,est_ctx,0.512,3.46,21
+C-MAPSS,FD004 R20 tirage 3,placebo,mesure,0,est_brut,0.132,2.644,21
+C-MAPSS,FD004 R20 tirage 3,placebo,mesure,0,est_ctx,0.14,3.172,21
+C-MAPSS,FD004 R20 tirage 3,injecte,mesure,1,est_brut,0.164,2.652,21
+C-MAPSS,FD004 R20 tirage 3,injecte,mesure,1,est_ctx,0.508,2.86,21
+C-MAPSS,FD004 R20 tirage 3,placebo,mesure,1,est_brut,0.128,2.616,21
+C-MAPSS,FD004 R20 tirage 3,placebo,mesure,1,est_ctx,0.112,2.492,21
+C-MAPSS,FD004 R20 tirage 3,injecte,maintenance,0,est_brut,0.116,1.82,21
+C-MAPSS,FD004 R20 tirage 3,injecte,maintenance,0,est_ctx,0.506,3.268,21
+C-MAPSS,FD004 R20 tirage 3,placebo,maintenance,0,est_brut,0.118,2.484,21
+C-MAPSS,FD004 R20 tirage 3,placebo,maintenance,0,est_ctx,0.154,2.872,21
+C-MAPSS,FD004 R20 tirage 3,injecte,maintenance,1,est_brut,0.148,2.744,21
+C-MAPSS,FD004 R20 tirage 3,injecte,maintenance,1,est_ctx,0.532,3.756,21
+C-MAPSS,FD004 R20 tirage 3,placebo,maintenance,1,est_brut,0.154,3.204,21
+C-MAPSS,FD004 R20 tirage 3,placebo,maintenance,1,est_ctx,0.126,2.552,21
+C-MAPSS,FD004 R20 tirage 3,injecte,production,0,est_brut,0.464,3.78,21
+C-MAPSS,FD004 R20 tirage 3,injecte,production,0,est_ctx,0.514,3.896,21
+C-MAPSS,FD004 R20 tirage 3,placebo,production,0,est_brut,0.162,3.176,21
+C-MAPSS,FD004 R20 tirage 3,placebo,production,0,est_ctx,0.148,3.128,21
+C-MAPSS,FD004 R20 tirage 3,injecte,production,1,est_brut,0.472,4.688,21
+C-MAPSS,FD004 R20 tirage 3,injecte,production,1,est_ctx,0.6,4.832,21
+C-MAPSS,FD004 R20 tirage 3,placebo,production,1,est_brut,0.194,4.128,21
+C-MAPSS,FD004 R20 tirage 3,placebo,production,1,est_ctx,0.208,4.036,21
+C-MAPSS,FD004 R20 tirage 3,injecte,prod_quad,0,est_brut,0.444,5.032,21
+C-MAPSS,FD004 R20 tirage 3,injecte,prod_quad,0,est_ctx,0.542,5.264,21
+C-MAPSS,FD004 R20 tirage 3,injecte,prod_quad,1,est_brut,0.358,3.14,21
+C-MAPSS,FD004 R20 tirage 3,injecte,prod_quad,1,est_ctx,0.46,3.404,21
+C-MAPSS,FD004 R20 tirage 3,injecte,prod_seuil,0,est_brut,0.46,4.456,21
+C-MAPSS,FD004 R20 tirage 3,injecte,prod_seuil,0,est_ctx,0.522,4.34,21
+C-MAPSS,FD004 R20 tirage 3,injecte,prod_seuil,1,est_brut,0.438,3.072,21
+C-MAPSS,FD004 R20 tirage 3,injecte,prod_seuil,1,est_ctx,0.566,3.612,21
+C-MAPSS,FD004 R20 tirage 4,injecte,mesure,0,est_brut,0.172,2.856,21
+C-MAPSS,FD004 R20 tirage 4,injecte,mesure,0,est_ctx,0.436,3.008,21
+C-MAPSS,FD004 R20 tirage 4,placebo,mesure,0,est_brut,0.136,2.82,21
+C-MAPSS,FD004 R20 tirage 4,placebo,mesure,0,est_ctx,0.132,2.668,21
+C-MAPSS,FD004 R20 tirage 4,injecte,mesure,1,est_brut,0.144,2.224,21
+C-MAPSS,FD004 R20 tirage 4,injecte,mesure,1,est_ctx,0.42,2.872,21
+C-MAPSS,FD004 R20 tirage 4,placebo,mesure,1,est_brut,0.116,2.196,21
+C-MAPSS,FD004 R20 tirage 4,placebo,mesure,1,est_ctx,0.124,2.572,21
+C-MAPSS,FD004 R20 tirage 4,injecte,maintenance,0,est_brut,0.156,2.512,21
+C-MAPSS,FD004 R20 tirage 4,injecte,maintenance,0,est_ctx,0.508,3.348,21
+C-MAPSS,FD004 R20 tirage 4,placebo,maintenance,0,est_brut,0.124,2.792,21
+C-MAPSS,FD004 R20 tirage 4,placebo,maintenance,0,est_ctx,0.162,3.248,21
+C-MAPSS,FD004 R20 tirage 4,injecte,maintenance,1,est_brut,0.122,2.132,21
+C-MAPSS,FD004 R20 tirage 4,injecte,maintenance,1,est_ctx,0.494,3.396,21
+C-MAPSS,FD004 R20 tirage 4,placebo,maintenance,1,est_brut,0.134,2.564,21
+C-MAPSS,FD004 R20 tirage 4,placebo,maintenance,1,est_ctx,0.122,2.828,21
+C-MAPSS,FD004 R20 tirage 4,injecte,production,0,est_brut,0.454,3.908,21
+C-MAPSS,FD004 R20 tirage 4,injecte,production,0,est_ctx,0.57,4.176,21
+C-MAPSS,FD004 R20 tirage 4,placebo,production,0,est_brut,0.164,3.324,21
+C-MAPSS,FD004 R20 tirage 4,placebo,production,0,est_ctx,0.182,3.44,21
+C-MAPSS,FD004 R20 tirage 4,injecte,production,1,est_brut,0.518,5.376,21
+C-MAPSS,FD004 R20 tirage 4,injecte,production,1,est_ctx,0.572,5.068,21
+C-MAPSS,FD004 R20 tirage 4,placebo,production,1,est_brut,0.23,4.8,21
+C-MAPSS,FD004 R20 tirage 4,placebo,production,1,est_ctx,0.234,4.316,21
+C-MAPSS,FD004 R20 tirage 4,injecte,prod_quad,0,est_brut,0.418,4.584,21
+C-MAPSS,FD004 R20 tirage 4,injecte,prod_quad,0,est_ctx,0.458,4.632,21
+C-MAPSS,FD004 R20 tirage 4,injecte,prod_quad,1,est_brut,0.336,2.936,21
+C-MAPSS,FD004 R20 tirage 4,injecte,prod_quad,1,est_ctx,0.398,3.204,21
+C-MAPSS,FD004 R20 tirage 4,injecte,prod_seuil,0,est_brut,0.434,3.916,21
+C-MAPSS,FD004 R20 tirage 4,injecte,prod_seuil,0,est_ctx,0.534,4.132,21
+C-MAPSS,FD004 R20 tirage 4,injecte,prod_seuil,1,est_brut,0.472,4.048,21
+C-MAPSS,FD004 R20 tirage 4,injecte,prod_seuil,1,est_ctx,0.544,3.972,21
+batteries,entr. uniforme,injecte,mesure,0,est_brut,1.0,1.59375,6
+batteries,entr. uniforme,injecte,mesure,0,est_ctx,0.8125,1.5,6
+batteries,entr. uniforme,placebo,mesure,0,est_brut,0.15625,0.75,6
+batteries,entr. uniforme,placebo,mesure,0,est_ctx,0.0625,0.75,6
+batteries,entr. uniforme,injecte,mesure,1,est_brut,0.96875,1.78125,6
+batteries,entr. uniforme,injecte,mesure,1,est_ctx,0.84375,1.5625,6
+batteries,entr. uniforme,placebo,mesure,1,est_brut,0.1875,1.0,6
+batteries,entr. uniforme,placebo,mesure,1,est_ctx,0.1875,0.9375,6
+batteries,entr. uniforme,injecte,maintenance,0,est_brut,0.96875,3.65625,6
+batteries,entr. uniforme,injecte,maintenance,0,est_ctx,0.765625,3.53125,6
+batteries,entr. uniforme,placebo,maintenance,0,est_brut,0.125,1.1875,6
+batteries,entr. uniforme,placebo,maintenance,0,est_ctx,0.140625,1.0,6
+batteries,entr. uniforme,injecte,maintenance,1,est_brut,0.953125,3.9375,6
+batteries,entr. uniforme,injecte,maintenance,1,est_ctx,0.796875,4.375,6
+batteries,entr. uniforme,placebo,maintenance,1,est_brut,0.109375,0.84375,6
+batteries,entr. uniforme,placebo,maintenance,1,est_ctx,0.21875,1.15625,6
+batteries,entr. uniforme,injecte,production,0,est_brut,0.875,3.3125,6
+batteries,entr. uniforme,injecte,production,0,est_ctx,0.875,2.96875,6
+batteries,entr. uniforme,placebo,production,0,est_brut,0.40625,2.375,6
+batteries,entr. uniforme,placebo,production,0,est_ctx,0.25,1.75,6
+batteries,entr. uniforme,injecte,production,1,est_brut,0.953125,3.625,6
+batteries,entr. uniforme,injecte,production,1,est_ctx,0.9375,3.71875,6
+batteries,entr. uniforme,placebo,production,1,est_brut,0.46875,2.65625,6
+batteries,entr. uniforme,placebo,production,1,est_ctx,0.4375,2.65625,6
+batteries,entr. uniforme,injecte,prod_quad,0,est_brut,0.71875,3.28125,6
+batteries,entr. uniforme,injecte,prod_quad,0,est_ctx,0.65625,3.03125,6
+batteries,entr. uniforme,injecte,prod_quad,1,est_brut,0.59375,2.6875,6
+batteries,entr. uniforme,injecte,prod_quad,1,est_ctx,0.609375,2.375,6
+batteries,entr. uniforme,injecte,prod_seuil,0,est_brut,0.890625,3.8125,6
+batteries,entr. uniforme,injecte,prod_seuil,0,est_ctx,0.828125,3.25,6
+batteries,entr. uniforme,injecte,prod_seuil,1,est_brut,0.875,3.59375,6
+batteries,entr. uniforme,injecte,prod_seuil,1,est_ctx,0.90625,3.78125,6
+batteries,entr. biaisee_basse_TA,injecte,mesure,0,est_brut,0.75,1.325,6
+batteries,entr. biaisee_basse_TA,injecte,mesure,0,est_ctx,0.725,1.3,6
+batteries,entr. biaisee_basse_TA,placebo,mesure,0,est_brut,0.175,0.75,6
+batteries,entr. biaisee_basse_TA,placebo,mesure,0,est_ctx,0.175,0.725,6
+batteries,entr. biaisee_basse_TA,injecte,mesure,1,est_brut,0.8,1.675,6
+batteries,entr. biaisee_basse_TA,injecte,mesure,1,est_ctx,0.725,1.7,6
+batteries,entr. biaisee_basse_TA,placebo,mesure,1,est_brut,0.175,1.05,6
+batteries,entr. biaisee_basse_TA,placebo,mesure,1,est_ctx,0.1,1.1,6
+batteries,entr. biaisee_basse_TA,injecte,maintenance,0,est_brut,0.8625,3.15,6
+batteries,entr. biaisee_basse_TA,injecte,maintenance,0,est_ctx,0.725,3.4,6
+batteries,entr. biaisee_basse_TA,placebo,maintenance,0,est_brut,0.15,1.25,6
+batteries,entr. biaisee_basse_TA,placebo,maintenance,0,est_ctx,0.125,1.025,6
+batteries,entr. biaisee_basse_TA,injecte,maintenance,1,est_brut,0.875,3.75,6
+batteries,entr. biaisee_basse_TA,injecte,maintenance,1,est_ctx,0.825,4.4,6
+batteries,entr. biaisee_basse_TA,placebo,maintenance,1,est_brut,0.1,0.775,6
+batteries,entr. biaisee_basse_TA,placebo,maintenance,1,est_ctx,0.1375,0.95,6
+batteries,entr. biaisee_basse_TA,injecte,production,0,est_brut,0.7375,2.625,6
+batteries,entr. biaisee_basse_TA,injecte,production,0,est_ctx,0.6875,2.15,6
+batteries,entr. biaisee_basse_TA,placebo,production,0,est_brut,0.375,1.9,6
+batteries,entr. biaisee_basse_TA,placebo,production,0,est_ctx,0.2,1.225,6
+batteries,entr. biaisee_basse_TA,injecte,production,1,est_brut,0.825,3.15,6
+batteries,entr. biaisee_basse_TA,injecte,production,1,est_ctx,0.7875,3.05,6
+batteries,entr. biaisee_basse_TA,placebo,production,1,est_brut,0.375,2.25,6
+batteries,entr. biaisee_basse_TA,placebo,production,1,est_ctx,0.3625,2.3,6
+batteries,entr. biaisee_basse_TA,injecte,prod_quad,0,est_brut,0.65,3.075,6
+batteries,entr. biaisee_basse_TA,injecte,prod_quad,0,est_ctx,0.6875,2.8,6
+batteries,entr. biaisee_basse_TA,injecte,prod_quad,1,est_brut,0.65,2.925,6
+batteries,entr. biaisee_basse_TA,injecte,prod_quad,1,est_ctx,0.625,2.675,6
+batteries,entr. biaisee_basse_TA,injecte,prod_seuil,0,est_brut,0.7875,3.325,6
+batteries,entr. biaisee_basse_TA,injecte,prod_seuil,0,est_ctx,0.7,2.75,6
+batteries,entr. biaisee_basse_TA,injecte,prod_seuil,1,est_brut,0.8125,3.3,6
+batteries,entr. biaisee_basse_TA,injecte,prod_seuil,1,est_ctx,0.875,3.425,6
+batteries,entr. biaisee_haute_TA,injecte,mesure,0,est_brut,0.875,1.45,6
+batteries,entr. biaisee_haute_TA,injecte,mesure,0,est_ctx,0.95,1.6,6
+batteries,entr. biaisee_haute_TA,placebo,mesure,0,est_brut,0.2,0.775,6
+batteries,entr. biaisee_haute_TA,placebo,mesure,0,est_ctx,0.25,0.9,6
+batteries,entr. biaisee_haute_TA,injecte,mesure,1,est_brut,0.9,1.775,6
+batteries,entr. biaisee_haute_TA,injecte,mesure,1,est_ctx,0.85,1.65,6
+batteries,entr. biaisee_haute_TA,placebo,mesure,1,est_brut,0.175,1.05,6
+batteries,entr. biaisee_haute_TA,placebo,mesure,1,est_ctx,0.25,1.05,6
+batteries,entr. biaisee_haute_TA,injecte,maintenance,0,est_brut,0.925,3.35,6
+batteries,entr. biaisee_haute_TA,injecte,maintenance,0,est_ctx,0.925,3.6,6
+batteries,entr. biaisee_haute_TA,placebo,maintenance,0,est_brut,0.1375,1.1,6
+batteries,entr. biaisee_haute_TA,placebo,maintenance,0,est_ctx,0.175,1.05,6
+batteries,entr. biaisee_haute_TA,injecte,maintenance,1,est_brut,0.925,3.75,6
+batteries,entr. biaisee_haute_TA,injecte,maintenance,1,est_ctx,0.9375,3.9,6
+batteries,entr. biaisee_haute_TA,placebo,maintenance,1,est_brut,0.1,0.675,6
+batteries,entr. biaisee_haute_TA,placebo,maintenance,1,est_ctx,0.1,0.65,6
+batteries,entr. biaisee_haute_TA,injecte,production,0,est_brut,0.8625,2.575,6
+batteries,entr. biaisee_haute_TA,injecte,production,0,est_ctx,0.8625,2.575,6
+batteries,entr. biaisee_haute_TA,placebo,production,0,est_brut,0.2125,1.275,6
+batteries,entr. biaisee_haute_TA,placebo,production,0,est_ctx,0.2125,1.275,6
+batteries,entr. biaisee_haute_TA,injecte,production,1,est_brut,0.8875,2.75,6
+batteries,entr. biaisee_haute_TA,injecte,production,1,est_ctx,0.8875,2.7,6
+batteries,entr. biaisee_haute_TA,placebo,production,1,est_brut,0.2125,1.4,6
+batteries,entr. biaisee_haute_TA,placebo,production,1,est_ctx,0.225,1.4,6
+batteries,entr. biaisee_haute_TA,injecte,prod_quad,0,est_brut,0.975,2.675,6
+batteries,entr. biaisee_haute_TA,injecte,prod_quad,0,est_ctx,0.975,2.7,6
+batteries,entr. biaisee_haute_TA,injecte,prod_quad,1,est_brut,0.9125,2.675,6
+batteries,entr. biaisee_haute_TA,injecte,prod_quad,1,est_ctx,0.9,2.625,6
+batteries,entr. biaisee_haute_TA,injecte,prod_seuil,0,est_brut,0.85,2.75,6
+batteries,entr. biaisee_haute_TA,injecte,prod_seuil,0,est_ctx,0.85,2.75,6
+batteries,entr. biaisee_haute_TA,injecte,prod_seuil,1,est_brut,0.9,2.525,6
+batteries,entr. biaisee_haute_TA,injecte,prod_seuil,1,est_ctx,0.9,2.575,6
+batteries,entr. biaisee_basse_40C,injecte,mesure,0,est_brut,0.725,1.425,6
+batteries,entr. biaisee_basse_40C,injecte,mesure,0,est_ctx,0.725,1.7,6
+batteries,entr. biaisee_basse_40C,placebo,mesure,0,est_brut,0.175,0.875,6
+batteries,entr. biaisee_basse_40C,placebo,mesure,0,est_ctx,0.3,1.3,6
+batteries,entr. biaisee_basse_40C,injecte,mesure,1,est_brut,0.675,1.725,6
+batteries,entr. biaisee_basse_40C,injecte,mesure,1,est_ctx,0.75,2.25,6
+batteries,entr. biaisee_basse_40C,placebo,mesure,1,est_brut,0.225,1.275,6
+batteries,entr. biaisee_basse_40C,placebo,mesure,1,est_ctx,0.2,1.7,6
+batteries,entr. biaisee_basse_40C,injecte,maintenance,0,est_brut,0.825,3.4,6
+batteries,entr. biaisee_basse_40C,injecte,maintenance,0,est_ctx,0.6625,3.75,6
+batteries,entr. biaisee_basse_40C,placebo,maintenance,0,est_brut,0.1875,1.175,6
+batteries,entr. biaisee_basse_40C,placebo,maintenance,0,est_ctx,0.1625,1.1,6
+batteries,entr. biaisee_basse_40C,injecte,maintenance,1,est_brut,0.8375,3.8,6
+batteries,entr. biaisee_basse_40C,injecte,maintenance,1,est_ctx,0.725,4.15,6
+batteries,entr. biaisee_basse_40C,placebo,maintenance,1,est_brut,0.2125,1.075,6
+batteries,entr. biaisee_basse_40C,placebo,maintenance,1,est_ctx,0.125,1.15,6
+batteries,entr. biaisee_basse_40C,injecte,production,0,est_brut,0.575,2.075,6
+batteries,entr. biaisee_basse_40C,injecte,production,0,est_ctx,0.5625,2.15,6
+batteries,entr. biaisee_basse_40C,placebo,production,0,est_brut,0.35,1.625,6
+batteries,entr. biaisee_basse_40C,placebo,production,0,est_ctx,0.3,1.625,6
+batteries,entr. biaisee_basse_40C,injecte,production,1,est_brut,0.65,2.6,6
+batteries,entr. biaisee_basse_40C,injecte,production,1,est_ctx,0.6625,2.65,6
+batteries,entr. biaisee_basse_40C,placebo,production,1,est_brut,0.3375,1.975,6
+batteries,entr. biaisee_basse_40C,placebo,production,1,est_ctx,0.3625,2.025,6
+batteries,entr. biaisee_basse_40C,injecte,prod_quad,0,est_brut,0.625,3.1,6
+batteries,entr. biaisee_basse_40C,injecte,prod_quad,0,est_ctx,0.5625,2.575,6
+batteries,entr. biaisee_basse_40C,injecte,prod_quad,1,est_brut,0.5875,2.35,6
+batteries,entr. biaisee_basse_40C,injecte,prod_quad,1,est_ctx,0.525,2.1,6
+batteries,entr. biaisee_basse_40C,injecte,prod_seuil,0,est_brut,0.5375,2.6,6
+batteries,entr. biaisee_basse_40C,injecte,prod_seuil,0,est_ctx,0.6125,2.8,6
+batteries,entr. biaisee_basse_40C,injecte,prod_seuil,1,est_brut,0.7125,3.0,6
+batteries,entr. biaisee_basse_40C,injecte,prod_seuil,1,est_ctx,0.6625,2.6,6
+batteries,entr. biaisee_haute_40C,injecte,mesure,0,est_brut,0.675,1.375,6
+batteries,entr. biaisee_haute_40C,injecte,mesure,0,est_ctx,0.725,1.8,6
+batteries,entr. biaisee_haute_40C,placebo,mesure,0,est_brut,0.2,0.9,6
+batteries,entr. biaisee_haute_40C,placebo,mesure,0,est_ctx,0.275,1.325,6
+batteries,entr. biaisee_haute_40C,injecte,mesure,1,est_brut,0.675,1.725,6
+batteries,entr. biaisee_haute_40C,injecte,mesure,1,est_ctx,0.7,2.1,6
+batteries,entr. biaisee_haute_40C,placebo,mesure,1,est_brut,0.25,1.3,6
+batteries,entr. biaisee_haute_40C,placebo,mesure,1,est_ctx,0.275,1.65,6
+batteries,entr. biaisee_haute_40C,injecte,maintenance,0,est_brut,0.8,3.175,6
+batteries,entr. biaisee_haute_40C,injecte,maintenance,0,est_ctx,0.675,3.8,6
+batteries,entr. biaisee_haute_40C,placebo,maintenance,0,est_brut,0.175,1.025,6
+batteries,entr. biaisee_haute_40C,placebo,maintenance,0,est_ctx,0.1375,1.2,6
+batteries,entr. biaisee_haute_40C,injecte,maintenance,1,est_brut,0.8125,3.675,6
+batteries,entr. biaisee_haute_40C,injecte,maintenance,1,est_ctx,0.6875,4.0,6
+batteries,entr. biaisee_haute_40C,placebo,maintenance,1,est_brut,0.2125,1.15,6
+batteries,entr. biaisee_haute_40C,placebo,maintenance,1,est_ctx,0.1375,1.2,6
+batteries,entr. biaisee_haute_40C,injecte,production,0,est_brut,0.5125,2.45,6
+batteries,entr. biaisee_haute_40C,injecte,production,0,est_ctx,0.575,2.375,6
+batteries,entr. biaisee_haute_40C,placebo,production,0,est_brut,0.3375,2.1,6
+batteries,entr. biaisee_haute_40C,placebo,production,0,est_ctx,0.325,1.9,6
+batteries,entr. biaisee_haute_40C,injecte,production,1,est_brut,0.6125,2.575,6
+batteries,entr. biaisee_haute_40C,injecte,production,1,est_ctx,0.725,3.1,6
+batteries,entr. biaisee_haute_40C,placebo,production,1,est_brut,0.35,2.05,6
+batteries,entr. biaisee_haute_40C,placebo,production,1,est_ctx,0.4625,2.55,6
+batteries,entr. biaisee_haute_40C,injecte,prod_quad,0,est_brut,0.7,3.325,6
+batteries,entr. biaisee_haute_40C,injecte,prod_quad,0,est_ctx,0.6875,3.125,6
+batteries,entr. biaisee_haute_40C,injecte,prod_quad,1,est_brut,0.6,2.425,6
+batteries,entr. biaisee_haute_40C,injecte,prod_quad,1,est_ctx,0.6,2.2,6
+batteries,entr. biaisee_haute_40C,injecte,prod_seuil,0,est_brut,0.5125,2.45,6
+batteries,entr. biaisee_haute_40C,injecte,prod_seuil,0,est_ctx,0.625,3.0,6
+batteries,entr. biaisee_haute_40C,injecte,prod_seuil,1,est_brut,0.6125,2.825,6
+batteries,entr. biaisee_haute_40C,injecte,prod_seuil,1,est_ctx,0.575,2.425,6

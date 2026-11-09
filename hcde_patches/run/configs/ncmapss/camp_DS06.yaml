@@ -1,0 +1,120 @@
+device: auto
+seed: 1
+out_dir: results/camp_DS06
+print: both
+round: 8
+draw_latent_space: true
+draw_traj_interval: 10
+metric_agg: argmin
+metric_best: mae
+tensorboard_agg: true
+tensorboard_each_run: true
+tensorboard_iter: false
+dataset:
+  type: windowed
+  dir: datasets/ncmapss
+  train_files:
+  - N-CMAPSS_DS06.csv
+  test_files:
+  - N-CMAPSS_DS06.csv
+  w_vars:
+  - alt
+  - Mach
+  - TRA
+  - T2
+  x_vars:
+  - T24
+  - T30
+  - T48
+  - T50
+  - P15
+  - P2
+  - P21
+  - P24
+  - Ps30
+  - P40
+  - P50
+  - Nf
+  - Nc
+  - Wf
+  train_units:
+  - 4
+  - 5
+  - 8
+  test_units:
+  - 10
+  dilation: 20
+  fast_dilation: 2
+  fast_window_size: 5
+  stride: 5
+  horizon: 2
+  n_windows: 100
+  normalize: true
+  rollout: true
+  scaler_type: standard
+  val_split: 0.2
+  y_label: HPT_eff_mod
+  y_scale_factor: 0.0175
+model:
+  activation: silu
+  do_norm: true
+  dropout: 0.0
+  norm_func: batch
+  output_dim: 0
+  type: ls-ncde
+  node:
+    ing_method: dopri5
+  cde:
+    adjoint: false
+    gamma: 10
+    hidden_dim: 64
+    interpolation: cubic
+    latent_dim: 10
+    latent_dim_1: 5
+    latent_dim_2: 10
+    num_layers: 2
+    path_dim: 10
+    prodp_1: true
+    prodp_2: false
+    regression: true
+    transform_path: true
+    z_aligment: false
+train:
+  auto_resume: false
+  batch_size: 256
+  ckpt_clean: true
+  ckpt_period: 5
+  clip_grad: true
+  draw_period: 5
+  early_stop_min: 100
+  early_stop_patience: 100
+  epoch_resume: -1
+  max_grad_norm: 1
+  random_split: true
+  shuffle: false
+  val_random_split: true
+optim:
+  base_lr: 0.001
+  criterion: l2
+  factor: 0.95
+  lr_decay: 0.1
+  max_epochs: 80
+  min_lr: 0.0001
+  momentum: 0.9
+  optimizer: adam
+  patience: 5
+  scheduler: plateau
+  warmup: false
+  warmup_initial_lr: 0.0001
+  warmup_iters: 1000
+  weight_decay: 1e-05
+task:
+  level: graph
+  track_graph: false
+  train_type: mapping
+  type: forecasting
+  metric:
+    alpha: 0.2
+    beta: 0.9
+    lambda_cra: 0.1
+    lambda_value: 0.2

@@ -1,0 +1,49 @@
+PLACEBO : effet médian (réponse − propre)
+estimation                          est_brut                               est_ctx                              
+reponse                                  cat cat_capteurs   date detection     cat cat_capteurs   date detection
+jeu        categorie   methode                                                                                  
+roulements maintenance lenteur        -0.777       -0.789 -0.124    -0.479  -0.777       -0.796 -0.084    -0.353
+                       resid_quad     -0.001        0.077 -0.339     0.628  -0.001        0.122 -0.376     0.587
+                       span_W         -0.910       -0.910 -0.031    -0.158  -0.910       -0.910 -0.085    -0.136
+                       tendance_reg   -0.021       -0.178 -0.110    -0.315  -0.021       -0.168 -0.192    -0.059
+           mesure      lenteur         0.011       -0.093  0.011    -0.479  -0.076       -0.080 -0.076    -0.353
+                       resid_quad      0.586        0.448  0.586     0.628   0.579        0.475  0.579     0.587
+                       span_W         -0.078       -0.007 -0.078    -0.158  -0.027       -0.008 -0.027    -0.136
+                       tendance_reg    0.004       -0.194  0.004    -0.315  -0.052       -0.086 -0.052    -0.059
+           production  lenteur        -0.594       -0.031 -0.135    -0.479  -0.250        0.025 -0.194    -0.353
+                       resid_quad      0.683        0.243  0.487     0.628   0.930        0.235  0.673     0.587
+                       span_W         -0.771       -0.057 -0.011    -0.158  -0.698       -0.072 -0.146    -0.136
+                       tendance_reg   -0.054       -0.298 -0.105    -0.315   0.052       -0.245 -0.133    -0.059
+
+INJECTÉ : dégât sans journal (sans − propre)
+                                         d
+jeu        categorie   methode            
+roulements maintenance lenteur      -0.957
+                       resid_quad    0.266
+                       span_W       -1.154
+                       tendance_reg -0.287
+           mesure      lenteur       0.002
+                       resid_quad    0.011
+                       span_W       -0.010
+                       tendance_reg -0.146
+           production  lenteur      -0.033
+                       resid_quad    0.423
+                       span_W       -0.200
+                       tendance_reg -0.288
+
+INJECTÉ : gain médian (réponse − sans_journal)
+estimation                          est_brut                               est_ctx                              
+reponse                                  cat cat_capteurs   date detection     cat cat_capteurs   date detection
+jeu        categorie   methode                                                                                  
+roulements maintenance lenteur        -0.384        0.497 -0.369    -0.241  -0.384       -0.174 -0.226     0.049
+                       resid_quad     -0.018       -0.153 -0.154    -0.326  -0.018       -0.115 -0.161    -0.310
+                       span_W         -0.041        0.303 -0.281     0.239  -0.041        0.301  0.196     0.210
+                       tendance_reg   -0.134       -0.199 -0.286    -0.382  -0.134       -0.153 -0.233    -0.306
+           mesure      lenteur         0.009       -0.095  0.009    -0.209  -0.080       -0.082 -0.080    -0.321
+                       resid_quad      0.575        0.437  0.575     0.540   0.536        0.466  0.536     0.400
+                       span_W         -0.068        0.003 -0.068    -0.100  -0.017        0.002 -0.017    -0.192
+                       tendance_reg    0.151       -0.047  0.151    -0.267   0.158       -0.080  0.158    -0.244
+           production  lenteur        -0.561        0.002 -0.059    -0.070  -0.255        0.053 -0.144    -0.256
+                       resid_quad      0.260       -0.180 -0.364     0.121   0.095       -0.188 -0.165    -0.323
+                       span_W         -0.571        0.143  0.118     0.003  -0.268        0.103 -0.072    -0.029
+                       tendance_reg    0.233       -0.010  0.122    -0.256   0.294       -0.133  0.115    -0.280

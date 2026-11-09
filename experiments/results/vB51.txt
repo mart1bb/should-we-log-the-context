@@ -1,0 +1,65 @@
+       jeu        type      methode  propre   sans  degat  gain_journal  gain_complet50  gain_date5  gain_date20  gain_fausse  gain_exclusion  part_recuperee
+   C-MAPSS       bruit      lenteur   0.829  0.116 -0.608        -0.011          -0.018       0.002       -0.026        0.018           0.000          -0.018
+   C-MAPSS       bruit   resid_quad   0.860  0.232 -0.616        -0.216          -0.200      -0.198       -0.252       -0.188           0.013          -0.352
+   C-MAPSS       bruit       span_W   0.844  0.105 -0.679         0.051           0.037       0.015       -0.049        0.159           0.005           0.075
+   C-MAPSS       bruit tendance_reg   0.876  0.150 -0.728         0.055           0.094       0.047       -0.039       -0.032           0.017           0.075
+   C-MAPSS    decalage      lenteur   0.829  0.167 -0.625         0.239           0.122       0.149        0.066        0.166           0.021           0.383
+   C-MAPSS    decalage   resid_quad   0.860  0.171 -0.705        -0.171          -0.150      -0.153       -0.177       -0.150           0.046          -0.242
+   C-MAPSS    decalage       span_W   0.844  0.167 -0.652         0.190           0.078       0.147        0.065       -0.014           0.018           0.292
+   C-MAPSS    decalage tendance_reg   0.876  0.360 -0.509         0.060           0.195       0.005        0.029       -0.142           0.042           0.118
+   C-MAPSS permutation      lenteur   0.829  0.389 -0.403        -0.019           0.115      -0.036        0.001        0.040          -0.051          -0.047
+   C-MAPSS permutation   resid_quad   0.860  0.191 -0.655        -0.193          -0.232      -0.214       -0.161       -0.181          -0.015          -0.295
+   C-MAPSS permutation       span_W   0.844  0.379 -0.434         0.024           0.036       0.069       -0.171        0.037          -0.051           0.055
+   C-MAPSS permutation tendance_reg   0.876  0.636 -0.240        -0.487          -0.450      -0.367       -0.465       -0.603          -0.041          -2.034
+   C-MAPSS       unite      lenteur   0.829  0.162 -0.577         0.167           0.182       0.118        0.144        0.255           0.005           0.290
+   C-MAPSS       unite   resid_quad   0.860  0.008 -0.825        -0.021           0.015      -0.018       -0.016        0.020          -0.033          -0.026
+   C-MAPSS       unite       span_W   0.844  0.171 -0.651         0.068           0.161       0.178       -0.024        0.250           0.014           0.104
+   C-MAPSS       unite tendance_reg   0.876  0.590 -0.292        -0.093          -0.110      -0.254       -0.135       -0.318           0.044          -0.318
+  N-CMAPSS       bruit      lenteur   0.928  0.740 -0.239        -0.100          -0.121      -0.044       -0.145       -0.135           0.051          -0.416
+  N-CMAPSS       bruit   resid_quad   0.288  0.203 -0.088        -0.085          -0.085      -0.149       -0.134       -0.127          -0.023          -0.961
+  N-CMAPSS       bruit       span_W   0.928  0.734 -0.226        -0.092          -0.085      -0.040       -0.111       -0.133           0.052          -0.407
+  N-CMAPSS       bruit tendance_reg   0.786  0.792  0.001        -0.161          -0.049      -0.246       -0.254       -0.268           0.055             NaN
+  N-CMAPSS    decalage      lenteur   0.928  0.728 -0.201        -0.258           0.005      -0.354       -0.111       -0.542          -0.085          -1.287
+  N-CMAPSS    decalage   resid_quad   0.288  0.068 -0.136        -0.063          -0.144      -0.002       -0.002       -0.114          -0.015          -0.459
+  N-CMAPSS    decalage       span_W   0.928  0.755 -0.169        -0.231          -0.019      -0.511       -0.124       -0.567          -0.152          -1.369
+  N-CMAPSS    decalage tendance_reg   0.786  0.755 -0.046        -0.172          -0.098      -0.171       -0.116       -0.168          -0.166             NaN
+  N-CMAPSS permutation      lenteur   0.928  0.576 -0.358        -0.213          -0.099      -0.281       -0.751       -0.289          -0.441          -0.595
+  N-CMAPSS permutation   resid_quad   0.288 -0.204 -0.458         0.297           0.198       0.247        0.216        0.272          -0.149           0.648
+  N-CMAPSS permutation       span_W   0.928  0.577 -0.352        -0.365          -0.090      -0.259       -0.770       -0.234          -0.362          -1.035
+  N-CMAPSS permutation tendance_reg   0.786  0.427 -0.379        -0.115          -0.028      -0.272       -0.091       -0.131          -0.188          -0.302
+  N-CMAPSS       unite      lenteur   0.928  0.253 -0.663         0.258           0.188       0.109       -0.121        0.002          -0.170           0.389
+  N-CMAPSS       unite   resid_quad   0.288  0.044 -0.320         0.142           0.108       0.080        0.130        0.006          -0.017           0.445
+  N-CMAPSS       unite       span_W   0.928  0.266 -0.661         0.224           0.241       0.091        0.168       -0.054          -0.194           0.340
+  N-CMAPSS       unite tendance_reg   0.786  0.168 -0.622         0.265           0.213       0.255       -0.021        0.184           0.071           0.427
+ batteries       bruit      lenteur   0.245  0.221 -0.057         0.012           0.001      -0.003       -0.002        0.004           0.003           0.210
+ batteries       bruit   resid_quad   0.893  0.682 -0.095        -0.001          -0.000       0.001        0.024        0.000          -0.012          -0.014
+ batteries       bruit       span_W  -0.085 -0.064 -0.046         0.003          -0.001       0.005       -0.002        0.032           0.003             NaN
+ batteries       bruit tendance_reg   0.572  0.327 -0.143        -0.000           0.012       0.033        0.047        0.025          -0.020          -0.002
+ batteries    decalage      lenteur   0.245 -0.050 -0.141         0.331           0.069       0.120       -0.168        0.222           0.065           2.340
+ batteries    decalage   resid_quad   0.893  0.383 -0.360         0.046           0.104       0.266        0.075        0.239          -0.021           0.127
+ batteries    decalage       span_W  -0.085 -0.054 -0.112         0.263           0.159       0.047       -0.164        0.221           0.036           2.352
+ batteries    decalage tendance_reg   0.572  0.290 -0.164         0.289           0.000       0.230        0.026        0.257          -0.003           1.761
+ batteries permutation      lenteur   0.245  0.438 -0.048        -0.082          -0.172      -0.003       -0.194       -0.085          -0.009             NaN
+ batteries permutation   resid_quad   0.893  0.226 -0.645         0.435           0.140       0.307        0.261        0.430          -0.021           0.674
+ batteries permutation       span_W  -0.085  0.523  0.526        -0.144          -0.161      -0.287       -0.388       -0.487           0.004             NaN
+ batteries permutation tendance_reg   0.572  0.690  0.086        -0.265          -0.316      -0.299       -0.230       -0.293           0.009             NaN
+ batteries       unite      lenteur   0.245 -0.089 -0.408        -0.047           0.100       0.374        0.490       -0.004           0.068          -0.114
+ batteries       unite   resid_quad   0.893  0.172 -0.478         0.195           0.033       0.277        0.306        0.088          -0.000           0.408
+ batteries       unite       span_W  -0.085 -0.031 -0.001         0.040           0.013       0.335        0.140       -0.092           0.025             NaN
+ batteries       unite tendance_reg   0.572  0.488 -0.170         0.063           0.065       0.254        0.251        0.083           0.028           0.369
+roulements       bruit      lenteur   0.796  0.799  0.003        -0.076          -0.007      -0.059       -0.045       -0.049           0.026             NaN
+roulements       bruit   resid_quad  -0.057 -0.061  0.001         0.016          -0.019       0.028        0.077        0.229           0.062             NaN
+roulements       bruit       span_W   0.641  0.644 -0.003        -0.073          -0.007      -0.089       -0.042       -0.036          -0.010             NaN
+roulements       bruit tendance_reg   0.583  0.501 -0.017        -0.078          -0.070      -0.084       -0.096       -0.098          -0.010             NaN
+roulements    decalage      lenteur   0.796  0.815  0.005        -0.019          -0.010      -0.042       -0.026       -0.026           0.004             NaN
+roulements    decalage   resid_quad  -0.057 -0.080  0.012        -0.091           0.148      -0.086        0.053       -0.087           0.086             NaN
+roulements    decalage       span_W   0.641  0.631 -0.016        -0.026          -0.021      -0.018       -0.031       -0.055          -0.004             NaN
+roulements    decalage tendance_reg   0.583  0.536 -0.099        -0.212          -0.038      -0.203       -0.211       -0.216           0.025          -2.138
+roulements permutation      lenteur   0.796  0.578 -0.186        -0.026          -0.000       0.068        0.074       -0.003           0.022          -0.139
+roulements permutation   resid_quad  -0.057 -0.169 -0.270         0.470           0.117       0.454        0.354        0.368           0.129           1.741
+roulements permutation       span_W   0.641  0.342 -0.104         0.102          -0.023       0.104        0.093        0.087          -0.204           0.983
+roulements permutation tendance_reg   0.583  0.587 -0.012        -0.094          -0.049      -0.079       -0.161       -0.140           0.003             NaN
+roulements       unite      lenteur   0.796  0.687 -0.140         0.023          -0.046       0.028        0.028        0.006          -0.005           0.167
+roulements       unite   resid_quad  -0.057  0.342  0.188        -0.175          -0.090      -0.171       -0.149       -0.121          -0.041             NaN
+roulements       unite       span_W   0.641  0.667 -0.047         0.096          -0.048       0.021       -0.040        0.060          -0.060             NaN
+roulements       unite tendance_reg   0.583  0.308 -0.176         0.098          -0.022       0.070        0.014        0.104          -0.017           0.558

@@ -1,0 +1,82 @@
+=== diagnostics span_W : r, R² des différences, angle max. de l'espace V contre « aucune » ===
+  DS          scenario  r  R2_diff  angle_max_vs_aucune
+DS01            aucune  3    0.990                  0.0
+DS01    montante_h0.30  3    0.962                 21.0
+DS01    montante_h0.15  3    0.929                 54.7
+DS01 descendante_h0.15  3    0.944                 47.9
+DS05            aucune  3    0.987                  0.0
+DS05    montante_h0.30  3    0.978                 17.1
+DS05    montante_h0.15  3    0.953                 25.8
+DS05 descendante_h0.15  3    0.922                 26.8
+DS07            aucune  3    0.988                  0.0
+DS07    montante_h0.30  3    0.968                 14.6
+DS07    montante_h0.15  2    0.964                 12.9
+DS07 descendante_h0.15  3    0.936                 20.2
+
+=== Spearman par vol, non_vue (contrôles de taille : médiane des tirages) ===
+DS                              DS01        DS05        DS07      
+unite                             8     10    7     9     7     9 
+sans_W_v99|aucune               0.95  0.92  0.90  0.84  0.92  0.92
+sans_W_v99|montante_h0.30       0.80  0.72  0.80  0.80  0.66  0.44
+sans_W_v99|montante_h0.15      -0.01 -0.15  0.05 -0.34 -0.22 -0.58
+sans_W_v99|descendante_h0.15    0.29  0.38  0.31  0.47  0.21  0.58
+insens_W_v99|aucune             0.94  0.90  0.91  0.88  0.91  0.95
+insens_W_v99|montante_h0.30     0.92  0.88  0.90  0.35  0.86  0.88
+insens_W_v99|montante_h0.15     0.32  0.20 -0.57  0.71 -0.79 -0.82
+insens_W_v99|descendante_h0.15 -0.53 -0.17 -0.77  0.71 -0.78 -0.83
+span_W|aucune                   0.95  0.92  0.91  0.84  0.89  0.90
+span_W|montante_h0.30           0.89  0.84  0.88  0.75  0.78  0.80
+span_W|montante_h0.15           0.18  0.07 -0.65  0.76  0.69  0.73
+span_W|descendante_h0.15       -0.09 -0.01 -0.78  0.42 -0.74 -0.78
+span_W|hasard_~45               0.94  0.91  0.90  0.84  0.87  0.82
+span_W|hasard_~25               0.95  0.91  0.85  0.84  0.78  0.80
+
+=== Spearman par vol, ref (contrôles de taille : médiane des tirages) ===
+DS                              DS01  DS05  DS07
+unite                             9     10    10
+sans_W_v99|aucune               0.98  0.96  0.95
+sans_W_v99|montante_h0.30       0.90  0.74  0.55
+sans_W_v99|montante_h0.15       0.17 -0.42 -0.64
+sans_W_v99|descendante_h0.15    0.37  0.72  0.67
+insens_W_v99|aucune             0.98  0.93  0.94
+insens_W_v99|montante_h0.30     0.96  0.95  0.94
+insens_W_v99|montante_h0.15     0.78  0.86 -0.94
+insens_W_v99|descendante_h0.15 -0.69  0.64 -0.76
+span_W|aucune                   0.98  0.94  0.97
+span_W|montante_h0.30           0.96  0.96  0.94
+span_W|montante_h0.15           0.66  0.85  0.87
+span_W|descendante_h0.15       -0.26  0.53 -0.81
+span_W|hasard_~45               0.96  0.85  0.95
+span_W|hasard_~25               0.94  0.80  0.84
+
+=== FA_classe, non vues ===
+DS                              DS01        DS05        DS07      
+unite                             8     10    7     9     7     9 
+insens_W_v99|aucune             0.13  0.19  0.00  0.00  0.43  0.24
+insens_W_v99|descendante_h0.15  0.00  0.00  0.00  0.00  0.14  0.94
+insens_W_v99|montante_h0.15     0.00  0.00  0.00  0.00  1.00  1.00
+insens_W_v99|montante_h0.30     0.00  0.00  0.48  1.00  0.00  0.00
+sans_W_v99|aucune               0.17  0.12  0.19  0.06  0.43  0.00
+sans_W_v99|descendante_h0.15    0.00  0.00  0.00  0.00  0.00  0.00
+sans_W_v99|montante_h0.15       1.00  1.00  1.00  1.00  1.00  1.00
+sans_W_v99|montante_h0.30       1.00  1.00  1.00  1.00  1.00  1.00
+span_W|aucune                   0.17  0.19  0.10  0.06  0.24  0.00
+span_W|descendante_h0.15        0.78  0.88  0.95  1.00  0.52  1.00
+span_W|montante_h0.15           0.00  0.00  0.00  0.00  0.00  0.00
+span_W|montante_h0.30           0.00  0.00  0.00  0.00  0.00  0.00
+
+=== rappel, non vues ===
+DS                              DS01        DS05        DS07      
+unite                             8     10    7     9     7     9 
+insens_W_v99|aucune             0.88  0.80  0.71  0.55  0.93  0.94
+insens_W_v99|descendante_h0.15  0.00  0.00  0.00  0.20  0.09  0.47
+insens_W_v99|montante_h0.15     0.00  0.00  0.00  0.06  0.60  0.82
+insens_W_v99|montante_h0.30     0.67  0.45  0.87  1.00  0.58  0.38
+sans_W_v99|aucune               0.91  0.77  0.68  0.67  0.91  0.74
+sans_W_v99|descendante_h0.15    0.00  0.00  0.00  0.00  0.00  0.00
+sans_W_v99|montante_h0.15       1.00  1.00  1.00  1.00  1.00  1.00
+sans_W_v99|montante_h0.30       1.00  1.00  0.98  1.00  1.00  1.00
+span_W|aucune                   0.92  0.86  0.68  0.49  0.76  0.53
+span_W|descendante_h0.15        0.88  0.97  0.52  1.00  0.31  0.68
+span_W|montante_h0.15           0.00  0.00  0.00  0.08  0.11  0.04
+span_W|montante_h0.30           0.50  0.32  0.56  0.25  0.44  0.26

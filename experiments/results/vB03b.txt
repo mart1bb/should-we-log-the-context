@@ -1,0 +1,19 @@
+  DS  unite    role  corr_spearman  AUROC  reponse_relative  FA_classe  rappel  delai_frac  non_detecte
+DS01      9     ref          0.955  0.951             1.000      0.067   0.783       0.048        False
+DS01      8 non_vue          0.944  0.949             1.291      1.000   1.000       0.000        False
+DS01     10 non_vue          0.916  0.915             1.167      1.000   1.000       0.000        False
+DS04     10     ref          0.852  0.851             1.000      0.091   0.696       0.003        False
+DS04      7 non_vue          0.473  0.771             0.551      0.143   0.258       0.007        False
+DS05     10     ref          0.427  0.585             1.000      0.062   0.261       0.347        False
+DS05      7 non_vue          0.740  0.793            19.024      1.000   0.984       0.000        False
+DS05      9 non_vue          0.090  0.567            11.121      1.000   1.000       0.000        False
+DS07     10     ref          0.945  0.930             1.000      0.062   0.863       0.030        False
+DS07      7 non_vue          0.918  0.900             0.768      0.381   0.909       0.026        False
+DS07      9 non_vue          0.878  0.845             1.109      0.412   0.885       0.008        False
+
+direction PC1 (vB03) contre direction de la sonde w :
+  DS  cos_PC1_w  var_PC1  var_w  composante_la_plus_proche_de_w
+DS01      0.593    0.567  0.205                               1
+DS04      0.165    0.765  0.022                               5
+DS05      0.423    0.524  0.131                               5
+DS07      0.508    0.489  0.144                               1

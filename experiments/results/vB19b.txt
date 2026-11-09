@@ -1,0 +1,21 @@
+   FD  tirage  capteurs  r  R2_diff  part_w_sfa_dans_V
+FD002       0        21  3    0.995                0.0
+FD002       1        21  3    0.995                0.0
+FD002       2        21  3    0.995                0.0
+FD002       3        21  3    0.995                0.0
+FD002       4        21  3    0.995                0.0
+FD004       0        21  3    0.996                0.0
+FD004       1        21  3    0.996                0.0
+FD004       2        21  3    0.996                0.0
+FD004       3        21  3    0.996                0.0
+FD004       4        21  3    0.996                0.0
+
+=== Spearman régime cible (médiane des unités), médiane des tirages ===
+methode      span_W (99 %)  span_W non réduite
+FD    cas                                     
+FD002 C0_42          -0.15                0.81
+      R42             0.80                0.81
+      R60             0.28                0.82
+FD004 C0_42           0.15                0.88
+      R42             0.85                0.90
+      R60             0.55                0.85

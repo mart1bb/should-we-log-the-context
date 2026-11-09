@@ -1,0 +1,34 @@
+=== (a) support des conditions de vol ===
+  DS unite    role classe  lignes_par_vol  degr_max   alt_moy  alt_hors%  alt_exces_sd  Mach_moy  Mach_hors%  Mach_exces_sd  TRA_moy  TRA_hors%  TRA_exces_sd  T2_moy  T2_hors%  T2_exces_sd
+DS01     9     ref    Fc1             440    0.0187  8870.302        0.0          0.00     0.452         0.0           0.00   51.790        0.0          0.00 507.394       1.0         0.00
+DS01     8 non_vue    Fc2             900    0.0185 15253.610      100.0          8.67     0.539        93.0           2.36   60.627       93.0          3.70 491.734     100.0         8.06
+DS01    10 non_vue    Fc3            1453    0.0181 18718.012      100.0         15.40     0.573        96.0           4.30   64.189       98.0          6.57 482.214     100.0        15.57
+DS01 train     NaN    Fc1             436    0.0188  8941.487        NaN           NaN     0.453         NaN            NaN   51.824        NaN           NaN 507.196       NaN          NaN
+DS04    10     ref    Fc3            1467    0.0616 19210.412        0.0          0.00     0.581         0.0           0.00   64.754        0.0          0.00 481.094       0.0         0.00
+DS04     7 non_vue    Fc2             944    0.0682 14937.336       38.0          0.00     0.531        17.0           0.00   59.875       24.0          0.00 492.236      44.0         0.00
+DS04 train     NaN    Fc3            1444    0.0915 19036.344        NaN           NaN     0.580         NaN            NaN   64.910        NaN           NaN 481.727       NaN          NaN
+DS05    10     ref    Fc1             451    0.0333  8979.425        1.0          0.00     0.452         0.0           0.00   51.825        0.0          0.00 506.970       0.0         0.00
+DS05     7 non_vue    Fc2             878    0.0785 14195.037       98.0          6.63     0.521        82.0           1.53   58.915       86.0          2.63 494.031      98.0         5.76
+DS05     9 non_vue    Fc3            1534    0.0274 19762.421      100.0         17.50     0.586        96.0           5.98   65.168       96.0          8.52 479.598     100.0        16.44
+DS05 train     NaN    Fc1             442    0.0773  8979.803        NaN           NaN     0.456         NaN            NaN   52.076        NaN           NaN 507.297       NaN          NaN
+DS07    10     ref    Fc1             452    0.0376  9004.845        1.0          0.00     0.452         0.0           0.00   51.858        0.0          0.00 506.896       0.0         0.00
+DS07     7 non_vue    Fc2             879    0.0377 14239.192       98.0          7.00     0.521        81.0           1.69   58.972       86.0          2.70 493.884      98.0         5.73
+DS07     9 non_vue    Fc3            1500    0.0367 19436.958      100.0         17.35     0.581        96.0           5.97   65.035       96.0          8.37 480.366     100.0        15.48
+DS07 train     NaN    Fc1             442    0.0355  9054.908        NaN           NaN     0.458         NaN            NaN   52.178        NaN           NaN 507.195       NaN          NaN
+
+=== (b) transfert de classe, sonde lin, autres modes ===
+  DS  unite    role  AUROC  corr_spearman  reponse_relative  FA_classe  rappel  delai_frac  non_detecte
+DS04     10     ref  0.920          0.978             1.000      0.091   0.841       0.027        False
+DS04      7 non_vue  0.999          0.928             0.419      0.000   0.742       0.020        False
+DS07     10     ref  1.000          0.992             1.000      0.062   1.000       0.025        False
+DS07      7 non_vue  0.965          0.979             1.107      0.238   0.945       0.021        False
+DS07      9 non_vue  0.965          0.978             1.325      0.000   0.679       0.067        False
+
+=== (c) entre modes de panne : Spearman par vol, signé (ligne = appris sur, colonne = lu sur) ===
+lu      DS01              DS04        DS05              DS07            
+unite     8     9     10    7     10    7     9     10    7     9     10
+appris                                                                  
+DS01    0.99  0.99  0.99 -0.63  0.85  0.91  0.86  0.98  0.98  0.99  0.99
+DS04   -0.97 -0.95 -0.98  0.93  0.98  0.52 -0.92 -0.87 -0.05 -0.90 -0.75
+DS05    0.81  0.97  0.64  0.83 -0.77  0.97  0.87  0.97  0.86  0.88  0.93
+DS07    0.98  0.99  0.96  0.82 -0.70  0.95  0.89  0.99  0.98  0.98  0.99

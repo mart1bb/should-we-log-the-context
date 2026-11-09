@@ -1,0 +1,34 @@
+=== Tab. 3 : médiane par jeu (Spearman contre la vérité du jeu) ===
+jeu
+N-CMAPSS      12
+C-MAPSS       60
+batteries     20
+roulements    12
+gaz           12
+PVDAQ          8
+jeu               N-CMAPSS  C-MAPSS  batteries  roulements   gaz  PVDAQ
+lenteur               0.92     0.83       0.32        0.81  0.47  -0.13
+tendance_moy          0.41     0.87       0.61        0.49  0.48  -0.18
+tendance_reg          0.77     0.87       0.60        0.55  0.69  -0.23
+resid_lin             0.55     0.86       0.89       -0.16  0.31  -0.02
+resid_quad            0.28     0.86       0.90        0.08  0.30  -0.01
+residu_FNN            0.24     0.83       0.55        0.41  0.36   0.26
+norm_regime           0.82     0.84       0.66        0.28  0.24  -0.02
+span_W                0.93     0.85       0.16        0.81  0.32  -0.06
+invariant_regime      0.82     0.85      -0.10        0.59  0.38  -0.11
+DANN                 -0.04     0.82      -0.01        0.16  0.03  -0.18
+bajarunas_corr        0.86     0.88       0.35        0.47  0.58  -0.05
+bajarunas_mono        0.91     0.87      -0.02        0.56  0.41  -0.09
+
+=== Fig. 3 : meilleure sans contexte contre meilleure avec contexte (médiane par jeu ; cas où sans ≥ avec − 0,05) ===
+            sans  avec  part_sans_ok
+jeu                                 
+N-CMAPSS    0.92  0.93          0.83
+C-MAPSS     0.88  0.89          1.00
+batteries   0.70  0.90          0.25
+roulements  0.83  0.86          0.58
+gaz         0.69  0.66          0.50
+PVDAQ      -0.13  0.33          0.00
+
+=== contrôle de cohérence (médianes) : vB32 / vB33 sur les mêmes cas ===
+écart max |lenteur − vB32| : 0.0  |tendance_reg − vB32| : 0.0  |norm_regime − vB33| : 0.0

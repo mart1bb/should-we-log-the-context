@@ -1,0 +1,16 @@
+         source  R_chapeau  R_perp (étiquettes)
+DS01 (fenêtres)     506.58                  NaN
+           DS01     400.62               283.74
+DS04 (fenêtres)     275.53                  NaN
+           DS04     104.95                  NaN
+DS05 (fenêtres)     419.64                  NaN
+           DS05     294.32                 2.88
+DS07 (fenêtres)     298.39                  NaN
+           DS07     228.38                57.94
+ banc se=0.0075     400.45                 7.27
+   banc se=0.02     129.95                 5.33
+  banc se=0.043      37.38                 2.09
+   banc se=0.09      10.15                 0.68
+   banc se=0.16       3.59                 0.23
+
+Spearman(R̂, R⊥) sur 8 points : 0.88

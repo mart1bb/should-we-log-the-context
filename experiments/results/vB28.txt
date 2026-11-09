@@ -1,0 +1,51 @@
+                 cas decoupage  p_hors    D  lenteur  modele  span_W   choix  regret_regle
+         DS03 aucune    ref u1    0.87 0.01     0.75    0.27    0.79 lenteur          0.04
+         DS03 aucune    ref u5    0.90 0.01     0.76    0.10    0.76 lenteur          0.00
+         DS03 aucune    ref u9    0.90 0.01     0.73    0.36    0.80 lenteur          0.07
+         DS03 aucune   ref u12    0.90 0.01     0.78    0.02    0.77 lenteur          0.00
+         DS03 aucune   ref u14    0.88 0.01     0.78    0.20    0.79 lenteur          0.01
+ DS03 montante_h0.30    ref u1    0.62 0.27     0.42    0.02    0.25  span_W          0.17
+ DS03 montante_h0.30    ref u5    0.76 0.24     0.61   -0.02    0.48  span_W          0.13
+ DS03 montante_h0.30    ref u9    0.72 0.27     0.65   -0.04    0.57  span_W          0.08
+ DS03 montante_h0.30   ref u12    0.78 0.30     0.63    0.06    0.54  span_W          0.09
+ DS03 montante_h0.30   ref u14    0.70 0.31     0.60   -0.02    0.45  span_W          0.14
+         DS06 aucune    ref u4    0.59 0.01     0.94    0.24    0.88 lenteur          0.00
+         DS06 aucune    ref u5    0.61 0.01     0.83    0.03    0.90 lenteur          0.07
+         DS06 aucune    ref u8    0.55 0.02     0.73    0.35    0.50 lenteur          0.00
+         DS06 aucune   ref u10    0.59 0.03     0.92    0.56    0.93 lenteur          0.01
+ DS06 montante_h0.30    ref u4    0.57 0.15    -0.33   -0.10   -0.27 lenteur          0.23
+ DS06 montante_h0.30    ref u5    0.56 0.29    -0.50    0.43   -0.63  span_W          1.06
+ DS06 montante_h0.30    ref u8    0.58 0.15    -0.40   -0.05   -0.24 lenteur          0.35
+ DS06 montante_h0.30   ref u10    0.57 0.25     0.85    0.12    0.86  span_W          0.00
+        DS08a aucune    ref u1    0.90 0.02     0.94    0.08    0.87 lenteur          0.00
+        DS08a aucune    ref u3    0.86 0.01     0.91    0.02    0.83 lenteur          0.00
+        DS08a aucune    ref u9    0.86 0.01     0.57   -0.07    0.57 lenteur          0.00
+        DS08a aucune   ref u10    0.88 0.01     0.88    0.12    0.70 lenteur          0.00
+        DS08a aucune   ref u15    0.81 0.01     0.93    0.13    0.71 lenteur          0.00
+DS08a montante_h0.30    ref u1    0.77 0.02     0.79    0.18    0.87 lenteur          0.08
+DS08a montante_h0.30    ref u3    0.80 0.09     0.80    0.16    0.81 lenteur          0.02
+DS08a montante_h0.30    ref u9    0.77 0.07    -0.21    0.24   -0.27 lenteur          0.45
+DS08a montante_h0.30   ref u10    0.78 0.16     0.83    0.20    0.78 lenteur          0.00
+DS08a montante_h0.30   ref u15    0.73 0.11     0.75   -0.21    0.78 lenteur          0.03
+
+=== regret médian par sous-jeu (et ensemble) ===
+          regret_regle  regret_lenteur  regret_modele  regret_span_W  validee
+ds                                                                           
+DS03             0.072            0.00          0.603          0.041    False
+DS06             0.036            0.04          0.373          0.118     True
+DS08a            0.000            0.00          0.721          0.058     True
+ensemble         0.025            0.00          0.636          0.067     True
+
+=== p_hors par sous-jeu ===
+        min   max  <lambda_0>
+ds                           
+DS03   0.62  0.90           0
+DS06   0.55  0.61           0
+DS08a  0.73  0.90           0
+
+découpages à regret > 0,2 :
+                 cas decoupage  p_hors    D  lenteur  modele  span_W   choix  regret_regle
+ DS06 montante_h0.30    ref u4    0.57 0.15    -0.33   -0.10   -0.27 lenteur          0.23
+ DS06 montante_h0.30    ref u5    0.56 0.29    -0.50    0.43   -0.63  span_W          1.06
+ DS06 montante_h0.30    ref u8    0.58 0.15    -0.40   -0.05   -0.24 lenteur          0.35
+DS08a montante_h0.30    ref u9    0.77 0.07    -0.21    0.24   -0.27 lenteur          0.45

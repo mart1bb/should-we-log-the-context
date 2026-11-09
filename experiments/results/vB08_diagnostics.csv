@@ -1,0 +1,13 @@
+DS,scenario,r,R2_diff,angle_max_vs_aucune
+DS01,aucune,3,0.99,0.0
+DS01,montante_h0.30,3,0.962,21.0
+DS01,montante_h0.15,3,0.929,54.7
+DS01,descendante_h0.15,3,0.944,47.9
+DS05,aucune,3,0.987,0.0
+DS05,montante_h0.30,3,0.978,17.1
+DS05,montante_h0.15,3,0.953,25.8
+DS05,descendante_h0.15,3,0.922,26.8
+DS07,aucune,3,0.988,0.0
+DS07,montante_h0.30,3,0.968,14.6
+DS07,montante_h0.15,2,0.964,12.9
+DS07,descendante_h0.15,3,0.936,20.2

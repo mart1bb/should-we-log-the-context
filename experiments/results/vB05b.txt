@@ -1,0 +1,29 @@
+=== 2. part rapide de la variation d'altitude (unités d'entraînement, moyenne) ===
+scenario  aucune  descendante_h0.15  montante_h0.15  montante_h0.30
+DS                                                                 
+DS01        0.98               0.08            0.11            0.33
+DS05        1.06               0.12            0.13            0.44
+DS07        1.08               0.16            0.25            0.43
+
+=== 1. aléatoire, même taille que le scénario indiqué, SANS dérive — Spearman par vol ===
+    médiane [min ; max] sur les tirages
+methode                                     sans_W_sfa         sfa_insens_W
+taille         DS   unite role                                             
+montante_h0.15 DS01 8     non_vue   0.72 [0.46 ; 0.77]   0.71 [0.48 ; 0.81]
+                    9     ref       0.87 [0.82 ; 0.95]   0.88 [0.81 ; 0.94]
+                    10    non_vue   0.37 [0.31 ; 0.65]   0.43 [0.03 ; 0.75]
+               DS05 7     non_vue   0.66 [0.65 ; 0.79]   0.67 [0.51 ; 0.74]
+                    9     non_vue   0.30 [0.09 ; 0.73]  0.19 [-0.30 ; 0.63]
+                    10    ref       0.74 [0.73 ; 0.89]   0.83 [0.62 ; 0.87]
+               DS07 7     non_vue  0.35 [-0.15 ; 0.72]  0.34 [-0.39 ; 0.77]
+                    9     non_vue  0.23 [-0.12 ; 0.60]  0.49 [-0.22 ; 0.56]
+                    10    ref       0.73 [0.62 ; 0.91]   0.72 [0.64 ; 0.84]
+montante_h0.30 DS01 8     non_vue   0.93 [0.83 ; 0.98]   0.91 [0.82 ; 0.95]
+                    9     ref       0.94 [0.90 ; 0.98]   0.95 [0.91 ; 0.96]
+                    10    non_vue   0.87 [0.51 ; 0.95]   0.82 [0.48 ; 0.89]
+               DS05 7     non_vue   0.81 [0.77 ; 0.90]   0.85 [0.75 ; 0.92]
+                    9     non_vue   0.60 [0.49 ; 0.78]   0.74 [0.46 ; 0.93]
+                    10    ref       0.88 [0.88 ; 0.94]   0.85 [0.84 ; 0.91]
+               DS07 7     non_vue  0.82 [-0.49 ; 0.92]  0.78 [-0.58 ; 0.89]
+                    9     non_vue  0.74 [-0.59 ; 0.92]  0.55 [-0.51 ; 0.90]
+                    10    ref       0.95 [0.86 ; 0.99]   0.98 [0.83 ; 0.99]

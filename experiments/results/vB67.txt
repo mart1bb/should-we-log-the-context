@@ -1,0 +1,652 @@
+Valeurs (médianes sur cas)
+ampleur                                                     0.25   1.00   2.00
+valeur                jeu        categorie   methode                          
+capteurs_vs_categorie C-MAPSS    maintenance lenteur      -0.001  0.031 -0.019
+                                             resid_quad    0.016  0.051  0.044
+                                             span_W       -0.016  0.079  0.050
+                                             tendance_reg -0.019  0.029  0.067
+                                 mesure      lenteur       0.082  0.086  0.096
+                                             resid_quad    0.039  0.041  0.035
+                                             span_W        0.079  0.074  0.072
+                                             tendance_reg  0.011  0.011  0.012
+                                 production  lenteur       0.079  0.093  0.097
+                                             resid_quad    0.099  0.099  0.099
+                                             span_W        0.196  0.196  0.203
+                                             tendance_reg  0.053  0.054  0.052
+                      N-CMAPSS   maintenance lenteur       0.090  0.064  0.171
+                                             resid_quad    0.123  0.054  0.057
+                                             span_W        0.166  0.260  0.289
+                                             tendance_reg -0.011  0.123  0.179
+                                 mesure      lenteur       0.072  0.048  0.056
+                                             resid_quad    0.084  0.098 -0.014
+                                             span_W        0.072  0.068  0.088
+                                             tendance_reg  0.015  0.017  0.018
+                                 production  lenteur       0.252  0.257  0.262
+                                             resid_quad   -0.067 -0.057 -0.055
+                                             span_W        0.234  0.249  0.223
+                                             tendance_reg  0.035  0.035  0.035
+                      batteries  maintenance lenteur       0.136  0.078  0.122
+                                             resid_quad    0.040  0.223  0.096
+                                             span_W        0.057  0.130  0.105
+                                             tendance_reg  0.060  0.073  0.027
+                                 mesure      lenteur       0.106 -0.239 -0.247
+                                             resid_quad   -0.323 -0.323 -0.322
+                                             span_W        0.206 -0.203 -0.202
+                                             tendance_reg -0.036 -0.034 -0.032
+                                 production  lenteur      -0.185 -0.246 -0.245
+                                             resid_quad   -0.031 -0.031 -0.031
+                                             span_W       -0.303 -0.297 -0.247
+                                             tendance_reg -0.160 -0.230 -0.236
+                      roulements maintenance lenteur      -0.005  0.020  0.127
+                                             resid_quad   -0.016 -0.013 -0.134
+                                             span_W       -0.006  0.132  0.194
+                                             tendance_reg  0.030 -0.068 -0.036
+                                 mesure      lenteur       0.011  0.009  0.008
+                                             resid_quad    0.146  0.146  0.153
+                                             span_W        0.046  0.045  0.044
+                                             tendance_reg -0.150 -0.169 -0.167
+                                 production  lenteur       0.085  0.121  0.123
+                                             resid_quad   -0.066 -0.059  0.002
+                                             span_W        0.098  0.036  0.081
+                                             tendance_reg -0.123 -0.099 -0.103
+categorie_vs_date     C-MAPSS    maintenance lenteur       0.025 -0.008  0.053
+                                             resid_quad   -0.033 -0.066 -0.070
+                                             span_W        0.039 -0.040  0.006
+                                             tendance_reg  0.096  0.036 -0.003
+                                 mesure      lenteur       0.000  0.000  0.000
+                                             resid_quad    0.000  0.000  0.000
+                                             span_W        0.000  0.000  0.000
+                                             tendance_reg  0.000  0.000  0.000
+                                 production  lenteur       0.150  0.261  0.334
+                                             resid_quad    0.145  0.337  0.396
+                                             span_W        0.046  0.273  0.382
+                                             tendance_reg  0.004  0.014  0.040
+                      N-CMAPSS   maintenance lenteur      -0.385 -0.327 -0.416
+                                             resid_quad   -0.113 -0.089 -0.135
+                                             span_W       -0.501 -0.547 -0.549
+                                             tendance_reg  0.142 -0.055 -0.121
+                                 mesure      lenteur       0.000  0.000  0.000
+                                             resid_quad    0.000  0.000  0.000
+                                             span_W        0.000  0.000  0.000
+                                             tendance_reg  0.000  0.000  0.000
+                                 production  lenteur      -0.050 -0.052 -0.038
+                                             resid_quad    0.093  0.071  0.086
+                                             span_W       -0.062  0.061  0.062
+                                             tendance_reg  0.056  0.219  0.273
+                      batteries  maintenance lenteur      -0.252 -0.266 -0.429
+                                             resid_quad   -0.360 -0.503 -0.501
+                                             span_W       -0.145 -0.305 -0.243
+                                             tendance_reg -0.166 -0.271 -0.243
+                                 mesure      lenteur       0.000  0.000  0.000
+                                             resid_quad    0.000  0.000  0.000
+                                             span_W        0.000  0.000  0.000
+                                             tendance_reg  0.000  0.000  0.000
+                                 production  lenteur       0.164  0.185  0.239
+                                             resid_quad    0.002  0.019  0.026
+                                             span_W        0.142  0.014  0.269
+                                             tendance_reg  0.134  0.194  0.192
+                      roulements maintenance lenteur      -0.104  0.111  0.030
+                                             resid_quad   -0.094 -0.103 -0.114
+                                             span_W       -0.293 -0.167 -0.178
+                                             tendance_reg -0.030  0.011 -0.021
+                                 mesure      lenteur       0.000  0.000  0.000
+                                             resid_quad    0.000  0.000  0.000
+                                             span_W        0.000  0.000  0.000
+                                             tendance_reg  0.000  0.000  0.000
+                                 production  lenteur       0.010 -0.067 -0.060
+                                             resid_quad    0.138  0.092  0.000
+                                             span_W       -0.104 -0.117 -0.084
+                                             tendance_reg -0.003  0.023  0.040
+degat                 C-MAPSS    maintenance lenteur      -0.447 -0.547 -0.624
+                                             resid_quad   -0.816 -0.828 -0.843
+                                             span_W       -0.540 -0.790 -0.773
+                                             tendance_reg -0.398 -0.501 -0.602
+                                 mesure      lenteur      -0.000 -0.007 -0.025
+                                             resid_quad   -0.006 -0.551 -0.566
+                                             span_W       -0.002 -0.013 -0.046
+                                             tendance_reg  0.000 -0.006 -0.016
+                                 production  lenteur      -0.000 -0.058 -0.106
+                                             resid_quad   -0.002 -0.092 -0.133
+                                             span_W       -0.003 -0.131 -0.267
+                                             tendance_reg  0.000 -0.004 -0.016
+                      N-CMAPSS   maintenance lenteur      -0.788 -0.836 -0.806
+                                             resid_quad   -0.180 -0.259 -0.265
+                                             span_W       -0.804 -0.813 -0.804
+                                             tendance_reg -0.580 -0.746 -0.732
+                                 mesure      lenteur      -0.032 -0.097 -0.167
+                                             resid_quad   -0.031 -0.082 -0.076
+                                             span_W       -0.053 -0.118 -0.140
+                                             tendance_reg -0.024 -0.225 -0.375
+                                 production  lenteur      -0.109 -0.244 -0.277
+                                             resid_quad   -0.102 -0.211 -0.158
+                                             span_W       -0.157 -0.272 -0.283
+                                             tendance_reg -0.035 -0.170 -0.243
+                      batteries  maintenance lenteur      -0.011 -0.095 -0.084
+                                             resid_quad   -0.578 -0.581 -0.546
+                                             span_W        0.133  0.005  0.046
+                                             tendance_reg -0.310 -0.550 -0.748
+                                 mesure      lenteur      -0.034 -0.206  0.003
+                                             resid_quad   -0.158 -0.138 -0.138
+                                             span_W        0.082  0.117  0.109
+                                             tendance_reg  0.011 -0.082 -0.126
+                                 production  lenteur      -0.082 -0.054 -0.011
+                                             resid_quad   -0.035 -0.078 -0.048
+                                             span_W       -0.007  0.022  0.074
+                                             tendance_reg -0.086 -0.216 -0.190
+                      roulements maintenance lenteur      -0.519 -0.671 -0.636
+                                             resid_quad   -0.006  0.100  0.012
+                                             span_W       -0.740 -0.850 -0.766
+                                             tendance_reg -0.382 -0.393 -0.343
+                                 mesure      lenteur      -0.005 -0.011 -0.010
+                                             resid_quad   -0.018  0.050  0.144
+                                             span_W        0.002 -0.065 -0.088
+                                             tendance_reg  0.025 -0.129 -0.119
+                                 production  lenteur      -0.030 -0.026 -0.066
+                                             resid_quad    0.111  0.154  0.136
+                                             span_W        0.003  0.031 -0.011
+                                             tendance_reg -0.004 -0.075 -0.090
+gain_date             C-MAPSS    maintenance lenteur       0.012  0.007 -0.003
+                                             resid_quad    0.035  0.070  0.104
+                                             span_W       -0.011  0.035  0.019
+                                             tendance_reg -0.099 -0.005  0.100
+                                 mesure      lenteur      -0.059 -0.055 -0.045
+                                             resid_quad   -0.157 -0.020  0.106
+                                             span_W       -0.090 -0.072 -0.052
+                                             tendance_reg -0.014 -0.007  0.003
+                                 production  lenteur      -0.071 -0.035 -0.012
+                                             resid_quad   -0.204 -0.167 -0.123
+                                             span_W       -0.087 -0.147 -0.117
+                                             tendance_reg -0.005 -0.004 -0.032
+                      N-CMAPSS   maintenance lenteur       0.273  0.288  0.285
+                                             resid_quad    0.073  0.157  0.182
+                                             span_W        0.308  0.297  0.316
+                                             tendance_reg  0.197  0.322  0.286
+                                 mesure      lenteur      -0.083  0.003 -0.004
+                                             resid_quad   -0.025  0.078  0.111
+                                             span_W       -0.064 -0.031 -0.025
+                                             tendance_reg -0.030  0.158  0.327
+                                 production  lenteur      -0.108 -0.035 -0.074
+                                             resid_quad   -0.014  0.071 -0.030
+                                             span_W       -0.081 -0.075 -0.062
+                                             tendance_reg -0.073 -0.073 -0.037
+                      batteries  maintenance lenteur       0.284  0.262  0.240
+                                             resid_quad    0.452  0.513  0.462
+                                             span_W        0.194  0.244  0.203
+                                             tendance_reg  0.107  0.397  0.608
+                                 mesure      lenteur       0.096  0.268  0.352
+                                             resid_quad    0.140  0.122  0.122
+                                             span_W        0.192  0.481  0.333
+                                             tendance_reg -0.046  0.007  0.090
+                                 production  lenteur      -0.139 -0.049  0.004
+                                             resid_quad   -0.007  0.004  0.003
+                                             span_W       -0.031 -0.024 -0.058
+                                             tendance_reg  0.006  0.049 -0.027
+                      roulements maintenance lenteur      -0.118  0.241  0.245
+                                             resid_quad    0.146  0.100  0.307
+                                             span_W        0.274  0.299  0.145
+                                             tendance_reg  0.068  0.113  0.063
+                                 mesure      lenteur      -0.030 -0.035 -0.009
+                                             resid_quad   -0.136 -0.152 -0.002
+                                             span_W       -0.043 -0.041 -0.039
+                                             tendance_reg  0.104  0.227  0.238
+                                 production  lenteur      -0.053 -0.020  0.043
+                                             resid_quad   -0.109 -0.092  0.020
+                                             span_W        0.007  0.083  0.082
+                                             tendance_reg  0.107  0.058  0.083
+journal_vs_detection  C-MAPSS    maintenance lenteur       0.042  0.025  0.022
+                                             resid_quad    0.006  0.007 -0.013
+                                             span_W        0.039  0.058  0.018
+                                             tendance_reg  0.038  0.084  0.171
+                                 mesure      lenteur      -0.023 -0.003 -0.017
+                                             resid_quad    0.034  0.021  0.030
+                                             span_W       -0.021 -0.010  0.020
+                                             tendance_reg  0.006  0.010  0.019
+                                 production  lenteur      -0.007 -0.008  0.006
+                                             resid_quad    0.005  0.032  0.036
+                                             span_W       -0.010 -0.040 -0.009
+                                             tendance_reg  0.014  0.020  0.025
+                      N-CMAPSS   maintenance lenteur       0.286  0.170  0.103
+                                             resid_quad    0.057 -0.000  0.013
+                                             span_W        0.289  0.274  0.316
+                                             tendance_reg  0.241  0.256  0.180
+                                 mesure      lenteur      -0.004  0.056  0.063
+                                             resid_quad    0.001 -0.020 -0.025
+                                             span_W       -0.022  0.067 -0.009
+                                             tendance_reg -0.027  0.066  0.041
+                                 production  lenteur      -0.076  0.012  0.068
+                                             resid_quad   -0.090 -0.115 -0.046
+                                             span_W        0.023  0.009  0.036
+                                             tendance_reg -0.051 -0.192 -0.169
+                      batteries  maintenance lenteur       0.251  0.112  0.041
+                                             resid_quad    0.414  0.508  0.008
+                                             span_W        0.165  0.002 -0.018
+                                             tendance_reg  0.010 -0.004  0.002
+                                 mesure      lenteur       0.056  0.034 -0.043
+                                             resid_quad    0.205  0.210 -0.003
+                                             span_W        0.054 -0.082  0.038
+                                             tendance_reg -0.005  0.012  0.197
+                                 production  lenteur      -0.167 -0.065 -0.036
+                                             resid_quad   -0.033 -0.027  0.021
+                                             span_W       -0.111 -0.083 -0.051
+                                             tendance_reg -0.072 -0.096 -0.111
+                      roulements maintenance lenteur      -0.111 -0.038 -0.018
+                                             resid_quad    0.069  0.282 -0.049
+                                             span_W        0.025  0.076 -0.047
+                                             tendance_reg  0.047  0.059  0.032
+                                 mesure      lenteur       0.281  0.297  0.256
+                                             resid_quad   -0.172 -0.013  0.062
+                                             span_W        0.201  0.276  0.152
+                                             tendance_reg  0.489  0.443  0.245
+                                 production  lenteur       0.161  0.116  0.113
+                                             resid_quad   -0.194  0.060  0.073
+                                             span_W       -0.199  0.089 -0.006
+                                             tendance_reg  0.308  0.215  0.138
+
+Compte (médiane ≥ 0,05 et Holm < 0,05)
+ampleur                                                     0.25   1.00   2.00
+valeur                jeu        categorie   methode                          
+capteurs_vs_categorie C-MAPSS    maintenance lenteur       False  False  False
+                                             resid_quad    False   True  False
+                                             span_W        False   True  False
+                                             tendance_reg  False  False   True
+                                 mesure      lenteur        True   True   True
+                                             resid_quad    False  False  False
+                                             span_W         True   True   True
+                                             tendance_reg  False  False  False
+                                 production  lenteur        True   True   True
+                                             resid_quad     True   True   True
+                                             span_W         True   True   True
+                                             tendance_reg   True   True   True
+                      N-CMAPSS   maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      batteries  maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      roulements maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+categorie_vs_date     C-MAPSS    maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg   True  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur        True   True   True
+                                             resid_quad     True   True   True
+                                             span_W        False   True   True
+                                             tendance_reg  False  False  False
+                      N-CMAPSS   maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      batteries  maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      roulements maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+degat                 C-MAPSS    maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      N-CMAPSS   maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      batteries  maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      roulements maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+gain_date             C-MAPSS    maintenance lenteur       False  False  False
+                                             resid_quad    False   True   True
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      N-CMAPSS   maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      batteries  maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      roulements maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+journal_vs_detection  C-MAPSS    maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False   True   True
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      N-CMAPSS   maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      batteries  maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                      roulements maintenance lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 mesure      lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+                                 production  lenteur       False  False  False
+                                             resid_quad    False  False  False
+                                             span_W        False  False  False
+                                             tendance_reg  False  False  False
+
+Alarmes
+                                            faux_par_unite                       detection                     
+condition                                            aucun propre  reref     tri     aucun propre  reref    tri
+jeu        categorie   ampleur methode                                                                         
+C-MAPSS    -           0.00    lenteur                 NaN  0.231    NaN     NaN       NaN  0.706    NaN    NaN
+                               resid_quad              NaN  0.282    NaN     NaN       NaN  0.718    NaN    NaN
+                               span_W                  NaN  0.264    NaN     NaN       NaN  0.673    NaN    NaN
+                               tendance_reg            NaN  0.276    NaN     NaN       NaN  0.977    NaN    NaN
+           maintenance 0.25    lenteur               0.129    NaN  0.137   0.129     0.177    NaN  0.196  0.177
+                               resid_quad            0.220    NaN  0.228   0.220     0.184    NaN  0.180  0.184
+                               span_W                0.112    NaN  0.120   0.112     0.216    NaN  0.231  0.216
+                               tendance_reg          0.154    NaN  0.176   0.154     0.385    NaN  0.396  0.385
+                       1.00    lenteur               0.216    NaN  0.216   0.216     0.255    NaN  0.252  0.255
+                               resid_quad            0.256    NaN  0.256   0.256     0.192    NaN  0.176  0.192
+                               span_W                0.238    NaN  0.220   0.238     0.215    NaN  0.204  0.215
+                               tendance_reg          0.216    NaN  0.216   0.216     0.350    NaN  0.355  0.350
+                       2.00    lenteur               0.240    NaN  0.228   0.240     0.277    NaN  0.262  0.277
+                               resid_quad            0.301    NaN  0.286   0.301     0.232    NaN  0.204  0.232
+                               span_W                0.286    NaN  0.269   0.286     0.262    NaN  0.233  0.262
+                               tendance_reg          0.277    NaN  0.262   0.277     0.337    NaN  0.332  0.337
+           mesure      0.25    lenteur               0.251    NaN  0.235   0.251     0.714    NaN  0.706  0.714
+                               resid_quad            0.251    NaN  0.232   0.251     0.677    NaN  0.655  0.677
+                               span_W                0.272    NaN  0.263   0.272     0.677    NaN  0.665  0.677
+                               tendance_reg          0.269    NaN  0.246   0.269     0.985    NaN  0.960  0.985
+                       1.00    lenteur               0.269    NaN  0.251   0.269     0.714    NaN  0.710  0.714
+                               resid_quad            0.173    NaN  0.160   0.173     0.281    NaN  0.275  0.281
+                               span_W                0.282    NaN  0.282   0.282     0.673    NaN  0.677  0.673
+                               tendance_reg          0.286    NaN  0.268   0.286     0.977    NaN  0.942  0.977
+                       2.00    lenteur               0.270    NaN  0.256   0.270     0.702    NaN  0.692  0.702
+                               resid_quad            0.165    NaN  0.154   0.165     0.327    NaN  0.319  0.327
+                               span_W                0.280    NaN  0.274   0.280     0.673    NaN  0.663  0.673
+                               tendance_reg          0.292    NaN  0.269   0.292     0.935    NaN  0.923  0.935
+           production  0.25    lenteur               0.246    NaN  0.232   0.246     0.685    NaN  0.669  0.685
+                               resid_quad            0.243    NaN  0.231   0.243     0.669    NaN  0.664  0.669
+                               span_W                0.260    NaN  0.252   0.260     0.656    NaN  0.636  0.656
+                               tendance_reg          0.273    NaN  0.251   0.273     0.977    NaN  0.952  0.977
+                       1.00    lenteur               0.235    NaN  0.216   0.235     0.600    NaN  0.584  0.600
+                               resid_quad            0.224    NaN  0.196   0.224     0.556    NaN  0.556  0.556
+                               span_W                0.238    NaN  0.223   0.238     0.604    NaN  0.581  0.604
+                               tendance_reg          0.264    NaN  0.258   0.264     0.973    NaN  0.946  0.973
+                       2.00    lenteur               0.224    NaN  0.200   0.224     0.484    NaN  0.463  0.484
+                               resid_quad            0.265    NaN  0.244   0.265     0.560    NaN  0.564  0.560
+                               span_W                0.292    NaN  0.278   0.292     0.596    NaN  0.541  0.596
+                               tendance_reg          0.270    NaN  0.262   0.270     0.937    NaN  0.933  0.937
+N-CMAPSS   -           0.00    lenteur                 NaN  1.250    NaN     NaN       NaN  1.000    NaN    NaN
+                               resid_quad              NaN  0.250    NaN     NaN       NaN  0.167    NaN    NaN
+                               span_W                  NaN  1.333    NaN     NaN       NaN  1.000    NaN    NaN
+                               tendance_reg            NaN  1.250    NaN     NaN       NaN  1.000    NaN    NaN
+           maintenance 0.25    lenteur               0.333    NaN  0.167   0.333     0.250    NaN  0.167  0.250
+                               resid_quad            0.167    NaN  0.167   0.167     0.000    NaN  0.167  0.000
+                               span_W                0.500    NaN  0.333   0.500     0.250    NaN  0.167  0.250
+                               tendance_reg          0.250    NaN  0.167   0.250     0.167    NaN  0.167  0.167
+                       1.00    lenteur               0.500    NaN  0.250   0.500     0.333    NaN  0.333  0.333
+                               resid_quad            0.500    NaN  0.167   0.500     0.000    NaN  0.083  0.000
+                               span_W                0.583    NaN  0.167   0.583     0.333    NaN  0.333  0.333
+                               tendance_reg          0.500    NaN  0.000   0.500     0.333    NaN  0.000  0.333
+                       2.00    lenteur               0.667    NaN  0.167   0.667     0.333    NaN  0.333  0.333
+                               resid_quad            0.500    NaN  0.167   0.500     0.000    NaN  0.167  0.000
+                               span_W                0.667    NaN  0.167   0.667     0.333    NaN  0.333  0.333
+                               tendance_reg          0.500    NaN  0.167   0.500     0.333    NaN  0.000  0.333
+           mesure      0.25    lenteur               1.500    NaN  1.333   1.500     1.000    NaN  0.833  1.000
+                               resid_quad            0.333    NaN  0.250   0.333     0.250    NaN  0.167  0.250
+                               span_W                1.250    NaN  1.167   1.250     1.000    NaN  0.833  1.000
+                               tendance_reg          1.500    NaN  1.000   1.500     1.000    NaN  0.833  1.000
+                       1.00    lenteur               1.333    NaN  1.333   1.333     1.000    NaN  0.833  1.000
+                               resid_quad            0.333    NaN  0.167   0.333     0.167    NaN  0.000  0.167
+                               span_W                1.167    NaN  1.250   1.167     1.000    NaN  0.833  1.000
+                               tendance_reg          1.083    NaN  1.000   1.083     0.917    NaN  0.833  0.917
+                       2.00    lenteur               1.167    NaN  1.333   1.167     0.917    NaN  0.833  0.917
+                               resid_quad            0.500    NaN  0.250   0.500     0.167    NaN  0.000  0.167
+                               span_W                1.083    NaN  1.167   1.083     0.917    NaN  0.833  0.917
+                               tendance_reg          0.917    NaN  1.000   0.917     0.667    NaN  0.833  0.667
+           production  0.25    lenteur               1.167    NaN  0.833   1.167     1.000    NaN  0.833  1.000
+                               resid_quad            0.417    NaN  0.167   0.417     0.167    NaN  0.083  0.167
+                               span_W                1.000    NaN  0.833   1.000     1.000    NaN  0.833  1.000
+                               tendance_reg          1.167    NaN  0.833   1.167     1.000    NaN  0.667  1.000
+                       1.00    lenteur               1.000    NaN  0.750   1.000     0.917    NaN  0.667  0.917
+                               resid_quad            0.500    NaN  0.167   0.500     0.250    NaN  0.000  0.250
+                               span_W                0.917    NaN  0.500   0.917     0.833    NaN  0.583  0.833
+                               tendance_reg          1.000    NaN  0.417   1.000     1.000    NaN  0.667  1.000
+                       2.00    lenteur               0.917    NaN  0.667   0.917     0.917    NaN  0.583  0.917
+                               resid_quad            0.500    NaN  0.167   0.500     0.333    NaN  0.000  0.333
+                               span_W                0.750    NaN  0.667   0.750     0.750    NaN  0.333  0.750
+                               tendance_reg          1.000    NaN  0.333   1.000     0.833    NaN  0.417  0.833
+batteries  -           0.00    lenteur                 NaN  1.350    NaN     NaN       NaN  0.300    NaN    NaN
+                               resid_quad              NaN  2.400    NaN     NaN       NaN  0.800    NaN    NaN
+                               span_W                  NaN  1.500    NaN     NaN       NaN  0.300    NaN    NaN
+                               tendance_reg            NaN  1.750    NaN     NaN       NaN  0.600    NaN    NaN
+           maintenance 0.25    lenteur               1.075    NaN  0.531   1.075     0.531    NaN  0.325  0.531
+                               resid_quad            1.250    NaN  1.925   1.250     0.575    NaN  0.450  0.575
+                               span_W                1.000    NaN  0.275   1.000     0.469    NaN  0.225  0.469
+                               tendance_reg          2.300    NaN  2.075   2.300     0.550    NaN  0.475  0.550
+                       1.00    lenteur               0.900    NaN  0.275   0.900     0.550    NaN  0.200  0.550
+                               resid_quad            1.250    NaN  1.400   1.250     0.575    NaN  0.425  0.575
+                               span_W                0.806    NaN  0.431   0.806     0.550    NaN  0.200  0.550
+                               tendance_reg          1.625    NaN  0.281   1.625     0.444    NaN  0.350  0.444
+                       2.00    lenteur               0.925    NaN  0.725   0.925     0.525    NaN  0.175  0.525
+                               resid_quad            0.925    NaN  0.875   0.925     0.625    NaN  0.350  0.625
+                               span_W                0.700    NaN  0.900   0.700     0.525    NaN  0.225  0.525
+                               tendance_reg          1.200    NaN  0.275   1.200     0.425    NaN  0.250  0.425
+           mesure      0.25    lenteur               1.175    NaN  1.400   1.175     0.525    NaN  0.250  0.525
+                               resid_quad            2.850    NaN  3.775   2.850     0.525    NaN  0.725  0.525
+                               span_W                1.006    NaN  1.038   1.006     0.500    NaN  0.250  0.500
+                               tendance_reg          1.600    NaN  1.525   1.600     0.631    NaN  0.450  0.631
+                       1.00    lenteur               0.719    NaN  1.600   0.719     0.550    NaN  0.306  0.550
+                               resid_quad            2.500    NaN  3.375   2.500     0.500    NaN  0.775  0.500
+                               span_W                1.388    NaN  1.325   1.388     0.550    NaN  0.306  0.550
+                               tendance_reg          1.825    NaN  1.600   1.825     0.694    NaN  0.500  0.694
+                       2.00    lenteur               1.675    NaN  1.412   1.675     0.556    NaN  0.331  0.556
+                               resid_quad            2.100    NaN  2.975   2.100     0.500    NaN  0.750  0.500
+                               span_W                1.675    NaN  1.525   1.675     0.525    NaN  0.331  0.525
+                               tendance_reg          1.712    NaN  1.575   1.712     0.669    NaN  0.400  0.669
+           production  0.25    lenteur               1.000    NaN  1.094   1.000     0.400    NaN  0.275  0.400
+                               resid_quad            2.100    NaN  2.100   2.100     0.800    NaN  0.669  0.800
+                               span_W                0.975    NaN  1.112   0.975     0.400    NaN  0.275  0.400
+                               tendance_reg          1.725    NaN  1.350   1.725     0.650    NaN  0.412  0.650
+                       1.00    lenteur               1.200    NaN  0.825   1.200     0.450    NaN  0.225  0.450
+                               resid_quad            2.450    NaN  2.375   2.450     0.806    NaN  0.606  0.806
+                               span_W                1.350    NaN  0.825   1.350     0.419    NaN  0.225  0.419
+                               tendance_reg          1.625    NaN  1.638   1.625     0.694    NaN  0.356  0.694
+                       2.00    lenteur               1.612    NaN  0.750   1.612     0.531    NaN  0.250  0.531
+                               resid_quad            2.725    NaN  1.700   2.725     0.831    NaN  0.500  0.831
+                               span_W                0.975    NaN  0.650   0.975     0.525    NaN  0.250  0.525
+                               tendance_reg          1.519    NaN  0.862   1.519     0.750    NaN  0.375  0.750
+roulements -           0.00    lenteur                 NaN  0.871    NaN     NaN       NaN  0.652    NaN    NaN
+                               resid_quad              NaN  3.136    NaN     NaN       NaN  0.591    NaN    NaN
+                               span_W                  NaN  1.519    NaN     NaN       NaN  0.606    NaN    NaN
+                               tendance_reg            NaN  1.273    NaN     NaN       NaN  0.818    NaN    NaN
+           maintenance 0.25    lenteur               1.034    NaN  3.667   1.034     0.227    NaN  0.485  0.227
+                               resid_quad            3.318    NaN  6.667   3.318     0.318    NaN  0.394  0.318
+                               span_W                2.345    NaN  4.640   2.345     0.250    NaN  0.394  0.250
+                               tendance_reg          2.182    NaN  0.318   2.182     0.227    NaN  0.182  0.227
+                       1.00    lenteur               0.989    NaN  3.792   0.989     0.182    NaN  0.530  0.182
+                               resid_quad           18.727    NaN  7.773  18.727     0.273    NaN  0.348  0.273
+                               span_W                2.576    NaN  5.864   2.576     0.216    NaN  0.333  0.216
+                               tendance_reg         13.227    NaN  0.591  13.227     0.364    NaN  0.182  0.364
+                       2.00    lenteur               1.398    NaN  4.292   1.398     0.273    NaN  0.530  0.273
+                               resid_quad            8.182    NaN  6.864   8.182     0.303    NaN  0.348  0.303
+                               span_W                3.780    NaN  2.269   3.780     0.273    NaN  0.292  0.273
+                               tendance_reg          8.576    NaN  0.682   8.576     0.455    NaN  0.182  0.455
+           mesure      0.25    lenteur               0.784    NaN  1.485   0.784     0.652    NaN  0.909  0.652
+                               resid_quad            3.000    NaN  3.769   3.000     0.545    NaN  0.727  0.545
+                               span_W                1.564    NaN  2.170   1.564     0.606    NaN  0.818  0.606
+                               tendance_reg          1.273    NaN  0.909   1.273     0.773    NaN  0.652  0.773
+                       1.00    lenteur               0.909    NaN  1.636   0.909     0.652    NaN  0.909  0.652
+                               resid_quad            5.773    NaN  4.818   5.773     0.564    NaN  0.636  0.564
+                               span_W                1.602    NaN  2.394   1.602     0.561    NaN  0.818  0.561
+                               tendance_reg          1.909    NaN  1.273   1.909     0.697    NaN  0.727  0.697
+                       2.00    lenteur               0.909    NaN  1.773   0.909     0.652    NaN  0.909  0.652
+                               resid_quad            7.000    NaN  6.818   7.000     0.455    NaN  0.545  0.455
+                               span_W                1.500    NaN  2.648   1.500     0.606    NaN  0.864  0.606
+                               tendance_reg          1.273    NaN  0.909   1.273     0.773    NaN  0.773  0.773
+           production  0.25    lenteur               0.913    NaN  1.576   0.913     0.652    NaN  0.909  0.652
+                               resid_quad            5.636    NaN  2.167   5.636     0.545    NaN  0.727  0.545
+                               span_W                1.303    NaN  1.697   1.303     0.697    NaN  0.773  0.697
+                               tendance_reg          0.773    NaN  0.773   0.773     0.773    NaN  0.682  0.773
+                       1.00    lenteur               1.409    NaN  2.303   1.409     0.667    NaN  0.864  0.667
+                               resid_quad            8.136    NaN  3.170   8.136     0.545    NaN  0.727  0.545
+                               span_W                2.500    NaN  2.182   2.500     0.727    NaN  0.818  0.727
+                               tendance_reg          9.856    NaN  1.136   9.856     0.818    NaN  0.500  0.818
+                       2.00    lenteur               1.636    NaN  2.121   1.636     0.667    NaN  0.818  0.667
+                               resid_quad            7.455    NaN  2.390   7.455     0.545    NaN  0.591  0.545
+                               span_W                2.864    NaN  1.621   2.864     0.697    NaN  0.773  0.697
+                               tendance_reg          6.409    NaN  1.273   6.409     0.682    NaN  0.455  0.682

@@ -1,0 +1,121 @@
+cadre,methode,bat,sp_capacite,sp_cycle,n_cycles,groupe
+classe non vue,sfa_brut,13,-0.43970023428338334,-0.4392449966199397,1083,biaisee_basse_TA
+classe non vue,sfa_brut,14,-0.17871945846364773,-0.17829015087522324,1095,biaisee_basse_TA
+classe non vue,sfa_brut,15,-0.27317440959817035,-0.2721825029306936,1100,biaisee_basse_TA
+classe non vue,sfa_brut,16,-0.23208801910049384,-0.23208801910049384,878,biaisee_basse_TA
+classe non vue,sfa_brut,17,-0.02007973725893803,-0.02727322276086605,1233,biaisee_haute_TA
+classe non vue,sfa_brut,18,-0.1575349809572681,-0.15951690606029323,1152,biaisee_haute_TA
+classe non vue,sfa_brut,19,-0.016985105220132198,-0.021594504880945584,1199,biaisee_haute_TA
+classe non vue,sfa_brut,20,-0.14325559494737,-0.1427157360065611,1354,biaisee_haute_TA
+classe non vue,sfa_brut,21,0.08030124018281155,0.08019594148041337,512,biaisee_basse_40C
+classe non vue,sfa_brut,22,0.15831185430646313,0.15780400979891643,495,biaisee_basse_40C
+classe non vue,sfa_brut,23,0.08573362293449174,0.08573362293449174,500,biaisee_basse_40C
+classe non vue,sfa_brut,24,-0.003745084849686321,-0.0037544517546292695,520,biaisee_basse_40C
+classe non vue,sfa_brut,25,-0.5447675687988022,-0.5447675687988022,600,biaisee_haute_40C
+classe non vue,sfa_brut,26,-0.5653739808578518,-0.5653739808578518,650,biaisee_haute_40C
+classe non vue,sfa_brut,27,-0.40581005839889794,-0.4072662843742102,593,biaisee_haute_40C
+classe non vue,sfa_brut,28,-0.35905520411599784,-0.3582264197296497,599,biaisee_haute_40C
+classe non vue,sfa_resid_lin,13,0.877249889648513,0.8790631080180877,1083,biaisee_basse_TA
+classe non vue,sfa_resid_lin,14,0.8863486157405426,0.8863868731956784,1095,biaisee_basse_TA
+classe non vue,sfa_resid_lin,15,0.8771389233301325,0.877335790435289,1100,biaisee_basse_TA
+classe non vue,sfa_resid_lin,16,0.8935997121213868,0.8935997121213868,878,biaisee_basse_TA
+classe non vue,sfa_resid_lin,17,0.9115332036660212,0.9172721800592116,1233,biaisee_haute_TA
+classe non vue,sfa_resid_lin,18,0.9125690507820419,0.9171708350193367,1152,biaisee_haute_TA
+classe non vue,sfa_resid_lin,19,0.9335851844291907,0.9386515334843588,1199,biaisee_haute_TA
+classe non vue,sfa_resid_lin,20,0.8828031594077509,0.883783552754287,1354,biaisee_haute_TA
+classe non vue,sfa_resid_lin,21,0.8643251070958905,0.8644316091312756,512,biaisee_basse_40C
+classe non vue,sfa_resid_lin,22,0.914602064133859,0.9151407308028702,495,biaisee_basse_40C
+classe non vue,sfa_resid_lin,23,0.869182004728019,0.869182004728019,500,biaisee_basse_40C
+classe non vue,sfa_resid_lin,24,0.7549988982687634,0.7551529406543661,520,biaisee_basse_40C
+classe non vue,sfa_resid_lin,25,0.7432257867382964,0.7432257867382964,600,biaisee_haute_40C
+classe non vue,sfa_resid_lin,26,0.6085142632108187,0.6085142632108187,650,biaisee_haute_40C
+classe non vue,sfa_resid_lin,27,0.7449232351228345,0.7448955739427916,593,biaisee_haute_40C
+classe non vue,sfa_resid_lin,28,0.7480952740868378,0.7480980564039285,599,biaisee_haute_40C
+classe non vue,sfa_resid_quad,13,0.9466743325961658,0.9480623258211833,1083,biaisee_basse_TA
+classe non vue,sfa_resid_quad,14,0.9432872330519975,0.9433100474230456,1095,biaisee_basse_TA
+classe non vue,sfa_resid_quad,15,0.9381363354277147,0.9383918318790498,1100,biaisee_basse_TA
+classe non vue,sfa_resid_quad,16,0.9348309851829619,0.9348309851829619,878,biaisee_basse_TA
+classe non vue,sfa_resid_quad,17,0.9225998284105779,0.9172929662347493,1233,biaisee_haute_TA
+classe non vue,sfa_resid_quad,18,0.895436376892625,0.8901251133735162,1152,biaisee_haute_TA
+classe non vue,sfa_resid_quad,19,0.9364902094794363,0.9315680777386831,1199,biaisee_haute_TA
+classe non vue,sfa_resid_quad,20,0.8910913438732014,0.8921603825948292,1354,biaisee_haute_TA
+classe non vue,sfa_resid_quad,21,0.8483038408949112,0.8484149157139423,512,biaisee_basse_40C
+classe non vue,sfa_resid_quad,22,0.9184572840858382,0.9189476058746009,495,biaisee_basse_40C
+classe non vue,sfa_resid_quad,23,0.8658880395521581,0.8658880395521581,500,biaisee_basse_40C
+classe non vue,sfa_resid_quad,24,0.7709103667600562,0.7712019588147085,520,biaisee_basse_40C
+classe non vue,sfa_resid_quad,25,0.6916002544451512,0.6916002544451512,600,biaisee_haute_40C
+classe non vue,sfa_resid_quad,26,0.6259967479212969,0.6259967479212969,650,biaisee_haute_40C
+classe non vue,sfa_resid_quad,27,0.6267649154812684,0.6272325138261059,593,biaisee_haute_40C
+classe non vue,sfa_resid_quad,28,0.6733968596550824,0.6740979112344431,599,biaisee_haute_40C
+classe non vue,span_W,13,-0.8448536162868665,-0.843310083322798,1083,biaisee_basse_TA
+classe non vue,span_W,14,-0.7717873087414138,-0.7714796527659848,1095,biaisee_basse_TA
+classe non vue,span_W,15,-0.7904881972488964,-0.7903229071038301,1100,biaisee_basse_TA
+classe non vue,span_W,16,-0.7905422464728101,-0.7905422464728101,878,biaisee_basse_TA
+classe non vue,span_W,17,-0.7010827532574171,-0.7070482009837141,1233,biaisee_haute_TA
+classe non vue,span_W,18,-0.7683190220854499,-0.7716158178126841,1152,biaisee_haute_TA
+classe non vue,span_W,19,-0.7414192421347953,-0.7461267249697507,1199,biaisee_haute_TA
+classe non vue,span_W,20,-0.6900903672923555,-0.688227774717656,1354,biaisee_haute_TA
+classe non vue,span_W,21,-0.11581704519442869,-0.11576860601847083,512,biaisee_basse_40C
+classe non vue,span_W,22,-0.12668897492833758,-0.12780343595284174,495,biaisee_basse_40C
+classe non vue,span_W,23,-0.11827132108528433,-0.11827132108528433,500,biaisee_basse_40C
+classe non vue,span_W,24,-0.20433965054187755,-0.20422452631965235,520,biaisee_basse_40C
+classe non vue,span_W,25,-0.6476036322323117,-0.6476036322323117,600,biaisee_haute_40C
+classe non vue,span_W,26,-0.6394113049334482,-0.6394113049334482,650,biaisee_haute_40C
+classe non vue,span_W,27,-0.5638885788855414,-0.5648179415042822,593,biaisee_haute_40C
+classe non vue,span_W,28,-0.49403661122129366,-0.4937059536239328,599,biaisee_haute_40C
+classe non vue,sonde,13,0.9684522589434461,0.9696284782930673,1083,biaisee_basse_TA
+classe non vue,sonde,14,0.9457743427159652,0.945808782924267,1095,biaisee_basse_TA
+classe non vue,sonde,15,0.9482265278835238,0.9484541061604185,1100,biaisee_basse_TA
+classe non vue,sonde,16,0.9426114484689224,0.9426114484689224,878,biaisee_basse_TA
+classe non vue,sonde,17,0.9355815317892132,0.9407032187882546,1233,biaisee_haute_TA
+classe non vue,sonde,18,0.9376765986387895,0.9423576752645927,1152,biaisee_haute_TA
+classe non vue,sonde,19,0.9505565329762833,0.9556192695359655,1199,biaisee_haute_TA
+classe non vue,sonde,20,0.9025821626225392,0.9035051561741616,1354,biaisee_haute_TA
+classe non vue,sonde,21,0.9772826200713937,0.9773435622446527,512,biaisee_basse_40C
+classe non vue,sonde,22,0.9844061804279924,0.984728768684626,495,biaisee_basse_40C
+classe non vue,sonde,23,0.9835966063864254,0.9835966063864254,500,biaisee_basse_40C
+classe non vue,sonde,24,0.9548352893235903,0.9548819735621461,520,biaisee_basse_40C
+classe non vue,sonde,25,0.9530878696885269,0.9530878696885269,600,biaisee_haute_40C
+classe non vue,sonde,26,0.8290592949969658,0.8290592949969658,650,biaisee_haute_40C
+classe non vue,sonde,27,0.934122350954335,0.934122801323476,593,biaisee_haute_40C
+classe non vue,sonde,28,0.9076631151043272,0.9079629929481129,599,biaisee_haute_40C
+contrôle (uniforme laissée de côté),sfa_brut,1,0.80055350823849,0.801945649445428,1139,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_lin,1,0.7534179555900458,0.7560889800319627,1139,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_quad,1,0.8209717295155978,0.8235773663688716,1139,uniforme
+contrôle (uniforme laissée de côté),span_W,1,0.5912942549457254,0.5949154232645528,1139,uniforme
+contrôle (uniforme laissée de côté),sonde,1,0.8185819621443825,0.8203099889562292,1139,uniforme
+contrôle (uniforme laissée de côté),sfa_brut,2,0.35143336446049467,0.3792513661911806,294,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_lin,2,0.4183044236379112,0.4531797516831688,294,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_quad,2,0.437279163415236,0.47368731723614416,294,uniforme
+contrôle (uniforme laissée de côté),span_W,2,0.4211627706557836,0.44500326422001674,294,uniforme
+contrôle (uniforme laissée de côté),sonde,2,0.5869865641634685,0.6307292373766769,294,uniforme
+contrôle (uniforme laissée de côté),sfa_brut,3,0.19286995643383922,0.19286995643383922,174,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_lin,3,0.7443640194766366,0.7443640194766366,174,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_quad,3,0.800873601184544,0.800873601184544,174,uniforme
+contrôle (uniforme laissée de côté),span_W,3,0.11869700162305305,0.11869700162305305,174,uniforme
+contrôle (uniforme laissée de côté),sonde,3,0.8767094735043709,0.8767094735043709,174,uniforme
+contrôle (uniforme laissée de côté),sfa_brut,4,0.5941835254729262,0.5941882262278001,729,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_lin,4,0.9094609530825535,0.9137822293834473,729,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_quad,4,0.9581623648640861,0.9622428757892991,729,uniforme
+contrôle (uniforme laissée de côté),span_W,4,0.24174642841857447,0.2430975952284933,729,uniforme
+contrôle (uniforme laissée de côté),sonde,4,0.9731221405938099,0.9761122044988104,729,uniforme
+contrôle (uniforme laissée de côté),sfa_brut,5,0.7283781346789578,0.7310012742149651,744,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_lin,5,0.9315422936449699,0.9324761641962787,744,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_quad,5,0.9669990178357405,0.9678430160169958,744,uniforme
+contrôle (uniforme laissée de côté),span_W,5,0.4753194103742213,0.47983386544604667,744,uniforme
+contrôle (uniforme laissée de côté),sonde,5,0.9771401691603612,0.9779929701097084,744,uniforme
+contrôle (uniforme laissée de côté),sfa_brut,6,0.6995102848941748,0.7000174212888148,408,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_lin,6,0.8482382698334002,0.8478151477576186,408,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_quad,6,0.9156367053220165,0.9154397850644075,408,uniforme
+contrôle (uniforme laissée de côté),span_W,6,0.5780181989477873,0.5780012587146197,408,uniforme
+contrôle (uniforme laissée de côté),sonde,6,0.9645786258254517,0.964418166057746,408,uniforme
+contrôle (uniforme laissée de côté),sfa_brut,7,0.8309629722880584,0.8377151351788803,1174,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_lin,7,0.8536086262186671,0.8563325036230107,1174,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_quad,7,0.8985102165055405,0.9013004460152629,1174,uniforme
+contrôle (uniforme laissée de côté),span_W,7,0.6346281826433103,0.6485746357823214,1174,uniforme
+contrôle (uniforme laissée de côté),sonde,7,0.9082248707484607,0.9118374377126285,1174,uniforme
+contrôle (uniforme laissée de côté),sfa_brut,8,0.8240973376572985,0.833106062758081,1176,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_lin,8,0.8635571054040567,0.8655441998560481,1176,uniforme
+contrôle (uniforme laissée de côté),sfa_resid_quad,8,0.9036984739884841,0.9077921487653612,1176,uniforme
+contrôle (uniforme laissée de côté),span_W,8,0.6466914948445801,0.6646141728623335,1176,uniforme
+contrôle (uniforme laissée de côté),sonde,8,0.9005460553571659,0.9031000678439816,1176,uniforme

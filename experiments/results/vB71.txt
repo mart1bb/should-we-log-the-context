@@ -1,0 +1,258 @@
+jeu                                               C-MAPSS  N-CMAPSS  batteries  roulements
+mode    eval    categorie   valeur                                                        
+injecte global  maintenance capt_sans_couper        0.060     0.229      0.092       0.082
+                            cat                     0.001     0.054     -0.010       0.096
+                            cat_capteurs            0.057     0.105      0.203       0.107
+                            cat_capteurs_causal1    0.039     0.111      0.175       0.111
+                            cat_capteurs_causal3    0.045     0.105      0.197       0.091
+                            cat_causal1             0.001     0.054     -0.010       0.096
+                            cat_causal3             0.001     0.054     -0.010       0.096
+                            cat_infere              0.039     0.133      0.268      -0.030
+                            date                    0.021     0.339      0.323       0.209
+                            date_causal1            0.009     0.295      0.221       0.180
+                            date_causal3            0.028     0.334      0.263       0.188
+                            date_couper             0.018     0.351      0.167       0.113
+                            degat                  -0.693    -0.781     -0.273      -0.477
+                mesure      cat                    -0.049     0.033      0.120       0.004
+                            cat_capteurs           -0.004     0.058      0.140       0.014
+                            cat_capteurs_causal1   -0.005     0.085      0.106       0.015
+                            cat_capteurs_causal3   -0.007     0.066      0.122       0.020
+                            cat_causal1            -0.078    -0.010      0.259       0.085
+                            cat_causal3            -0.087     0.005      0.264       0.026
+                            cat_infere             -0.013     0.062      0.039       0.028
+                            date                   -0.049     0.033      0.120       0.004
+                            date_causal1           -0.078    -0.010      0.259       0.085
+                            date_causal3           -0.087     0.005      0.264       0.026
+                            degat                  -0.011    -0.127     -0.044      -0.012
+                prod_quad   cat                    -0.030    -0.359      0.177       0.143
+                            cat_capteurs            0.086    -0.151      0.173       0.104
+                            cat_capteurs_causal1    0.082    -0.017      0.206       0.097
+                            cat_capteurs_causal3    0.085    -0.015      0.177       0.101
+                            cat_causal1            -0.143    -0.169      0.255       0.038
+                            cat_causal3            -0.055    -0.161      0.201       0.052
+                            cat_infere              0.071    -0.131      0.195       0.069
+                            date                   -0.041    -0.146      0.162       0.140
+                            date_causal1           -0.091    -0.157      0.180       0.202
+                            date_causal3           -0.071    -0.149      0.152       0.166
+                            degat                  -0.098    -0.430     -0.061      -0.184
+                            detection              -0.034    -0.069      0.181      -0.142
+                prod_seuil  cat                     0.003     0.015      0.190       0.025
+                            cat_capteurs            0.151     0.163      0.123       0.027
+                            cat_capteurs_causal1    0.146     0.162      0.052       0.024
+                            cat_capteurs_causal3    0.152     0.166      0.053       0.020
+                            cat_causal1            -0.065     0.007      0.112      -0.051
+                            cat_causal3            -0.033     0.069      0.130      -0.038
+                            cat_infere              0.086     0.078      0.166       0.001
+                            date                   -0.058    -0.001      0.044      -0.047
+                            date_causal1           -0.112    -0.065      0.087       0.026
+                            date_causal3           -0.109     0.031      0.037       0.018
+                            degat                  -0.117    -0.186     -0.143      -0.014
+                            detection              -0.056    -0.099      0.122      -0.095
+                production  cat                    -0.030     0.020      0.140       0.037
+                            cat_capteurs            0.098     0.194      0.067      -0.002
+                            cat_capteurs_causal1    0.077     0.190      0.027       0.019
+                            cat_capteurs_causal3    0.094     0.192      0.033       0.010
+                            cat_causal1            -0.073     0.047      0.029      -0.006
+                            cat_causal3            -0.062     0.049      0.048      -0.016
+                            cat_infere              0.072     0.191      0.066      -0.021
+                            date                   -0.071    -0.058      0.008       0.025
+                            date_causal1           -0.104    -0.112      0.095       0.099
+                            date_causal3           -0.082    -0.057      0.123       0.072
+                            degat                  -0.047    -0.232     -0.043       0.008
+        segment maintenance capt_sans_couper        0.054     0.265      0.102      -0.010
+                            cat                     0.003     0.066      0.060       0.044
+                            cat_capteurs            0.048     0.098      0.163       0.032
+                            cat_capteurs_causal1    0.047     0.098      0.156       0.032
+                            cat_capteurs_causal3    0.047     0.098      0.147       0.032
+                            cat_causal1             0.003     0.066      0.060       0.044
+                            cat_causal3             0.003     0.066      0.060       0.044
+                            cat_infere              0.048     0.083      0.209       0.014
+                            date                    0.065     0.318      0.249       0.126
+                            date_causal1            0.065     0.318      0.249       0.126
+                            date_causal3            0.065     0.318      0.249       0.126
+                            date_couper             0.050     0.350      0.226       0.098
+                            degat                  -0.389    -0.541     -0.208      -0.362
+placebo global  maintenance cat_capteurs_causal1   -0.056    -0.423     -0.018      -0.011
+                            cat_capteurs_causal3   -0.044    -0.368     -0.099      -0.003
+                            cat_infere             -0.024    -0.185      0.048      -0.207
+                            date_causal1           -0.096    -0.111     -0.017      -0.001
+                            date_causal3           -0.091    -0.067      0.037       0.014
+                mesure      cat_capteurs_causal1   -0.024    -0.047     -0.027      -0.022
+                            cat_capteurs_causal3   -0.019    -0.031      0.010      -0.020
+                            cat_infere             -0.020    -0.016      0.237      -0.009
+                            date_causal1           -0.087    -0.152      0.063       0.054
+                            date_causal3           -0.093    -0.120      0.058       0.031
+                production  cat_capteurs_causal1   -0.024    -0.038     -0.100       0.007
+                            cat_capteurs_causal3   -0.009    -0.031     -0.078       0.010
+                            cat_infere             -0.010    -0.031      0.055      -0.003
+                            date_causal1           -0.084    -0.080     -0.002       0.042
+                            date_causal3           -0.072    -0.047      0.005       0.054
+        segment maintenance cat_capteurs_causal1    0.001    -0.359      0.027       0.002
+                            cat_capteurs_causal3    0.001    -0.359      0.029       0.002
+                            cat_infere              0.001    -0.265      0.051      -0.149
+                            date_causal1           -0.001    -0.054     -0.004      -0.022
+                            date_causal3           -0.001    -0.054     -0.004      -0.022
+
+Compte
+jeu                                               C-MAPSS  N-CMAPSS  batteries  roulements
+mode    eval    categorie   valeur                                                        
+injecte global  maintenance capt_sans_couper         True     False      False       False
+                            cat                     False     False      False       False
+                            cat_capteurs             True     False      False       False
+                            cat_capteurs_causal1    False     False      False       False
+                            cat_capteurs_causal3    False     False      False       False
+                            cat_causal1             False     False      False       False
+                            cat_causal3             False     False      False       False
+                            cat_infere              False     False      False       False
+                            date                    False     False      False       False
+                            date_causal1            False     False      False       False
+                            date_causal3            False     False      False       False
+                            date_couper             False     False      False       False
+                            degat                   False     False      False       False
+                mesure      cat                     False     False      False       False
+                            cat_capteurs            False     False      False       False
+                            cat_capteurs_causal1    False     False      False       False
+                            cat_capteurs_causal3    False     False      False       False
+                            cat_causal1             False     False      False       False
+                            cat_causal3             False     False      False       False
+                            cat_infere              False     False      False       False
+                            date                    False     False      False       False
+                            date_causal1            False     False      False       False
+                            date_causal3            False     False      False       False
+                            degat                   False     False      False       False
+                prod_quad   cat                     False     False      False       False
+                            cat_capteurs             True     False      False       False
+                            cat_capteurs_causal1     True     False      False       False
+                            cat_capteurs_causal3     True     False      False       False
+                            cat_causal1             False     False      False       False
+                            cat_causal3             False     False      False       False
+                            cat_infere              False     False      False       False
+                            date                    False     False      False       False
+                            date_causal1            False     False      False       False
+                            date_causal3            False     False      False       False
+                            degat                   False     False      False       False
+                            detection               False     False      False       False
+                prod_seuil  cat                     False     False      False       False
+                            cat_capteurs             True     False      False       False
+                            cat_capteurs_causal1    False     False      False       False
+                            cat_capteurs_causal3     True     False      False       False
+                            cat_causal1             False     False      False       False
+                            cat_causal3             False     False      False       False
+                            cat_infere               True     False      False       False
+                            date                    False     False      False       False
+                            date_causal1            False     False      False       False
+                            date_causal3            False     False      False       False
+                            degat                   False     False      False       False
+                            detection               False     False      False       False
+                production  cat                     False     False      False       False
+                            cat_capteurs             True     False      False       False
+                            cat_capteurs_causal1    False     False      False       False
+                            cat_capteurs_causal3    False     False      False       False
+                            cat_causal1             False     False      False       False
+                            cat_causal3             False     False      False       False
+                            cat_infere              False     False      False       False
+                            date                    False     False      False       False
+                            date_causal1            False     False      False       False
+                            date_causal3            False     False      False       False
+                            degat                   False     False      False       False
+        segment maintenance capt_sans_couper         True      True      False       False
+                            cat                     False     False      False       False
+                            cat_capteurs            False     False      False       False
+                            cat_capteurs_causal1    False     False      False       False
+                            cat_capteurs_causal3    False     False      False       False
+                            cat_causal1             False     False      False       False
+                            cat_causal3             False     False      False       False
+                            cat_infere              False     False      False       False
+                            date                     True      True      False       False
+                            date_causal1             True      True      False       False
+                            date_causal3             True      True      False       False
+                            date_couper              True      True      False       False
+                            degat                   False     False      False       False
+placebo global  maintenance cat_capteurs_causal1     True      True      False       False
+                            cat_capteurs_causal3    False      True       True       False
+                            cat_infere              False      True      False        True
+                            date_causal1             True      True      False       False
+                            date_causal3             True      True      False       False
+                mesure      cat_capteurs_causal1    False     False      False       False
+                            cat_capteurs_causal3    False     False      False       False
+                            cat_infere              False     False      False       False
+                            date_causal1             True      True      False       False
+                            date_causal3             True      True      False       False
+                production  cat_capteurs_causal1    False     False       True       False
+                            cat_capteurs_causal3    False     False       True       False
+                            cat_infere              False     False      False       False
+                            date_causal1             True      True      False       False
+                            date_causal3             True     False      False       False
+        segment maintenance cat_capteurs_causal1    False      True      False       False
+                            cat_capteurs_causal3    False      True      False       False
+                            cat_infere              False      True      False        True
+                            date_causal1            False      True      False       False
+                            date_causal3            False      True      False       False
+
+Capteurs inférés (rappel des capteurs vrais)
+                                           rappel  nb_capteurs  n_capteurs
+mode    jeu        categorie   estimation                                 
+injecte C-MAPSS    maintenance est_brut      0.14         2.48        21.0
+                               est_ctx       0.42         3.12        21.0
+                   mesure      est_brut      0.15         2.63        21.0
+                               est_ctx       0.42         2.98        21.0
+                   prod_quad   est_brut      0.35         3.39        21.0
+                               est_ctx       0.42         3.56        21.0
+                   prod_seuil  est_brut      0.41         3.49        21.0
+                               est_ctx       0.48         3.64        21.0
+                   production  est_brut      0.45         4.03        21.0
+                               est_ctx       0.52         4.19        21.0
+        N-CMAPSS   maintenance est_brut      0.17         1.00        14.0
+                               est_ctx       0.12         0.67        14.0
+                   mesure      est_brut      0.29         2.50        14.0
+                               est_ctx       0.17         1.71        14.0
+                   prod_quad   est_brut      0.92         4.08        14.0
+                               est_ctx       0.90         4.46        14.0
+                   prod_seuil  est_brut      0.62         2.42        14.0
+                               est_ctx       0.56         3.25        14.0
+                   production  est_brut      0.75         3.42        14.0
+                               est_ctx       0.71         3.67        14.0
+        batteries  maintenance est_brut      0.87         3.67         6.0
+                               est_ctx       0.75         3.85         6.0
+                   mesure      est_brut      0.78         1.63         6.0
+                               est_ctx       0.74         1.67         6.0
+                   prod_quad   est_brut      0.65         2.81         6.0
+                               est_ctx       0.64         2.65         6.0
+                   prod_seuil  est_brut      0.80         2.91         6.0
+                               est_ctx       0.76         2.78         6.0
+                   production  est_brut      0.78         2.61         6.0
+                               est_ctx       0.76         2.68         6.0
+        roulements maintenance est_brut      0.82         9.73        22.0
+                               est_ctx       0.78        10.59        22.0
+                   mesure      est_brut      0.55         3.26        22.0
+                               est_ctx       0.59         3.20        22.0
+                   prod_quad   est_brut      0.53         3.98        22.0
+                               est_ctx       0.51         3.84        22.0
+                   prod_seuil  est_brut      0.43         4.28        22.0
+                               est_ctx       0.45         4.09        22.0
+                   production  est_brut      0.55         3.45        22.0
+                               est_ctx       0.56         4.20        22.0
+placebo C-MAPSS    maintenance est_brut      0.13         2.79        21.0
+                               est_ctx       0.13         2.79        21.0
+                   mesure      est_brut      0.13         2.61        21.0
+                               est_ctx       0.13         2.70        21.0
+                   production  est_brut      0.18         3.67        21.0
+                               est_ctx       0.18         3.67        21.0
+        N-CMAPSS   maintenance est_brut      0.08         0.92        14.0
+                               est_ctx       0.12         1.42        14.0
+                   mesure      est_brut      0.17         2.46        14.0
+                               est_ctx       0.08         1.75        14.0
+                   production  est_brut      0.19         2.38        14.0
+                               est_ctx       0.17         2.38        14.0
+        batteries  maintenance est_brut      0.14         1.09         6.0
+                               est_ctx       0.14         1.08         6.0
+                   mesure      est_brut      0.18         0.95         6.0
+                               est_ctx       0.22         1.08         6.0
+                   production  est_brut      0.35         2.01         6.0
+                               est_ctx       0.31         1.82         6.0
+        roulements maintenance est_brut      0.12         3.17        22.0
+                               est_ctx       0.14         3.43        22.0
+                   mesure      est_brut      0.11         2.83        22.0
+                               est_ctx       0.11         2.80        22.0
+                   production  est_brut      0.12         2.43        22.0
+                               est_ctx       0.15         3.23        22.0

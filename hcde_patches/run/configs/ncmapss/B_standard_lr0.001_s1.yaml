@@ -1,0 +1,120 @@
+dataset:
+  dilation: 20
+  dir: datasets/ncmapss
+  fast_dilation: 2
+  fast_window_size: 5
+  horizon: 2
+  n_windows: 100
+  normalize: true
+  rollout: true
+  scaler_type: standard
+  stride: 5
+  test_files:
+  - N-CMAPSS_DS01.csv
+  test_units:
+  - 9
+  train_files:
+  - N-CMAPSS_DS01.csv
+  train_units:
+  - 1
+  - 4
+  - 7
+  type: windowed
+  val_split: 0.2
+  w_vars:
+  - alt
+  - Mach
+  - TRA
+  - T2
+  x_vars:
+  - T24
+  - T30
+  - T48
+  - T50
+  - P15
+  - P2
+  - P21
+  - P24
+  - Ps30
+  - P40
+  - P50
+  - Nf
+  - Nc
+  - Wf
+  y_label: HPT_eff_mod
+  y_scale_factor: 0.0175
+device: auto
+draw_latent_space: true
+draw_traj_interval: 10
+metric_agg: argmin
+metric_best: mae
+model:
+  activation: silu
+  cde:
+    adjoint: false
+    gamma: 10
+    hidden_dim: 64
+    interpolation: cubic
+    latent_dim: 10
+    latent_dim_1: 5
+    latent_dim_2: 10
+    num_layers: 2
+    path_dim: 10
+    prodp_1: true
+    prodp_2: false
+    regression: true
+    transform_path: true
+    z_aligment: false
+  do_norm: true
+  dropout: 0.0
+  node:
+    ing_method: dopri5
+  norm_func: batch
+  output_dim: 0
+  type: ls-ncde
+optim:
+  base_lr: 0.001
+  criterion: l2
+  factor: 0.95
+  lr_decay: 0.1
+  max_epochs: 80
+  min_lr: 0.0001
+  momentum: 0.9
+  optimizer: adam
+  patience: 5
+  scheduler: plateau
+  warmup: false
+  warmup_initial_lr: 0.0001
+  warmup_iters: 1000
+  weight_decay: 1.0e-05
+out_dir: results/B_standard_lr0.001_s1
+print: both
+round: 8
+seed: 1
+task:
+  level: graph
+  metric:
+    alpha: 0.2
+    beta: 0.9
+    lambda_cra: 0.1
+    lambda_value: 0.2
+  track_graph: false
+  train_type: mapping
+  type: forecasting
+tensorboard_agg: true
+tensorboard_each_run: true
+tensorboard_iter: false
+train:
+  auto_resume: false
+  batch_size: 256
+  ckpt_clean: true
+  ckpt_period: 5
+  clip_grad: true
+  draw_period: 5
+  early_stop_min: 999
+  early_stop_patience: 999
+  epoch_resume: -1
+  max_grad_norm: 1
+  random_split: true
+  shuffle: false
+  val_random_split: true

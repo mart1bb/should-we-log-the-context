@@ -1,0 +1,24 @@
+=== confusion dégradation / conditions dans l'entraînement ===
+  DS  R2_degr_W  R2_proj_W  ecart_c                             corr_degr_W
+DS01      0.003      0.013    6.951 alt:-0.04 Mach:-0.03 TRA:-0.00 T2:+0.03
+DS04      0.057      0.349    5.788 alt:+0.05 Mach:+0.09 TRA:+0.14 T2:-0.03
+DS05      0.161      0.369    8.939 alt:-0.33 Mach:-0.31 TRA:-0.12 T2:+0.17
+DS07      0.020      0.062    5.254 alt:-0.01 Mach:+0.06 TRA:+0.07 T2:+0.07
+
+=== que capte PC1 des résidus (vB03 cond_lin) ? R² par unité ===
+  DS  unite    role  R2_PC1_Wlin  R2_PC1_Wquad  R2_PC1_degr
+DS01      1   train        0.063         0.152        0.964
+DS01      9     ref        0.189         0.329        0.976
+DS01      8 non_vue        0.623         0.637        0.206
+DS01     10 non_vue        0.848         0.865        0.046
+DS04      2   train        0.286         0.664        0.932
+DS04     10     ref        0.055         0.279        0.883
+DS04      7 non_vue        0.386         0.591        0.752
+DS05      4   train        0.047         0.155        0.870
+DS05     10     ref        0.255         0.341        0.842
+DS05      7 non_vue        0.597         0.632        0.198
+DS05      9 non_vue        0.909         0.924        0.153
+DS07      4   train        0.031         0.153        0.969
+DS07     10     ref        0.342         0.440        0.950
+DS07      7 non_vue        0.860         0.883        0.044
+DS07      9 non_vue        0.945         0.950        0.171

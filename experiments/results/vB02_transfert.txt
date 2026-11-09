@@ -1,0 +1,88 @@
+DS01 u9 hors support Fc1 (fenêtres) : alt:0% Mach:0% TRA:0% T2:1%
+DS01 u8 hors support Fc1 (fenêtres) : alt:100% Mach:93% TRA:93% T2:100%
+DS01 u10 hors support Fc1 (fenêtres) : alt:100% Mach:96% TRA:98% T2:100%
+DS05 u10 hors support Fc1 (fenêtres) : alt:1% Mach:0% TRA:0% T2:0%
+DS05 u7 hors support Fc1 (fenêtres) : alt:98% Mach:82% TRA:86% T2:98%
+DS05 u9 hors support Fc1 (fenêtres) : alt:100% Mach:96% TRA:96% T2:100%
+
+=== AUROC, par vol ===
+methode            H-CDE   naif  transfert_inter (étiquettes)  transfert_lin (étiquettes)
+DS   unite classe                                                                        
+DS01 8     Fc2     0.702  0.790                         0.938                       0.990
+     9     Fc1     0.919  0.910                         0.999                       1.000
+     10    Fc3     0.746  0.651                         0.734                       0.986
+DS05 7     Fc2     0.685  0.740                         0.748                       0.955
+     9     Fc3     0.731  0.460                         0.689                       0.828
+     10    Fc1     0.891  0.999                         0.994                       0.993
+
+=== corr_spearman, par vol ===
+methode            H-CDE   naif  transfert_inter (étiquettes)  transfert_lin (étiquettes)
+DS   unite classe                                                                        
+DS01 8     Fc2     0.679  0.686                         0.929                       0.987
+     9     Fc1     0.852  0.904                         0.988                       0.986
+     10    Fc3     0.721  0.255                         0.801                       0.992
+DS05 7     Fc2     0.466  0.734                         0.747                       0.973
+     9     Fc3     0.575  0.023                         0.525                       0.866
+     10    Fc1     0.798  0.977                         0.975                       0.965
+
+=== corr_pearson, par vol ===
+methode            H-CDE   naif  transfert_inter (étiquettes)  transfert_lin (étiquettes)
+DS   unite classe                                                                        
+DS01 8     Fc2     0.893  0.769                         0.975                       0.999
+     9     Fc1     0.978  0.997                         1.000                       0.999
+     10    Fc3     0.857  0.408                         0.939                       0.999
+DS05 7     Fc2     0.722  0.985                         0.938                       0.999
+     9     Fc3     0.728  0.222                         0.588                       0.965
+     10    Fc1     0.939  0.999                         0.999                       0.999
+
+=== reponse_relative, par vol ===
+methode            H-CDE   naif  transfert_inter (étiquettes)  transfert_lin (étiquettes)
+DS   unite classe                                                                        
+DS01 8     Fc2     0.276  2.117                         1.912                       1.159
+     9     Fc1     1.000  1.000                         1.000                       1.000
+     10    Fc3     0.400  1.523                         1.539                       1.037
+DS05 7     Fc2     0.340  1.278                         0.707                       1.213
+     9     Fc3     0.629 -1.263                         7.349                       1.206
+     10    Fc1     1.000  1.000                         1.000                       1.000
+
+=== FA_classe, par vol ===
+methode            H-CDE   naif  transfert_inter (étiquettes)  transfert_lin (étiquettes)
+DS   unite classe                                                                        
+DS01 8     Fc2     0.000  1.000                         0.870                       0.043
+     9     Fc1     0.067  0.067                         0.067                       0.067
+     10    Fc3     0.000  1.000                         1.000                       0.125
+DS05 7     Fc2     0.095  1.000                         0.000                       0.048
+     9     Fc3     0.000  1.000                         0.000                       0.529
+     10    Fc1     0.062  0.062                         0.062                       0.062
+
+=== rappel, par vol ===
+methode            H-CDE   naif  transfert_inter (étiquettes)  transfert_lin (étiquettes)
+DS   unite classe                                                                        
+DS01 8     Fc2     0.391  1.000                         1.000                       0.969
+     9     Fc1     0.739  0.696                         1.000                       1.000
+     10    Fc3     0.231  1.000                         0.954                       0.938
+DS05 7     Fc2     0.355  1.000                         0.403                       0.839
+     9     Fc3     0.206  1.000                         0.059                       0.843
+     10    Fc1     0.674  0.978                         0.978                       0.957
+
+=== delai_frac, par vol ===
+methode            H-CDE   naif  transfert_inter (étiquettes)  transfert_lin (étiquettes)
+DS   unite classe                                                                        
+DS01 8     Fc2     0.345  0.000                         0.012                       0.042
+     9     Fc1     0.065  0.075                         0.035                       0.029
+     10    Fc3     0.540  0.000                         0.000                       0.044
+DS05 7     Fc2     0.012  0.000                         0.126                       0.009
+     9     Fc3     0.194  0.000                           NaN                       0.032
+     10    Fc1     0.063  0.028                         0.028                       0.040
+
+=== non_detecte, par vol ===
+methode           H-CDE naif transfert_inter (étiquettes) transfert_lin (étiquettes)
+DS   unite classe                                                                   
+DS01 8     Fc2      0.0  0.0                          0.0                        0.0
+     9     Fc1      0.0  0.0                          0.0                        0.0
+     10    Fc3      0.0  0.0                          0.0                        0.0
+DS05 7     Fc2      0.0  0.0                          0.0                        0.0
+     9     Fc3      0.5  0.0                          1.0                        0.0
+     10    Fc1      0.0  0.0                          0.0                        0.0
+
+écrit : experiments/results/vB02_transfert_par_vol.csv

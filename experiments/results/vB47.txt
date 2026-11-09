@@ -1,0 +1,52 @@
+=== médiane DANS le support / HORS support (vB39) ===
+                     dans                                              hors                                         
+jeu              N-CMAPSS C-MAPSS batteries roulements   gaz PVDAQ N-CMAPSS C-MAPSS batteries roulements   gaz PVDAQ
+DANN                 0.02    0.84      0.48       0.39  0.10  0.16    -0.04    0.76     -0.01       0.16  0.03 -0.18
+acp_SPE              0.72    0.77      0.33       0.25  0.33  0.11     0.50   -0.26      0.16       0.29  0.13  0.05
+acp_T2               0.02    0.53      0.75       0.47  0.11  0.09    -0.05    0.63      0.43       0.23 -0.06  0.04
+autoencodeur         0.76    0.78      0.68       0.47  0.34  0.09     0.23   -0.18      0.29       0.30  0.11  0.18
+bajarunas_corr       0.99    0.88      0.82       0.64  0.85  0.22     0.86    0.88      0.35       0.47  0.58 -0.05
+bajarunas_mono       0.98    0.87      0.55       0.55  0.46  0.10     0.91    0.85     -0.02       0.56  0.41 -0.09
+invariant_regime     0.90    0.85      0.55       0.14  0.25  0.15     0.82    0.84     -0.10       0.59  0.38 -0.11
+lenteur              0.98    0.83      0.80       0.87  0.34  0.12     0.92    0.83      0.32       0.81  0.47 -0.13
+norm_regime          0.89    0.84      0.87      -0.06  0.19  0.12     0.82    0.83      0.66       0.28  0.24 -0.02
+resid_GP             0.77    0.79      0.86       0.62  0.15  0.28    -0.03    0.18      0.69       0.40  0.07  0.21
+resid_GP_z           0.74    0.79      0.86       0.24  0.13  0.27    -0.04    0.19      0.67       0.40 -0.04  0.04
+resid_lin            0.87    0.86      0.92      -0.38  0.20  0.11     0.55    0.86      0.89      -0.16  0.31 -0.02
+resid_quad           0.77    0.86      0.93      -0.21  0.25  0.13     0.28    0.86      0.90       0.08  0.30 -0.01
+residu_FNN           0.86    0.82      0.86       0.59  0.03  0.33     0.24    0.84      0.55       0.41  0.36  0.26
+span_W               0.98    0.85      0.64       0.63  0.21  0.10     0.93    0.84      0.16       0.81  0.32 -0.06
+tendance_moy         0.48    0.88      0.66       0.40  0.49  0.17     0.41    0.87      0.61       0.49  0.48 -0.18
+tendance_reg         0.84    0.87      0.85       0.45  0.63  0.16     0.77    0.88      0.60       0.55  0.69 -0.23
+
+=== lecture fixée, méthodes de retrait ===
+  N-CMAPSS    resid_lin    dans +0.87 hors +0.55 baisse +0.32 (lenteur +0.06) → déjà faible dans le support
+  N-CMAPSS    resid_quad   dans +0.77 hors +0.28 baisse +0.49 (lenteur +0.06) → déjà faible dans le support
+  N-CMAPSS    residu_FNN   dans +0.86 hors +0.24 baisse +0.62 (lenteur +0.06) → déjà faible dans le support
+  N-CMAPSS    resid_GP     dans +0.77 hors -0.03 baisse +0.80 (lenteur +0.06) → déjà faible dans le support
+  N-CMAPSS    resid_GP_z   dans +0.74 hors -0.04 baisse +0.78 (lenteur +0.06) → déjà faible dans le support
+  N-CMAPSS    norm_regime  dans +0.89 hors +0.82 baisse +0.07 (lenteur +0.06) → déjà faible dans le support
+  C-MAPSS     resid_lin    dans +0.86 hors +0.86 baisse +0.00 (lenteur +0.00) → pas de baisse propre au support
+  C-MAPSS     resid_quad   dans +0.86 hors +0.86 baisse -0.00 (lenteur +0.00) → pas de baisse propre au support
+  C-MAPSS     residu_FNN   dans +0.82 hors +0.84 baisse -0.03 (lenteur +0.00) → pas de baisse propre au support
+  C-MAPSS     resid_GP     dans +0.79 hors +0.18 baisse +0.61 (lenteur +0.00) → attribuable au support
+  C-MAPSS     resid_GP_z   dans +0.79 hors +0.19 baisse +0.61 (lenteur +0.00) → attribuable au support
+  C-MAPSS     norm_regime  dans +0.84 hors +0.83 baisse +0.01 (lenteur +0.00) → pas de baisse propre au support
+  batteries   resid_lin    dans +0.92 hors +0.89 baisse +0.04 (lenteur +0.49) → pas de baisse propre au support
+  batteries   resid_quad   dans +0.93 hors +0.90 baisse +0.04 (lenteur +0.49) → pas de baisse propre au support
+  batteries   residu_FNN   dans +0.86 hors +0.55 baisse +0.31 (lenteur +0.49) → pas de baisse propre au support
+  batteries   resid_GP     dans +0.86 hors +0.69 baisse +0.17 (lenteur +0.49) → pas de baisse propre au support
+  batteries   resid_GP_z   dans +0.86 hors +0.67 baisse +0.19 (lenteur +0.49) → pas de baisse propre au support
+  batteries   norm_regime  dans +0.87 hors +0.66 baisse +0.20 (lenteur +0.49) → pas de baisse propre au support
+  roulements  resid_lin    dans -0.38 hors -0.16 baisse -0.22 (lenteur +0.06) → déjà faible dans le support
+  roulements  resid_quad   dans -0.21 hors +0.08 baisse -0.29 (lenteur +0.06) → déjà faible dans le support
+  roulements  residu_FNN   dans +0.59 hors +0.41 baisse +0.19 (lenteur +0.06) → déjà faible dans le support
+  roulements  resid_GP     dans +0.62 hors +0.40 baisse +0.21 (lenteur +0.06) → déjà faible dans le support
+  roulements  resid_GP_z   dans +0.24 hors +0.40 baisse -0.16 (lenteur +0.06) → déjà faible dans le support
+  roulements  norm_regime  dans -0.06 hors +0.28 baisse -0.34 (lenteur +0.06) → déjà faible dans le support
+  gaz         resid_lin    dans +0.20 hors +0.31 baisse -0.10 (lenteur -0.13) → déjà faible dans le support
+  gaz         resid_quad   dans +0.25 hors +0.30 baisse -0.05 (lenteur -0.13) → déjà faible dans le support
+  gaz         residu_FNN   dans +0.03 hors +0.36 baisse -0.32 (lenteur -0.13) → déjà faible dans le support
+  gaz         resid_GP     dans +0.15 hors +0.07 baisse +0.08 (lenteur -0.13) → déjà faible dans le support
+  gaz         resid_GP_z   dans +0.13 hors -0.04 baisse +0.18 (lenteur -0.13) → déjà faible dans le support
+  gaz         norm_regime  dans +0.19 hors +0.24 baisse -0.05 (lenteur -0.13) → déjà faible dans le support

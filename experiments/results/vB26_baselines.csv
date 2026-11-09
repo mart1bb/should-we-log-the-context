@@ -1,0 +1,511 @@
+jeu,cas,graine,methode,unite,perf
+N-CMAPSS,DS01 aucune,0,residu_FNN,8,0.7100313479623823
+N-CMAPSS,DS01 aucune,0,residu_FNN,10,0.34087624209575423
+N-CMAPSS,DS01 aucune,0,bajarunas_corr,8,0.8448458117664212
+N-CMAPSS,DS01 aucune,0,bajarunas_corr,10,0.7898599819331527
+N-CMAPSS,DS01 aucune,0,bajarunas_mono,8,0.9718779616534227
+N-CMAPSS,DS01 aucune,0,bajarunas_mono,10,0.9428410117434508
+N-CMAPSS,DS01 aucune,1,residu_FNN,8,0.6491579791499599
+N-CMAPSS,DS01 aucune,1,residu_FNN,10,0.2467479674796748
+N-CMAPSS,DS01 aucune,1,bajarunas_corr,8,0.8758292629583726
+N-CMAPSS,DS01 aucune,1,bajarunas_corr,10,0.8506775067750678
+N-CMAPSS,DS01 aucune,1,bajarunas_mono,8,0.941404826128162
+N-CMAPSS,DS01 aucune,1,bajarunas_mono,10,0.9209349593495935
+N-CMAPSS,DS01 aucune,2,residu_FNN,8,0.4131369833053874
+N-CMAPSS,DS01 aucune,2,residu_FNN,10,0.11973803071364048
+N-CMAPSS,DS01 aucune,2,bajarunas_corr,8,0.8961325362688632
+N-CMAPSS,DS01 aucune,2,bajarunas_corr,10,0.8537488708220415
+N-CMAPSS,DS01 aucune,2,bajarunas_mono,8,0.9576437996646496
+N-CMAPSS,DS01 aucune,2,bajarunas_mono,10,0.9399728997289971
+N-CMAPSS,DS01 aucune,3,residu_FNN,8,0.6873223007946343
+N-CMAPSS,DS01 aucune,3,residu_FNN,10,0.29144083107497737
+N-CMAPSS,DS01 aucune,3,bajarunas_corr,8,0.9368119851279432
+N-CMAPSS,DS01 aucune,3,bajarunas_corr,10,0.8872177055103885
+N-CMAPSS,DS01 aucune,3,bajarunas_mono,8,0.9608697237005175
+N-CMAPSS,DS01 aucune,3,bajarunas_mono,10,0.9578816621499547
+N-CMAPSS,DS01 aucune,4,residu_FNN,8,0.7086462054385069
+N-CMAPSS,DS01 aucune,4,residu_FNN,10,0.3105013550135501
+N-CMAPSS,DS01 aucune,4,bajarunas_corr,8,0.9649522490340452
+N-CMAPSS,DS01 aucune,4,bajarunas_corr,10,0.9488934056007226
+N-CMAPSS,DS01 aucune,4,bajarunas_mono,8,0.9246373113654589
+N-CMAPSS,DS01 aucune,4,bajarunas_mono,10,0.9004516711833785
+N-CMAPSS,DS05 aucune,0,residu_FNN,7,0.7126694933042272
+N-CMAPSS,DS05 aucune,0,residu_FNN,9,0.31732641142115503
+N-CMAPSS,DS05 aucune,0,bajarunas_corr,7,0.8978842198060535
+N-CMAPSS,DS05 aucune,0,bajarunas_corr,9,0.8437225636523266
+N-CMAPSS,DS05 aucune,0,bajarunas_mono,7,0.8411065866252466
+N-CMAPSS,DS05 aucune,0,bajarunas_mono,9,0.8461655914799404
+N-CMAPSS,DS05 aucune,1,residu_FNN,7,0.5256496368750262
+N-CMAPSS,DS05 aucune,1,residu_FNN,9,-0.11169217849372064
+N-CMAPSS,DS05 aucune,1,bajarunas_corr,7,0.8772301750556231
+N-CMAPSS,DS05 aucune,1,bajarunas_corr,9,0.8277665381532235
+N-CMAPSS,DS05 aucune,1,bajarunas_mono,7,0.9352252214432643
+N-CMAPSS,DS05 aucune,1,bajarunas_mono,9,0.889605680039699
+N-CMAPSS,DS05 aucune,2,residu_FNN,7,0.21896645816716342
+N-CMAPSS,DS05 aucune,2,residu_FNN,9,-0.35458258579226626
+N-CMAPSS,DS05 aucune,2,bajarunas_corr,7,0.8895932160698543
+N-CMAPSS,DS05 aucune,2,bajarunas_corr,9,0.8373477879146466
+N-CMAPSS,DS05 aucune,2,bajarunas_mono,7,0.8153939801015909
+N-CMAPSS,DS05 aucune,2,bajarunas_mono,9,0.7140130549299537
+N-CMAPSS,DS05 aucune,3,residu_FNN,7,0.4596364552285798
+N-CMAPSS,DS05 aucune,3,residu_FNN,9,-0.02431576134671909
+N-CMAPSS,DS05 aucune,3,bajarunas_corr,7,0.9170899626380083
+N-CMAPSS,DS05 aucune,3,bajarunas_corr,9,0.8429972897660036
+N-CMAPSS,DS05 aucune,3,bajarunas_mono,7,0.8499433273162335
+N-CMAPSS,DS05 aucune,3,bajarunas_mono,9,0.7622246822155208
+N-CMAPSS,DS05 aucune,4,residu_FNN,7,0.6895386423743755
+N-CMAPSS,DS05 aucune,4,residu_FNN,9,0.19731266938962475
+N-CMAPSS,DS05 aucune,4,bajarunas_corr,7,0.8947987070232147
+N-CMAPSS,DS05 aucune,4,bajarunas_corr,9,0.8324235599496125
+N-CMAPSS,DS05 aucune,4,bajarunas_mono,7,0.8991016330128876
+N-CMAPSS,DS05 aucune,4,bajarunas_mono,9,0.8251708210863838
+N-CMAPSS,DS07 aucune,0,residu_FNN,7,0.6560492139439508
+N-CMAPSS,DS07 aucune,0,residu_FNN,9,0.2623880179171333
+N-CMAPSS,DS07 aucune,0,bajarunas_corr,7,0.9420369104579631
+N-CMAPSS,DS07 aucune,0,bajarunas_corr,9,0.9341685330347146
+N-CMAPSS,DS07 aucune,0,bajarunas_mono,7,0.8037730690362269
+N-CMAPSS,DS07 aucune,0,bajarunas_mono,9,0.8344624860022396
+N-CMAPSS,DS07 aucune,1,residu_FNN,7,0.2314969241285031
+N-CMAPSS,DS07 aucune,1,residu_FNN,9,-0.2801371780515118
+N-CMAPSS,DS07 aucune,1,bajarunas_corr,7,0.9366507177033493
+N-CMAPSS,DS07 aucune,1,bajarunas_corr,9,0.9255599104143337
+N-CMAPSS,DS07 aucune,1,bajarunas_mono,7,0.9499931647300068
+N-CMAPSS,DS07 aucune,1,bajarunas_mono,9,0.9436030235162374
+N-CMAPSS,DS07 aucune,2,residu_FNN,7,0.022966507177033493
+N-CMAPSS,DS07 aucune,2,residu_FNN,9,-0.3961786114221725
+N-CMAPSS,DS07 aucune,2,bajarunas_corr,7,0.9292959671907041
+N-CMAPSS,DS07 aucune,2,bajarunas_corr,9,0.930599104143337
+N-CMAPSS,DS07 aucune,2,bajarunas_mono,7,0.8895146958304854
+N-CMAPSS,DS07 aucune,2,bajarunas_mono,9,0.8512318029115341
+N-CMAPSS,DS07 aucune,3,residu_FNN,7,0.397676008202324
+N-CMAPSS,DS07 aucune,3,residu_FNN,9,-0.06347984322508399
+N-CMAPSS,DS07 aucune,3,bajarunas_corr,7,0.9581681476418318
+N-CMAPSS,DS07 aucune,3,bajarunas_corr,9,0.9442609182530796
+N-CMAPSS,DS07 aucune,3,bajarunas_mono,7,0.899876965140123
+N-CMAPSS,DS07 aucune,3,bajarunas_mono,9,0.9391797312430011
+N-CMAPSS,DS07 aucune,4,residu_FNN,7,0.6313055365686944
+N-CMAPSS,DS07 aucune,4,residu_FNN,9,0.216013437849944
+N-CMAPSS,DS07 aucune,4,bajarunas_corr,7,0.9336158578263842
+N-CMAPSS,DS07 aucune,4,bajarunas_corr,9,0.9174692049272117
+N-CMAPSS,DS07 aucune,4,bajarunas_mono,7,0.9748735475051266
+N-CMAPSS,DS07 aucune,4,bajarunas_mono,9,0.9646416573348265
+C-MAPSS,FD002 C0_42,0,residu_FNN,-1,0.8152621065652259
+C-MAPSS,FD002 C0_42,0,bajarunas_corr,-1,0.8847509971375671
+C-MAPSS,FD002 C0_42,0,bajarunas_mono,-1,0.8848491395162192
+C-MAPSS,FD002 C0_42,1,residu_FNN,-1,0.8429445288490793
+C-MAPSS,FD002 C0_42,1,bajarunas_corr,-1,0.8768141366611271
+C-MAPSS,FD002 C0_42,1,bajarunas_mono,-1,0.8717113073913707
+C-MAPSS,FD002 C0_42,2,residu_FNN,-1,0.831385344209335
+C-MAPSS,FD002 C0_42,2,bajarunas_corr,-1,0.8880831235469747
+C-MAPSS,FD002 C0_42,2,bajarunas_mono,-1,0.8844164331751223
+C-MAPSS,FD002 C0_42,3,residu_FNN,-1,0.8236752131805165
+C-MAPSS,FD002 C0_42,3,bajarunas_corr,-1,0.8945546298177875
+C-MAPSS,FD002 C0_42,3,bajarunas_mono,-1,0.8866883116883117
+C-MAPSS,FD002 C0_42,4,residu_FNN,-1,0.8388487424796399
+C-MAPSS,FD002 C0_42,4,bajarunas_corr,-1,0.8896377858052776
+C-MAPSS,FD002 C0_42,4,bajarunas_mono,-1,0.8809672830725462
+C-MAPSS,FD002 C0_60,0,residu_FNN,-1,0.773482440807246
+C-MAPSS,FD002 C0_60,0,bajarunas_corr,-1,0.8762383900928794
+C-MAPSS,FD002 C0_60,0,bajarunas_mono,-1,0.8779108248073764
+C-MAPSS,FD002 C0_60,1,residu_FNN,-1,0.7722752364915154
+C-MAPSS,FD002 C0_60,1,bajarunas_corr,-1,0.8826526414761708
+C-MAPSS,FD002 C0_60,1,bajarunas_mono,-1,0.8670026840412235
+C-MAPSS,FD002 C0_60,2,residu_FNN,-1,0.7798230754752494
+C-MAPSS,FD002 C0_60,2,bajarunas_corr,-1,0.8792793572818453
+C-MAPSS,FD002 C0_60,2,bajarunas_mono,-1,0.8804693903571885
+C-MAPSS,FD002 C0_60,3,residu_FNN,-1,0.7509275285137353
+C-MAPSS,FD002 C0_60,3,bajarunas_corr,-1,0.8831999871473555
+C-MAPSS,FD002 C0_60,3,bajarunas_mono,-1,0.8842273795620652
+C-MAPSS,FD002 C0_60,4,residu_FNN,-1,0.764957876136964
+C-MAPSS,FD002 C0_60,4,bajarunas_corr,-1,0.8794839269257874
+C-MAPSS,FD002 C0_60,4,bajarunas_mono,-1,0.8658264863231167
+C-MAPSS,FD002 C0_20,0,residu_FNN,-1,0.8155802222125914
+C-MAPSS,FD002 C0_20,0,bajarunas_corr,-1,0.890400124069479
+C-MAPSS,FD002 C0_20,0,bajarunas_mono,-1,0.8695313557410331
+C-MAPSS,FD002 C0_20,1,residu_FNN,-1,0.8275950035186487
+C-MAPSS,FD002 C0_20,1,bajarunas_corr,-1,0.8928456185408356
+C-MAPSS,FD002 C0_20,1,bajarunas_mono,-1,0.8682148458464248
+C-MAPSS,FD002 C0_20,2,residu_FNN,-1,0.8186416458475283
+C-MAPSS,FD002 C0_20,2,bajarunas_corr,-1,0.8806656259341681
+C-MAPSS,FD002 C0_20,2,bajarunas_mono,-1,0.8730773013375297
+C-MAPSS,FD002 C0_20,3,residu_FNN,-1,0.8096509835640271
+C-MAPSS,FD002 C0_20,3,bajarunas_corr,-1,0.8933953279022808
+C-MAPSS,FD002 C0_20,3,bajarunas_mono,-1,0.8828352490421455
+C-MAPSS,FD002 C0_20,4,residu_FNN,-1,0.8035594336241885
+C-MAPSS,FD002 C0_20,4,bajarunas_corr,-1,0.8821103732868438
+C-MAPSS,FD002 C0_20,4,bajarunas_mono,-1,0.8622740721436127
+C-MAPSS,FD002 R42,0,residu_FNN,-1,0.8804349862305474
+C-MAPSS,FD002 R42,0,bajarunas_corr,-1,0.8879752998981896
+C-MAPSS,FD002 R42,0,bajarunas_mono,-1,0.8899994702146359
+C-MAPSS,FD002 R42,1,residu_FNN,-1,0.8792452029410964
+C-MAPSS,FD002 R42,1,bajarunas_corr,-1,0.8900554125859341
+C-MAPSS,FD002 R42,1,bajarunas_mono,-1,0.8853281853281855
+C-MAPSS,FD002 R42,2,residu_FNN,-1,0.8804547115288803
+C-MAPSS,FD002 R42,2,bajarunas_corr,-1,0.889493061552562
+C-MAPSS,FD002 R42,2,bajarunas_mono,-1,0.8889546199599359
+C-MAPSS,FD002 R42,3,residu_FNN,-1,0.8910393898437217
+C-MAPSS,FD002 R42,3,bajarunas_corr,-1,0.889570985929615
+C-MAPSS,FD002 R42,3,bajarunas_mono,-1,0.8837845143775063
+C-MAPSS,FD002 R42,4,residu_FNN,-1,0.8809633936830977
+C-MAPSS,FD002 R42,4,bajarunas_corr,-1,0.8936908696457707
+C-MAPSS,FD002 R42,4,bajarunas_mono,-1,0.8950585877274129
+C-MAPSS,FD002 R60,0,residu_FNN,-1,-0.6618299416123511
+C-MAPSS,FD002 R60,0,bajarunas_corr,-1,0.8718680213689288
+C-MAPSS,FD002 R60,0,bajarunas_mono,-1,0.7836533198602162
+C-MAPSS,FD002 R60,1,residu_FNN,-1,-0.3586400841575098
+C-MAPSS,FD002 R60,1,bajarunas_corr,-1,0.8576783905679788
+C-MAPSS,FD002 R60,1,bajarunas_mono,-1,0.7619048727034208
+C-MAPSS,FD002 R60,2,residu_FNN,-1,-0.640960289033087
+C-MAPSS,FD002 R60,2,bajarunas_corr,-1,0.8846979107848674
+C-MAPSS,FD002 R60,2,bajarunas_mono,-1,0.7605904107016453
+C-MAPSS,FD002 R60,3,residu_FNN,-1,-0.83427025276923
+C-MAPSS,FD002 R60,3,bajarunas_corr,-1,0.8906990676343806
+C-MAPSS,FD002 R60,3,bajarunas_mono,-1,0.8415187457370119
+C-MAPSS,FD002 R60,4,residu_FNN,-1,-0.6849870792350834
+C-MAPSS,FD002 R60,4,bajarunas_corr,-1,0.8797220300339983
+C-MAPSS,FD002 R60,4,bajarunas_mono,-1,0.8383765749284324
+C-MAPSS,FD002 R20,0,residu_FNN,-1,0.8355437665782492
+C-MAPSS,FD002 R20,0,bajarunas_corr,-1,0.6487384691503684
+C-MAPSS,FD002 R20,0,bajarunas_mono,-1,-0.18696371829364156
+C-MAPSS,FD002 R20,1,residu_FNN,-1,0.8602660227887087
+C-MAPSS,FD002 R20,1,bajarunas_corr,-1,-0.022994148087246695
+C-MAPSS,FD002 R20,1,bajarunas_mono,-1,-0.07544011544011545
+C-MAPSS,FD002 R20,2,residu_FNN,-1,0.8452594901888868
+C-MAPSS,FD002 R20,2,bajarunas_corr,-1,0.8782724222197906
+C-MAPSS,FD002 R20,2,bajarunas_mono,-1,0.7399745524745525
+C-MAPSS,FD002 R20,3,residu_FNN,-1,0.8631607755019732
+C-MAPSS,FD002 R20,3,bajarunas_corr,-1,0.10655295842677245
+C-MAPSS,FD002 R20,3,bajarunas_mono,-1,-0.38595244166772913
+C-MAPSS,FD002 R20,4,residu_FNN,-1,0.8478712373449215
+C-MAPSS,FD002 R20,4,bajarunas_corr,-1,0.05840909090909091
+C-MAPSS,FD002 R20,4,bajarunas_mono,-1,-0.04514582442101708
+C-MAPSS,FD004 C0_42,0,residu_FNN,-1,0.822108124433706
+C-MAPSS,FD004 C0_42,0,bajarunas_corr,-1,0.8817543299545058
+C-MAPSS,FD004 C0_42,0,bajarunas_mono,-1,0.8843899261832392
+C-MAPSS,FD004 C0_42,1,residu_FNN,-1,0.8488600007587349
+C-MAPSS,FD004 C0_42,1,bajarunas_corr,-1,0.8920327340973829
+C-MAPSS,FD004 C0_42,1,bajarunas_mono,-1,0.8934693877551019
+C-MAPSS,FD004 C0_42,2,residu_FNN,-1,0.8657404834676301
+C-MAPSS,FD004 C0_42,2,bajarunas_corr,-1,0.8896358543417368
+C-MAPSS,FD004 C0_42,2,bajarunas_mono,-1,0.8868852459016392
+C-MAPSS,FD004 C0_42,3,residu_FNN,-1,0.8468187274909963
+C-MAPSS,FD004 C0_42,3,bajarunas_corr,-1,0.8859736405690845
+C-MAPSS,FD004 C0_42,3,bajarunas_mono,-1,0.8947394928357383
+C-MAPSS,FD004 C0_42,4,residu_FNN,-1,0.8627197039777983
+C-MAPSS,FD004 C0_42,4,bajarunas_corr,-1,0.8928571428571429
+C-MAPSS,FD004 C0_42,4,bajarunas_mono,-1,0.8844272844272845
+C-MAPSS,FD004 C0_60,0,residu_FNN,-1,0.7846689895470385
+C-MAPSS,FD004 C0_60,0,bajarunas_corr,-1,0.8336856941508103
+C-MAPSS,FD004 C0_60,0,bajarunas_mono,-1,0.841637630662021
+C-MAPSS,FD004 C0_60,1,residu_FNN,-1,0.7718802936194241
+C-MAPSS,FD004 C0_60,1,bajarunas_corr,-1,0.8426529445397368
+C-MAPSS,FD004 C0_60,1,bajarunas_mono,-1,0.852991452991453
+C-MAPSS,FD004 C0_60,2,residu_FNN,-1,0.805832147937411
+C-MAPSS,FD004 C0_60,2,bajarunas_corr,-1,0.8665689149560116
+C-MAPSS,FD004 C0_60,2,bajarunas_mono,-1,0.8557264957264956
+C-MAPSS,FD004 C0_60,3,residu_FNN,-1,0.7958748221906116
+C-MAPSS,FD004 C0_60,3,bajarunas_corr,-1,0.833162393162393
+C-MAPSS,FD004 C0_60,3,bajarunas_mono,-1,0.8154141656662666
+C-MAPSS,FD004 C0_60,4,residu_FNN,-1,0.7937411095305832
+C-MAPSS,FD004 C0_60,4,bajarunas_corr,-1,0.8523358001850139
+C-MAPSS,FD004 C0_60,4,bajarunas_mono,-1,0.8322128851540616
+C-MAPSS,FD004 C0_20,0,residu_FNN,-1,0.8162393162393162
+C-MAPSS,FD004 C0_20,0,bajarunas_corr,-1,0.8708849290244639
+C-MAPSS,FD004 C0_20,0,bajarunas_mono,-1,0.8644833427442123
+C-MAPSS,FD004 C0_20,1,residu_FNN,-1,0.8256916996047431
+C-MAPSS,FD004 C0_20,1,bajarunas_corr,-1,0.8754940711462451
+C-MAPSS,FD004 C0_20,1,bajarunas_mono,-1,0.8660098522167486
+C-MAPSS,FD004 C0_20,2,residu_FNN,-1,0.8276923076923076
+C-MAPSS,FD004 C0_20,2,bajarunas_corr,-1,0.8893280632411069
+C-MAPSS,FD004 C0_20,2,bajarunas_mono,-1,0.8755473327166203
+C-MAPSS,FD004 C0_20,3,residu_FNN,-1,0.8229548229548229
+C-MAPSS,FD004 C0_20,3,bajarunas_corr,-1,0.8760210803689065
+C-MAPSS,FD004 C0_20,3,bajarunas_mono,-1,0.8595558153126828
+C-MAPSS,FD004 C0_20,4,residu_FNN,-1,0.8035171515414676
+C-MAPSS,FD004 C0_20,4,bajarunas_corr,-1,0.8525791855203619
+C-MAPSS,FD004 C0_20,4,bajarunas_mono,-1,0.8465618254702437
+C-MAPSS,FD004 R42,0,residu_FNN,-1,0.8736631016042781
+C-MAPSS,FD004 R42,0,bajarunas_corr,-1,0.8806701030927835
+C-MAPSS,FD004 R42,0,bajarunas_mono,-1,0.8829674909697139
+C-MAPSS,FD004 R42,1,residu_FNN,-1,0.8804957748625758
+C-MAPSS,FD004 R42,1,bajarunas_corr,-1,0.8867230439372668
+C-MAPSS,FD004 R42,1,bajarunas_mono,-1,0.8850202429149797
+C-MAPSS,FD004 R42,2,residu_FNN,-1,0.8928861788617886
+C-MAPSS,FD004 R42,2,bajarunas_corr,-1,0.8895531092804548
+C-MAPSS,FD004 R42,2,bajarunas_mono,-1,0.874451273046532
+C-MAPSS,FD004 R42,3,residu_FNN,-1,0.881476068688345
+C-MAPSS,FD004 R42,3,bajarunas_corr,-1,0.8907960014809327
+C-MAPSS,FD004 R42,3,bajarunas_mono,-1,0.887033819344766
+C-MAPSS,FD004 R42,4,residu_FNN,-1,0.8928503263732488
+C-MAPSS,FD004 R42,4,bajarunas_corr,-1,0.8959903961584633
+C-MAPSS,FD004 R42,4,bajarunas_mono,-1,0.8808080808080809
+C-MAPSS,FD004 R60,0,residu_FNN,-1,-0.8625375138361324
+C-MAPSS,FD004 R60,0,bajarunas_corr,-1,0.8799595141700405
+C-MAPSS,FD004 R60,0,bajarunas_mono,-1,0.8532212885154062
+C-MAPSS,FD004 R60,1,residu_FNN,-1,-0.8464698750923024
+C-MAPSS,FD004 R60,1,bajarunas_corr,-1,0.8724340175953078
+C-MAPSS,FD004 R60,1,bajarunas_mono,-1,0.8639705882352942
+C-MAPSS,FD004 R60,2,residu_FNN,-1,-0.8719330910031923
+C-MAPSS,FD004 R60,2,bajarunas_corr,-1,0.8715309898242369
+C-MAPSS,FD004 R60,2,bajarunas_mono,-1,0.8831092928112217
+C-MAPSS,FD004 R60,3,residu_FNN,-1,-0.849340175953079
+C-MAPSS,FD004 R60,3,bajarunas_corr,-1,0.840175150519978
+C-MAPSS,FD004 R60,3,bajarunas_mono,-1,0.8662770309760375
+C-MAPSS,FD004 R60,4,residu_FNN,-1,-0.8428571428571429
+C-MAPSS,FD004 R60,4,bajarunas_corr,-1,0.8686019862490449
+C-MAPSS,FD004 R60,4,bajarunas_mono,-1,0.8690543716068391
+C-MAPSS,FD004 R20,0,residu_FNN,-1,0.8394736842105263
+C-MAPSS,FD004 R20,0,bajarunas_corr,-1,0.43448275862068964
+C-MAPSS,FD004 R20,0,bajarunas_mono,-1,0.3224641645694277
+C-MAPSS,FD004 R20,1,residu_FNN,-1,0.8669199298655759
+C-MAPSS,FD004 R20,1,bajarunas_corr,-1,0.1431145431145431
+C-MAPSS,FD004 R20,1,bajarunas_mono,-1,-0.1052552099063727
+C-MAPSS,FD004 R20,2,residu_FNN,-1,0.848240469208211
+C-MAPSS,FD004 R20,2,bajarunas_corr,-1,0.8417514646931853
+C-MAPSS,FD004 R20,2,bajarunas_mono,-1,-0.007987744829850093
+C-MAPSS,FD004 R20,3,residu_FNN,-1,0.8550607287449393
+C-MAPSS,FD004 R20,3,bajarunas_corr,-1,0.12156862745098039
+C-MAPSS,FD004 R20,3,bajarunas_mono,-1,0.47359625668449196
+C-MAPSS,FD004 R20,4,residu_FNN,-1,0.8501357466063347
+C-MAPSS,FD004 R20,4,bajarunas_corr,-1,0.10263157894736842
+C-MAPSS,FD004 R20,4,bajarunas_mono,-1,0.12351778656126483
+batteries,biaisee_basse_40C,0,residu_FNN,21,0.30720891711904824
+batteries,biaisee_basse_40C,0,residu_FNN,22,0.5818061477713589
+batteries,biaisee_basse_40C,0,residu_FNN,23,0.3442280969123876
+batteries,biaisee_basse_40C,0,residu_FNN,24,0.3518515366860348
+batteries,biaisee_basse_TA,0,residu_FNN,13,0.648852014638652
+batteries,biaisee_basse_TA,0,residu_FNN,14,0.798506301072505
+batteries,biaisee_basse_TA,0,residu_FNN,15,0.7755330011399472
+batteries,biaisee_basse_TA,0,residu_FNN,16,0.6918836473052968
+batteries,biaisee_haute_40C,0,residu_FNN,25,-0.11998072216867267
+batteries,biaisee_haute_40C,0,residu_FNN,26,-0.3187260634390213
+batteries,biaisee_haute_40C,0,residu_FNN,27,-0.11546451821943371
+batteries,biaisee_haute_40C,0,residu_FNN,28,-0.08199769089300614
+batteries,biaisee_haute_TA,0,residu_FNN,17,0.500232441796714
+batteries,biaisee_haute_TA,0,residu_FNN,18,0.4864120537993911
+batteries,biaisee_haute_TA,0,residu_FNN,19,0.541490526203704
+batteries,biaisee_haute_TA,0,residu_FNN,20,0.2753985385226407
+batteries,biaisee_basse_40C,0,bajarunas_corr,21,-0.2520030382637198
+batteries,biaisee_basse_40C,0,bajarunas_corr,22,-0.2592293207673337
+batteries,biaisee_basse_40C,0,bajarunas_corr,23,-0.17811728846915387
+batteries,biaisee_basse_40C,0,bajarunas_corr,24,-0.2690311884522268
+batteries,biaisee_basse_TA,0,bajarunas_corr,13,0.056174274663717515
+batteries,biaisee_basse_TA,0,bajarunas_corr,14,0.4284100344172631
+batteries,biaisee_basse_TA,0,bajarunas_corr,15,0.2828380246580172
+batteries,biaisee_basse_TA,0,bajarunas_corr,16,0.31164717044578855
+batteries,biaisee_haute_40C,0,bajarunas_corr,25,-0.6563281009113914
+batteries,biaisee_haute_40C,0,bajarunas_corr,26,-0.6298721945086079
+batteries,biaisee_haute_40C,0,bajarunas_corr,27,-0.5248405453185628
+batteries,biaisee_haute_40C,0,bajarunas_corr,28,-0.4615766542387629
+batteries,biaisee_haute_TA,0,bajarunas_corr,17,0.23054298146817573
+batteries,biaisee_haute_TA,0,bajarunas_corr,18,0.016590947223639258
+batteries,biaisee_haute_TA,0,bajarunas_corr,19,0.2959154465770732
+batteries,biaisee_haute_TA,0,bajarunas_corr,20,0.05380023383781302
+batteries,biaisee_basse_40C,0,bajarunas_mono,21,-0.2370410766223449
+batteries,biaisee_basse_40C,0,bajarunas_mono,22,-0.20662894164023524
+batteries,biaisee_basse_40C,0,bajarunas_mono,23,-0.18260012240048956
+batteries,biaisee_basse_40C,0,bajarunas_mono,24,-0.19799209828439548
+batteries,biaisee_basse_TA,0,bajarunas_mono,13,-0.6868555360667183
+batteries,biaisee_basse_TA,0,bajarunas_mono,14,-0.52708284306585
+batteries,biaisee_basse_TA,0,bajarunas_mono,15,-0.5913560545334697
+batteries,biaisee_basse_TA,0,bajarunas_mono,16,-0.5746653771475864
+batteries,biaisee_haute_40C,0,bajarunas_mono,25,-0.2708286967463798
+batteries,biaisee_haute_40C,0,bajarunas_mono,26,-0.5123001438146326
+batteries,biaisee_haute_40C,0,bajarunas_mono,27,-0.2944132367331361
+batteries,biaisee_haute_40C,0,bajarunas_mono,28,-0.29550003340513203
+batteries,biaisee_haute_TA,0,bajarunas_mono,17,-0.4380272930675161
+batteries,biaisee_haute_TA,0,bajarunas_mono,18,-0.5155512766027455
+batteries,biaisee_haute_TA,0,bajarunas_mono,19,-0.49275889041286336
+batteries,biaisee_haute_TA,0,bajarunas_mono,20,-0.4736975926813523
+batteries,biaisee_basse_40C,1,residu_FNN,21,0.2581147374056139
+batteries,biaisee_basse_40C,1,residu_FNN,22,0.5381102568011695
+batteries,biaisee_basse_40C,1,residu_FNN,23,0.29501858807435233
+batteries,biaisee_basse_40C,1,residu_FNN,24,0.304831309786532
+batteries,biaisee_basse_TA,1,residu_FNN,13,0.662837546553998
+batteries,biaisee_basse_TA,1,residu_FNN,14,0.8098631044085517
+batteries,biaisee_basse_TA,1,residu_FNN,15,0.785433974791843
+batteries,biaisee_basse_TA,1,residu_FNN,16,0.7029279475762075
+batteries,biaisee_haute_40C,1,residu_FNN,25,-0.1505863071841866
+batteries,biaisee_haute_40C,1,residu_FNN,26,-0.3571933588554693
+batteries,biaisee_haute_40C,1,residu_FNN,27,-0.13013705055843683
+batteries,biaisee_haute_40C,1,residu_FNN,28,-0.11215418287406152
+batteries,biaisee_haute_TA,1,residu_FNN,17,0.5232566160965157
+batteries,biaisee_haute_TA,1,residu_FNN,18,0.5037158868477679
+batteries,biaisee_haute_TA,1,residu_FNN,19,0.5648148121810603
+batteries,biaisee_haute_TA,1,residu_FNN,20,0.3123583906219252
+batteries,biaisee_basse_40C,1,bajarunas_corr,21,-0.06506721036327363
+batteries,biaisee_basse_40C,1,bajarunas_corr,22,-0.043926109491108055
+batteries,biaisee_basse_40C,1,bajarunas_corr,23,-0.018103272413089653
+batteries,biaisee_basse_40C,1,bajarunas_corr,24,-0.12981484319734357
+batteries,biaisee_basse_TA,1,bajarunas_corr,13,-0.08571872890273029
+batteries,biaisee_basse_TA,1,bajarunas_corr,14,0.33351356668523213
+batteries,biaisee_basse_TA,1,bajarunas_corr,15,0.17982110945487426
+batteries,biaisee_basse_TA,1,bajarunas_corr,16,0.19317052615670852
+batteries,biaisee_haute_40C,1,bajarunas_corr,25,-0.5913565871016309
+batteries,biaisee_haute_40C,1,bajarunas_corr,26,-0.5897817218320226
+batteries,biaisee_haute_40C,1,bajarunas_corr,27,-0.4389307158269496
+batteries,biaisee_haute_40C,1,bajarunas_corr,28,-0.3906840058722664
+batteries,biaisee_haute_TA,1,bajarunas_corr,17,0.19225150427001317
+batteries,biaisee_haute_TA,1,bajarunas_corr,18,0.07064764220762568
+batteries,biaisee_haute_TA,1,bajarunas_corr,19,0.24971536183787266
+batteries,biaisee_haute_TA,1,bajarunas_corr,20,0.04327477015448096
+batteries,biaisee_basse_40C,1,bajarunas_mono,21,-0.23924337151702563
+batteries,biaisee_basse_40C,1,bajarunas_mono,22,-0.20022746129739008
+batteries,biaisee_basse_40C,1,bajarunas_mono,23,-0.18137064548258192
+batteries,biaisee_basse_40C,1,bajarunas_mono,24,-0.20801748243785834
+batteries,biaisee_basse_TA,1,bajarunas_mono,13,-0.668084902053214
+batteries,biaisee_basse_TA,1,bajarunas_mono,14,-0.4914496916727363
+batteries,biaisee_basse_TA,1,bajarunas_mono,15,-0.5633193016451681
+batteries,biaisee_basse_TA,1,bajarunas_mono,16,-0.5438727089746802
+batteries,biaisee_haute_40C,1,bajarunas_mono,25,-0.3216896158044883
+batteries,biaisee_haute_40C,1,bajarunas_mono,26,-0.5468596138689086
+batteries,biaisee_haute_40C,1,bajarunas_mono,27,-0.34009004091214307
+batteries,biaisee_haute_40C,1,bajarunas_mono,28,-0.3302277674312306
+batteries,biaisee_haute_TA,1,bajarunas_mono,17,-0.3216589443850473
+batteries,biaisee_haute_TA,1,bajarunas_mono,18,-0.4028775068074344
+batteries,biaisee_haute_TA,1,bajarunas_mono,19,-0.36699739746759896
+batteries,biaisee_haute_TA,1,bajarunas_mono,20,-0.3631912800336679
+batteries,biaisee_basse_40C,2,residu_FNN,21,0.30410936944685985
+batteries,biaisee_basse_40C,2,residu_FNN,22,0.5777367082365796
+batteries,biaisee_basse_40C,2,residu_FNN,23,0.34014174456697827
+batteries,biaisee_basse_40C,2,residu_FNN,24,0.3460555781338813
+batteries,biaisee_basse_TA,2,residu_FNN,13,0.6648311784918355
+batteries,biaisee_basse_TA,2,residu_FNN,14,0.8087199691529928
+batteries,biaisee_basse_TA,2,residu_FNN,15,0.7873612162060624
+batteries,biaisee_basse_TA,2,residu_FNN,16,0.7019357475154286
+batteries,biaisee_haute_40C,2,residu_FNN,25,-0.11334931643350839
+batteries,biaisee_haute_40C,2,residu_FNN,26,-0.318199613399176
+batteries,biaisee_haute_40C,2,residu_FNN,27,-0.09762431438632639
+batteries,biaisee_haute_40C,2,residu_FNN,28,-0.07767308112045147
+batteries,biaisee_haute_TA,2,residu_FNN,17,0.5068261144161665
+batteries,biaisee_haute_TA,2,residu_FNN,18,0.48935160207358935
+batteries,biaisee_haute_TA,2,residu_FNN,19,0.5459618139211748
+batteries,biaisee_haute_TA,2,residu_FNN,20,0.2761137552009395
+batteries,biaisee_basse_40C,2,bajarunas_corr,21,0.013675695178955049
+batteries,biaisee_basse_40C,2,bajarunas_corr,22,0.0746518690611481
+batteries,biaisee_basse_40C,2,bajarunas_corr,23,0.0485313621254485
+batteries,biaisee_basse_40C,2,bajarunas_corr,24,-0.05367101487337549
+batteries,biaisee_basse_TA,2,bajarunas_corr,13,-0.06936463247795945
+batteries,biaisee_basse_TA,2,bajarunas_corr,14,0.32343985718978063
+batteries,biaisee_basse_TA,2,bajarunas_corr,15,0.17145681788539915
+batteries,biaisee_basse_TA,2,bajarunas_corr,16,0.20892874741040754
+batteries,biaisee_haute_40C,2,bajarunas_corr,25,-0.4824387289964694
+batteries,biaisee_haute_40C,2,bajarunas_corr,26,-0.5328240922554757
+batteries,biaisee_haute_40C,2,bajarunas_corr,27,-0.34567132440649734
+batteries,biaisee_haute_40C,2,bajarunas_corr,28,-0.32391189247676816
+batteries,biaisee_haute_TA,2,bajarunas_corr,17,0.22021122405372606
+batteries,biaisee_haute_TA,2,bajarunas_corr,18,0.099706905442406
+batteries,biaisee_haute_TA,2,bajarunas_corr,19,0.2871788204146502
+batteries,biaisee_haute_TA,2,bajarunas_corr,20,0.05490825854865623
+batteries,biaisee_basse_40C,2,bajarunas_mono,21,-0.2929592680558612
+batteries,biaisee_basse_40C,2,bajarunas_mono,22,-0.28357240546270335
+batteries,biaisee_basse_40C,2,bajarunas_mono,23,-0.22841726566906267
+batteries,biaisee_basse_40C,2,bajarunas_mono,24,-0.2724017306783893
+batteries,biaisee_basse_TA,2,bajarunas_mono,13,-0.6782122004822504
+batteries,biaisee_basse_TA,2,bajarunas_mono,14,-0.5034692806649245
+batteries,biaisee_basse_TA,2,bajarunas_mono,15,-0.5702001255380569
+batteries,biaisee_basse_TA,2,bajarunas_mono,16,-0.554172952280262
+batteries,biaisee_haute_40C,2,bajarunas_mono,25,-0.34934491484698565
+batteries,biaisee_haute_40C,2,bajarunas_mono,26,-0.55264650057433
+batteries,biaisee_haute_40C,2,bajarunas_mono,27,-0.3673286774322547
+batteries,biaisee_haute_40C,2,bajarunas_mono,28,-0.3698205687708419
+batteries,biaisee_haute_TA,2,bajarunas_mono,17,-0.372739084851161
+batteries,biaisee_haute_TA,2,bajarunas_mono,18,-0.46319432879989975
+batteries,biaisee_haute_TA,2,bajarunas_mono,19,-0.4191065192697994
+batteries,biaisee_haute_TA,2,bajarunas_mono,20,-0.41122266059458107
+batteries,biaisee_basse_40C,3,residu_FNN,21,0.28958751809369004
+batteries,biaisee_basse_40C,3,residu_FNN,22,0.5675065687474007
+batteries,biaisee_basse_40C,3,residu_FNN,23,0.3271026844107376
+batteries,biaisee_basse_40C,3,residu_FNN,24,0.32724865506713097
+batteries,biaisee_basse_TA,3,residu_FNN,13,0.6858030191770428
+batteries,biaisee_basse_TA,3,residu_FNN,14,0.81981590734473
+batteries,biaisee_basse_TA,3,residu_FNN,15,0.798745723883246
+batteries,biaisee_basse_TA,3,residu_FNN,16,0.7158717233168317
+batteries,biaisee_haute_40C,3,residu_FNN,25,-0.13713543648732357
+batteries,biaisee_haute_40C,3,residu_FNN,26,-0.3289646638649996
+batteries,biaisee_haute_40C,3,residu_FNN,27,-0.13512008244000437
+batteries,biaisee_haute_40C,3,residu_FNN,28,-0.10074459193680013
+batteries,biaisee_haute_TA,3,residu_FNN,17,0.5385830611150428
+batteries,biaisee_haute_TA,3,residu_FNN,18,0.5254588142367247
+batteries,biaisee_haute_TA,3,residu_FNN,19,0.5760810957640166
+batteries,biaisee_haute_TA,3,residu_FNN,20,0.3207124109018995
+batteries,biaisee_basse_40C,3,bajarunas_corr,21,-0.24554398950888978
+batteries,biaisee_basse_40C,3,bajarunas_corr,22,-0.2456217829722074
+batteries,biaisee_basse_40C,3,bajarunas_corr,23,-0.21407711230844922
+batteries,biaisee_basse_40C,3,bajarunas_corr,24,-0.28512888276202913
+batteries,biaisee_basse_TA,3,bajarunas_corr,13,0.07908816536218073
+batteries,biaisee_basse_TA,3,bajarunas_corr,14,0.46333121402967603
+batteries,biaisee_basse_TA,3,bajarunas_corr,15,0.3036069420333331
+batteries,biaisee_basse_TA,3,bajarunas_corr,16,0.3278080125593454
+batteries,biaisee_haute_40C,3,bajarunas_corr,25,-0.6818496718046438
+batteries,biaisee_haute_40C,3,bajarunas_corr,26,-0.6439098572286107
+batteries,biaisee_haute_40C,3,bajarunas_corr,27,-0.5496770316689585
+batteries,biaisee_haute_40C,3,bajarunas_corr,28,-0.48723026420682364
+batteries,biaisee_haute_TA,3,bajarunas_corr,17,0.3019020289331869
+batteries,biaisee_haute_TA,3,bajarunas_corr,18,0.15577843712959732
+batteries,biaisee_haute_TA,3,bajarunas_corr,19,0.376541019770053
+batteries,biaisee_haute_TA,3,bajarunas_corr,20,0.1264738894359429
+batteries,biaisee_basse_40C,3,bajarunas_mono,21,-0.26560090981999407
+batteries,biaisee_basse_40C,3,bajarunas_mono,22,-0.231131674862794
+batteries,biaisee_basse_40C,3,bajarunas_mono,23,-0.19993337573350292
+batteries,biaisee_basse_40C,3,bajarunas_mono,24,-0.22277767082888347
+batteries,biaisee_basse_TA,3,bajarunas_mono,13,-0.6711843994389893
+batteries,biaisee_basse_TA,3,bajarunas_mono,14,-0.5000547180212218
+batteries,biaisee_basse_TA,3,bajarunas_mono,15,-0.5637919709762039
+batteries,biaisee_basse_TA,3,bajarunas_mono,16,-0.5500872432366755
+batteries,biaisee_haute_40C,3,bajarunas_mono,25,-0.2747589854416262
+batteries,biaisee_haute_40C,3,bajarunas_mono,26,-0.512333833471067
+batteries,biaisee_haute_40C,3,bajarunas_mono,27,-0.3016775561529759
+batteries,biaisee_haute_40C,3,bajarunas_mono,28,-0.2988444251037634
+batteries,biaisee_haute_TA,3,bajarunas_mono,17,-0.3523533078458711
+batteries,biaisee_haute_TA,3,bajarunas_mono,18,-0.4364128418567863
+batteries,biaisee_haute_TA,3,bajarunas_mono,19,-0.39414866386438197
+batteries,biaisee_haute_TA,3,bajarunas_mono,20,-0.3933728809668126
+batteries,biaisee_basse_40C,4,residu_FNN,21,0.2949885139992324
+batteries,biaisee_basse_40C,4,residu_FNN,22,0.5706442116242894
+batteries,biaisee_basse_40C,4,residu_FNN,23,0.3318310873243493
+batteries,biaisee_basse_40C,4,residu_FNN,24,0.3376762270916392
+batteries,biaisee_basse_TA,4,residu_FNN,13,0.6642190540923234
+batteries,biaisee_basse_TA,4,residu_FNN,14,0.8084101189609131
+batteries,biaisee_basse_TA,4,residu_FNN,15,0.7857968241060679
+batteries,biaisee_basse_TA,4,residu_FNN,16,0.7014506132255748
+batteries,biaisee_haute_40C,4,residu_FNN,25,-0.13190853307925854
+batteries,biaisee_haute_40C,4,residu_FNN,26,-0.3321852778167705
+batteries,biaisee_haute_40C,4,residu_FNN,27,-0.1278848295070278
+batteries,biaisee_haute_40C,4,residu_FNN,28,-0.09720120775925657
+batteries,biaisee_haute_TA,4,residu_FNN,17,0.49943803864179276
+batteries,biaisee_haute_TA,4,residu_FNN,18,0.4800550443962024
+batteries,biaisee_haute_TA,4,residu_FNN,19,0.5428759958333957
+batteries,biaisee_haute_TA,4,residu_FNN,20,0.2840259549722856
+batteries,biaisee_basse_40C,4,bajarunas_corr,21,-0.2786091245358041
+batteries,biaisee_basse_40C,4,bajarunas_corr,22,-0.26649239507265027
+batteries,biaisee_basse_40C,4,bajarunas_corr,23,-0.21515913263653053
+batteries,biaisee_basse_40C,4,bajarunas_corr,24,-0.2832104239804682
+batteries,biaisee_basse_TA,4,bajarunas_corr,13,0.21267145313988808
+batteries,biaisee_basse_TA,4,bajarunas_corr,14,0.5669947440126817
+batteries,biaisee_basse_TA,4,bajarunas_corr,15,0.4149482088749763
+batteries,biaisee_basse_TA,4,bajarunas_corr,16,0.44234550045037985
+batteries,biaisee_haute_40C,4,bajarunas_corr,25,-0.6814795596654434
+batteries,biaisee_haute_40C,4,bajarunas_corr,26,-0.6550804471635527
+batteries,biaisee_haute_40C,4,bajarunas_corr,27,-0.5635617679698782
+batteries,biaisee_haute_40C,4,bajarunas_corr,28,-0.5183599930493791
+batteries,biaisee_haute_TA,4,bajarunas_corr,17,0.351547768931029
+batteries,biaisee_haute_TA,4,bajarunas_corr,18,0.22370816043165706
+batteries,biaisee_haute_TA,4,bajarunas_corr,19,0.4134815646481059
+batteries,biaisee_haute_TA,4,bajarunas_corr,20,0.15327584604248745
+batteries,biaisee_basse_40C,4,bajarunas_mono,21,-0.2717613303197014
+batteries,biaisee_basse_40C,4,bajarunas_mono,22,-0.2296082339883398
+batteries,biaisee_basse_40C,4,bajarunas_mono,23,-0.2008503714014856
+batteries,biaisee_basse_40C,4,bajarunas_mono,24,-0.2376995906250762
+batteries,biaisee_basse_TA,4,bajarunas_mono,13,-0.6900760525832428
+batteries,biaisee_basse_TA,4,bajarunas_mono,14,-0.5372489485734665
+batteries,biaisee_basse_TA,4,bajarunas_mono,15,-0.5991523020124165
+batteries,biaisee_basse_TA,4,bajarunas_mono,16,-0.5828066726912344
+batteries,biaisee_haute_40C,4,bajarunas_mono,25,-0.337879882999675
+batteries,biaisee_haute_40C,4,bajarunas_mono,26,-0.5494814644076537
+batteries,biaisee_haute_40C,4,bajarunas_mono,27,-0.34656662975928726
+batteries,biaisee_haute_40C,4,bajarunas_mono,28,-0.34887218427665134
+batteries,biaisee_haute_TA,4,bajarunas_mono,17,-0.4432742205177583
+batteries,biaisee_haute_TA,4,bajarunas_mono,18,-0.529244433175119
+batteries,biaisee_haute_TA,4,bajarunas_mono,19,-0.5019400633672458
+batteries,biaisee_haute_TA,4,bajarunas_mono,20,-0.4779146404331091
